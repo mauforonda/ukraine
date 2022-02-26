@@ -1,0 +1,30 @@
+name: Update
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    name: check, update and commit
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+      - name: setup python
+        uses: actions/setup-python@v1
+        with:
+          python-version: '3.6'
+      - name: setup python and locale
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r update/requirements.txt
+      - name: update catalogo
+        run: |
+          python3 update/update.py
+        id: update_catalogo
+      - name: commit
+        run: |
+          git config --global user.email ukraine-bot@example.com"
+          git config --global user.name "ukraine-bot"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] $(cat time)"; git push -q "https://$GH_TOKEN@github.com/mauforonda/ukraine.git" master)
