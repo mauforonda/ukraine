@@ -13,7 +13,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v1
         with:
-          python-version: '3.6'
+          python-version: '3.9'
       - name: setup python and locale
         run: |
           python -m pip install --upgrade pip
