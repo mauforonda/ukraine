@@ -30,5 +30,5 @@ def update_time(response):
 response = requests.post('https://maphub.net/json/map_load/176607', json={}).json()
 df = parse_map(response)
 
-df.sort_values('date').to_csv('events.csv', index=False)
+df.sort_values(['date', 'entry', 'brief description']).to_csv('events.csv', index=False)
 update_time(response)
