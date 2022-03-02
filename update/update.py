@@ -17,7 +17,7 @@ def parse_feature(f):
 
 def parse_map(response):
     groups = {g['id']:g['title'] for g in response['geojson']['groups']}
-    df = pd.DataFrame([parse_feature(f) for f in response['geojson']['features']])
+    df = pd.DataFrame([parse_feature(f) for f in response['geojson']['features'] if f['properties'].__contains__('description')])
     df['date'] = pd.to_datetime(df['date'].str.replace('.', '/', regex=False), format='%d/%m/%Y')
     df['event_group'] = df['event_group'].map(groups)
     return df[['entry', 'date', 'event_group', 'title', 'brief description', 'lat', 'lon', 'country', 'province', 'district', 'town/city', 'arms/munition', 'violence level', 'link', 'geolocation']]
