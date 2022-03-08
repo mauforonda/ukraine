@@ -651,3 +651,14 @@ timestamp,country,category,state,value
 2022-03-08 15:19:30,Russia,tanks,captured,2
 2022-03-08 15:19:30,Russia,tanks,destroyed,3
 2022-03-08 15:19:30,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-08 18:22:25,Russia,anti-tank guided missiles,captured,1
+2022-03-08 18:22:25,Russia,armoured fighting vehicles,abandoned,1
+2022-03-08 18:22:25,Russia,infantry fighting vehicles,captured,2
+2022-03-08 18:22:25,Russia,infantry fighting vehicles,destroyed,2
+2022-03-08 18:22:25,Russia,self-propelled artillery,captured,1
+2022-03-08 18:22:25,Russia,tanks,abandoned,1
+2022-03-08 18:22:25,Russia,tanks,destroyed,3
+2022-03-08 18:22:25,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-03-08 18:22:25,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-08 18:22:25,Russia,"trucks, vehicles and jeeps",destroyed,4
+2022-03-08 18:22:25,Ukraine,infantry mobility vehicles,damaged,1
