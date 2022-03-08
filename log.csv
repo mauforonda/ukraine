@@ -458,12 +458,9 @@ timestamp,country,category,state,value
 2022-03-05 01:21:15,Russia,infantry fighting vehicles,destroyed,1
 2022-03-05 01:21:15,Russia,tanks,destroyed,1
 2022-03-05 08:21:26,Russia,anti-tank guided missiles,captured,0
-2022-03-05 08:21:26,Russia,communications stations,abandoned,-4
-2022-03-05 08:21:26,Russia,communications stations,captured,-2
-2022-03-05 08:21:26,Russia,communications stations,destroyed,-2
-2022-03-05 08:21:26,Russia,communications stations,abandoned,4
-2022-03-05 08:21:26,Russia,communications stations,captured,2
-2022-03-05 08:21:26,Russia,communications stations,destroyed,2
+2022-03-05 08:21:26,Russia,communications stations,abandoned,0
+2022-03-05 08:21:26,Russia,communications stations,captured,0
+2022-03-05 08:21:26,Russia,communications stations,destroyed,0
 2022-03-05 08:21:26,Russia,infantry fighting vehicles,captured,1
 2022-03-05 08:21:26,Russia,tanks,captured,1
 2022-03-05 13:01:40,Russia,aircraft,destroyed,1
