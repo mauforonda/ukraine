@@ -1,4 +1,4 @@
-Data about the Russia's invasion of Ukraine
+> Data about Russia's invasion of Ukraine
 
 Events collected by Bellingcat and the Centre for Information Resilience via [this map](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)
 - [events.csv](events.csv)
