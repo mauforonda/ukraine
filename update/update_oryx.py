@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import re
 import datetime as dt
+import warnings
+
+warnings.filterwarnings("ignore")
 
 def download_page():
     url = "https://www.oryxspioenkop.com/2022/02/attack-on-europe-documenting-equipment.html"
@@ -107,9 +110,9 @@ def normalize_log(log):
         'replace_with': 'communications stations'
     }]
     log['category'] = log.category.apply(lambda _: _.lower().strip())
-    log = log.groupby(['timestamp', 'country', 'category', 'state']).value.sum().reset_index()
     for change in category_changes:
         log.category = log.category.replace(change['to_replace'], change['replace_with'])
+    log = log.groupby(['timestamp', 'country', 'category', 'state']).value.sum().reset_index()
     return log
 
 def update_log(summary):
