@@ -123,9 +123,9 @@ def update_log(summary):
     return log
 
 def save_all(summary, reports, log):
-    summary.to_csv('summary.csv', index=False)
-    reports.to_csv('reports.csv', index=False)
-    log.to_csv('log.csv', float_format="%.0f", index=False)
+    summary.sort_values(['country', 'category', 'state']).to_csv('summary.csv', index=False)
+    reports.sort_values(['country', 'category', 'equipment', 'source']).to_csv('reports.csv', index=False)
+    log.sort_values(['timestamp', 'country', 'category', 'state']).to_csv('log.csv', float_format="%.0f", index=False)
 
 html = download_page()
 summary, reports = get_data(html)
