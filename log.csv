@@ -1,4 +1,7 @@
 timestamp,country,category,state,value
+2022-03-08 12:32:00,Russia,armoured fighting vehicles,captured,1
+2022-03-08 12:32:00,Russia,tanks,captured,-2
+2022-03-08 12:32:00,Russia,"trucks, vehicles and jeeps",destroyed,2
 2022-02-24 12:35:34,Russia,armoured fighting vehicles,captured,1
 2022-02-24 12:35:34,Russia,armoured fighting vehicles,destroyed,1
 2022-02-24 12:35:34,Russia,helicopters,damaged,1
