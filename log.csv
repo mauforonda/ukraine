@@ -646,3 +646,8 @@ timestamp,country,category,state,value
 2022-03-08 13:32:45,Russia,"trucks, vehicles and jeeps",damaged,3
 2022-03-08 13:32:45,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-03-08 13:32:45,Ukraine,surface-to-air missile systems,destroyed,1
+2022-03-08 15:19:30,Russia,armoured fighting vehicles,captured,1
+2022-03-08 15:19:30,Russia,infantry mobility vehicles,captured,1
+2022-03-08 15:19:30,Russia,tanks,captured,2
+2022-03-08 15:19:30,Russia,tanks,destroyed,3
+2022-03-08 15:19:30,Russia,"trucks, vehicles and jeeps",captured,1
