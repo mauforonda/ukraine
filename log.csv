@@ -1,651 +1,642 @@
 timestamp,country,category,state,value
-2022-02-24 12:35:34,Ukraine,Aircraft ,destroyed,1
-2022-02-24 12:35:34,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-02-24 12:35:34,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-02-24 12:35:34,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-24 12:35:34,Ukraine,Armoured Personnel Carriers ,captured,1
-2022-02-24 12:35:34,Russia,Helicopters ,damaged,1
-2022-02-24 12:35:34,Ukraine,Infantry Fighting Vehicles ,captured,2
-2022-02-24 12:35:34,Ukraine,Infantry Mobility Vehicles ,destroyed,1
-2022-02-24 12:35:34,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-02-24 12:35:34,Russia,Infantry Mobility Vehicles ,damaged,1
-2022-02-24 12:35:34,Ukraine,Radars ,destroyed,3
-2022-02-24 12:35:34,Ukraine,Radars ,damaged,2
-2022-02-24 12:35:34,Russia,Tanks ,destroyed,1
-2022-02-24 12:35:34,Russia,"Trucks, Vehicles and Jeeps ",captured,1
-2022-02-24 12:35:34,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,4
-2022-02-24 12:35:34,Ukraine,"Trucks, Vehicles and Jeeps ",captured,8
-2022-02-24 14:40:43,Ukraine,Aircraft ,destroyed,-1
-2022-02-24 14:40:43,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-24 14:40:43,Russia,Aircraft ,destroyed,1
-2022-02-24 14:40:43,Ukraine,Armoured Fighting Vehicles ,abandoned,1
-2022-02-24 14:40:43,Russia,Helicopters ,destroyed,1
-2022-02-24 14:40:43,Russia,Infantry Fighting Vehicles ,captured,1
-2022-02-24 14:40:43,Ukraine,Infantry Fighting Vehicles ,abandoned,3
-2022-02-24 17:31:39,Russia,Aircraft ,destroyed,1
-2022-02-24 17:31:39,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-02-24 17:31:39,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-02-24 17:31:39,Ukraine,"Trucks, Vehicles and Jeeps ",captured,3
-2022-02-24 17:31:39,Ukraine,Aircraft ,destroyed,1
-2022-02-24 17:31:39,Ukraine,Self-Propelled Artillery ,captured,2
-2022-02-24 19:18:58,Ukraine,Aircraft ,destroyed,-1
-2022-02-24 19:18:58,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-02-24 19:18:58,Ukraine,Armoured Personnel Carriers ,abandoned,1
-2022-02-24 19:18:58,Ukraine,Surface-to-air missile systems ,destroyed,1
-2022-02-24 19:18:58,Russia,Surface-to-air missile systems ,destroyed,1
-2022-02-24 19:18:58,Russia,"Trucks, Vehicles and Jeeps ",damaged,1
-2022-02-24 23:11:42,Russia,"Trucks, Vehicles and Jeeps ",damaged,1
-2022-02-24 23:11:42,Russia,"Trucks, Vehicles and Jeeps ",captured,2
-2022-02-24 23:11:42,Russia,Engineering Vehicles ,destroyed,1
-2022-02-24 23:11:42,Russia,Engineering Vehicles ,captured,2
-2022-02-24 23:11:42,Russia,Mine-resistant ambush protected ,captured,1
-2022-02-24 23:11:42,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-02-25 18:38:32,Russia,Aircraft ,destroyed,1
-2022-02-25 18:38:32,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-25 18:38:32,Ukraine,Infantry Fighting Vehicles ,abandoned,1
-2022-02-25 18:38:32,Russia,Mine-resistant ambush protected ,captured,-1
-2022-02-25 18:38:32,Ukraine,Surface-to-air missile systems ,destroyed,-1
-2022-02-25 18:38:32,Russia,Surface-to-air missile systems ,destroyed,-1
-2022-02-25 18:38:32,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,7
-2022-02-25 18:38:32,Russia,"Trucks, Vehicles and Jeeps ",destroyed,5
-2022-02-25 18:38:32,Russia,"Trucks, Vehicles and Jeeps ",captured,4
-2022-02-25 18:38:32,Ukraine,Anti-tank Guided Missiles ,captured,1
-2022-02-25 18:38:32,Ukraine,Anti-tank Guided Missiles ,optic,2
-2022-02-25 18:38:32,Russia,Artillery ,destroyed,2
-2022-02-25 18:38:32,Russia,Artillery ,captured,2
-2022-02-25 18:38:32,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-02-25 18:38:32,Russia,Infantry Fighting Vehicles ,abandoned,1
-2022-02-25 18:38:32,Russia,Infantry Mobility Vehicles ,captured,3
-2022-02-25 18:38:32,Russia,Mine-resistant Ambush Protected ,captured,1
-2022-02-25 18:38:32,Russia,Mortars ,captured,1
-2022-02-25 18:38:32,Russia,Multiple Rocket Launchers ,destroyed,3
-2022-02-25 18:38:32,Russia,Multiple Rocket Launchers ,captured,1
-2022-02-25 18:38:32,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-02-25 18:38:32,Russia,Surface-To-Air Missile Systems ,abandoned,1
-2022-02-25 18:38:32,Ukraine,Surface-To-Air Missile Systems ,destroyed,3
-2022-02-25 18:38:32,Russia,Tanks ,captured,1
-2022-02-25 18:38:32,Ukraine,Tanks ,destroyed,2
-2022-02-25 18:38:32,Ukraine,Tanks ,damaged,1
-2022-02-25 18:38:32,Ukraine,"Trucks, Vehicles and Jeeps ",damaged,2
-2022-02-25 18:38:32,Ukraine,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-02-25 19:53:02,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-25 19:53:02,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-02-25 19:53:02,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-02-25 23:35:28,Ukraine,Tanks ,abandoned,1
-2022-02-26 16:31:27,Ukraine,Armoured Fighting Vehicles ,abandoned,8
-2022-02-26 16:31:27,Ukraine,Armoured Personnel Carriers ,abandoned,1
-2022-02-26 16:31:27,Russia,Engineering Vehicles ,destroyed,2
-2022-02-26 16:31:27,Russia,Engineering Vehicles ,captured,7
-2022-02-26 16:31:27,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-02-26 16:31:27,Russia,Infantry Fighting Vehicles ,abandoned,4
-2022-02-26 16:31:27,Russia,Infantry Fighting Vehicles ,captured,2
-2022-02-26 16:31:27,Ukraine,Infantry Fighting Vehicles ,abandoned,2
-2022-02-26 16:31:27,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-02-26 16:31:27,Russia,Mine-resistant Ambush Protected ,captured,1
-2022-02-26 16:31:27,Russia,Multiple Rocket Launchers ,captured,3
-2022-02-26 16:31:27,Ukraine,Surface-To-Air Missile Systems ,destroyed,1
-2022-02-26 16:31:27,Russia,Tanks ,destroyed,2
-2022-02-26 16:31:27,Russia,Tanks ,captured,1
-2022-02-26 16:31:27,Ukraine,Tanks ,destroyed,1
-2022-02-26 16:31:27,Ukraine,Tanks ,abandoned,4
-2022-02-26 16:31:27,Russia,"Trucks, Vehicles and Jeeps ",destroyed,10
-2022-02-26 16:31:27,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-02-26 16:31:27,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,3
-2022-02-26 16:31:27,Ukraine,"Trucks, Vehicles and Jeeps ",abandoned,2
-2022-02-26 16:31:27,Russia,Anti-tank Guided Missiles ,captured,3
-2022-02-26 16:31:27,Russia,Communications Vehicles ,abandoned,1
-2022-02-26 16:31:27,Russia,Communications Vehicles ,captured,1
-2022-02-26 16:31:27,Russia,Surface-To-Air Missile Systems ,damaged,1
-2022-02-26 16:31:27,Russia,Tanks ,damaged,1
-2022-02-26 16:31:27,Russia,Tanks ,abandoned,1
-2022-02-26 16:31:27,Ukraine,Towed Artillery ,abandoned,2
-2022-02-26 16:31:27,Russia,"Trucks, Vehicles and Jeeps ",abandoned,5
-2022-02-26 17:23:01,Ukraine,Infantry Fighting Vehicles ,captured,1
-2022-02-26 17:23:01,Ukraine,Infantry Mobility Vehicles ,destroyed,1
-2022-02-26 17:23:01,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-02-26 17:23:01,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-02-27 05:16:03,Russia,Anti-tank Guided Missiles ,captured,1
-2022-02-27 05:16:03,Ukraine,Armoured Fighting Vehicles ,abandoned,2
-2022-02-27 05:16:03,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-27 05:16:03,Russia,Helicopters ,destroyed,1
-2022-02-27 05:16:03,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-02-27 05:16:03,Russia,Infantry Fighting Vehicles ,abandoned,1
-2022-02-27 05:16:03,Russia,Infantry Fighting Vehicles ,captured,2
-2022-02-27 05:16:03,Russia,Mortars ,captured,1
-2022-02-27 05:16:03,Russia,Tanks ,abandoned,1
-2022-02-27 05:16:03,Ukraine,"Trucks, Vehicles and Jeeps ",abandoned,2
-2022-02-27 05:16:03,Russia,"Trucks, Vehicles and Jeeps ",captured,4
-2022-02-27 05:16:03,Russia,Armoured Personnel Carriers ,destroyed,3
-2022-02-27 05:16:03,Russia,Armoured Personnel Carriers ,captured,1
-2022-02-27 05:16:03,Ukraine,Infantry Mobility Vehicles ,captured,2
-2022-02-27 07:16:52,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-02-27 07:16:52,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-02-27 07:16:52,Russia,Infantry Mobility Vehicles ,destroyed,3
-2022-02-27 07:16:52,Russia,Tanks ,abandoned,1
-2022-02-27 07:16:52,Russia,"Trucks, Vehicles and Jeeps ",destroyed,14
-2022-02-27 07:16:52,Russia,"Trucks, Vehicles and Jeeps ",abandoned,9
-2022-02-27 07:16:52,Russia,"Trucks, Vehicles and Jeeps ",captured,1
-2022-02-27 07:16:52,Ukraine,Armoured Fighting Vehicles ,destroyed,1
-2022-02-27 07:16:52,Russia,Infantry Mobility Vehicles ,abandoned,1
-2022-02-27 16:07:20,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-27 16:47:33,Russia,Armoured Personnel Carriers ,captured,1
-2022-02-27 16:47:33,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-02-27 16:47:33,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-02-27 20:34:12,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-02-27 20:34:12,Russia,Infantry Mobility Vehicles ,captured,3
-2022-02-27 20:34:12,Russia,Surface-To-Air Missile Systems ,destroyed,2
-2022-02-27 20:34:12,Russia,"Trucks, Vehicles and Jeeps ",destroyed,10
-2022-02-27 21:43:45,Russia,Infantry Mobility Vehicles ,captured,1
-2022-02-27 21:43:45,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-02-27 21:43:45,Ukraine,Tanks ,destroyed,1
-2022-02-27 21:43:45,Russia,Tanks ,captured,1
-2022-02-27 21:43:45,Ukraine,Aircraft ,destroyed,5
-2022-02-28 00:57:24,Ukraine,Anti-tank Guided Missiles ,captured,6
-2022-02-28 00:57:24,Ukraine,Anti-tank Guided Missiles ,optic,-2
-2022-02-28 00:57:24,Russia,Armoured Fighting Vehicles ,captured,3
-2022-02-28 00:57:24,Ukraine,Armoured Fighting Vehicles ,destroyed,2
-2022-02-28 00:57:24,Russia,Artillery ,destroyed,-2
-2022-02-28 00:57:24,Russia,Artillery ,captured,-2
-2022-02-28 00:57:24,Russia,Engineering Vehicles ,destroyed,3
-2022-02-28 00:57:24,Russia,Infantry Fighting Vehicles ,destroyed,4
-2022-02-28 00:57:24,Russia,Infantry Fighting Vehicles ,abandoned,3
-2022-02-28 00:57:24,Russia,Infantry Fighting Vehicles ,captured,2
-2022-02-28 00:57:24,Russia,Infantry Mobility Vehicles ,destroyed,3
-2022-02-28 00:57:24,Russia,Surface-To-Air Missile Systems ,abandoned,1
-2022-02-28 00:57:24,Russia,Tanks ,destroyed,3
-2022-02-28 00:57:24,Russia,Tanks ,abandoned,2
-2022-02-28 00:57:24,Russia,Tanks ,captured,2
-2022-02-28 00:57:24,Ukraine,Tanks ,destroyed,1
-2022-02-28 00:57:24,Ukraine,Tanks ,damaged,-1
-2022-02-28 00:57:24,Ukraine,Tanks ,abandoned,2
-2022-02-28 00:57:24,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-02-28 00:57:24,Russia,"Trucks, Vehicles and Jeeps ",destroyed,5
-2022-02-28 00:57:24,Russia,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-02-28 00:57:24,Russia,Armoured Fighting Vehicles ,abandoned,1
-2022-02-28 00:57:24,Ukraine,Man-Portable Air Defence Systems ,captured,2
-2022-02-28 00:57:24,Russia,Self-propelled Anti-Aircraft Guns ,abandoned,2
-2022-02-28 00:57:24,Russia,Self-propelled artillery ,abandoned,1
-2022-02-28 00:57:24,Russia,Towed Artillery ,destroyed,2
-2022-02-28 00:57:24,Russia,Towed Artillery ,captured,2
-2022-02-28 08:27:41,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-02-28 08:27:41,Russia,Infantry Fighting Vehicles ,abandoned,2
-2022-02-28 08:27:41,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-02-28 08:27:41,Ukraine,Surface-To-Air Missile Systems ,destroyed,2
-2022-02-28 08:27:41,Russia,Tanks ,destroyed,2
-2022-02-28 08:27:41,Russia,Tanks ,abandoned,3
-2022-02-28 08:27:41,Russia,Tanks ,captured,5
-2022-02-28 08:27:41,Ukraine,Self-Propelled Artillery ,abandoned,1
-2022-02-28 17:21:38,Russia,Anti-tank Guided Missiles ,captured,1
-2022-02-28 17:21:38,Ukraine,Anti-tank Guided Missiles ,captured,5
-2022-02-28 17:21:38,Ukraine,Armoured Fighting Vehicles ,destroyed,2
-2022-02-28 17:21:38,Ukraine,Armoured Fighting Vehicles ,captured,3
-2022-02-28 17:21:38,Russia,Armoured Fighting Vehicles ,destroyed,8
-2022-02-28 17:21:38,Russia,Armoured Fighting Vehicles ,abandoned,2
-2022-02-28 17:21:38,Ukraine,Armoured Personnel Carriers ,captured,5
-2022-02-28 17:21:38,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-02-28 17:21:38,Russia,Armoured Personnel Carriers ,captured,2
-2022-02-28 17:21:38,Russia,Helicopters ,destroyed,1
-2022-02-28 17:21:38,Russia,Infantry Fighting Vehicles ,destroyed,3
-2022-02-28 17:21:38,Russia,Infantry Fighting Vehicles ,abandoned,5
-2022-02-28 17:21:38,Russia,Infantry Fighting Vehicles ,captured,2
-2022-02-28 17:21:38,Ukraine,Man-Portable Air Defence Systems ,captured,5
-2022-02-28 17:21:38,Russia,Mortars ,captured,-2
-2022-02-28 17:21:38,Russia,Self-propelled artillery ,abandoned,1
-2022-02-28 17:21:38,Russia,Surface-To-Air Missile Systems ,destroyed,2
-2022-02-28 17:21:38,Russia,Surface-To-Air Missile Systems ,abandoned,2
-2022-02-28 17:21:38,Ukraine,Tanks ,abandoned,2
-2022-02-28 17:21:38,Russia,Tanks ,destroyed,4
-2022-02-28 17:21:38,Russia,Tanks ,captured,1
-2022-02-28 17:21:38,Russia,"Trucks, Vehicles and Jeeps ",destroyed,6
-2022-02-28 17:21:38,Russia,"Trucks, Vehicles and Jeeps ",abandoned,2
-2022-02-28 17:21:38,Russia,"Trucks, Vehicles and Jeeps ",captured,5
-2022-02-28 17:21:38,Russia,Armoured Personnel Carriers ,abandoned,4
-2022-02-28 17:21:38,Ukraine,Armoured Personnel Carriers ,destroyed,1
-2022-02-28 17:21:38,Russia,Heavy Mortars ,captured,2
-2022-02-28 17:21:38,Russia,Man-Portable Air Defence Systems ,captured,1
-2022-02-28 17:21:38,Russia,Mine-resistant Ambush Protected ,destroyed,1
-2022-02-28 17:21:38,Ukraine,Self-Propelled Artillery ,destroyed,2
-2022-02-28 17:21:38,Russia,Self-propelled artillery ,destroyed,1
-2022-02-28 17:21:38,Russia,Self-propelled artillery ,captured,1
-2022-02-28 17:21:38,Russia,Surface-To-Air Missile Systems ,captured,2
-2022-02-28 19:44:32,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-02-28 19:44:32,Russia,Armoured Personnel Carriers ,abandoned,1
-2022-02-28 19:44:32,Russia,Mine-resistant Ambush Protected ,destroyed,-1
-2022-02-28 19:44:32,Russia,Mine-resistant Ambush Protected ,captured,-2
-2022-02-28 19:44:32,Russia,Multiple Rocket Launchers ,captured,1
-2022-02-28 19:44:32,Russia,Mine-Resistant Ambush Protected ,destroyed,1
-2022-02-28 19:44:32,Russia,Mine-Resistant Ambush Protected ,captured,2
-2022-02-28 19:44:32,Ukraine,Tanks ,captured,1
-2022-02-28 21:21:23,Russia,Armoured Fighting Vehicles ,abandoned,3
-2022-02-28 21:21:23,Russia,Armoured Fighting Vehicles ,captured,1
-2022-02-28 21:21:23,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-02-28 21:21:23,Russia,Infantry Fighting Vehicles ,abandoned,2
-2022-02-28 21:21:23,Russia,Self-propelled artillery ,abandoned,1
-2022-02-28 21:21:23,Russia,Tanks ,destroyed,1
-2022-02-28 21:21:23,Russia,Tanks ,abandoned,6
-2022-02-28 21:21:23,Russia,Jammers And Deception Systems ,damaged,1
-2022-02-28 23:17:17,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-02-28 23:17:17,Russia,Infantry Fighting Vehicles ,abandoned,2
-2022-02-28 23:17:17,Russia,Infantry Fighting Vehicles ,captured,1
-2022-02-28 23:17:17,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-02-28 23:17:17,Russia,Tanks ,abandoned,2
-2022-02-28 23:17:17,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-02-28 23:17:17,Russia,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-02-28 23:17:17,Russia,"Trucks, Vehicles and Jeeps ",captured,11
-2022-02-28 23:17:17,Russia,Engineering Vehicles ,abandoned,1
-2022-03-01 00:53:36,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-01 00:53:36,Russia,Logistics Trains ,destroyed,2
-2022-03-01 04:02:27,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-01 04:02:27,Russia,Armoured Personnel Carriers ,destroyed,2
-2022-03-01 04:02:27,Russia,Armoured Personnel Carriers ,captured,-2
-2022-03-01 04:02:27,Russia,Communications Vehicles ,abandoned,-1
-2022-03-01 04:02:27,Russia,Communications Vehicles ,captured,-1
-2022-03-01 04:02:27,Russia,Communications Station ,destroyed,1
-2022-03-01 04:02:27,Russia,Communications Station ,abandoned,1
-2022-03-01 04:02:27,Russia,Communications Station ,captured,1
-2022-03-01 18:53:29,Russia,Anti-tank Guided Missiles ,captured,1
-2022-03-01 18:53:29,Ukraine,Armoured Fighting Vehicles ,destroyed,1
-2022-03-01 18:53:29,Russia,Armoured Fighting Vehicles ,abandoned,2
-2022-03-01 18:53:29,Russia,Armoured Fighting Vehicles ,captured,2
-2022-03-01 18:53:29,Russia,Engineering Vehicles ,captured,1
-2022-03-01 18:53:29,Russia,Helicopters ,destroyed,1
-2022-03-01 18:53:29,Russia,Helicopters ,damaged,1
-2022-03-01 18:53:29,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-01 18:53:29,Russia,Infantry Fighting Vehicles ,abandoned,1
-2022-03-01 18:53:29,Russia,Infantry Fighting Vehicles ,captured,3
-2022-03-01 18:53:29,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-03-01 18:53:29,Russia,Infantry Mobility Vehicles ,abandoned,1
-2022-03-01 18:53:29,Russia,Multiple Rocket Launchers ,captured,1
-2022-03-01 18:53:29,Russia,Self-propelled artillery ,destroyed,-1
-2022-03-01 18:53:29,Russia,Self-propelled artillery ,abandoned,-3
-2022-03-01 18:53:29,Russia,Self-propelled artillery ,captured,-1
-2022-03-01 18:53:29,Russia,Surface-To-Air Missile Systems ,abandoned,-1
-2022-03-01 18:53:29,Russia,Surface-To-Air Missile Systems ,captured,2
-2022-03-01 18:53:29,Russia,Tanks ,abandoned,3
-2022-03-01 18:53:29,Russia,"Trucks, Vehicles and Jeeps ",destroyed,3
-2022-03-01 18:53:29,Russia,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-03-01 18:53:29,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-01 18:53:29,Russia,Self-Propelled Artillery ,destroyed,1
-2022-03-01 18:53:29,Russia,Self-Propelled Artillery ,abandoned,4
-2022-03-01 18:53:29,Russia,Self-Propelled Artillery ,captured,1
-2022-03-02 06:53:31,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-02 06:53:31,Russia,Armoured Fighting Vehicles ,abandoned,1
-2022-03-02 06:53:31,Russia,Armoured Fighting Vehicles ,captured,3
-2022-03-02 06:53:31,Russia,Armoured Personnel Carriers ,destroyed,2
-2022-03-02 06:53:31,Russia,Armoured Personnel Carriers ,abandoned,1
-2022-03-02 06:53:31,Russia,Armoured Personnel Carriers ,captured,3
-2022-03-02 06:53:31,Russia,Communications Station ,abandoned,2
-2022-03-02 06:53:31,Russia,Engineering Vehicles ,destroyed,4
-2022-03-02 06:53:31,Russia,Engineering Vehicles ,abandoned,2
-2022-03-02 06:53:31,Russia,Infantry Fighting Vehicles ,destroyed,2
-2022-03-02 06:53:31,Russia,Infantry Fighting Vehicles ,abandoned,3
-2022-03-02 06:53:31,Russia,Infantry Fighting Vehicles ,captured,2
-2022-03-02 06:53:31,Russia,Multiple Rocket Launchers ,destroyed,1
-2022-03-02 06:53:31,Ukraine,Self-Propelled Artillery ,captured,1
-2022-03-02 06:53:31,Russia,Self-Propelled Artillery ,abandoned,2
-2022-03-02 06:53:31,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-02 06:53:31,Russia,Tanks ,destroyed,3
-2022-03-02 06:53:31,Russia,Tanks ,abandoned,1
-2022-03-02 06:53:31,Russia,Tanks ,captured,1
-2022-03-02 06:53:31,Russia,"Trucks, Vehicles and Jeeps ",destroyed,11
-2022-03-02 06:53:31,Russia,"Trucks, Vehicles and Jeeps ",abandoned,12
-2022-03-02 06:53:31,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-02 06:53:31,Ukraine,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-03-02 06:53:31,Ukraine,Infantry Mobility Vehicles ,abandoned,1
-2022-03-02 06:53:31,Russia,Multiple Rocket Launchers ,abandoned,1
-2022-03-02 06:53:31,Russia,Self-propelled Anti-Aircraft Guns ,captured,1
-2022-03-02 06:53:31,Russia,Towed Artillery ,abandoned,2
-2022-03-02 12:51:10,Russia,Anti-tank Guided Missiles ,captured,12
-2022-03-02 12:51:10,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-02 12:51:10,Russia,Armoured Fighting Vehicles ,abandoned,2
-2022-03-02 12:51:10,Russia,Armoured Fighting Vehicles ,captured,2
-2022-03-02 12:51:10,Russia,Armoured Personnel Carriers ,abandoned,1
-2022-03-02 12:51:10,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-02 12:51:10,Russia,Infantry Fighting Vehicles ,captured,3
-2022-03-02 12:51:10,Russia,Infantry Mobility Vehicles ,captured,1
-2022-03-02 12:51:10,Russia,Self-Propelled Artillery ,destroyed,1
-2022-03-02 12:51:10,Russia,Self-Propelled Artillery ,abandoned,1
-2022-03-02 12:51:10,Russia,Tanks ,destroyed,1
-2022-03-02 12:51:10,Russia,Tanks ,captured,2
-2022-03-02 12:51:10,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-02 12:51:10,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-02 14:26:53,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-02 14:26:53,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-02 14:26:53,Russia,Infantry Fighting Vehicles ,captured,1
-2022-03-02 14:26:53,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-03-02 14:26:53,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-03-02 14:26:53,Russia,Surface-To-Air Missile Systems ,captured,1
-2022-03-02 14:26:53,Ukraine,Tanks ,destroyed,1
-2022-03-02 14:26:53,Ukraine,Tanks ,captured,2
-2022-03-02 14:26:53,Russia,Tanks ,captured,1
-2022-03-02 14:26:53,Ukraine,Towed Artillery ,abandoned,1
-2022-03-02 14:26:53,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-02 14:26:53,Russia,"Trucks, Vehicles and Jeeps ",captured,4
-2022-03-02 14:26:53,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,3
-2022-03-02 15:10:16,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-02 15:10:16,Russia,"Trucks, Vehicles and Jeeps ",abandoned,2
-2022-03-02 17:13:31,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-02 17:13:31,Russia,Armoured Fighting Vehicles ,abandoned,1
-2022-03-02 17:13:31,Russia,Armoured Personnel Carriers ,abandoned,2
-2022-03-02 17:13:31,Russia,Infantry Fighting Vehicles ,captured,1
-2022-03-02 17:13:31,Ukraine,Tanks ,abandoned,1
-2022-03-02 17:13:31,Russia,Tanks ,abandoned,1
-2022-03-02 17:13:31,Russia,Tanks ,captured,1
-2022-03-02 17:13:31,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-02 17:13:31,Russia,"Trucks, Vehicles and Jeeps ",abandoned,2
-2022-03-02 17:13:31,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-02 17:13:31,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-02 18:20:06,Russia,Armoured Fighting Vehicles ,abandoned,2
-2022-03-02 20:55:59,Russia,Aircraft ,destroyed,1
-2022-03-02 20:55:59,Russia,Armoured Fighting Vehicles ,abandoned,-1
-2022-03-02 20:55:59,Russia,Helicopters ,damaged,-1
-2022-03-02 20:55:59,Russia,Helicopters ,abandoned,2
-2022-03-02 20:55:59,Russia,Unmanned Aerial Vehicles ,captured,1
-2022-03-03 00:28:12,Ukraine,Anti-tank Guided Missiles ,captured,5
-2022-03-03 00:28:12,Russia,Anti-tank Guided Missiles ,captured,3
-2022-03-03 00:28:12,Ukraine,Armoured Fighting Vehicles ,destroyed,1
-2022-03-03 00:28:12,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-03-03 00:28:12,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-03 00:28:12,Russia,Armoured Fighting Vehicles ,abandoned,1
-2022-03-03 00:28:12,Russia,Armoured Fighting Vehicles ,captured,1
-2022-03-03 00:28:12,Ukraine,Armoured Personnel Carriers ,captured,4
-2022-03-03 00:28:12,Russia,Armoured Personnel Carriers ,captured,3
-2022-03-03 00:28:12,Russia,Communications Station ,abandoned,1
-2022-03-03 00:28:12,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-03 00:28:12,Russia,Infantry Fighting Vehicles ,captured,2
-2022-03-03 00:28:12,Ukraine,Infantry Mobility Vehicles ,captured,2
-2022-03-03 00:28:12,Russia,Mine-Resistant Ambush Protected ,destroyed,1
-2022-03-03 00:28:12,Russia,Multiple Rocket Launchers ,destroyed,2
-2022-03-03 00:28:12,Russia,Self-Propelled Artillery ,captured,2
-2022-03-03 00:28:12,Ukraine,Tanks ,destroyed,3
-2022-03-03 00:28:12,Ukraine,Tanks ,captured,2
-2022-03-03 00:28:12,Russia,Tanks ,destroyed,1
-2022-03-03 00:28:12,Russia,Tanks ,abandoned,1
-2022-03-03 00:28:12,Russia,"Trucks, Vehicles and Jeeps ",destroyed,6
-2022-03-03 00:28:12,Russia,"Trucks, Vehicles and Jeeps ",captured,5
-2022-03-03 00:28:12,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-03 00:28:12,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-03 00:28:12,Ukraine,Towed Artillery ,captured,1
-2022-03-03 04:41:08,Russia,Armoured Fighting Vehicles ,abandoned,1
-2022-03-03 04:41:08,Russia,Communications Station ,destroyed,1
-2022-03-03 04:41:08,Ukraine,Infantry Fighting Vehicles ,captured,1
-2022-03-03 04:41:08,Russia,Infantry Fighting Vehicles ,captured,2
-2022-03-03 04:41:08,Russia,Tanks ,captured,3
-2022-03-03 04:41:08,Russia,Towed Artillery ,destroyed,1
-2022-03-03 04:41:08,Russia,Towed Artillery ,abandoned,1
-2022-03-03 04:41:08,Russia,"Trucks, Vehicles and Jeeps ",destroyed,3
-2022-03-03 04:41:08,Russia,"Trucks, Vehicles and Jeeps ",damaged,1
-2022-03-03 14:38:32,Russia,Engineering Vehicles ,captured,1
-2022-03-03 14:38:32,Ukraine,Infantry Fighting Vehicles ,captured,5
-2022-03-03 14:38:32,Russia,Infantry Fighting Vehicles ,destroyed,2
-2022-03-03 14:38:32,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-03-03 14:38:32,Ukraine,Man-Portable Air Defence Systems ,captured,7
-2022-03-03 14:38:32,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-03 14:38:32,Ukraine,Anti-Aircraft Guns ,captured,1
-2022-03-03 16:24:03,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-03-03 16:24:03,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-03 16:24:03,Ukraine,Infantry Fighting Vehicles ,captured,3
-2022-03-03 16:24:03,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-03 16:24:03,Russia,Infantry Fighting Vehicles ,captured,1
-2022-03-03 16:24:03,Russia,Self-Propelled Artillery ,destroyed,1
-2022-03-03 16:24:03,Ukraine,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-03 16:24:03,Ukraine,Tanks ,captured,5
-2022-03-03 16:24:03,Russia,Tanks ,destroyed,2
-2022-03-03 16:24:03,Russia,Tanks ,captured,3
-2022-03-03 16:24:03,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-04 01:36:58,Ukraine,Anti-tank Guided Missiles ,captured,9
-2022-03-04 01:36:58,Russia,Anti-tank Guided Missiles ,captured,4
-2022-03-04 01:36:58,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-04 01:36:58,Russia,Armoured Fighting Vehicles ,captured,6
-2022-03-04 01:36:58,Russia,Armoured Personnel Carriers ,destroyed,2
-2022-03-04 01:36:58,Russia,Communications Station ,captured,1
-2022-03-04 01:36:58,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-04 01:36:58,Russia,Infantry Fighting Vehicles ,abandoned,2
-2022-03-04 01:36:58,Russia,Infantry Fighting Vehicles ,captured,4
-2022-03-04 01:36:58,Russia,Man-Portable Air Defence Systems ,captured,2
-2022-03-04 01:36:58,Russia,Multiple Rocket Launchers ,abandoned,1
-2022-03-04 01:36:58,Russia,Multiple Rocket Launchers ,captured,1
-2022-03-04 01:36:58,Russia,Self-Propelled Artillery ,abandoned,1
-2022-03-04 01:36:58,Russia,Self-Propelled Artillery ,captured,1
-2022-03-04 01:36:58,Russia,Tanks ,destroyed,5
-2022-03-04 01:36:58,Russia,Tanks ,abandoned,1
-2022-03-04 01:36:58,Russia,Tanks ,captured,9
-2022-03-04 01:36:58,Russia,"Trucks, Vehicles and Jeeps ",destroyed,6
-2022-03-04 01:36:58,Russia,"Trucks, Vehicles and Jeeps ",abandoned,3
-2022-03-04 01:36:58,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-04 01:36:58,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-04 01:36:58,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-04 01:36:58,Ukraine,Naval Ships ,destroyed,1
-2022-03-04 01:36:58,Russia,Self-propelled Anti-Aircraft Guns ,destroyed,4
-2022-03-04 12:09:35,Russia,Aircraft ,destroyed,1
-2022-03-04 12:09:35,Ukraine,Aircraft ,destroyed,-5
-2022-03-04 12:09:35,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-03-04 12:09:35,Ukraine,Tanks ,captured,1
-2022-03-04 12:09:35,Russia,Tanks ,destroyed,-1
-2022-03-04 12:09:35,Russia,Tanks ,captured,2
-2022-03-04 12:20:10,Russia,Engineering Vehicles ,captured,1
-2022-03-04 23:36:29,Russia,Aircraft ,destroyed,1
-2022-03-04 23:36:29,Russia,Anti-tank Guided Missiles ,captured,1
-2022-03-04 23:36:29,Ukraine,Anti-tank Guided Missiles ,captured,-26
-2022-03-04 23:36:29,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-03-04 23:36:29,Russia,Armoured Fighting Vehicles ,captured,3
-2022-03-04 23:36:29,Ukraine,Armoured Personnel Carriers ,destroyed,1
-2022-03-04 23:36:29,Russia,Armoured Personnel Carriers ,captured,3
-2022-03-04 23:36:29,Russia,Engineering Vehicles ,captured,1
-2022-03-04 23:36:29,Russia,Heavy Mortars ,captured,1
-2022-03-04 23:36:29,Russia,Helicopters ,destroyed,1
-2022-03-04 23:36:29,Ukraine,Infantry Fighting Vehicles ,abandoned,2
-2022-03-04 23:36:29,Russia,Infantry Fighting Vehicles ,destroyed,2
-2022-03-04 23:36:29,Russia,Infantry Mobility Vehicles ,captured,1
-2022-03-04 23:36:29,Russia,Self-propelled Anti-Aircraft Guns ,destroyed,1
-2022-03-04 23:36:29,Russia,Self-propelled Anti-Aircraft Guns ,captured,-1
-2022-03-04 23:36:29,Russia,Surface-To-Air Missile Systems ,captured,1
-2022-03-04 23:36:29,Ukraine,Tanks ,destroyed,2
-2022-03-04 23:36:29,Ukraine,Tanks ,captured,5
-2022-03-04 23:36:29,Russia,Tanks ,destroyed,2
-2022-03-04 23:36:29,Russia,Tanks ,damaged,1
-2022-03-04 23:36:29,Russia,Tanks ,captured,5
-2022-03-04 23:36:29,Russia,Towed Artillery ,destroyed,1
-2022-03-04 23:36:29,Russia,"Trucks, Vehicles and Jeeps ",destroyed,4
-2022-03-04 23:36:29,Russia,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-03-04 23:36:29,Russia,"Trucks, Vehicles and Jeeps ",captured,10
-2022-03-04 23:36:29,Ukraine,Aircraft ,destroyed,7
-2022-03-04 23:48:45,Ukraine,Tanks ,captured,1
-2022-03-04 23:48:45,Russia,Tanks ,destroyed,1
-2022-03-04 23:56:36,Russia,Tanks ,captured,1
-2022-03-04 23:56:36,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-05 01:06:40,Ukraine,Armoured Personnel Carriers ,destroyed,1
-2022-03-05 01:06:40,Russia,Infantry Fighting Vehicles ,destroyed,3
-2022-03-05 01:06:40,Russia,Infantry Fighting Vehicles ,captured,2
-2022-03-05 01:06:40,Ukraine,Self-Propelled Artillery ,destroyed,1
-2022-03-05 01:06:40,Ukraine,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-05 01:06:40,Russia,Tanks ,destroyed,1
-2022-03-05 01:06:40,Russia,Tanks ,abandoned,1
-2022-03-05 01:06:40,Russia,Tanks ,captured,1
-2022-03-05 01:06:40,Ukraine,Anti-tank Guided Missiles ,captured,27
-2022-03-05 01:21:15,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-05 01:21:15,Russia,Tanks ,destroyed,1
-2022-03-05 08:21:26,Russia,Anti-tank Guided Missiles ,captured,-26
-2022-03-05 08:21:26,Russia,Communications Station ,destroyed,-2
-2022-03-05 08:21:26,Russia,Communications Station ,abandoned,-4
-2022-03-05 08:21:26,Russia,Communications Station ,captured,-2
-2022-03-05 08:21:26,Russia,Infantry Fighting Vehicles ,captured,1
-2022-03-05 08:21:26,Russia,Tanks ,captured,1
-2022-03-05 08:21:26,Russia,Anti-Tank Guided Missiles ,captured,26
-2022-03-05 08:21:26,Russia,Communications Stations ,destroyed,2
-2022-03-05 08:21:26,Russia,Communications Stations ,abandoned,4
-2022-03-05 08:21:26,Russia,Communications Stations ,captured,2
-2022-03-05 13:01:40,Russia,Aircraft ,destroyed,1
-2022-03-05 13:01:40,Ukraine,Aircraft ,destroyed,-7
-2022-03-05 13:01:40,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-03-05 13:01:40,Russia,Infantry Fighting Vehicles ,abandoned,-2
-2022-03-05 13:01:40,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-03-05 13:01:40,Russia,Tanks ,abandoned,-1
-2022-03-05 13:01:40,Russia,Tanks ,captured,3
-2022-03-05 13:01:40,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-05 13:01:40,Russia,"Trucks, Vehicles and Jeeps ",abandoned,4
-2022-03-05 13:01:40,Russia,"Trucks, Vehicles and Jeeps ",captured,2
-2022-03-05 17:04:03,Russia,Aircraft ,destroyed,2
-2022-03-05 17:04:03,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-03-05 17:04:03,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-05 17:04:03,Russia,Armoured Fighting Vehicles ,captured,5
-2022-03-05 17:04:03,Ukraine,Armoured Personnel Carriers ,captured,1
-2022-03-05 17:04:03,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-05 17:04:03,Russia,Helicopters ,destroyed,3
-2022-03-05 17:04:03,Ukraine,Infantry Fighting Vehicles ,captured,1
-2022-03-05 17:04:03,Russia,Infantry Fighting Vehicles ,destroyed,3
-2022-03-05 17:04:03,Russia,Infantry Fighting Vehicles ,captured,3
-2022-03-05 17:04:03,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-03-05 17:04:03,Russia,Multiple Rocket Launchers ,captured,1
-2022-03-05 17:04:03,Russia,Surface-To-Air Missile Systems ,captured,2
-2022-03-05 17:04:03,Ukraine,Tanks ,captured,2
-2022-03-05 17:04:03,Russia,Tanks ,destroyed,1
-2022-03-05 17:04:03,Russia,Tanks ,abandoned,1
-2022-03-05 17:04:03,Russia,Tanks ,captured,4
-2022-03-05 17:04:03,Russia,"Trucks, Vehicles and Jeeps ",destroyed,3
-2022-03-05 17:04:03,Russia,"Trucks, Vehicles and Jeeps ",captured,2
-2022-03-05 17:04:03,Ukraine,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-05 17:04:03,Ukraine,Aircraft ,destroyed,7
-2022-03-05 17:04:03,Russia,Unmanned Aerial Vehicles ,destroyed,1
-2022-03-05 17:09:39,Ukraine,Infantry Fighting Vehicles ,captured,1
-2022-03-05 18:54:11,Ukraine,Aircraft ,destroyed,1
-2022-03-05 18:54:11,Russia,Anti-Tank Guided Missiles ,captured,1
-2022-03-05 18:54:11,Ukraine,Anti-tank Guided Missiles ,captured,2
-2022-03-05 18:54:11,Ukraine,Armoured Fighting Vehicles ,captured,5
-2022-03-05 18:54:11,Russia,Armoured Personnel Carriers ,captured,3
-2022-03-05 18:54:11,Russia,Engineering Vehicles ,abandoned,1
-2022-03-05 18:54:11,Russia,Helicopters ,destroyed,-1
-2022-03-05 18:54:11,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-05 18:54:11,Russia,Infantry Fighting Vehicles ,captured,4
-2022-03-05 18:54:11,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-03-05 18:54:11,Russia,"Trucks, Vehicles and Jeeps ",damaged,3
-2022-03-05 18:54:11,Ukraine,"Trucks, Vehicles and Jeeps ",captured,4
-2022-03-05 18:54:11,Ukraine,Engineering Vehicles ,captured,1
-2022-03-05 19:11:28,Ukraine,Armoured Fighting Vehicles ,destroyed,1
-2022-03-05 19:11:28,Russia,Engineering Vehicles ,abandoned,2
-2022-03-05 19:11:28,Ukraine,Infantry Fighting Vehicles ,captured,1
-2022-03-05 19:11:28,Russia,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-05 19:11:28,Ukraine,"Trucks, Vehicles and Jeeps ",captured,2
-2022-03-05 20:22:00,Russia,Aircraft ,destroyed,1
-2022-03-05 20:22:00,Russia,Anti-Tank Guided Missiles ,captured,2
-2022-03-05 20:22:00,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-03-05 20:22:00,Russia,Armoured Personnel Carriers ,captured,2
-2022-03-05 20:22:00,Russia,Engineering Vehicles ,abandoned,4
-2022-03-05 20:22:00,Russia,Infantry Fighting Vehicles ,destroyed,5
-2022-03-05 20:22:00,Russia,Infantry Fighting Vehicles ,captured,4
-2022-03-05 20:22:00,Russia,Infantry Mobility Vehicles ,destroyed,1
-2022-03-05 20:22:00,Russia,Infantry Mobility Vehicles ,captured,1
-2022-03-05 20:22:00,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-05 20:22:00,Russia,"Trucks, Vehicles and Jeeps ",abandoned,-4
-2022-03-05 20:22:00,Russia,"Trucks, Vehicles and Jeeps ",captured,5
-2022-03-05 21:14:00,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-03-05 21:14:00,Russia,Tanks ,captured,2
-2022-03-06 05:49:38,Russia,Armoured Fighting Vehicles ,abandoned,1
-2022-03-06 05:49:38,Russia,Armoured Fighting Vehicles ,captured,1
-2022-03-06 05:49:38,Russia,Armoured Personnel Carriers ,abandoned,1
-2022-03-06 05:49:38,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-06 05:49:38,Russia,Engineering Vehicles ,captured,2
-2022-03-06 05:49:38,Russia,Man-Portable Air Defence Systems ,captured,3
-2022-03-06 05:49:38,Russia,Multiple Rocket Launchers ,captured,1
-2022-03-06 05:49:38,Russia,Self-Propelled Artillery ,captured,1
-2022-03-06 05:49:38,Russia,Tanks ,destroyed,1
-2022-03-06 05:49:38,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-06 05:49:38,Russia,"Trucks, Vehicles and Jeeps ",abandoned,-4
-2022-03-06 05:49:38,Russia,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-06 05:49:38,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,4
-2022-03-06 05:49:38,Ukraine,Towed Artillery ,destroyed,1
-2022-03-06 14:50:00,Russia,Anti-Tank Guided Missiles ,captured,2
-2022-03-06 14:50:00,Ukraine,Anti-tank Guided Missiles ,captured,3
-2022-03-06 14:50:00,Russia,Armoured Fighting Vehicles ,captured,3
-2022-03-06 14:50:00,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-03-06 14:50:00,Russia,Infantry Fighting Vehicles ,destroyed,2
-2022-03-06 14:50:00,Russia,Infantry Fighting Vehicles ,abandoned,1
-2022-03-06 14:50:00,Russia,Infantry Fighting Vehicles ,captured,2
-2022-03-06 14:50:00,Russia,Infantry Mobility Vehicles ,destroyed,2
-2022-03-06 14:50:00,Russia,Infantry Mobility Vehicles ,captured,1
-2022-03-06 14:50:00,Russia,Self-Propelled Artillery ,abandoned,1
-2022-03-06 14:50:00,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-06 14:50:00,Russia,Tanks ,abandoned,3
-2022-03-06 14:50:00,Russia,"Trucks, Vehicles and Jeeps ",destroyed,15
-2022-03-06 14:50:00,Russia,"Trucks, Vehicles and Jeeps ",captured,3
-2022-03-06 14:50:00,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,3
-2022-03-06 14:50:00,Ukraine,Multiple Rocket Launchers ,captured,2
-2022-03-06 14:50:00,Russia,Radars ,destroyed,1
-2022-03-06 17:06:07,Russia,Anti-Tank Guided Missiles ,captured,16
-2022-03-06 17:06:07,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-03-06 17:06:07,Russia,Armoured Personnel Carriers ,captured,2
-2022-03-06 17:06:07,Russia,Infantry Fighting Vehicles ,captured,5
-2022-03-06 17:06:07,Ukraine,Infantry Fighting Vehicles ,captured,1
-2022-03-06 17:06:07,Ukraine,Infantry Mobility Vehicles ,captured,1
-2022-03-06 17:06:07,Russia,Tanks ,captured,2
-2022-03-06 17:06:07,Ukraine,Tanks ,destroyed,2
-2022-03-06 17:06:07,Russia,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-06 17:06:07,Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-06 18:50:43,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-06 18:50:43,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-06 18:50:43,Russia,Tanks ,destroyed,1
-2022-03-06 18:50:43,Russia,Tanks ,abandoned,-1
-2022-03-06 18:50:43,Russia,Tanks ,captured,5
-2022-03-06 20:55:22,Russia,Armoured Personnel Carriers ,captured,2
-2022-03-06 20:55:22,Russia,Infantry Fighting Vehicles ,destroyed,2
-2022-03-06 20:55:22,Russia,Man-Portable Air Defence Systems ,captured,10
-2022-03-06 20:55:22,Russia,Self-Propelled Artillery ,captured,1
-2022-03-06 20:55:22,Russia,Tanks ,captured,2
-2022-03-06 20:55:22,Ukraine,Tanks ,captured,2
-2022-03-06 20:55:22,Russia,Towed Artillery ,captured,15
-2022-03-06 20:55:22,Russia,"Trucks, Vehicles and Jeeps ",destroyed,9
-2022-03-06 20:55:22,Russia,"Trucks, Vehicles and Jeeps ",captured,5
-2022-03-06 22:56:54,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-03-06 22:56:54,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-03-06 22:56:54,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-06 22:56:54,Russia,Infantry Fighting Vehicles ,destroyed,1
-2022-03-06 22:56:54,Ukraine,Tanks ,destroyed,1
-2022-03-06 22:56:54,Russia,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-07 01:17:41,Russia,Armoured Fighting Vehicles ,destroyed,2
-2022-03-07 01:17:41,Russia,Armoured Fighting Vehicles ,captured,1
-2022-03-07 01:17:41,Russia,Armoured Personnel Carriers ,destroyed,1
-2022-03-07 01:17:41,Russia,Helicopters ,destroyed,1
-2022-03-07 01:17:41,Russia,Multiple Rocket Launchers ,destroyed,1
-2022-03-07 01:17:41,Russia,Self-Propelled Artillery ,destroyed,1
-2022-03-07 01:17:41,Russia,Tanks ,destroyed,6
-2022-03-07 01:17:41,Russia,Tanks ,captured,4
-2022-03-07 01:17:41,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-07 01:17:41,Russia,"Trucks, Vehicles and Jeeps ",captured,2
-2022-03-07 11:38:42,Russia,Aircraft ,destroyed,1
-2022-03-07 11:38:42,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-07 18:39:44,Ukraine,Armoured Fighting Vehicles ,captured,1
-2022-03-07 18:39:44,Russia,Armoured Fighting Vehicles ,captured,2
-2022-03-07 18:39:44,Russia,Armoured Personnel Carriers ,captured,1
-2022-03-07 18:39:44,Russia,Engineering Vehicles ,destroyed,1
-2022-03-07 18:39:44,Russia,Infantry Fighting Vehicles ,destroyed,5
-2022-03-07 18:39:44,Russia,Infantry Fighting Vehicles ,captured,3
-2022-03-07 18:39:44,Ukraine,Infantry Mobility Vehicles ,captured,2
-2022-03-07 18:39:44,Russia,Multiple Rocket Launchers ,destroyed,1
-2022-03-07 18:39:44,Russia,Self-Propelled Artillery ,captured,1
-2022-03-07 18:39:44,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-07 18:39:44,Russia,Surface-To-Air Missile Systems ,captured,1
-2022-03-07 18:39:44,Russia,Tanks ,destroyed,4
-2022-03-07 18:39:44,Russia,Tanks ,captured,6
-2022-03-07 18:39:44,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-07 18:39:44,Russia,"Trucks, Vehicles and Jeeps ",captured,11
-2022-03-07 20:15:17,Ukraine,Armoured Fighting Vehicles ,captured,2
-2022-03-07 20:15:17,Russia,Armoured Fighting Vehicles ,destroyed,1
-2022-03-07 20:15:17,Ukraine,Armoured Personnel Carriers ,captured,1
-2022-03-07 20:15:17,Russia,Infantry Fighting Vehicles ,destroyed,3
-2022-03-07 20:15:17,Russia,Infantry Fighting Vehicles ,captured,1
-2022-03-07 20:15:17,Ukraine,Naval Ships ,destroyed,1
-2022-03-07 20:15:17,Russia,Tanks ,captured,1
-2022-03-07 20:15:17,Ukraine,Towed Artillery ,captured,9
-2022-03-07 20:15:17,Russia,"Trucks, Vehicles and Jeeps ",destroyed,2
-2022-03-07 20:15:17,Russia,"Trucks, Vehicles and Jeeps ",abandoned,1
-2022-03-07 20:15:17,Ukraine,"Trucks, Vehicles and Jeeps ",captured,1
-2022-03-07 20:15:17,Ukraine,Unmanned Aerial Vehicles ,captured,1
-2022-03-08 05:40:13,Russia,Armoured Fighting Vehicles ,captured,2
-2022-03-08 05:40:13,Russia,Armoured Personnel Carriers ,captured,-2
-2022-03-08 05:40:13,Russia,Engineering Vehicles ,abandoned,1
-2022-03-08 05:40:13,Russia,Self-Propelled Artillery ,captured,1
-2022-03-08 05:40:13,Russia,Surface-To-Air Missile Systems ,destroyed,1
-2022-03-08 05:40:13,Russia,Tanks ,captured,2
-2022-03-08 05:40:13,Russia,"Trucks, Vehicles and Jeeps ",destroyed,1
-2022-03-08 05:40:13,Ukraine,"Trucks, Vehicles and Jeeps ",captured,5
-2022-03-08 05:40:13,Russia,Mine-Resistant Ambush Protected ,abandoned,1
+2022-02-24 12:35:34,Russia,armoured fighting vehicles,captured,1
+2022-02-24 12:35:34,Russia,armoured fighting vehicles,destroyed,1
+2022-02-24 12:35:34,Russia,helicopters,damaged,1
+2022-02-24 12:35:34,Russia,infantry mobility vehicles,damaged,1
+2022-02-24 12:35:34,Russia,infantry mobility vehicles,destroyed,1
+2022-02-24 12:35:34,Russia,tanks,destroyed,1
+2022-02-24 12:35:34,Russia,"trucks, vehicles and jeeps",captured,1
+2022-02-24 12:35:34,Ukraine,aircraft,destroyed,1
+2022-02-24 12:35:34,Ukraine,armoured fighting vehicles,captured,1
+2022-02-24 12:35:34,Ukraine,armoured personnel carriers,captured,1
+2022-02-24 12:35:34,Ukraine,infantry fighting vehicles,captured,2
+2022-02-24 12:35:34,Ukraine,infantry mobility vehicles,destroyed,1
+2022-02-24 12:35:34,Ukraine,radars,damaged,2
+2022-02-24 12:35:34,Ukraine,radars,destroyed,3
+2022-02-24 12:35:34,Ukraine,"trucks, vehicles and jeeps",captured,8
+2022-02-24 12:35:34,Ukraine,"trucks, vehicles and jeeps",destroyed,4
+2022-02-24 14:40:43,Russia,aircraft,destroyed,1
+2022-02-24 14:40:43,Russia,armoured fighting vehicles,captured,1
+2022-02-24 14:40:43,Russia,helicopters,destroyed,1
+2022-02-24 14:40:43,Russia,infantry fighting vehicles,captured,1
+2022-02-24 14:40:43,Ukraine,aircraft,destroyed,-1
+2022-02-24 14:40:43,Ukraine,armoured fighting vehicles,abandoned,1
+2022-02-24 14:40:43,Ukraine,infantry fighting vehicles,abandoned,3
+2022-02-24 17:31:39,Russia,aircraft,destroyed,1
+2022-02-24 17:31:39,Russia,"trucks, vehicles and jeeps",captured,3
+2022-02-24 17:31:39,Ukraine,aircraft,destroyed,1
+2022-02-24 17:31:39,Ukraine,self-propelled artillery,captured,2
+2022-02-24 17:31:39,Ukraine,"trucks, vehicles and jeeps",captured,3
+2022-02-24 17:31:39,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-02-24 19:18:58,Russia,armoured fighting vehicles,destroyed,2
+2022-02-24 19:18:58,Russia,surface-to-air missile systems,destroyed,1
+2022-02-24 19:18:58,Russia,"trucks, vehicles and jeeps",damaged,1
+2022-02-24 19:18:58,Ukraine,aircraft,destroyed,-1
+2022-02-24 19:18:58,Ukraine,armoured personnel carriers,abandoned,1
+2022-02-24 19:18:58,Ukraine,surface-to-air missile systems,destroyed,1
+2022-02-24 23:11:42,Russia,engineering vehicles,captured,2
+2022-02-24 23:11:42,Russia,engineering vehicles,destroyed,1
+2022-02-24 23:11:42,Russia,mine-resistant ambush protected,captured,1
+2022-02-24 23:11:42,Russia,"trucks, vehicles and jeeps",captured,2
+2022-02-24 23:11:42,Russia,"trucks, vehicles and jeeps",damaged,1
+2022-02-24 23:11:42,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-02-25 18:38:32,Russia,aircraft,destroyed,1
+2022-02-25 18:38:32,Russia,armoured fighting vehicles,captured,1
+2022-02-25 18:38:32,Russia,artillery,captured,2
+2022-02-25 18:38:32,Russia,artillery,destroyed,2
+2022-02-25 18:38:32,Russia,infantry fighting vehicles,abandoned,1
+2022-02-25 18:38:32,Russia,infantry fighting vehicles,destroyed,1
+2022-02-25 18:38:32,Russia,infantry mobility vehicles,captured,3
+2022-02-25 18:38:32,Russia,mine-resistant ambush protected,captured,0
+2022-02-25 18:38:32,Russia,mortars,captured,1
+2022-02-25 18:38:32,Russia,multiple rocket launchers,captured,1
+2022-02-25 18:38:32,Russia,multiple rocket launchers,destroyed,3
+2022-02-25 18:38:32,Russia,surface-to-air missile systems,abandoned,1
+2022-02-25 18:38:32,Russia,surface-to-air missile systems,destroyed,0
+2022-02-25 18:38:32,Russia,tanks,captured,1
+2022-02-25 18:38:32,Russia,"trucks, vehicles and jeeps",captured,4
+2022-02-25 18:38:32,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-02-25 18:38:32,Ukraine,anti-tank guided missiles,captured,1
+2022-02-25 18:38:32,Ukraine,anti-tank guided missiles,optic,2
+2022-02-25 18:38:32,Ukraine,infantry fighting vehicles,abandoned,1
+2022-02-25 18:38:32,Ukraine,surface-to-air missile systems,destroyed,2
+2022-02-25 18:38:32,Ukraine,tanks,damaged,1
+2022-02-25 18:38:32,Ukraine,tanks,destroyed,2
+2022-02-25 18:38:32,Ukraine,"trucks, vehicles and jeeps",abandoned,1
+2022-02-25 18:38:32,Ukraine,"trucks, vehicles and jeeps",damaged,2
+2022-02-25 18:38:32,Ukraine,"trucks, vehicles and jeeps",destroyed,7
+2022-02-25 19:53:02,Russia,armoured fighting vehicles,captured,1
+2022-02-25 19:53:02,Russia,infantry fighting vehicles,destroyed,1
+2022-02-25 19:53:02,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-02-25 23:35:28,Ukraine,tanks,abandoned,1
+2022-02-26 16:31:27,Russia,anti-tank guided missiles,captured,3
+2022-02-26 16:31:27,Russia,communications vehicles,abandoned,1
+2022-02-26 16:31:27,Russia,communications vehicles,captured,1
+2022-02-26 16:31:27,Russia,engineering vehicles,captured,7
+2022-02-26 16:31:27,Russia,engineering vehicles,destroyed,2
+2022-02-26 16:31:27,Russia,infantry fighting vehicles,abandoned,4
+2022-02-26 16:31:27,Russia,infantry fighting vehicles,captured,2
+2022-02-26 16:31:27,Russia,infantry fighting vehicles,destroyed,1
+2022-02-26 16:31:27,Russia,infantry mobility vehicles,destroyed,1
+2022-02-26 16:31:27,Russia,mine-resistant ambush protected,captured,1
+2022-02-26 16:31:27,Russia,multiple rocket launchers,captured,3
+2022-02-26 16:31:27,Russia,surface-to-air missile systems,damaged,1
+2022-02-26 16:31:27,Russia,tanks,abandoned,1
+2022-02-26 16:31:27,Russia,tanks,captured,1
+2022-02-26 16:31:27,Russia,tanks,damaged,1
+2022-02-26 16:31:27,Russia,tanks,destroyed,2
+2022-02-26 16:31:27,Russia,"trucks, vehicles and jeeps",abandoned,5
+2022-02-26 16:31:27,Russia,"trucks, vehicles and jeeps",captured,3
+2022-02-26 16:31:27,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-02-26 16:31:27,Ukraine,armoured fighting vehicles,abandoned,8
+2022-02-26 16:31:27,Ukraine,armoured personnel carriers,abandoned,1
+2022-02-26 16:31:27,Ukraine,infantry fighting vehicles,abandoned,2
+2022-02-26 16:31:27,Ukraine,surface-to-air missile systems,destroyed,1
+2022-02-26 16:31:27,Ukraine,tanks,abandoned,4
+2022-02-26 16:31:27,Ukraine,tanks,destroyed,1
+2022-02-26 16:31:27,Ukraine,towed artillery,abandoned,2
+2022-02-26 16:31:27,Ukraine,"trucks, vehicles and jeeps",abandoned,2
+2022-02-26 16:31:27,Ukraine,"trucks, vehicles and jeeps",destroyed,3
+2022-02-26 17:23:01,Russia,infantry mobility vehicles,destroyed,1
+2022-02-26 17:23:01,Ukraine,infantry fighting vehicles,captured,1
+2022-02-26 17:23:01,Ukraine,infantry mobility vehicles,destroyed,1
+2022-02-26 17:23:01,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-02-27 05:16:03,Russia,anti-tank guided missiles,captured,1
+2022-02-27 05:16:03,Russia,armoured fighting vehicles,captured,1
+2022-02-27 05:16:03,Russia,armoured personnel carriers,captured,1
+2022-02-27 05:16:03,Russia,armoured personnel carriers,destroyed,3
+2022-02-27 05:16:03,Russia,helicopters,destroyed,1
+2022-02-27 05:16:03,Russia,infantry fighting vehicles,abandoned,1
+2022-02-27 05:16:03,Russia,infantry fighting vehicles,captured,2
+2022-02-27 05:16:03,Russia,infantry fighting vehicles,destroyed,1
+2022-02-27 05:16:03,Russia,mortars,captured,1
+2022-02-27 05:16:03,Russia,tanks,abandoned,1
+2022-02-27 05:16:03,Russia,"trucks, vehicles and jeeps",captured,4
+2022-02-27 05:16:03,Ukraine,armoured fighting vehicles,abandoned,2
+2022-02-27 05:16:03,Ukraine,infantry mobility vehicles,captured,2
+2022-02-27 05:16:03,Ukraine,"trucks, vehicles and jeeps",abandoned,2
+2022-02-27 07:16:52,Russia,armoured fighting vehicles,destroyed,2
+2022-02-27 07:16:52,Russia,armoured personnel carriers,destroyed,1
+2022-02-27 07:16:52,Russia,infantry mobility vehicles,abandoned,1
+2022-02-27 07:16:52,Russia,infantry mobility vehicles,destroyed,3
+2022-02-27 07:16:52,Russia,tanks,abandoned,1
+2022-02-27 07:16:52,Russia,"trucks, vehicles and jeeps",abandoned,9
+2022-02-27 07:16:52,Russia,"trucks, vehicles and jeeps",captured,1
+2022-02-27 07:16:52,Russia,"trucks, vehicles and jeeps",destroyed,14
+2022-02-27 07:16:52,Ukraine,armoured fighting vehicles,destroyed,1
+2022-02-27 16:07:20,Russia,armoured fighting vehicles,captured,1
+2022-02-27 16:47:33,Russia,armoured personnel carriers,captured,1
+2022-02-27 16:47:33,Russia,surface-to-air missile systems,destroyed,1
+2022-02-27 16:47:33,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-02-27 20:34:12,Russia,infantry mobility vehicles,captured,3
+2022-02-27 20:34:12,Russia,infantry mobility vehicles,destroyed,1
+2022-02-27 20:34:12,Russia,surface-to-air missile systems,destroyed,2
+2022-02-27 20:34:12,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-02-27 21:43:45,Russia,infantry mobility vehicles,captured,1
+2022-02-27 21:43:45,Russia,tanks,captured,1
+2022-02-27 21:43:45,Ukraine,aircraft,destroyed,5
+2022-02-27 21:43:45,Ukraine,infantry mobility vehicles,captured,1
+2022-02-27 21:43:45,Ukraine,tanks,destroyed,1
+2022-02-28 00:57:24,Russia,armoured fighting vehicles,abandoned,1
+2022-02-28 00:57:24,Russia,armoured fighting vehicles,captured,3
+2022-02-28 00:57:24,Russia,artillery,captured,-2
+2022-02-28 00:57:24,Russia,artillery,destroyed,-2
+2022-02-28 00:57:24,Russia,engineering vehicles,destroyed,3
+2022-02-28 00:57:24,Russia,infantry fighting vehicles,abandoned,3
+2022-02-28 00:57:24,Russia,infantry fighting vehicles,captured,2
+2022-02-28 00:57:24,Russia,infantry fighting vehicles,destroyed,4
+2022-02-28 00:57:24,Russia,infantry mobility vehicles,destroyed,3
+2022-02-28 00:57:24,Russia,self-propelled anti-aircraft guns,abandoned,2
+2022-02-28 00:57:24,Russia,self-propelled artillery,abandoned,1
+2022-02-28 00:57:24,Russia,surface-to-air missile systems,abandoned,1
+2022-02-28 00:57:24,Russia,tanks,abandoned,2
+2022-02-28 00:57:24,Russia,tanks,captured,2
+2022-02-28 00:57:24,Russia,tanks,destroyed,3
+2022-02-28 00:57:24,Russia,towed artillery,captured,2
+2022-02-28 00:57:24,Russia,towed artillery,destroyed,2
+2022-02-28 00:57:24,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-02-28 00:57:24,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-02-28 00:57:24,Ukraine,anti-tank guided missiles,captured,6
+2022-02-28 00:57:24,Ukraine,anti-tank guided missiles,optic,-2
+2022-02-28 00:57:24,Ukraine,armoured fighting vehicles,destroyed,2
+2022-02-28 00:57:24,Ukraine,man-portable air defence systems,captured,2
+2022-02-28 00:57:24,Ukraine,tanks,abandoned,2
+2022-02-28 00:57:24,Ukraine,tanks,damaged,-1
+2022-02-28 00:57:24,Ukraine,tanks,destroyed,1
+2022-02-28 00:57:24,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-02-28 08:27:41,Russia,infantry fighting vehicles,abandoned,2
+2022-02-28 08:27:41,Russia,infantry fighting vehicles,destroyed,1
+2022-02-28 08:27:41,Russia,infantry mobility vehicles,destroyed,1
+2022-02-28 08:27:41,Russia,tanks,abandoned,3
+2022-02-28 08:27:41,Russia,tanks,captured,5
+2022-02-28 08:27:41,Russia,tanks,destroyed,2
+2022-02-28 08:27:41,Ukraine,self-propelled artillery,abandoned,1
+2022-02-28 08:27:41,Ukraine,surface-to-air missile systems,destroyed,2
+2022-02-28 17:21:38,Russia,anti-tank guided missiles,captured,1
+2022-02-28 17:21:38,Russia,armoured fighting vehicles,abandoned,2
+2022-02-28 17:21:38,Russia,armoured fighting vehicles,destroyed,8
+2022-02-28 17:21:38,Russia,armoured personnel carriers,abandoned,4
+2022-02-28 17:21:38,Russia,armoured personnel carriers,captured,2
+2022-02-28 17:21:38,Russia,armoured personnel carriers,destroyed,1
+2022-02-28 17:21:38,Russia,heavy mortars,captured,2
+2022-02-28 17:21:38,Russia,helicopters,destroyed,1
+2022-02-28 17:21:38,Russia,infantry fighting vehicles,abandoned,5
+2022-02-28 17:21:38,Russia,infantry fighting vehicles,captured,2
+2022-02-28 17:21:38,Russia,infantry fighting vehicles,destroyed,3
+2022-02-28 17:21:38,Russia,man-portable air defence systems,captured,1
+2022-02-28 17:21:38,Russia,mine-resistant ambush protected,destroyed,1
+2022-02-28 17:21:38,Russia,mortars,captured,-2
+2022-02-28 17:21:38,Russia,self-propelled artillery,abandoned,1
+2022-02-28 17:21:38,Russia,self-propelled artillery,captured,1
+2022-02-28 17:21:38,Russia,self-propelled artillery,destroyed,1
+2022-02-28 17:21:38,Russia,surface-to-air missile systems,abandoned,2
+2022-02-28 17:21:38,Russia,surface-to-air missile systems,captured,2
+2022-02-28 17:21:38,Russia,surface-to-air missile systems,destroyed,2
+2022-02-28 17:21:38,Russia,tanks,captured,1
+2022-02-28 17:21:38,Russia,tanks,destroyed,4
+2022-02-28 17:21:38,Russia,"trucks, vehicles and jeeps",abandoned,2
+2022-02-28 17:21:38,Russia,"trucks, vehicles and jeeps",captured,5
+2022-02-28 17:21:38,Russia,"trucks, vehicles and jeeps",destroyed,6
+2022-02-28 17:21:38,Ukraine,anti-tank guided missiles,captured,5
+2022-02-28 17:21:38,Ukraine,armoured fighting vehicles,captured,3
+2022-02-28 17:21:38,Ukraine,armoured fighting vehicles,destroyed,2
+2022-02-28 17:21:38,Ukraine,armoured personnel carriers,captured,5
+2022-02-28 17:21:38,Ukraine,armoured personnel carriers,destroyed,1
+2022-02-28 17:21:38,Ukraine,man-portable air defence systems,captured,5
+2022-02-28 17:21:38,Ukraine,self-propelled artillery,destroyed,2
+2022-02-28 17:21:38,Ukraine,tanks,abandoned,2
+2022-02-28 19:44:32,Russia,armoured personnel carriers,abandoned,1
+2022-02-28 19:44:32,Russia,mine-resistant ambush protected,captured,0
+2022-02-28 19:44:32,Russia,mine-resistant ambush protected,destroyed,0
+2022-02-28 19:44:32,Russia,multiple rocket launchers,captured,1
+2022-02-28 19:44:32,Ukraine,armoured fighting vehicles,captured,1
+2022-02-28 19:44:32,Ukraine,tanks,captured,1
+2022-02-28 21:21:23,Russia,armoured fighting vehicles,abandoned,3
+2022-02-28 21:21:23,Russia,armoured fighting vehicles,captured,1
+2022-02-28 21:21:23,Russia,infantry fighting vehicles,abandoned,2
+2022-02-28 21:21:23,Russia,infantry fighting vehicles,destroyed,1
+2022-02-28 21:21:23,Russia,jammers and deception systems,damaged,1
+2022-02-28 21:21:23,Russia,self-propelled artillery,abandoned,1
+2022-02-28 21:21:23,Russia,tanks,abandoned,6
+2022-02-28 21:21:23,Russia,tanks,destroyed,1
+2022-02-28 23:17:17,Russia,armoured fighting vehicles,destroyed,2
+2022-02-28 23:17:17,Russia,engineering vehicles,abandoned,1
+2022-02-28 23:17:17,Russia,infantry fighting vehicles,abandoned,2
+2022-02-28 23:17:17,Russia,infantry fighting vehicles,captured,1
+2022-02-28 23:17:17,Russia,tanks,abandoned,2
+2022-02-28 23:17:17,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-02-28 23:17:17,Russia,"trucks, vehicles and jeeps",captured,11
+2022-02-28 23:17:17,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-02-28 23:17:17,Ukraine,infantry mobility vehicles,captured,1
+2022-03-01 00:53:36,Russia,logistics trains,destroyed,2
+2022-03-01 00:53:36,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-01 04:02:27,Russia,armoured fighting vehicles,destroyed,1
+2022-03-01 04:02:27,Russia,armoured personnel carriers,captured,-2
+2022-03-01 04:02:27,Russia,armoured personnel carriers,destroyed,2
+2022-03-01 04:02:27,Russia,communications stations,abandoned,1
+2022-03-01 04:02:27,Russia,communications stations,captured,1
+2022-03-01 04:02:27,Russia,communications stations,destroyed,1
+2022-03-01 04:02:27,Russia,communications vehicles,abandoned,-1
+2022-03-01 04:02:27,Russia,communications vehicles,captured,-1
+2022-03-01 18:53:29,Russia,anti-tank guided missiles,captured,1
+2022-03-01 18:53:29,Russia,armoured fighting vehicles,abandoned,2
+2022-03-01 18:53:29,Russia,armoured fighting vehicles,captured,2
+2022-03-01 18:53:29,Russia,engineering vehicles,captured,1
+2022-03-01 18:53:29,Russia,helicopters,damaged,1
+2022-03-01 18:53:29,Russia,helicopters,destroyed,1
+2022-03-01 18:53:29,Russia,infantry fighting vehicles,abandoned,1
+2022-03-01 18:53:29,Russia,infantry fighting vehicles,captured,3
+2022-03-01 18:53:29,Russia,infantry fighting vehicles,destroyed,1
+2022-03-01 18:53:29,Russia,infantry mobility vehicles,abandoned,1
+2022-03-01 18:53:29,Russia,infantry mobility vehicles,destroyed,1
+2022-03-01 18:53:29,Russia,multiple rocket launchers,captured,1
+2022-03-01 18:53:29,Russia,self-propelled artillery,abandoned,1
+2022-03-01 18:53:29,Russia,self-propelled artillery,captured,0
+2022-03-01 18:53:29,Russia,self-propelled artillery,destroyed,0
+2022-03-01 18:53:29,Russia,surface-to-air missile systems,abandoned,-1
+2022-03-01 18:53:29,Russia,surface-to-air missile systems,captured,2
+2022-03-01 18:53:29,Russia,tanks,abandoned,3
+2022-03-01 18:53:29,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-03-01 18:53:29,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-01 18:53:29,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-03-01 18:53:29,Ukraine,armoured fighting vehicles,destroyed,1
+2022-03-02 06:53:31,Russia,armoured fighting vehicles,abandoned,1
+2022-03-02 06:53:31,Russia,armoured fighting vehicles,captured,3
+2022-03-02 06:53:31,Russia,armoured fighting vehicles,destroyed,1
+2022-03-02 06:53:31,Russia,armoured personnel carriers,abandoned,1
+2022-03-02 06:53:31,Russia,armoured personnel carriers,captured,3
+2022-03-02 06:53:31,Russia,armoured personnel carriers,destroyed,2
+2022-03-02 06:53:31,Russia,communications stations,abandoned,2
+2022-03-02 06:53:31,Russia,engineering vehicles,abandoned,2
+2022-03-02 06:53:31,Russia,engineering vehicles,destroyed,4
+2022-03-02 06:53:31,Russia,infantry fighting vehicles,abandoned,3
+2022-03-02 06:53:31,Russia,infantry fighting vehicles,captured,2
+2022-03-02 06:53:31,Russia,infantry fighting vehicles,destroyed,2
+2022-03-02 06:53:31,Russia,multiple rocket launchers,abandoned,1
+2022-03-02 06:53:31,Russia,multiple rocket launchers,destroyed,1
+2022-03-02 06:53:31,Russia,self-propelled anti-aircraft guns,captured,1
+2022-03-02 06:53:31,Russia,self-propelled artillery,abandoned,2
+2022-03-02 06:53:31,Russia,surface-to-air missile systems,destroyed,1
+2022-03-02 06:53:31,Russia,tanks,abandoned,1
+2022-03-02 06:53:31,Russia,tanks,captured,1
+2022-03-02 06:53:31,Russia,tanks,destroyed,3
+2022-03-02 06:53:31,Russia,towed artillery,abandoned,2
+2022-03-02 06:53:31,Russia,"trucks, vehicles and jeeps",abandoned,12
+2022-03-02 06:53:31,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-02 06:53:31,Russia,"trucks, vehicles and jeeps",destroyed,11
+2022-03-02 06:53:31,Ukraine,infantry mobility vehicles,abandoned,1
+2022-03-02 06:53:31,Ukraine,self-propelled artillery,captured,1
+2022-03-02 06:53:31,Ukraine,"trucks, vehicles and jeeps",abandoned,1
+2022-03-02 12:51:10,Russia,anti-tank guided missiles,captured,12
+2022-03-02 12:51:10,Russia,armoured fighting vehicles,abandoned,2
+2022-03-02 12:51:10,Russia,armoured fighting vehicles,captured,2
+2022-03-02 12:51:10,Russia,armoured fighting vehicles,destroyed,1
+2022-03-02 12:51:10,Russia,armoured personnel carriers,abandoned,1
+2022-03-02 12:51:10,Russia,infantry fighting vehicles,captured,3
+2022-03-02 12:51:10,Russia,infantry fighting vehicles,destroyed,1
+2022-03-02 12:51:10,Russia,infantry mobility vehicles,captured,1
+2022-03-02 12:51:10,Russia,self-propelled artillery,abandoned,1
+2022-03-02 12:51:10,Russia,self-propelled artillery,destroyed,1
+2022-03-02 12:51:10,Russia,tanks,captured,2
+2022-03-02 12:51:10,Russia,tanks,destroyed,1
+2022-03-02 12:51:10,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-02 12:51:10,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-03-02 14:26:53,Russia,armoured personnel carriers,captured,1
+2022-03-02 14:26:53,Russia,infantry fighting vehicles,captured,1
+2022-03-02 14:26:53,Russia,infantry fighting vehicles,destroyed,1
+2022-03-02 14:26:53,Russia,infantry mobility vehicles,destroyed,1
+2022-03-02 14:26:53,Russia,surface-to-air missile systems,captured,1
+2022-03-02 14:26:53,Russia,tanks,captured,1
+2022-03-02 14:26:53,Russia,"trucks, vehicles and jeeps",captured,4
+2022-03-02 14:26:53,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-02 14:26:53,Ukraine,infantry mobility vehicles,captured,1
+2022-03-02 14:26:53,Ukraine,tanks,captured,2
+2022-03-02 14:26:53,Ukraine,tanks,destroyed,1
+2022-03-02 14:26:53,Ukraine,towed artillery,abandoned,1
+2022-03-02 14:26:53,Ukraine,"trucks, vehicles and jeeps",destroyed,3
+2022-03-02 15:10:16,Russia,surface-to-air missile systems,destroyed,1
+2022-03-02 15:10:16,Russia,"trucks, vehicles and jeeps",abandoned,2
+2022-03-02 17:13:31,Russia,armoured fighting vehicles,abandoned,1
+2022-03-02 17:13:31,Russia,armoured fighting vehicles,destroyed,1
+2022-03-02 17:13:31,Russia,armoured personnel carriers,abandoned,2
+2022-03-02 17:13:31,Russia,infantry fighting vehicles,captured,1
+2022-03-02 17:13:31,Russia,tanks,abandoned,1
+2022-03-02 17:13:31,Russia,tanks,captured,1
+2022-03-02 17:13:31,Russia,"trucks, vehicles and jeeps",abandoned,2
+2022-03-02 17:13:31,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-02 17:13:31,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-02 17:13:31,Ukraine,tanks,abandoned,1
+2022-03-02 17:13:31,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-03-02 18:20:06,Russia,armoured fighting vehicles,abandoned,2
+2022-03-02 20:55:59,Russia,aircraft,destroyed,1
+2022-03-02 20:55:59,Russia,armoured fighting vehicles,abandoned,-1
+2022-03-02 20:55:59,Russia,helicopters,abandoned,2
+2022-03-02 20:55:59,Russia,helicopters,damaged,-1
+2022-03-02 20:55:59,Russia,unmanned aerial vehicles,captured,1
+2022-03-03 00:28:12,Russia,anti-tank guided missiles,captured,3
+2022-03-03 00:28:12,Russia,armoured fighting vehicles,abandoned,1
+2022-03-03 00:28:12,Russia,armoured fighting vehicles,captured,1
+2022-03-03 00:28:12,Russia,armoured fighting vehicles,destroyed,1
+2022-03-03 00:28:12,Russia,armoured personnel carriers,captured,3
+2022-03-03 00:28:12,Russia,communications stations,abandoned,1
+2022-03-03 00:28:12,Russia,infantry fighting vehicles,captured,2
+2022-03-03 00:28:12,Russia,infantry fighting vehicles,destroyed,1
+2022-03-03 00:28:12,Russia,mine-resistant ambush protected,destroyed,1
+2022-03-03 00:28:12,Russia,multiple rocket launchers,destroyed,2
+2022-03-03 00:28:12,Russia,self-propelled artillery,captured,2
+2022-03-03 00:28:12,Russia,tanks,abandoned,1
+2022-03-03 00:28:12,Russia,tanks,destroyed,1
+2022-03-03 00:28:12,Russia,"trucks, vehicles and jeeps",captured,5
+2022-03-03 00:28:12,Russia,"trucks, vehicles and jeeps",destroyed,6
+2022-03-03 00:28:12,Ukraine,anti-tank guided missiles,captured,5
+2022-03-03 00:28:12,Ukraine,armoured fighting vehicles,captured,1
+2022-03-03 00:28:12,Ukraine,armoured fighting vehicles,destroyed,1
+2022-03-03 00:28:12,Ukraine,armoured personnel carriers,captured,4
+2022-03-03 00:28:12,Ukraine,infantry mobility vehicles,captured,2
+2022-03-03 00:28:12,Ukraine,tanks,captured,2
+2022-03-03 00:28:12,Ukraine,tanks,destroyed,3
+2022-03-03 00:28:12,Ukraine,towed artillery,captured,1
+2022-03-03 00:28:12,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-03 00:28:12,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-03-03 04:41:08,Russia,armoured fighting vehicles,abandoned,1
+2022-03-03 04:41:08,Russia,communications stations,destroyed,1
+2022-03-03 04:41:08,Russia,infantry fighting vehicles,captured,2
+2022-03-03 04:41:08,Russia,tanks,captured,3
+2022-03-03 04:41:08,Russia,towed artillery,abandoned,1
+2022-03-03 04:41:08,Russia,towed artillery,destroyed,1
+2022-03-03 04:41:08,Russia,"trucks, vehicles and jeeps",damaged,1
+2022-03-03 04:41:08,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-03-03 04:41:08,Ukraine,infantry fighting vehicles,captured,1
+2022-03-03 14:38:32,Russia,engineering vehicles,captured,1
+2022-03-03 14:38:32,Russia,infantry fighting vehicles,destroyed,2
+2022-03-03 14:38:32,Ukraine,anti-aircraft guns,captured,1
+2022-03-03 14:38:32,Ukraine,infantry fighting vehicles,captured,5
+2022-03-03 14:38:32,Ukraine,infantry mobility vehicles,captured,1
+2022-03-03 14:38:32,Ukraine,man-portable air defence systems,captured,7
+2022-03-03 14:38:32,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-03 16:24:03,Russia,armoured fighting vehicles,destroyed,2
+2022-03-03 16:24:03,Russia,armoured personnel carriers,captured,1
+2022-03-03 16:24:03,Russia,infantry fighting vehicles,captured,1
+2022-03-03 16:24:03,Russia,infantry fighting vehicles,destroyed,1
+2022-03-03 16:24:03,Russia,self-propelled artillery,destroyed,1
+2022-03-03 16:24:03,Russia,tanks,captured,3
+2022-03-03 16:24:03,Russia,tanks,destroyed,2
+2022-03-03 16:24:03,Ukraine,infantry fighting vehicles,captured,3
+2022-03-03 16:24:03,Ukraine,surface-to-air missile systems,destroyed,1
+2022-03-03 16:24:03,Ukraine,tanks,captured,5
+2022-03-03 16:24:03,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-03-04 01:36:58,Russia,anti-tank guided missiles,captured,4
+2022-03-04 01:36:58,Russia,armoured fighting vehicles,captured,6
+2022-03-04 01:36:58,Russia,armoured fighting vehicles,destroyed,1
+2022-03-04 01:36:58,Russia,armoured personnel carriers,destroyed,2
+2022-03-04 01:36:58,Russia,communications stations,captured,1
+2022-03-04 01:36:58,Russia,infantry fighting vehicles,abandoned,2
+2022-03-04 01:36:58,Russia,infantry fighting vehicles,captured,4
+2022-03-04 01:36:58,Russia,infantry fighting vehicles,destroyed,1
+2022-03-04 01:36:58,Russia,man-portable air defence systems,captured,2
+2022-03-04 01:36:58,Russia,multiple rocket launchers,abandoned,1
+2022-03-04 01:36:58,Russia,multiple rocket launchers,captured,1
+2022-03-04 01:36:58,Russia,self-propelled anti-aircraft guns,destroyed,4
+2022-03-04 01:36:58,Russia,self-propelled artillery,abandoned,1
+2022-03-04 01:36:58,Russia,self-propelled artillery,captured,1
+2022-03-04 01:36:58,Russia,tanks,abandoned,1
+2022-03-04 01:36:58,Russia,tanks,captured,9
+2022-03-04 01:36:58,Russia,tanks,destroyed,5
+2022-03-04 01:36:58,Russia,"trucks, vehicles and jeeps",abandoned,3
+2022-03-04 01:36:58,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-04 01:36:58,Russia,"trucks, vehicles and jeeps",destroyed,6
+2022-03-04 01:36:58,Ukraine,anti-tank guided missiles,captured,9
+2022-03-04 01:36:58,Ukraine,naval ships,destroyed,1
+2022-03-04 01:36:58,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-04 01:36:58,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-03-04 12:09:35,Russia,aircraft,destroyed,1
+2022-03-04 12:09:35,Russia,tanks,captured,2
+2022-03-04 12:09:35,Russia,tanks,destroyed,-1
+2022-03-04 12:09:35,Ukraine,aircraft,destroyed,-5
+2022-03-04 12:09:35,Ukraine,infantry mobility vehicles,captured,1
+2022-03-04 12:09:35,Ukraine,tanks,captured,1
+2022-03-04 12:20:10,Russia,engineering vehicles,captured,1
+2022-03-04 23:36:29,Russia,aircraft,destroyed,1
+2022-03-04 23:36:29,Russia,anti-tank guided missiles,captured,1
+2022-03-04 23:36:29,Russia,armoured fighting vehicles,captured,3
+2022-03-04 23:36:29,Russia,armoured personnel carriers,captured,3
+2022-03-04 23:36:29,Russia,engineering vehicles,captured,1
+2022-03-04 23:36:29,Russia,heavy mortars,captured,1
+2022-03-04 23:36:29,Russia,helicopters,destroyed,1
+2022-03-04 23:36:29,Russia,infantry fighting vehicles,destroyed,2
+2022-03-04 23:36:29,Russia,infantry mobility vehicles,captured,1
+2022-03-04 23:36:29,Russia,self-propelled anti-aircraft guns,captured,-1
+2022-03-04 23:36:29,Russia,self-propelled anti-aircraft guns,destroyed,1
+2022-03-04 23:36:29,Russia,surface-to-air missile systems,captured,1
+2022-03-04 23:36:29,Russia,tanks,captured,5
+2022-03-04 23:36:29,Russia,tanks,damaged,1
+2022-03-04 23:36:29,Russia,tanks,destroyed,2
+2022-03-04 23:36:29,Russia,towed artillery,destroyed,1
+2022-03-04 23:36:29,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-03-04 23:36:29,Russia,"trucks, vehicles and jeeps",captured,10
+2022-03-04 23:36:29,Russia,"trucks, vehicles and jeeps",destroyed,4
+2022-03-04 23:36:29,Ukraine,aircraft,destroyed,7
+2022-03-04 23:36:29,Ukraine,anti-tank guided missiles,captured,-26
+2022-03-04 23:36:29,Ukraine,armoured fighting vehicles,captured,1
+2022-03-04 23:36:29,Ukraine,armoured personnel carriers,destroyed,1
+2022-03-04 23:36:29,Ukraine,infantry fighting vehicles,abandoned,2
+2022-03-04 23:36:29,Ukraine,tanks,captured,5
+2022-03-04 23:36:29,Ukraine,tanks,destroyed,2
+2022-03-04 23:48:45,Russia,tanks,destroyed,1
+2022-03-04 23:48:45,Ukraine,tanks,captured,1
+2022-03-04 23:56:36,Russia,tanks,captured,1
+2022-03-04 23:56:36,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-05 01:06:40,Russia,infantry fighting vehicles,captured,2
+2022-03-05 01:06:40,Russia,infantry fighting vehicles,destroyed,3
+2022-03-05 01:06:40,Russia,tanks,abandoned,1
+2022-03-05 01:06:40,Russia,tanks,captured,1
+2022-03-05 01:06:40,Russia,tanks,destroyed,1
+2022-03-05 01:06:40,Ukraine,anti-tank guided missiles,captured,27
+2022-03-05 01:06:40,Ukraine,armoured personnel carriers,destroyed,1
+2022-03-05 01:06:40,Ukraine,self-propelled artillery,destroyed,1
+2022-03-05 01:06:40,Ukraine,surface-to-air missile systems,destroyed,1
+2022-03-05 01:21:15,Russia,infantry fighting vehicles,destroyed,1
+2022-03-05 01:21:15,Russia,tanks,destroyed,1
+2022-03-05 08:21:26,Russia,anti-tank guided missiles,captured,0
+2022-03-05 08:21:26,Russia,communications stations,abandoned,-4
+2022-03-05 08:21:26,Russia,communications stations,captured,-2
+2022-03-05 08:21:26,Russia,communications stations,destroyed,-2
+2022-03-05 08:21:26,Russia,communications stations,abandoned,4
+2022-03-05 08:21:26,Russia,communications stations,captured,2
+2022-03-05 08:21:26,Russia,communications stations,destroyed,2
+2022-03-05 08:21:26,Russia,infantry fighting vehicles,captured,1
+2022-03-05 08:21:26,Russia,tanks,captured,1
+2022-03-05 13:01:40,Russia,aircraft,destroyed,1
+2022-03-05 13:01:40,Russia,armoured fighting vehicles,destroyed,2
+2022-03-05 13:01:40,Russia,infantry fighting vehicles,abandoned,-2
+2022-03-05 13:01:40,Russia,infantry mobility vehicles,destroyed,1
+2022-03-05 13:01:40,Russia,tanks,abandoned,-1
+2022-03-05 13:01:40,Russia,tanks,captured,3
+2022-03-05 13:01:40,Russia,"trucks, vehicles and jeeps",abandoned,4
+2022-03-05 13:01:40,Russia,"trucks, vehicles and jeeps",captured,2
+2022-03-05 13:01:40,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-05 13:01:40,Ukraine,aircraft,destroyed,-7
+2022-03-05 17:04:03,Russia,aircraft,destroyed,2
+2022-03-05 17:04:03,Russia,armoured fighting vehicles,captured,5
+2022-03-05 17:04:03,Russia,armoured fighting vehicles,destroyed,1
+2022-03-05 17:04:03,Russia,armoured personnel carriers,captured,1
+2022-03-05 17:04:03,Russia,helicopters,destroyed,3
+2022-03-05 17:04:03,Russia,infantry fighting vehicles,captured,3
+2022-03-05 17:04:03,Russia,infantry fighting vehicles,destroyed,3
+2022-03-05 17:04:03,Russia,infantry mobility vehicles,destroyed,1
+2022-03-05 17:04:03,Russia,multiple rocket launchers,captured,1
+2022-03-05 17:04:03,Russia,surface-to-air missile systems,captured,2
+2022-03-05 17:04:03,Russia,tanks,abandoned,1
+2022-03-05 17:04:03,Russia,tanks,captured,4
+2022-03-05 17:04:03,Russia,tanks,destroyed,1
+2022-03-05 17:04:03,Russia,"trucks, vehicles and jeeps",captured,2
+2022-03-05 17:04:03,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-03-05 17:04:03,Russia,unmanned aerial vehicles,destroyed,1
+2022-03-05 17:04:03,Ukraine,aircraft,destroyed,7
+2022-03-05 17:04:03,Ukraine,armoured fighting vehicles,captured,1
+2022-03-05 17:04:03,Ukraine,armoured personnel carriers,captured,1
+2022-03-05 17:04:03,Ukraine,infantry fighting vehicles,captured,1
+2022-03-05 17:04:03,Ukraine,tanks,captured,2
+2022-03-05 17:04:03,Ukraine,"trucks, vehicles and jeeps",captured,3
+2022-03-05 17:09:39,Ukraine,infantry fighting vehicles,captured,1
+2022-03-05 18:54:11,Russia,anti-tank guided missiles,captured,1
+2022-03-05 18:54:11,Russia,armoured personnel carriers,captured,3
+2022-03-05 18:54:11,Russia,engineering vehicles,abandoned,1
+2022-03-05 18:54:11,Russia,helicopters,destroyed,-1
+2022-03-05 18:54:11,Russia,infantry fighting vehicles,captured,4
+2022-03-05 18:54:11,Russia,infantry fighting vehicles,destroyed,1
+2022-03-05 18:54:11,Russia,"trucks, vehicles and jeeps",damaged,3
+2022-03-05 18:54:11,Ukraine,aircraft,destroyed,1
+2022-03-05 18:54:11,Ukraine,anti-tank guided missiles,captured,2
+2022-03-05 18:54:11,Ukraine,armoured fighting vehicles,captured,5
+2022-03-05 18:54:11,Ukraine,engineering vehicles,captured,1
+2022-03-05 18:54:11,Ukraine,infantry mobility vehicles,captured,1
+2022-03-05 18:54:11,Ukraine,"trucks, vehicles and jeeps",captured,4
+2022-03-05 19:11:28,Russia,engineering vehicles,abandoned,2
+2022-03-05 19:11:28,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-05 19:11:28,Ukraine,armoured fighting vehicles,destroyed,1
+2022-03-05 19:11:28,Ukraine,infantry fighting vehicles,captured,1
+2022-03-05 19:11:28,Ukraine,"trucks, vehicles and jeeps",captured,2
+2022-03-05 20:22:00,Russia,aircraft,destroyed,1
+2022-03-05 20:22:00,Russia,anti-tank guided missiles,captured,2
+2022-03-05 20:22:00,Russia,armoured personnel carriers,captured,2
+2022-03-05 20:22:00,Russia,armoured personnel carriers,destroyed,1
+2022-03-05 20:22:00,Russia,engineering vehicles,abandoned,4
+2022-03-05 20:22:00,Russia,infantry fighting vehicles,captured,4
+2022-03-05 20:22:00,Russia,infantry fighting vehicles,destroyed,5
+2022-03-05 20:22:00,Russia,infantry mobility vehicles,captured,1
+2022-03-05 20:22:00,Russia,infantry mobility vehicles,destroyed,1
+2022-03-05 20:22:00,Russia,"trucks, vehicles and jeeps",abandoned,-4
+2022-03-05 20:22:00,Russia,"trucks, vehicles and jeeps",captured,5
+2022-03-05 20:22:00,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-05 21:14:00,Russia,armoured personnel carriers,destroyed,1
+2022-03-05 21:14:00,Russia,tanks,captured,2
+2022-03-06 05:49:38,Russia,armoured fighting vehicles,abandoned,1
+2022-03-06 05:49:38,Russia,armoured fighting vehicles,captured,1
+2022-03-06 05:49:38,Russia,armoured personnel carriers,abandoned,1
+2022-03-06 05:49:38,Russia,armoured personnel carriers,captured,1
+2022-03-06 05:49:38,Russia,engineering vehicles,captured,2
+2022-03-06 05:49:38,Russia,man-portable air defence systems,captured,3
+2022-03-06 05:49:38,Russia,multiple rocket launchers,captured,1
+2022-03-06 05:49:38,Russia,self-propelled artillery,captured,1
+2022-03-06 05:49:38,Russia,tanks,destroyed,1
+2022-03-06 05:49:38,Russia,"trucks, vehicles and jeeps",abandoned,-4
+2022-03-06 05:49:38,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-06 05:49:38,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-03-06 05:49:38,Ukraine,towed artillery,destroyed,1
+2022-03-06 05:49:38,Ukraine,"trucks, vehicles and jeeps",destroyed,4
+2022-03-06 14:50:00,Russia,anti-tank guided missiles,captured,2
+2022-03-06 14:50:00,Russia,armoured fighting vehicles,captured,3
+2022-03-06 14:50:00,Russia,armoured personnel carriers,destroyed,1
+2022-03-06 14:50:00,Russia,infantry fighting vehicles,abandoned,1
+2022-03-06 14:50:00,Russia,infantry fighting vehicles,captured,2
+2022-03-06 14:50:00,Russia,infantry fighting vehicles,destroyed,2
+2022-03-06 14:50:00,Russia,infantry mobility vehicles,captured,1
+2022-03-06 14:50:00,Russia,infantry mobility vehicles,destroyed,2
+2022-03-06 14:50:00,Russia,radars,destroyed,1
+2022-03-06 14:50:00,Russia,self-propelled artillery,abandoned,1
+2022-03-06 14:50:00,Russia,surface-to-air missile systems,destroyed,1
+2022-03-06 14:50:00,Russia,tanks,abandoned,3
+2022-03-06 14:50:00,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-06 14:50:00,Russia,"trucks, vehicles and jeeps",destroyed,15
+2022-03-06 14:50:00,Ukraine,anti-tank guided missiles,captured,3
+2022-03-06 14:50:00,Ukraine,multiple rocket launchers,captured,2
+2022-03-06 14:50:00,Ukraine,"trucks, vehicles and jeeps",destroyed,3
+2022-03-06 17:06:07,Russia,anti-tank guided missiles,captured,16
+2022-03-06 17:06:07,Russia,armoured personnel carriers,captured,2
+2022-03-06 17:06:07,Russia,infantry fighting vehicles,captured,5
+2022-03-06 17:06:07,Russia,tanks,captured,2
+2022-03-06 17:06:07,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-06 17:06:07,Ukraine,armoured fighting vehicles,captured,1
+2022-03-06 17:06:07,Ukraine,infantry fighting vehicles,captured,1
+2022-03-06 17:06:07,Ukraine,infantry mobility vehicles,captured,1
+2022-03-06 17:06:07,Ukraine,tanks,destroyed,2
+2022-03-06 17:06:07,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-03-06 18:50:43,Russia,armoured personnel carriers,captured,1
+2022-03-06 18:50:43,Russia,infantry fighting vehicles,destroyed,1
+2022-03-06 18:50:43,Russia,tanks,abandoned,-1
+2022-03-06 18:50:43,Russia,tanks,captured,5
+2022-03-06 18:50:43,Russia,tanks,destroyed,1
+2022-03-06 20:55:22,Russia,armoured personnel carriers,captured,2
+2022-03-06 20:55:22,Russia,infantry fighting vehicles,destroyed,2
+2022-03-06 20:55:22,Russia,man-portable air defence systems,captured,10
+2022-03-06 20:55:22,Russia,self-propelled artillery,captured,1
+2022-03-06 20:55:22,Russia,tanks,captured,2
+2022-03-06 20:55:22,Russia,towed artillery,captured,15
+2022-03-06 20:55:22,Russia,"trucks, vehicles and jeeps",captured,5
+2022-03-06 20:55:22,Russia,"trucks, vehicles and jeeps",destroyed,9
+2022-03-06 20:55:22,Ukraine,tanks,captured,2
+2022-03-06 22:56:54,Russia,armoured fighting vehicles,destroyed,2
+2022-03-06 22:56:54,Russia,armoured personnel carriers,captured,1
+2022-03-06 22:56:54,Russia,armoured personnel carriers,destroyed,1
+2022-03-06 22:56:54,Russia,infantry fighting vehicles,destroyed,1
+2022-03-06 22:56:54,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-06 22:56:54,Ukraine,tanks,destroyed,1
+2022-03-07 01:17:41,Russia,armoured fighting vehicles,captured,1
+2022-03-07 01:17:41,Russia,armoured fighting vehicles,destroyed,2
+2022-03-07 01:17:41,Russia,armoured personnel carriers,destroyed,1
+2022-03-07 01:17:41,Russia,helicopters,destroyed,1
+2022-03-07 01:17:41,Russia,multiple rocket launchers,destroyed,1
+2022-03-07 01:17:41,Russia,self-propelled artillery,destroyed,1
+2022-03-07 01:17:41,Russia,tanks,captured,4
+2022-03-07 01:17:41,Russia,tanks,destroyed,6
+2022-03-07 01:17:41,Russia,"trucks, vehicles and jeeps",captured,2
+2022-03-07 01:17:41,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-07 11:38:42,Russia,aircraft,destroyed,1
+2022-03-07 11:38:42,Russia,armoured personnel carriers,captured,1
+2022-03-07 18:39:44,Russia,armoured fighting vehicles,captured,2
+2022-03-07 18:39:44,Russia,armoured personnel carriers,captured,1
+2022-03-07 18:39:44,Russia,engineering vehicles,destroyed,1
+2022-03-07 18:39:44,Russia,infantry fighting vehicles,captured,3
+2022-03-07 18:39:44,Russia,infantry fighting vehicles,destroyed,5
+2022-03-07 18:39:44,Russia,multiple rocket launchers,destroyed,1
+2022-03-07 18:39:44,Russia,self-propelled artillery,captured,1
+2022-03-07 18:39:44,Russia,surface-to-air missile systems,captured,1
+2022-03-07 18:39:44,Russia,surface-to-air missile systems,destroyed,1
+2022-03-07 18:39:44,Russia,tanks,captured,6
+2022-03-07 18:39:44,Russia,tanks,destroyed,4
+2022-03-07 18:39:44,Russia,"trucks, vehicles and jeeps",captured,11
+2022-03-07 18:39:44,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-07 18:39:44,Ukraine,armoured fighting vehicles,captured,1
+2022-03-07 18:39:44,Ukraine,infantry mobility vehicles,captured,2
+2022-03-07 20:15:17,Russia,armoured fighting vehicles,destroyed,1
+2022-03-07 20:15:17,Russia,infantry fighting vehicles,captured,1
+2022-03-07 20:15:17,Russia,infantry fighting vehicles,destroyed,3
+2022-03-07 20:15:17,Russia,tanks,captured,1
+2022-03-07 20:15:17,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-03-07 20:15:17,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-07 20:15:17,Ukraine,armoured fighting vehicles,captured,2
+2022-03-07 20:15:17,Ukraine,armoured personnel carriers,captured,1
+2022-03-07 20:15:17,Ukraine,naval ships,destroyed,1
+2022-03-07 20:15:17,Ukraine,towed artillery,captured,9
+2022-03-07 20:15:17,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-07 20:15:17,Ukraine,unmanned aerial vehicles,captured,1
+2022-03-08 05:40:13,Russia,armoured fighting vehicles,captured,2
+2022-03-08 05:40:13,Russia,armoured personnel carriers,captured,-2
+2022-03-08 05:40:13,Russia,engineering vehicles,abandoned,1
+2022-03-08 05:40:13,Russia,mine-resistant ambush protected,abandoned,1
+2022-03-08 05:40:13,Russia,self-propelled artillery,captured,1
+2022-03-08 05:40:13,Russia,surface-to-air missile systems,destroyed,1
+2022-03-08 05:40:13,Russia,tanks,captured,2
+2022-03-08 05:40:13,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-03-08 05:40:13,Ukraine,"trucks, vehicles and jeeps",captured,5

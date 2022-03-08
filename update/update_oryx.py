@@ -101,6 +101,17 @@ def get_difference(summary, prev_summary):
     df_diff = df_diff[df_diff.value != 0]
     return df_diff.reset_index()[['country', 'category', 'state', 'value']]
 
+def normalize_log(log):
+    category_changes = [{
+        'to_replace': 'communications station',
+        'replace_with': 'communications stations'
+    }]
+    log['category'] = log.category.apply(lambda _: _.lower().strip())
+    log = log.groupby(['timestamp', 'country', 'category', 'state']).value.sum().reset_index()
+    for change in category_changes:
+        log.category = log.category.replace(change['to_replace'], change['replace_with'])
+    return log
+
 def update_log(summary):
     prev_summary = pd.read_csv('summary.csv')
     log = pd.read_csv('log.csv', date_parser=['timestamp'])
@@ -108,6 +119,7 @@ def update_log(summary):
     timestamp = get_timestamp()
     summary_diff.insert(0, 'timestamp', timestamp)
     log = pd.concat([log, summary_diff])
+    log = normalize_log(log)
     return log
 
 def save_all(summary, reports, log):
