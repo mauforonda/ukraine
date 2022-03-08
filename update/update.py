@@ -23,7 +23,8 @@ def parse_map(response):
     return df[['entry', 'date', 'event_group', 'title', 'brief description', 'lat', 'lon', 'country', 'province', 'district', 'town/city', 'arms/munition', 'violence level', 'link', 'geolocation']]
 
 def update_time(response):
-    time = dt.datetime.fromtimestamp(response['latest_map_version'])
+    # time = dt.datetime.fromtimestamp(response['latest_map_version'])
+    time = dt.datetime.utcnow().replace(microsecond=0)
     with open('time', 'w+') as f:
         f.write(time.isoformat())
 

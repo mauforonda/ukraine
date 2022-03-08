@@ -21,6 +21,7 @@ jobs:
       - name: update catalogo
         run: |
           python3 update/update.py
+          python3 update/update_oryx.py
         id: update_catalogo
       - name: commit
         run: |
