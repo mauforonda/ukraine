@@ -39,10 +39,10 @@ Russia,Self-Propelled Artillery ,captured,10
 Russia,Self-Propelled Artillery ,destroyed,4
 Russia,Self-propelled Anti-Aircraft Guns ,abandoned,2
 Russia,Self-propelled Anti-Aircraft Guns ,destroyed,5
-Russia,Surface-To-Air Missile Systems ,abandoned,3
+Russia,Surface-To-Air Missile Systems ,abandoned,5
 Russia,Surface-To-Air Missile Systems ,captured,9
 Russia,Surface-To-Air Missile Systems ,damaged,1
-Russia,Surface-To-Air Missile Systems ,destroyed,11
+Russia,Surface-To-Air Missile Systems ,destroyed,9
 Russia,Tanks ,abandoned,30
 Russia,Tanks ,captured,70
 Russia,Tanks ,damaged,2
@@ -91,4 +91,3 @@ Ukraine,"Trucks, Vehicles and Jeeps ",abandoned,6
 Ukraine,"Trucks, Vehicles and Jeeps ",captured,32
 Ukraine,"Trucks, Vehicles and Jeeps ",damaged,2
 Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,30
-Ukraine,Unmanned Aerial Vehicles ,captured,1

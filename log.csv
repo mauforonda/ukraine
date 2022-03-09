@@ -671,3 +671,6 @@ timestamp,country,category,state,value
 2022-03-08 21:16:42,Russia,tanks,captured,-1
 2022-03-08 21:16:42,Russia,tanks,destroyed,1
 2022-03-08 21:16:42,Russia,"trucks, vehicles and jeeps",captured,3
+2022-03-09 01:16:35,Russia,surface-to-air missile systems,abandoned,2
+2022-03-09 01:16:35,Russia,surface-to-air missile systems,destroyed,-2
+2022-03-09 01:16:35,Ukraine,unmanned aerial vehicles,captured,-1
