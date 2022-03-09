@@ -90,6 +90,7 @@ def get_data(html):
     summary = parse_categories(df)
     reports = df[['country', 'category', 'equipment', 'equipment_origin', 'text', 'source']]
     reports['equipment'] = reports.equipment.apply(lambda _: ' '.join(_.split()[1:]))
+    reports['text'] = reports.text.apply(lambda _: re.sub('[\(\)]*', '', _).strip())
     return summary, reports
 
 def get_timestamp():
