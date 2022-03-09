@@ -1,7 +1,7 @@
 country,category,state,value
 Russia,Aircraft ,destroyed,11
 Russia,Anti-Tank Guided Missiles ,captured,48
-Russia,Armoured Fighting Vehicles ,abandoned,17
+Russia,Armoured Fighting Vehicles ,abandoned,18
 Russia,Armoured Fighting Vehicles ,captured,45
 Russia,Armoured Fighting Vehicles ,destroyed,33
 Russia,Armoured Personnel Carriers ,abandoned,10
@@ -18,7 +18,7 @@ Russia,Helicopters ,abandoned,2
 Russia,Helicopters ,damaged,1
 Russia,Helicopters ,destroyed,8
 Russia,Infantry Fighting Vehicles ,abandoned,25
-Russia,Infantry Fighting Vehicles ,captured,60
+Russia,Infantry Fighting Vehicles ,captured,61
 Russia,Infantry Fighting Vehicles ,destroyed,55
 Russia,Infantry Mobility Vehicles ,abandoned,2
 Russia,Infantry Mobility Vehicles ,captured,12
