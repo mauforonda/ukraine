@@ -693,3 +693,9 @@ timestamp,country,category,state,value
 2022-03-09 15:19:31,Ukraine,infantry fighting vehicles,captured,1
 2022-03-09 21:16:36,Russia,armoured fighting vehicles,abandoned,1
 2022-03-09 21:16:36,Russia,infantry fighting vehicles,captured,1
+2022-03-10 12:31:55,Russia,aircraft,destroyed,1
+2022-03-10 12:31:55,Russia,armoured fighting vehicles,captured,1
+2022-03-10 12:31:55,Russia,infantry fighting vehicles,captured,1
+2022-03-10 12:31:55,Russia,infantry fighting vehicles,destroyed,1
+2022-03-10 12:31:55,Russia,surface-to-air missile systems,destroyed,1
+2022-03-10 12:31:55,Russia,"trucks, vehicles and jeeps",destroyed,1
