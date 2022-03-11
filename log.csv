@@ -741,3 +741,10 @@ timestamp,country,category,state,value
 2022-03-10 21:16:44,Ukraine,armoured fighting vehicles,captured,2
 2022-03-10 21:16:44,Ukraine,towed artillery,captured,1
 2022-03-10 21:16:44,Ukraine,"trucks, vehicles and jeeps",captured,3
+2022-03-11 01:21:33,Russia,armoured fighting vehicles,destroyed,3
+2022-03-11 01:21:33,Russia,armoured personnel carriers,destroyed,4
+2022-03-11 01:21:33,Russia,infantry fighting vehicles,captured,1
+2022-03-11 01:21:33,Russia,infantry fighting vehicles,destroyed,2
+2022-03-11 01:21:33,Russia,tanks,captured,2
+2022-03-11 01:21:33,Russia,tanks,destroyed,1
+2022-03-11 01:21:33,Russia,"trucks, vehicles and jeeps",captured,1
