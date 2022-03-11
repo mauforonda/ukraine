@@ -800,3 +800,8 @@ timestamp,country,category,state,value
 2022-03-11 18:22:30,Ukraine,helicopters,destroyed,1
 2022-03-11 18:22:30,Ukraine,tanks,captured,4
 2022-03-11 18:22:30,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-11 21:15:59,Russia,infantry fighting vehicles,captured,2
+2022-03-11 21:15:59,Russia,tanks,captured,2
+2022-03-11 21:15:59,Ukraine,infantry fighting vehicles,destroyed,1
+2022-03-11 21:15:59,Ukraine,infantry mobility vehicles,destroyed,1
+2022-03-11 21:15:59,Ukraine,tanks,captured,1
