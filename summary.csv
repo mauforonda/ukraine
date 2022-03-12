@@ -19,8 +19,8 @@ Russia,Helicopters ,abandoned,2
 Russia,Helicopters ,damaged,1
 Russia,Helicopters ,destroyed,10
 Russia,Infantry Fighting Vehicles ,abandoned,25
-Russia,Infantry Fighting Vehicles ,captured,67
-Russia,Infantry Fighting Vehicles ,destroyed,74
+Russia,Infantry Fighting Vehicles ,captured,69
+Russia,Infantry Fighting Vehicles ,destroyed,76
 Russia,Infantry Mobility Vehicles ,abandoned,2
 Russia,Infantry Mobility Vehicles ,captured,13
 Russia,Infantry Mobility Vehicles ,damaged,1
@@ -39,7 +39,7 @@ Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,3
 Russia,Self-Propelled Anti-Aircraft Guns ,destroyed,5
 Russia,Self-Propelled Artillery ,abandoned,11
 Russia,Self-Propelled Artillery ,captured,11
-Russia,Self-Propelled Artillery ,destroyed,6
+Russia,Self-Propelled Artillery ,destroyed,7
 Russia,Surface-To-Air Missile Systems ,abandoned,6
 Russia,Surface-To-Air Missile Systems ,captured,11
 Russia,Surface-To-Air Missile Systems ,damaged,1
@@ -54,13 +54,13 @@ Russia,Towed Artillery ,destroyed,4
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,39
 Russia,"Trucks, Vehicles and Jeeps ",captured,128
 Russia,"Trucks, Vehicles and Jeeps ",damaged,9
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,160
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,163
 Russia,Unmanned Aerial Vehicles ,captured,2
 Russia,Unmanned Aerial Vehicles ,destroyed,2
 Ukraine,Aircraft ,destroyed,9
 Ukraine,Anti-tank Guided Missiles ,captured,34
 Ukraine,Armoured Fighting Vehicles ,abandoned,11
-Ukraine,Armoured Fighting Vehicles ,captured,21
+Ukraine,Armoured Fighting Vehicles ,captured,22
 Ukraine,Armoured Fighting Vehicles ,destroyed,8
 Ukraine,Armoured Personnel Carriers ,abandoned,2
 Ukraine,Armoured Personnel Carriers ,captured,13
@@ -85,7 +85,7 @@ Ukraine,Self-Propelled Artillery ,destroyed,4
 Ukraine,Surface-To-Air Missile Systems ,destroyed,9
 Ukraine,Tanks ,abandoned,10
 Ukraine,Tanks ,captured,26
-Ukraine,Tanks ,destroyed,16
+Ukraine,Tanks ,destroyed,17
 Ukraine,Towed Artillery ,abandoned,3
 Ukraine,Towed Artillery ,captured,11
 Ukraine,Towed Artillery ,destroyed,1
