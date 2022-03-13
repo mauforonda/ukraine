@@ -857,3 +857,15 @@ timestamp,country,category,state,value
 2022-03-13 01:11:14,Ukraine,self-propelled anti-aircraft guns,captured,1
 2022-03-13 01:11:14,Ukraine,tanks,captured,2
 2022-03-13 03:19:54,Russia,engineering vehicles,captured,1
+2022-03-13 12:29:37,Russia,armoured fighting vehicles,abandoned,3
+2022-03-13 12:29:37,Russia,armoured fighting vehicles,captured,3
+2022-03-13 12:29:37,Russia,armoured fighting vehicles,destroyed,1
+2022-03-13 12:29:37,Russia,infantry fighting vehicles,captured,2
+2022-03-13 12:29:37,Russia,man-portable air defence systems,captured,-2
+2022-03-13 12:29:37,Russia,self-propelled anti-aircraft guns,abandoned,1
+2022-03-13 12:29:37,Russia,surface-to-air missile systems,captured,-2
+2022-03-13 12:29:37,Russia,tanks,abandoned,1
+2022-03-13 12:29:37,Russia,tanks,destroyed,2
+2022-03-13 12:29:37,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-13 12:29:37,Ukraine,infantry mobility vehicles,captured,1
+2022-03-13 12:29:37,Ukraine,man-portable air defence systems,captured,-14
