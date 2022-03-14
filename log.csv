@@ -914,3 +914,10 @@ timestamp,country,category,state,value
 2022-03-14 12:31:20,Russia,unmanned aerial vehicles,captured,1
 2022-03-14 12:31:20,Ukraine,anti-tank guided missiles,captured,1
 2022-03-14 12:31:20,Ukraine,infantry mobility vehicles,captured,1
+2022-03-14 15:21:05,Russia,engineering vehicles,abandoned,1
+2022-03-14 15:21:05,Russia,infantry fighting vehicles,destroyed,2
+2022-03-14 15:21:05,Russia,infantry mobility vehicles,captured,1
+2022-03-14 15:21:05,Russia,tanks,captured,2
+2022-03-14 15:21:05,Russia,towed artillery,abandoned,-4
+2022-03-14 15:21:05,Russia,towed artillery,captured,-1
+2022-03-14 15:21:05,Ukraine,surface-to-air missile systems,abandoned,1
