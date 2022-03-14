@@ -904,3 +904,13 @@ timestamp,country,category,state,value
 2022-03-14 01:19:55,Russia,"trucks, vehicles and jeeps",captured,2
 2022-03-14 01:19:55,Russia,"trucks, vehicles and jeeps",destroyed,19
 2022-03-14 01:19:55,Ukraine,tanks,destroyed,1
+2022-03-14 12:31:20,Russia,aircraft,damaged,1
+2022-03-14 12:31:20,Russia,armoured fighting vehicles,destroyed,1
+2022-03-14 12:31:20,Russia,infantry fighting vehicles,destroyed,1
+2022-03-14 12:31:20,Russia,multiple rocket launchers,abandoned,2
+2022-03-14 12:31:20,Russia,multiple rocket launchers,captured,1
+2022-03-14 12:31:20,Russia,surface-to-air missile systems,destroyed,1
+2022-03-14 12:31:20,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-03-14 12:31:20,Russia,unmanned aerial vehicles,captured,1
+2022-03-14 12:31:20,Ukraine,anti-tank guided missiles,captured,1
+2022-03-14 12:31:20,Ukraine,infantry mobility vehicles,captured,1
