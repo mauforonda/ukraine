@@ -959,3 +959,15 @@ timestamp,country,category,state,value
 2022-03-15 12:32:24,Russia,armoured fighting vehicles,abandoned,1
 2022-03-15 12:32:24,Russia,armoured fighting vehicles,captured,-2
 2022-03-15 12:32:24,Russia,surface-to-air missile systems,abandoned,1
+2022-03-15 15:19:51,Russia,infantry fighting vehicles,captured,1
+2022-03-15 15:19:51,Russia,infantry fighting vehicles,destroyed,2
+2022-03-15 15:19:51,Russia,man-portable air defence systems,captured,2
+2022-03-15 15:19:51,Russia,multiple rocket launchers,captured,2
+2022-03-15 15:19:51,Russia,tanks,captured,3
+2022-03-15 15:19:51,Russia,towed artillery,captured,4
+2022-03-15 15:19:51,Ukraine,aircraft,destroyed,-1
+2022-03-15 15:19:51,Ukraine,anti-tank guided missiles,captured,9
+2022-03-15 15:19:51,Ukraine,man-portable air defence systems,captured,2
+2022-03-15 15:19:51,Ukraine,naval ships,captured,11
+2022-03-15 15:19:51,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-03-15 15:19:51,Ukraine,unmanned aerial vehicles,destroyed,2
