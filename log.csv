@@ -971,3 +971,10 @@ timestamp,country,category,state,value
 2022-03-15 15:19:51,Ukraine,naval ships,captured,11
 2022-03-15 15:19:51,Ukraine,"trucks, vehicles and jeeps",destroyed,1
 2022-03-15 15:19:51,Ukraine,unmanned aerial vehicles,destroyed,2
+2022-03-15 18:23:03,Russia,anti-tank guided missiles,abandoned,24
+2022-03-15 18:23:03,Russia,anti-tank guided missiles,captured,-12
+2022-03-15 18:23:03,Russia,armoured fighting vehicles,abandoned,1
+2022-03-15 18:23:03,Russia,surface-to-air missile systems,destroyed,1
+2022-03-15 18:23:03,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-03-15 18:23:03,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-03-15 18:23:03,Ukraine,infantry mobility vehicles,destroyed,1
