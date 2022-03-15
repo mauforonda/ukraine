@@ -956,3 +956,6 @@ timestamp,country,category,state,value
 2022-03-15 01:18:25,Ukraine,self-propelled artillery,destroyed,1
 2022-03-15 01:18:25,Ukraine,surface-to-air missile systems,abandoned,1
 2022-03-15 01:18:25,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-15 12:32:24,Russia,armoured fighting vehicles,abandoned,1
+2022-03-15 12:32:24,Russia,armoured fighting vehicles,captured,-2
+2022-03-15 12:32:24,Russia,surface-to-air missile systems,abandoned,1
