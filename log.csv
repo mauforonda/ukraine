@@ -993,3 +993,5 @@ timestamp,country,category,state,value
 2022-03-16 01:18:43,Ukraine,aircraft,destroyed,1
 2022-03-16 01:18:43,Ukraine,armoured personnel carriers,captured,2
 2022-03-16 01:18:43,Ukraine,self-propelled artillery,captured,1
+2022-03-16 12:31:32,Russia,armoured fighting vehicles,destroyed,1
+2022-03-16 12:31:32,Russia,"trucks, vehicles and jeeps",abandoned,1
