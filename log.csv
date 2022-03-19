@@ -1115,3 +1115,8 @@ timestamp,country,category,state,value
 2022-03-19 15:19:11,Russia,mine-resistant ambush protected,destroyed,1
 2022-03-19 15:19:11,Russia,tanks,destroyed,5
 2022-03-19 15:19:11,Russia,"trucks, vehicles and jeeps",destroyed,4
+2022-03-19 18:21:30,Russia,infantry fighting vehicles,destroyed,1
+2022-03-19 18:21:30,Russia,multiple rocket launchers,destroyed,3
+2022-03-19 18:21:30,Russia,tanks,destroyed,2
+2022-03-19 18:21:30,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-03-19 18:21:30,Russia,"trucks, vehicles and jeeps",destroyed,13
