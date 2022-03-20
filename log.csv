@@ -1158,3 +1158,9 @@ timestamp,country,category,state,value
 2022-03-20 18:22:12,Ukraine,infantry fighting vehicles,destroyed,3
 2022-03-20 18:22:12,Ukraine,infantry mobility vehicles,captured,1
 2022-03-20 18:22:12,Ukraine,infantry mobility vehicles,destroyed,2
+2022-03-20 21:16:44,Russia,engineering vehicles,captured,1
+2022-03-20 21:16:44,Russia,infantry fighting vehicles,destroyed,-2
+2022-03-20 21:16:44,Russia,infantry mobility vehicles,captured,-2
+2022-03-20 21:16:44,Russia,surface-to-air missile systems,destroyed,2
+2022-03-20 21:16:44,Russia,tanks,destroyed,1
+2022-03-20 21:16:44,Russia,unmanned aerial vehicles,destroyed,1
