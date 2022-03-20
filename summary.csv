@@ -1,15 +1,15 @@
 country,category,state,value
 Russia,Aircraft ,damaged,1
-Russia,Aircraft ,destroyed,12
+Russia,Aircraft ,destroyed,13
 Russia,Anti-Aircraft Guns ,captured,2
 Russia,Anti-Tank Guided Missiles ,abandoned,24
 Russia,Anti-Tank Guided Missiles ,captured,37
 Russia,Armoured Fighting Vehicles ,abandoned,34
-Russia,Armoured Fighting Vehicles ,captured,64
-Russia,Armoured Fighting Vehicles ,destroyed,67
+Russia,Armoured Fighting Vehicles ,captured,65
+Russia,Armoured Fighting Vehicles ,destroyed,71
 Russia,Armoured Personnel Carriers ,abandoned,14
 Russia,Armoured Personnel Carriers ,captured,38
-Russia,Armoured Personnel Carriers ,destroyed,23
+Russia,Armoured Personnel Carriers ,destroyed,24
 Russia,Communications Stations ,abandoned,4
 Russia,Communications Stations ,captured,4
 Russia,Communications Stations ,destroyed,3
@@ -48,19 +48,19 @@ Russia,Self-Propelled Artillery ,abandoned,12
 Russia,Self-Propelled Artillery ,captured,15
 Russia,Self-Propelled Artillery ,destroyed,10
 Russia,Surface-To-Air Missile Systems ,abandoned,7
-Russia,Surface-To-Air Missile Systems ,captured,11
+Russia,Surface-To-Air Missile Systems ,captured,12
 Russia,Surface-To-Air Missile Systems ,damaged,1
-Russia,Surface-To-Air Missile Systems ,destroyed,16
+Russia,Surface-To-Air Missile Systems ,destroyed,17
 Russia,Tanks ,abandoned,41
 Russia,Tanks ,captured,106
 Russia,Tanks ,damaged,4
-Russia,Tanks ,destroyed,100
+Russia,Tanks ,destroyed,103
 Russia,Towed Artillery ,captured,23
 Russia,Towed Artillery ,destroyed,4
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,59
-Russia,"Trucks, Vehicles and Jeeps ",captured,153
-Russia,"Trucks, Vehicles and Jeeps ",damaged,12
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,296
+Russia,"Trucks, Vehicles and Jeeps ",captured,154
+Russia,"Trucks, Vehicles and Jeeps ",damaged,15
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,305
 Russia,Unmanned Aerial Vehicles ,captured,4
 Russia,Unmanned Aerial Vehicles ,destroyed,6
 Ukraine,Aircraft ,destroyed,10
