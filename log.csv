@@ -1207,3 +1207,8 @@ timestamp,country,category,state,value
 2022-03-21 18:23:32,Ukraine,surface-to-air missile systems,destroyed,1
 2022-03-21 18:23:32,Ukraine,"trucks, vehicles and jeeps",captured,48
 2022-03-21 18:23:32,Ukraine,"trucks, vehicles and jeeps",destroyed,4
+2022-03-21 21:14:40,Russia,armoured fighting vehicles,captured,1
+2022-03-21 21:14:40,Russia,self-propelled artillery,abandoned,-1
+2022-03-21 21:14:40,Russia,self-propelled artillery,damaged,1
+2022-03-21 21:14:40,Ukraine,surface-to-air missile systems,captured,-1
+2022-03-21 21:14:40,Ukraine,surface-to-air missile systems,destroyed,1
