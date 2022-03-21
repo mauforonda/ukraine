@@ -536,6 +536,7 @@ Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"30, captured",https
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"12, destroyed",https://i.postimg.cc/Cx9Ydf9d/5247.png
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"14, destroyed",https://i.postimg.cc/GhHBmcX3/9o.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"28, captured",https://i.postimg.cc/Ghw0nr5d/sfg.png
+Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"31, captured",https://i.postimg.cc/Gpgj5ZYm/2r.png
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"21, damaged and captured",https://i.postimg.cc/HxnCghHt/446.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"23, captured",https://i.postimg.cc/KYsHnvSn/38.png
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"11, destroyed",https://i.postimg.cc/MHB05ZKP/r2.jpg
@@ -1589,7 +1590,11 @@ Ukraine,Armoured Fighting Vehicles ,MT-LBu,ussr,"3, damaged and abandoned",https
 Ukraine,Armoured Fighting Vehicles ,MT-LBu,ussr,"4, captured",https://i.postimg.cc/qqpf540b/a1.png 
 Ukraine,Armoured Fighting Vehicles ,MT-LBu,ussr,"1, destroyed",https://i.postimg.cc/tTtGQFZV/34.png
 Ukraine,Armoured Fighting Vehicles ,SNAR-10 battlefield surveillance radar,ussr,"1, captured",https://i.postimg.cc/c4DVgZbq/224.png
+Ukraine,Armoured Fighting Vehicles ,Unknown AFV,ukraine,"3, destroyed",https://i.postimg.cc/0yCWcKrP/13.jpg
+Ukraine,Armoured Fighting Vehicles ,Unknown AFV,ukraine,"5, destroyed",https://i.postimg.cc/6qRzRyDs/15.jpg
+Ukraine,Armoured Fighting Vehicles ,Unknown AFV,ukraine,"2, destroyed by Orion",https://i.postimg.cc/RZxLrS2h/443.jpg
 Ukraine,Armoured Fighting Vehicles ,Unknown AFV,ukraine,"1, destroyed",https://i.postimg.cc/SNyxgzqX/3280.png
+Ukraine,Armoured Fighting Vehicles ,Unknown AFV,ukraine,"4, destroyed",https://i.postimg.cc/mDPmLdjg/14.jpg
 Ukraine,Armoured Fighting Vehicles ,Vepr MRAP,ukraine,"1, captured",https://i.postimg.cc/0j3NhvTH/32dj.png
 Ukraine,Armoured Personnel Carriers ,AT105A 'Saxon',united kingdom,"1, captured",https://i.postimg.cc/Y98MS8hs/344.png
 Ukraine,Armoured Personnel Carriers ,BTR-60,ussr,"4, captured",https://i.postimg.cc/X7fQsQrh/4438.png
@@ -1701,6 +1706,8 @@ Ukraine,Man-Portable Air Defence Systems ,9K310 Igla-1,ussr,"1 and 2, captured",
 Ukraine,Man-Portable Air Defence Systems ,9K38 Igla,ussr,"1, captured",https://i.postimg.cc/4xhpF2Yg/5549.png
 Ukraine,Man-Portable Air Defence Systems ,9K38 Igla,ussr,"2 and 3, captured",https://i.postimg.cc/DZQBPj2h/fs.png
 Ukraine,Man-Portable Air Defence Systems ,9K38 Igla,ussr,"4, captured",https://i.postimg.cc/d15B65Cj/7o.png
+Ukraine,Multiple Rocket Launchers ,122mm BM-21 'Grad',ussr,"2, captured",https://i.postimg.cc/3rnRpYg6/5hj.png
+Ukraine,Multiple Rocket Launchers ,122mm BM-21 'Grad',ussr,"1, captured",https://i.postimg.cc/zfxRt8ny/m1.png 
 Ukraine,Multiple Rocket Launchers ,220mm BM-27 'Uragan',ussr,"3, captured",https://i.postimg.cc/0yh6X2cL/346.png
 Ukraine,Multiple Rocket Launchers ,220mm BM-27 'Uragan',ussr,"1 and 2, captured",https://i.postimg.cc/MpZxknr7/437.png
 Ukraine,Naval Ships ,Gyurza-M class gunboat,ukraine,"2, Vyshhorod 'P179', captured",https://i.postimg.cc/Xv5443pP/f6.jpg
@@ -1719,8 +1726,10 @@ Ukraine,Naval Ships ,Zhuk class patrol boat (Sea Guard),ussr,"1, 'BG 118', captu
 Ukraine,Radars ,1L22 'Parol',ussr,"1, destroyed",https://i.postimg.cc/SRjk0C96/6659.png
 Ukraine,Radars ,1L22 'Parol',ussr,"2, damaged",https://postimg.cc/9Dcvz02c
 Ukraine,Radars ,30N6 'Flap Lid',ussr,"1, destroyed",https://i.postimg.cc/j5TNDM4X/Screenshot-9320.png
+Ukraine,Radars ,36D6 'Tin Shield',ussr,"1, destroyed",https://i.postimg.cc/m2kp8gCH/4fj.png
 Ukraine,Radars ,AN/TPQ-49 lightweight counter mortar antenna,united states,"1, captured",https://i.postimg.cc/fRgwnrkP/d6.png
 Ukraine,Radars ,P-14 'Tall King',ussr,"1, damaged",https://i.postimg.cc/rpWmrPLb/57.png
+Ukraine,Radars ,P-19 'Flat Face B',ussr,"1, destroyed",https://i.postimg.cc/G2SG2d2W/578.png
 Ukraine,Radars ,P-35/37 'Bar Lock',ussr,"1, destroyed",https://i.postimg.cc/WpShQwBk/5547.png
 Ukraine,Radars ,PRV-13 'Odd Pair',ussr,"1, destroyed",https://i.postimg.cc/pXwx79Lj/557.png
 Ukraine,Self-Propelled Anti-Aircraft Guns ,ZSU-23-4 'Shilka',ussr,"1, captured",https://i.postimg.cc/nzwtKX39/4f3.png
@@ -1741,62 +1750,65 @@ Ukraine,Surface-To-Air Missile Systems ,5P85D (launcher for S-300PS),ussr,"2, de
 Ukraine,Surface-To-Air Missile Systems ,5P85S (launcher for S-300PS),ussr,"1, destroyed",https://i.postimg.cc/5NDD40Fy/39.png
 Ukraine,Surface-To-Air Missile Systems ,5P85S (launcher for S-300PS),ussr,"2, destroyed",https://i.postimg.cc/cLVfSxKP/Screenshot-9316.png
 Ukraine,Surface-To-Air Missile Systems ,5P85S (launcher for S-300PS),ussr,"3, abandoned",https://i.postimg.cc/nc1PvhZ1/411.png
-Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"3, destroyed",https://i.postimg.cc/9F6xPsMT/5547.png
-Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"4, destroyed",https://i.postimg.cc/bNHKQS1X/d12.png
-Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"5, destroyed",https://i.postimg.cc/d1Xpqq9t/6899.png
-Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"2, destroyed",https://i.postimg.cc/ncjkcdJN/589.png
+Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"4, destroyed",https://i.postimg.cc/9F6xPsMT/5547.png
+Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"7, captured",https://i.postimg.cc/D0wbscB4/y8.png
+Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"2, destroyed",https://i.postimg.cc/NfmzSfpC/3244.png
+Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"5, destroyed",https://i.postimg.cc/bNHKQS1X/d12.png
+Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"6, destroyed",https://i.postimg.cc/d1Xpqq9t/6899.png
+Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"3, destroyed",https://i.postimg.cc/ncjkcdJN/589.png
 Ukraine,Surface-To-Air Missile Systems ,9K33 Osa,ussr,"1, destroyed",https://i.postimg.cc/wM1d9gZR/b8.png
 Ukraine,Surface-To-Air Missile Systems ,9K35 Strela-10,ussr,"1, destroyed",https://i.postimg.cc/05npf6Y5/d69.png
 Ukraine,Surface-To-Air Missile Systems ,9K35 Strela-10,ussr,"2, abandoned",https://i.postimg.cc/B61Rm1DR/b8.png
 Ukraine,Surface-To-Air Missile Systems ,Buk-M1,ussr,"1, destroyed",https://i.postimg.cc/65Hjk0rQ/5542.png
 Ukraine,Tanks ,T-64B1M,ukraine,"1, damaged and abandoned",https://i.postimg.cc/HxmWTxMP/3d1.png 
-Ukraine,Tanks ,T-64BV,ussr,"62, captured",https://i.postimg.cc/0jpxNpJv/43177.png
-Ukraine,Tanks ,T-64BV,ussr,"32, captured",https://i.postimg.cc/1Xj69nby/316.png
-Ukraine,Tanks ,T-64BV,ussr,"35, captured",https://i.postimg.cc/280btFGT/d3.png
-Ukraine,Tanks ,T-64BV,ussr,"57, captured",https://i.postimg.cc/2y3ZvYBj/447.png
-Ukraine,Tanks ,T-64BV,ussr,"56, captured",https://i.postimg.cc/3Rpyrz3c/r133.png
+Ukraine,Tanks ,T-64BV,ussr,"63, captured",https://i.postimg.cc/0jpxNpJv/43177.png
+Ukraine,Tanks ,T-64BV,ussr,"33, captured",https://i.postimg.cc/1Xj69nby/316.png
+Ukraine,Tanks ,T-64BV,ussr,"36, captured",https://i.postimg.cc/280btFGT/d3.png
+Ukraine,Tanks ,T-64BV,ussr,"58, captured",https://i.postimg.cc/2y3ZvYBj/447.png
+Ukraine,Tanks ,T-64BV,ussr,"57, captured",https://i.postimg.cc/3Rpyrz3c/r133.png
 Ukraine,Tanks ,T-64BV,ussr,"4, destroyed",https://i.postimg.cc/442p3Kn8/443.png
 Ukraine,Tanks ,T-64BV,ussr,"10, destroyed",https://i.postimg.cc/44zyTqfZ/o9.png
 Ukraine,Tanks ,T-64BV,ussr,"2, destroyed",https://i.postimg.cc/59wN4Ybq/689.png
 Ukraine,Tanks ,T-64BV,ussr,"29, damaged and captured",https://i.postimg.cc/6QWhgDnj/j8.png
-Ukraine,Tanks ,T-64BV,ussr,"34, captured",https://i.postimg.cc/6pZCp3Xv/t1.png
+Ukraine,Tanks ,T-64BV,ussr,"35, captured",https://i.postimg.cc/6pZCp3Xv/t1.png
 Ukraine,Tanks ,T-64BV,ussr,"13, destroyed",https://i.postimg.cc/7YhDhNRQ/f566.jpg
 Ukraine,Tanks ,T-64BV,ussr,"30 and 31, abandoned",https://i.postimg.cc/8Pf8WQWH/557l.png
 Ukraine,Tanks ,T-64BV,ussr,"16, destroyed",https://i.postimg.cc/8zC4rW64/321.png
-Ukraine,Tanks ,T-64BV,ussr,"33, captured",https://i.postimg.cc/9fjZRhmN/t2.png
+Ukraine,Tanks ,T-64BV,ussr,"34, captured",https://i.postimg.cc/9fjZRhmN/t2.png
 Ukraine,Tanks ,T-64BV,ussr,"9, destroyed",https://i.postimg.cc/C1XTdKjW/n8.png
 Ukraine,Tanks ,T-64BV,ussr,"14, destroyed",https://i.postimg.cc/C5t2zbZW/f5666.jpg
 Ukraine,Tanks ,T-64BV,ussr,"22, damaged and abandoned",https://i.postimg.cc/CLn96SZZ/f7.png
-Ukraine,Tanks ,T-64BV,ussr,"61, captured",https://i.postimg.cc/G2TXN9cy/5g2.png
+Ukraine,Tanks ,T-64BV,ussr,"62, captured",https://i.postimg.cc/G2TXN9cy/5g2.png
 Ukraine,Tanks ,T-64BV,ussr,"18, destroyed",https://i.postimg.cc/GpXfM7DH/12.png
-Ukraine,Tanks ,T-64BV,ussr,"44, 45, 46 and 47, captured",https://i.postimg.cc/L88FZp4R/d135.png
+Ukraine,Tanks ,T-64BV,ussr,"45, 46, 47 and 48, captured",https://i.postimg.cc/L88FZp4R/d135.png
 Ukraine,Tanks ,T-64BV,ussr,"17, destroyed",https://i.postimg.cc/LXjZKyB3/gy6.png
 Ukraine,Tanks ,T-64BV,ussr,"20, destroyed",https://i.postimg.cc/MpP3ydft/35.png
-Ukraine,Tanks ,T-64BV,ussr,"48, captured",https://i.postimg.cc/Qdn1WwKw/fgj.png
-Ukraine,Tanks ,T-64BV,ussr,"36, captured",https://i.postimg.cc/VLvLJy9B/f33.png
-Ukraine,Tanks ,T-64BV,ussr,"60, captured",https://i.postimg.cc/VN6JN05r/ff7.png
+Ukraine,Tanks ,T-64BV,ussr,"49, captured",https://i.postimg.cc/Qdn1WwKw/fgj.png
+Ukraine,Tanks ,T-64BV,ussr,"37, captured",https://i.postimg.cc/VLvLJy9B/f33.png
+Ukraine,Tanks ,T-64BV,ussr,"61, captured",https://i.postimg.cc/VN6JN05r/ff7.png
 Ukraine,Tanks ,T-64BV,ussr,"15, destroyed",https://i.postimg.cc/Vs7vQZSZ/316.png
-Ukraine,Tanks ,T-64BV,ussr,"51, captured",https://i.postimg.cc/XNRTR2Dw/ff23.jpg
+Ukraine,Tanks ,T-64BV,ussr,"32, captured",https://i.postimg.cc/WzKkTv85/4433.png
+Ukraine,Tanks ,T-64BV,ussr,"52, captured",https://i.postimg.cc/XNRTR2Dw/ff23.jpg
 Ukraine,Tanks ,T-64BV,ussr,"26, abandoned",https://i.postimg.cc/fTV39LBr/5570.png
-Ukraine,Tanks ,T-64BV,ussr,"52, captured",https://i.postimg.cc/fTY6Dx61/ff24.jpg
+Ukraine,Tanks ,T-64BV,ussr,"53, captured",https://i.postimg.cc/fTY6Dx61/ff24.jpg
 Ukraine,Tanks ,T-64BV,ussr,"3, destroyed",https://i.postimg.cc/fWBW5NVQ/558.png
 Ukraine,Tanks ,T-64BV,ussr,"5, destroyed",https://i.postimg.cc/gjqt7JQh/445.png
-Ukraine,Tanks ,T-64BV,ussr,"49 and 50, captured",https://i.postimg.cc/hhF2509S/270.png
-Ukraine,Tanks ,T-64BV,ussr,"43, captured",https://i.postimg.cc/hjy9hdTX/24.png
+Ukraine,Tanks ,T-64BV,ussr,"50 and 51, captured",https://i.postimg.cc/hhF2509S/270.png
+Ukraine,Tanks ,T-64BV,ussr,"44, captured",https://i.postimg.cc/hjy9hdTX/24.png
 Ukraine,Tanks ,T-64BV,ussr,"7 and 8, destroyed",https://i.postimg.cc/jSkfDQJC/765.png
-Ukraine,Tanks ,T-64BV,ussr,"58 and 59, captured",https://i.postimg.cc/k5dJtVjX/4f28.png
+Ukraine,Tanks ,T-64BV,ussr,"59 and 60, captured",https://i.postimg.cc/k5dJtVjX/4f28.png
 Ukraine,Tanks ,T-64BV,ussr,"28, abandoned",https://i.postimg.cc/k5m1QQ2y/dd3.png
 Ukraine,Tanks ,T-64BV,ussr,"21, destroyed",https://i.postimg.cc/kGMZ6sDS/5800.png
 Ukraine,Tanks ,T-64BV,ussr,"1, destroyed",https://i.postimg.cc/mgntjg7P/763.png
-Ukraine,Tanks ,T-64BV,ussr,"55, captured",https://i.postimg.cc/nL9rTN9h/r134.png
-Ukraine,Tanks ,T-64BV,ussr,"37, 38, 39, 40 and 41, captured",https://i.postimg.cc/nhxjsB2y/f565.png
-Ukraine,Tanks ,T-64BV,ussr,"53, captured",https://i.postimg.cc/nrZLNHw2/ca1.png
+Ukraine,Tanks ,T-64BV,ussr,"56, captured",https://i.postimg.cc/nL9rTN9h/r134.png
+Ukraine,Tanks ,T-64BV,ussr,"38, 39, 40, 41 and 42, captured",https://i.postimg.cc/nhxjsB2y/f565.png
+Ukraine,Tanks ,T-64BV,ussr,"54, captured",https://i.postimg.cc/nrZLNHw2/ca1.png
 Ukraine,Tanks ,T-64BV,ussr,"6, destroyed",https://i.postimg.cc/qB9sVyfT/223.png
 Ukraine,Tanks ,T-64BV,ussr,"27, abandoned",https://i.postimg.cc/qBsnPDXc/5548.png
-Ukraine,Tanks ,T-64BV,ussr,"54, captured",https://i.postimg.cc/qR73wNL8/31d.png
+Ukraine,Tanks ,T-64BV,ussr,"55, captured",https://i.postimg.cc/qR73wNL8/31d.png
 Ukraine,Tanks ,T-64BV,ussr,"12, destroyed",https://i.postimg.cc/rFvVhTXT/l9.png
 Ukraine,Tanks ,T-64BV,ussr,"23, abandoned",https://i.postimg.cc/rFzZ43Zg/578.png
-Ukraine,Tanks ,T-64BV,ussr,"42, captured",https://i.postimg.cc/rpCqm3R9/3fh.png
+Ukraine,Tanks ,T-64BV,ussr,"43, captured",https://i.postimg.cc/rpCqm3R9/3fh.png
 Ukraine,Tanks ,T-64BV,ussr,"24 and 25, abandoned",https://i.postimg.cc/vBTn2B8C/467.png
 Ukraine,Tanks ,T-64BV,ussr,"11, destroyed",https://i.postimg.cc/zfdggTnG/17.png
 Ukraine,Tanks ,T-64BV,ussr,"19, destroyed",https://i.postimg.cc/zfsFJ69L/4318.png
@@ -1815,25 +1827,32 @@ Ukraine,Towed Artillery ,122mm D-30 howitzer,ussr,"1, destroyed",https://i.posti
 Ukraine,Towed Artillery ,152mm 2A36 Giatsint-B field-gun,ussr,"1, 2, 3, 4, 5, 6, 7, 8 and 9, abandoned and later burned",https://i.postimg.cc/65WyTWGL/g43g.png
 Ukraine,Towed Artillery ,152mm 2A65 Msta-B howitzer,ussr,"2, abandoned",https://i.postimg.cc/gj9TG17c/Screenshot-8228.png
 Ukraine,Towed Artillery ,152mm 2A65 Msta-B howitzer,ussr,"1, abandoned",https://i.postimg.cc/zfBM7CWN/Screenshot-8227.png
+Ukraine,Towed Artillery ,Unknown towed artillery,ukraine,"1 and 2, destroyed",https://i.postimg.cc/BnNpxWwv/33.jpg 
+Ukraine,Towed Artillery ,Unknown towed artillery,ukraine,"3, damaged",https://i.postimg.cc/BnNpxWwv/33.jpg 
 Ukraine,"Trucks, Vehicles and Jeeps ",9T452 transporter-loader (for BM-27 'Uragan' MRL),ussr,"1, destroyed",https://i.postimg.cc/SQd62jMf/37.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"13, captured",https://i.postimg.cc/1RVZrFkD/Screenshot-8053.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"8, destroyed",https://i.postimg.cc/0QHyTC2v/sa.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"14, captured",https://i.postimg.cc/1RVZrFkD/Screenshot-8053.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"7, destroyed",https://i.postimg.cc/43VV4DVy/Screenshot-9318.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"4, destroyed",https://i.postimg.cc/4xrgYWx5/f235.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"3, destroyed",https://i.postimg.cc/8PzD9FYh/f23.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"12, captured",https://i.postimg.cc/9MGPZgQM/Screenshot-8017.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"17, captured",https://i.postimg.cc/JnVmfxgG/bl.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"13, captured",https://i.postimg.cc/9MGPZgQM/Screenshot-8017.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"18, captured",https://i.postimg.cc/JnVmfxgG/bl.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"6, destroyed",https://i.postimg.cc/PqdfwfZ1/r3.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"15, captured",https://i.postimg.cc/R0vMzqRd/g544.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"16, captured",https://i.postimg.cc/R0vMzqRd/g544.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"5, destroyed",https://i.postimg.cc/SQ1Xb993/r3.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"18 and 19, captured",https://i.postimg.cc/VLr5Xr51/542f.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"9, damaged and abandoned",https://i.postimg.cc/YC0mqTkH/58.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"20, captured",https://i.postimg.cc/Z507F6Jx/659.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"10, damaged and abandoned",https://i.postimg.cc/gj9TG17c/Screenshot-8228.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"8, damaged",https://i.postimg.cc/gjhmvGsF/g3.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"19 and 20, captured",https://i.postimg.cc/VLr5Xr51/542f.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"23, captured",https://i.postimg.cc/Y0MjfS9G/43.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"10, damaged and abandoned",https://i.postimg.cc/YC0mqTkH/58.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"21, captured",https://i.postimg.cc/Z507F6Jx/659.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"11, damaged and abandoned",https://i.postimg.cc/gj9TG17c/Screenshot-8228.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"9, damaged",https://i.postimg.cc/gjhmvGsF/g3.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"22, captured",https://i.postimg.cc/gkG63gXS/g2.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"24, captured",https://i.postimg.cc/h40ThkyZ/4370.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"2, destroyed",https://i.postimg.cc/hjdXLc6L/4f.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"14, captured",https://i.postimg.cc/jdz0Gbd5/Screenshot-8054.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"16, captured",https://i.postimg.cc/qR4Nyztq/113.png
-Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"11, abandoned",https://i.postimg.cc/qvyKsBvd/Screenshot-8260.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"15, captured",https://i.postimg.cc/jdz0Gbd5/Screenshot-8054.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"17, captured",https://i.postimg.cc/qR4Nyztq/113.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"12, abandoned",https://i.postimg.cc/qvyKsBvd/Screenshot-8260.png
+Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"25, captured",https://i.postimg.cc/xdmGTg40/386.png
 Ukraine,"Trucks, Vehicles and Jeeps ",GAZ-66,ussr,"1, with 82mm 2B9 Vasilek mortar, destroyed",https://postimg.cc/PP20VdH5
 Ukraine,"Trucks, Vehicles and Jeeps ",KamAZ,ussr,"1, destroyed",https://i.postimg.cc/6pr9sdqZ/Screenshot-8019.png
 Ukraine,"Trucks, Vehicles and Jeeps ",KamAZ,ussr,"2, destroyed",https://i.postimg.cc/GmXZ5RDV/64.png
@@ -1863,16 +1882,24 @@ Ukraine,"Trucks, Vehicles and Jeeps ",MAZ,belarus,"1, destroyed",https://i.posti
 Ukraine,"Trucks, Vehicles and Jeeps ",MAZ-537,ussr,"1, destroyed",https://i.postimg.cc/25RJZzWf/Screenshot-8076.png
 Ukraine,"Trucks, Vehicles and Jeeps ",MAZ-537,ussr,"2, captured",https://i.postimg.cc/7LSW8dKp/35.png
 Ukraine,"Trucks, Vehicles and Jeeps ",UAZ-452,ussr,"1, captured",https://i.postimg.cc/NFjnSrgK/bl.png
+Ukraine,"Trucks, Vehicles and Jeeps ",UAZ-452,ussr,"2, captured",https://i.postimg.cc/d0vnz2LL/2dh.png
+Ukraine,"Trucks, Vehicles and Jeeps ",UAZ-469,ussr,"3, captured",https://i.postimg.cc/4dh6yP2f/d1.png
+Ukraine,"Trucks, Vehicles and Jeeps ",UAZ-469,ussr,"2, captured",https://i.postimg.cc/kXMB2DzL/43.png
 Ukraine,"Trucks, Vehicles and Jeeps ",UAZ-469,ussr,"1, captured",https://i.postimg.cc/tgpMs65F/Screenshot-8026.png
-Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"8 and 9, abandoned",https://i.postimg.cc/28tzT4wY/54.png
-Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"7, damaged and abandoned",https://i.postimg.cc/3Jzj3bLL/bnm.png
-Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"5 and 6, damaged by Forpost-R",https://i.postimg.cc/4xBF4TJG/37.jpg
-Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"10, captured",https://i.postimg.cc/JnP8Cxr0/Screenshot-8249.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"11, damaged and abandoned",https://i.postimg.cc/3Jzj3bLL/bnm.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"8, destroyed",https://i.postimg.cc/4dh6yP2f/d1.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"9 and 10, damaged by Forpost-R",https://i.postimg.cc/4xBF4TJG/37.jpg
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"5, 6 and 7, destroyed",https://i.postimg.cc/BnNpxWwv/33.jpg
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"13, captured",https://i.postimg.cc/JnP8Cxr0/Screenshot-8249.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"4, destroyed",https://i.postimg.cc/QdnM0gx9/4fh.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"12, damaged and captured",https://i.postimg.cc/SRtv4JHH/1dg.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"2, destroyed",https://i.postimg.cc/gj9TG17c/Screenshot-8228.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"3, destroyed",https://i.postimg.cc/jScSwHTb/Screenshot-8020.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"1, destroyed",https://i.postimg.cc/vBdfY7td/Screenshot-8019.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Unknown truck,ukraine,"14, captured",https://i.postimg.cc/vZ7sdvHn/f4.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Ural-375D,ussr,"3, captured",https://i.postimg.cc/5tqNnVFZ/f3.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Ural-375D,ussr,"2, captured",https://i.postimg.cc/FKC8wRyc/Screenshot-8025.png
+Ukraine,"Trucks, Vehicles and Jeeps ",Ural-375D,ussr,"4, captured",https://i.postimg.cc/jdRM3Vky/f30.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Ural-375D,ussr,"1, destroyed",https://i.postimg.cc/wMdN04Dt/3378.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Ural-4320,ussr,"9, captured",https://i.postimg.cc/2SHMm16F/456.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Ural-4320,ussr,"4, 5 and 6, destroyed",https://i.postimg.cc/8cPPbrHy/3dg.jpg
@@ -1882,23 +1909,26 @@ Ukraine,"Trucks, Vehicles and Jeeps ",Ural-4320,ussr,"3, destroyed",https://i.po
 Ukraine,"Trucks, Vehicles and Jeeps ",Ural-4320,ussr,"2, destroyed",https://i.postimg.cc/vmqnP67C/223.png
 Ukraine,"Trucks, Vehicles and Jeeps ",Ural-4320,ussr,"1, destroyed",https://postimg.cc/yJNnspb7
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-130,ussr,"1, destroyed",https://i.postimg.cc/SxLW3hgy/59.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"6, abandoned",https://i.postimg.cc/0j3LGCqH/Screenshot-8103.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"17, 18 and 19, captured",https://i.postimg.cc/0jN22LVY/d1h.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"8, abandoned",https://i.postimg.cc/0j3LGCqH/Screenshot-8103.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"18, 19 and 20, captured",https://i.postimg.cc/0jN22LVY/d1h.png
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"5, destroyed",https://i.postimg.cc/3wXqjPj0/Screenshot-8077.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"10, captured",https://i.postimg.cc/7LSW8dKp/35.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"12, captured",https://i.postimg.cc/Bb3Fnx8v/bl.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"8, captured",https://i.postimg.cc/P5Y9S2VJ/d23.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"22, captured",https://i.postimg.cc/5tCYqTxz/5gh.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"11, captured",https://i.postimg.cc/7LSW8dKp/35.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"13, captured",https://i.postimg.cc/Bb3Fnx8v/bl.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"6, destroyed",https://i.postimg.cc/K8Zh5MxD/ty.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"9, captured",https://i.postimg.cc/P5Y9S2VJ/d23.png
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"4, destroyed",https://i.postimg.cc/TPjprZk7/g7889.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"15, captured",https://i.postimg.cc/YSjX5Wrj/dd11.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"16, captured",https://i.postimg.cc/Znf3n1fc/542f.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"16, captured",https://i.postimg.cc/YSjX5Wrj/dd11.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"17, captured",https://i.postimg.cc/Znf3n1fc/542f.png
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"7, abandoned",https://i.postimg.cc/bvh79gN2/d240.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"11, captured",https://i.postimg.cc/fL9yXJ40/bf.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"14, captured",https://i.postimg.cc/fLFKfwz9/s4.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"12, captured",https://i.postimg.cc/fL9yXJ40/bf.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"15, captured",https://i.postimg.cc/fLFKfwz9/s4.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"21, captured",https://i.postimg.cc/kXMB2DzL/43.png
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"2, destroyed",https://i.postimg.cc/kgPHnGM8/j8.png
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"1, destroyed",https://i.postimg.cc/t4mkVgHr/36.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"9, captured",https://i.postimg.cc/vBpfYjxd/g8.png
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"10, captured",https://i.postimg.cc/vBpfYjxd/g8.png
 Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"3, destroyed",https://i.postimg.cc/yxvN7tc3/69.png
-Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"13, captured",https://postimg.cc/87Yh4HSS
+Ukraine,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"14, captured",https://postimg.cc/87Yh4HSS
 Ukraine,Unmanned Aerial Vehicles ,A1-SM Fury reconnaissance UAV,ukraine,"1, destroyed",https://i.postimg.cc/hGnpzJdF/4f0.png
 Ukraine,Unmanned Aerial Vehicles ,Bayraktar TB2 UCAV,,"1, destroyed",https://i.postimg.cc/0yTqfP7n/314.png
 Ukraine,Unmanned Aerial Vehicles ,Leleka-100 reconnaissance UAV,ukraine,"2, captured",https://i.postimg.cc/J7NmcVwY/6653.jpg
