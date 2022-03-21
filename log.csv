@@ -1199,3 +1199,11 @@ timestamp,country,category,state,value
 2022-03-21 15:20:27,Ukraine,"trucks, vehicles and jeeps",abandoned,-3
 2022-03-21 15:20:27,Ukraine,"trucks, vehicles and jeeps",captured,14
 2022-03-21 15:20:27,Ukraine,"trucks, vehicles and jeeps",destroyed,6
+2022-03-21 18:23:32,Ukraine,armoured fighting vehicles,abandoned,-7
+2022-03-21 18:23:32,Ukraine,armoured fighting vehicles,captured,9
+2022-03-21 18:23:32,Ukraine,armoured fighting vehicles,destroyed,2
+2022-03-21 18:23:32,Ukraine,infantry fighting vehicles,captured,1
+2022-03-21 18:23:32,Ukraine,surface-to-air missile systems,captured,2
+2022-03-21 18:23:32,Ukraine,surface-to-air missile systems,destroyed,1
+2022-03-21 18:23:32,Ukraine,"trucks, vehicles and jeeps",captured,48
+2022-03-21 18:23:32,Ukraine,"trucks, vehicles and jeeps",destroyed,4
