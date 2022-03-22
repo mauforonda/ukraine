@@ -4,9 +4,9 @@ Russia,Aircraft ,destroyed,14
 Russia,Anti-Aircraft Guns ,captured,2
 Russia,Anti-Tank Guided Missiles ,abandoned,24
 Russia,Anti-Tank Guided Missiles ,captured,37
-Russia,Armoured Fighting Vehicles ,abandoned,34
-Russia,Armoured Fighting Vehicles ,captured,68
-Russia,Armoured Fighting Vehicles ,destroyed,79
+Russia,Armoured Fighting Vehicles ,abandoned,33
+Russia,Armoured Fighting Vehicles ,captured,67
+Russia,Armoured Fighting Vehicles ,destroyed,77
 Russia,Armoured Personnel Carriers ,abandoned,14
 Russia,Armoured Personnel Carriers ,captured,40
 Russia,Armoured Personnel Carriers ,destroyed,24
@@ -52,7 +52,7 @@ Russia,Self-Propelled Artillery ,destroyed,11
 Russia,Surface-To-Air Missile Systems ,abandoned,7
 Russia,Surface-To-Air Missile Systems ,captured,12
 Russia,Surface-To-Air Missile Systems ,damaged,1
-Russia,Surface-To-Air Missile Systems ,destroyed,19
+Russia,Surface-To-Air Missile Systems ,destroyed,20
 Russia,Tanks ,abandoned,39
 Russia,Tanks ,captured,114
 Russia,Tanks ,damaged,4
@@ -64,12 +64,13 @@ Russia,"Trucks, Vehicles and Jeeps ",captured,160
 Russia,"Trucks, Vehicles and Jeeps ",damaged,15
 Russia,"Trucks, Vehicles and Jeeps ",destroyed,313
 Russia,Unmanned Aerial Vehicles ,captured,5
-Russia,Unmanned Aerial Vehicles ,destroyed,8
+Russia,Unmanned Aerial Vehicles ,destroyed,10
+Ukraine,Aircraft ,damaged,1
 Ukraine,Aircraft ,destroyed,11
 Ukraine,Anti-Aircraft Guns ,captured,1
 Ukraine,Anti-tank Guided Missiles ,captured,50
 Ukraine,Armoured Fighting Vehicles ,abandoned,4
-Ukraine,Armoured Fighting Vehicles ,captured,35
+Ukraine,Armoured Fighting Vehicles ,captured,36
 Ukraine,Armoured Fighting Vehicles ,destroyed,20
 Ukraine,Armoured Personnel Carriers ,abandoned,2
 Ukraine,Armoured Personnel Carriers ,captured,19
@@ -100,8 +101,8 @@ Ukraine,Surface-To-Air Missile Systems ,abandoned,2
 Ukraine,Surface-To-Air Missile Systems ,captured,2
 Ukraine,Surface-To-Air Missile Systems ,destroyed,14
 Ukraine,Tanks ,abandoned,9
-Ukraine,Tanks ,captured,36
-Ukraine,Tanks ,destroyed,24
+Ukraine,Tanks ,captured,37
+Ukraine,Tanks ,destroyed,25
 Ukraine,Towed Artillery ,abandoned,3
 Ukraine,Towed Artillery ,captured,11
 Ukraine,Towed Artillery ,damaged,1
