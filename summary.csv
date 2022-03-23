@@ -4,12 +4,12 @@ Russia,Aircraft ,destroyed,14
 Russia,Anti-Aircraft Guns ,captured,2
 Russia,Anti-Tank Guided Missiles ,abandoned,24
 Russia,Anti-Tank Guided Missiles ,captured,38
-Russia,Armoured Fighting Vehicles ,abandoned,33
-Russia,Armoured Fighting Vehicles ,captured,68
-Russia,Armoured Fighting Vehicles ,destroyed,78
-Russia,Armoured Personnel Carriers ,abandoned,14
-Russia,Armoured Personnel Carriers ,captured,40
-Russia,Armoured Personnel Carriers ,destroyed,24
+Russia,Armoured Fighting Vehicles ,abandoned,34
+Russia,Armoured Fighting Vehicles ,captured,72
+Russia,Armoured Fighting Vehicles ,destroyed,85
+Russia,Armoured Personnel Carriers ,abandoned,15
+Russia,Armoured Personnel Carriers ,captured,37
+Russia,Armoured Personnel Carriers ,destroyed,18
 Russia,Communications Stations ,abandoned,4
 Russia,Communications Stations ,captured,4
 Russia,Communications Stations ,destroyed,3
@@ -23,7 +23,7 @@ Russia,Helicopters ,destroyed,30
 Russia,Infantry Fighting Vehicles ,abandoned,31
 Russia,Infantry Fighting Vehicles ,captured,93
 Russia,Infantry Fighting Vehicles ,damaged,2
-Russia,Infantry Fighting Vehicles ,destroyed,132
+Russia,Infantry Fighting Vehicles ,destroyed,134
 Russia,Infantry Mobility Vehicles ,abandoned,5
 Russia,Infantry Mobility Vehicles ,captured,18
 Russia,Infantry Mobility Vehicles ,damaged,2
@@ -37,7 +37,7 @@ Russia,Mine-Resistant Ambush Protected ,abandoned,3
 Russia,Mine-Resistant Ambush Protected ,captured,5
 Russia,Mine-Resistant Ambush Protected ,destroyed,4
 Russia,Multiple Rocket Launchers ,abandoned,5
-Russia,Multiple Rocket Launchers ,captured,13
+Russia,Multiple Rocket Launchers ,captured,14
 Russia,Multiple Rocket Launchers ,destroyed,14
 Russia,Naval Ships ,damaged,1
 Russia,Radars ,captured,1
@@ -45,24 +45,24 @@ Russia,Radars ,destroyed,1
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,3
 Russia,Self-Propelled Anti-Aircraft Guns ,captured,1
 Russia,Self-Propelled Anti-Aircraft Guns ,destroyed,5
-Russia,Self-Propelled Artillery ,abandoned,13
-Russia,Self-Propelled Artillery ,captured,20
+Russia,Self-Propelled Artillery ,abandoned,15
+Russia,Self-Propelled Artillery ,captured,21
 Russia,Self-Propelled Artillery ,damaged,1
-Russia,Self-Propelled Artillery ,destroyed,11
+Russia,Self-Propelled Artillery ,destroyed,12
 Russia,Surface-To-Air Missile Systems ,abandoned,7
 Russia,Surface-To-Air Missile Systems ,captured,12
 Russia,Surface-To-Air Missile Systems ,damaged,1
 Russia,Surface-To-Air Missile Systems ,destroyed,20
 Russia,Tanks ,abandoned,39
-Russia,Tanks ,captured,115
+Russia,Tanks ,captured,117
 Russia,Tanks ,damaged,4
-Russia,Tanks ,destroyed,113
+Russia,Tanks ,destroyed,115
 Russia,Towed Artillery ,captured,26
 Russia,Towed Artillery ,destroyed,8
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,59
-Russia,"Trucks, Vehicles and Jeeps ",captured,162
+Russia,"Trucks, Vehicles and Jeeps ",captured,166
 Russia,"Trucks, Vehicles and Jeeps ",damaged,15
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,314
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,329
 Russia,Unmanned Aerial Vehicles ,captured,5
 Russia,Unmanned Aerial Vehicles ,destroyed,11
 Ukraine,Aircraft ,damaged,1
@@ -70,7 +70,7 @@ Ukraine,Aircraft ,destroyed,11
 Ukraine,Anti-tank Guided Missiles ,captured,50
 Ukraine,Armoured Fighting Vehicles ,abandoned,4
 Ukraine,Armoured Fighting Vehicles ,captured,36
-Ukraine,Armoured Fighting Vehicles ,destroyed,20
+Ukraine,Armoured Fighting Vehicles ,destroyed,21
 Ukraine,Armoured Personnel Carriers ,abandoned,2
 Ukraine,Armoured Personnel Carriers ,captured,19
 Ukraine,Armoured Personnel Carriers ,destroyed,5
@@ -107,8 +107,8 @@ Ukraine,Towed Artillery ,captured,11
 Ukraine,Towed Artillery ,damaged,1
 Ukraine,Towed Artillery ,destroyed,4
 Ukraine,"Trucks, Vehicles and Jeeps ",abandoned,5
-Ukraine,"Trucks, Vehicles and Jeeps ",captured,107
+Ukraine,"Trucks, Vehicles and Jeeps ",captured,108
 Ukraine,"Trucks, Vehicles and Jeeps ",damaged,4
-Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,49
+Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,55
 Ukraine,Unmanned Aerial Vehicles ,captured,2
 Ukraine,Unmanned Aerial Vehicles ,destroyed,6
