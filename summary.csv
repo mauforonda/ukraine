@@ -5,7 +5,7 @@ Russia,Anti-Aircraft Guns ,captured,2
 Russia,Anti-Tank Guided Missiles ,abandoned,24
 Russia,Anti-Tank Guided Missiles ,captured,38
 Russia,Armoured Fighting Vehicles ,abandoned,34
-Russia,Armoured Fighting Vehicles ,captured,74
+Russia,Armoured Fighting Vehicles ,captured,77
 Russia,Armoured Fighting Vehicles ,destroyed,87
 Russia,Armoured Personnel Carriers ,abandoned,15
 Russia,Armoured Personnel Carriers ,captured,38
@@ -14,7 +14,7 @@ Russia,Communications Stations ,abandoned,4
 Russia,Communications Stations ,captured,4
 Russia,Communications Stations ,destroyed,3
 Russia,Engineering Vehicles ,abandoned,8
-Russia,Engineering Vehicles ,captured,24
+Russia,Engineering Vehicles ,captured,25
 Russia,Engineering Vehicles ,destroyed,14
 Russia,Heavy Mortars ,captured,5
 Russia,Helicopters ,abandoned,2
@@ -23,7 +23,7 @@ Russia,Helicopters ,destroyed,30
 Russia,Infantry Fighting Vehicles ,abandoned,31
 Russia,Infantry Fighting Vehicles ,captured,93
 Russia,Infantry Fighting Vehicles ,damaged,2
-Russia,Infantry Fighting Vehicles ,destroyed,135
+Russia,Infantry Fighting Vehicles ,destroyed,136
 Russia,Infantry Mobility Vehicles ,abandoned,5
 Russia,Infantry Mobility Vehicles ,captured,18
 Russia,Infantry Mobility Vehicles ,damaged,2
@@ -54,13 +54,13 @@ Russia,Surface-To-Air Missile Systems ,captured,12
 Russia,Surface-To-Air Missile Systems ,damaged,1
 Russia,Surface-To-Air Missile Systems ,destroyed,20
 Russia,Tanks ,abandoned,41
-Russia,Tanks ,captured,117
+Russia,Tanks ,captured,118
 Russia,Tanks ,damaged,4
 Russia,Tanks ,destroyed,116
 Russia,Towed Artillery ,captured,26
 Russia,Towed Artillery ,destroyed,8
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,59
-Russia,"Trucks, Vehicles and Jeeps ",captured,167
+Russia,"Trucks, Vehicles and Jeeps ",captured,168
 Russia,"Trucks, Vehicles and Jeeps ",damaged,15
 Russia,"Trucks, Vehicles and Jeeps ",destroyed,337
 Russia,Unmanned Aerial Vehicles ,captured,5
@@ -101,7 +101,7 @@ Ukraine,Surface-To-Air Missile Systems ,captured,2
 Ukraine,Surface-To-Air Missile Systems ,destroyed,14
 Ukraine,Tanks ,abandoned,9
 Ukraine,Tanks ,captured,37
-Ukraine,Tanks ,destroyed,26
+Ukraine,Tanks ,destroyed,25
 Ukraine,Towed Artillery ,abandoned,3
 Ukraine,Towed Artillery ,captured,11
 Ukraine,Towed Artillery ,damaged,1
