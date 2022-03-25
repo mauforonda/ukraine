@@ -1354,3 +1354,5 @@ timestamp,country,category,state,value
 2022-03-25 15:19:51,Russia,"trucks, vehicles and jeeps",captured,2
 2022-03-25 15:19:51,Ukraine,tanks,captured,2
 2022-03-25 15:19:51,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-03-25 18:23:52,Russia,infantry fighting vehicles,destroyed,1
+2022-03-25 18:23:52,Russia,tanks,destroyed,2
