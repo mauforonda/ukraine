@@ -1385,3 +1385,10 @@ timestamp,country,category,state,value
 2022-03-26 15:19:20,Ukraine,self-propelled artillery,destroyed,1
 2022-03-26 15:19:20,Ukraine,surface-to-air missile systems,captured,1
 2022-03-26 15:19:20,Ukraine,surface-to-air missile systems,destroyed,1
+2022-03-26 18:21:48,Russia,self-propelled artillery,captured,1
+2022-03-26 18:21:48,Russia,self-propelled artillery,destroyed,2
+2022-03-26 18:21:48,Russia,tanks,captured,1
+2022-03-26 18:21:48,Ukraine,armoured fighting vehicles,captured,1
+2022-03-26 18:21:48,Ukraine,infantry mobility vehicles,captured,3
+2022-03-26 18:21:48,Ukraine,self-propelled artillery,captured,1
+2022-03-26 18:21:48,Ukraine,tanks,captured,2
