@@ -1454,3 +1454,14 @@ timestamp,country,category,state,value
 2022-03-28 12:33:57,Russia,tanks,captured,2
 2022-03-28 12:33:57,Russia,tanks,destroyed,2
 2022-03-28 15:20:00,Russia,tanks,destroyed,2
+2022-03-28 18:23:28,Russia,armoured fighting vehicles,captured,1
+2022-03-28 18:23:28,Russia,armoured personnel carriers,damaged,1
+2022-03-28 18:23:28,Russia,armoured personnel carriers,destroyed,-1
+2022-03-28 18:23:28,Russia,infantry fighting vehicles,captured,1
+2022-03-28 18:23:28,Russia,mine-resistant ambush protected,destroyed,1
+2022-03-28 18:23:28,Russia,multiple rocket launchers,captured,1
+2022-03-28 18:23:28,Russia,multiple rocket launchers,destroyed,1
+2022-03-28 18:23:28,Russia,tanks,captured,1
+2022-03-28 18:23:28,Russia,tanks,destroyed,1
+2022-03-28 18:23:28,Russia,"trucks, vehicles and jeeps",captured,6
+2022-03-28 18:23:28,Russia,"trucks, vehicles and jeeps",destroyed,4
