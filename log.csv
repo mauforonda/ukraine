@@ -1489,3 +1489,7 @@ timestamp,country,category,state,value
 2022-03-29 15:20:35,Russia,tanks,destroyed,5
 2022-03-29 15:20:35,Russia,"trucks, vehicles and jeeps",captured,1
 2022-03-29 15:20:35,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-03-29 18:23:26,Russia,heavy mortars,destroyed,1
+2022-03-29 18:23:26,Russia,tanks,captured,1
+2022-03-29 18:23:26,Russia,"trucks, vehicles and jeeps",captured,1
+2022-03-29 18:23:26,Russia,"trucks, vehicles and jeeps",destroyed,1
