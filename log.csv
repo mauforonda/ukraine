@@ -1512,3 +1512,23 @@ timestamp,country,category,state,value
 2022-03-30 01:26:53,Russia,self-propelled artillery,captured,1
 2022-03-30 01:26:53,Russia,tanks,captured,2
 2022-03-30 01:26:53,Russia,tanks,destroyed,3
+2022-03-30 12:35:07,Russia,armoured fighting vehicles,abandoned,-2
+2022-03-30 12:35:07,Russia,armoured fighting vehicles,destroyed,1
+2022-03-30 12:35:07,Russia,self-propelled artillery,damaged,1
+2022-03-30 12:35:07,Russia,surface-to-air missile systems,destroyed,1
+2022-03-30 12:35:07,Russia,tanks,abandoned,-1
+2022-03-30 12:35:07,Russia,tanks,captured,-1
+2022-03-30 12:35:07,Russia,tanks,destroyed,1
+2022-03-30 12:35:07,Russia,towed artillery,abandoned,5
+2022-03-30 12:35:07,Russia,towed artillery,damaged,4
+2022-03-30 12:35:07,Russia,towed artillery,destroyed,1
+2022-03-30 12:35:07,Ukraine,anti-tank guided missiles,captured,2
+2022-03-30 12:35:07,Ukraine,armoured fighting vehicles,destroyed,1
+2022-03-30 12:35:07,Ukraine,infantry fighting vehicles,destroyed,2
+2022-03-30 12:35:07,Ukraine,infantry mobility vehicles,captured,3
+2022-03-30 12:35:07,Ukraine,infantry mobility vehicles,destroyed,2
+2022-03-30 12:35:07,Ukraine,multiple rocket launchers,destroyed,2
+2022-03-30 12:35:07,Ukraine,naval ships,captured,1
+2022-03-30 12:35:07,Ukraine,"trucks, vehicles and jeeps",captured,6
+2022-03-30 12:35:07,Ukraine,"trucks, vehicles and jeeps",destroyed,3
+2022-03-30 12:35:07,Ukraine,unmanned aerial vehicles,destroyed,3
