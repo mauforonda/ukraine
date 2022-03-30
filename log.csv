@@ -1532,3 +1532,6 @@ timestamp,country,category,state,value
 2022-03-30 12:35:07,Ukraine,"trucks, vehicles and jeeps",captured,6
 2022-03-30 12:35:07,Ukraine,"trucks, vehicles and jeeps",destroyed,3
 2022-03-30 12:35:07,Ukraine,unmanned aerial vehicles,destroyed,3
+2022-03-30 15:20:35,Russia,tanks,destroyed,3
+2022-03-30 15:20:35,Ukraine,armoured fighting vehicles,destroyed,1
+2022-03-30 15:20:35,Ukraine,radars,captured,1
