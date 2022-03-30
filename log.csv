@@ -1535,3 +1535,16 @@ timestamp,country,category,state,value
 2022-03-30 15:20:35,Russia,tanks,destroyed,3
 2022-03-30 15:20:35,Ukraine,armoured fighting vehicles,destroyed,1
 2022-03-30 15:20:35,Ukraine,radars,captured,1
+2022-03-30 18:23:41,Russia,armoured fighting vehicles,captured,3
+2022-03-30 18:23:41,Russia,armoured personnel carriers,captured,1
+2022-03-30 18:23:41,Russia,helicopters,destroyed,1
+2022-03-30 18:23:41,Russia,infantry fighting vehicles,destroyed,1
+2022-03-30 18:23:41,Russia,infantry mobility vehicles,destroyed,2
+2022-03-30 18:23:41,Russia,tanks,captured,1
+2022-03-30 18:23:41,Russia,tanks,destroyed,1
+2022-03-30 18:23:41,Ukraine,multiple rocket launchers,destroyed,2
+2022-03-30 18:23:41,Ukraine,radars,captured,1
+2022-03-30 18:23:41,Ukraine,surface-to-air missile systems,abandoned,-1
+2022-03-30 18:23:41,Ukraine,surface-to-air missile systems,captured,1
+2022-03-30 18:23:41,Ukraine,surface-to-air missile systems,destroyed,12
+2022-03-30 18:23:41,Ukraine,"trucks, vehicles and jeeps",captured,2
