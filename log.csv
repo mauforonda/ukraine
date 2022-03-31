@@ -1555,3 +1555,10 @@ timestamp,country,category,state,value
 2022-03-30 21:17:14,Russia,tanks,destroyed,1
 2022-03-30 21:17:14,Ukraine,self-propelled artillery,destroyed,3
 2022-03-30 21:17:14,Ukraine,"trucks, vehicles and jeeps",destroyed,3
+2022-03-31 01:26:48,Russia,engineering vehicles and equipment,abandoned,1
+2022-03-31 01:26:48,Russia,infantry fighting vehicles,destroyed,2
+2022-03-31 01:26:48,Russia,self-propelled artillery,abandoned,2
+2022-03-31 01:26:48,Russia,tanks,destroyed,2
+2022-03-31 01:26:48,Ukraine,infantry fighting vehicles,destroyed,1
+2022-03-31 01:26:48,Ukraine,radars,abandoned,1
+2022-03-31 01:26:48,Ukraine,tanks,damaged,1
