@@ -1602,3 +1602,18 @@ timestamp,country,category,state,value
 2022-04-01 01:46:02,Ukraine,armoured fighting vehicles,destroyed,2
 2022-04-01 01:46:02,Ukraine,infantry mobility vehicles,captured,1
 2022-04-01 01:46:02,Ukraine,tanks,destroyed,3
+2022-04-01 12:37:54,Russia,armoured fighting vehicles,captured,3
+2022-04-01 12:37:54,Russia,armoured fighting vehicles,destroyed,1
+2022-04-01 12:37:54,Russia,communications stations,destroyed,1
+2022-04-01 12:37:54,Russia,engineering vehicles and equipment,captured,1
+2022-04-01 12:37:54,Russia,helicopters,destroyed,3
+2022-04-01 12:37:54,Russia,mine-resistant ambush protected,destroyed,1
+2022-04-01 12:37:54,Russia,multiple rocket launchers,abandoned,-1
+2022-04-01 12:37:54,Russia,multiple rocket launchers,captured,2
+2022-04-01 12:37:54,Russia,radars,captured,1
+2022-04-01 12:37:54,Russia,self-propelled anti-aircraft guns,captured,1
+2022-04-01 12:37:54,Russia,tanks,captured,2
+2022-04-01 12:37:54,Russia,tanks,destroyed,3
+2022-04-01 12:37:54,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-01 12:37:54,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-04-01 12:37:54,Ukraine,tanks,destroyed,-1
