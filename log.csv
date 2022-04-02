@@ -1667,3 +1667,7 @@ timestamp,country,category,state,value
 2022-04-02 01:25:55,Russia,"trucks, vehicles and jeeps",captured,5
 2022-04-02 01:25:55,Ukraine,infantry fighting vehicles,captured,1
 2022-04-02 01:25:55,Ukraine,infantry fighting vehicles,destroyed,1
+2022-04-02 12:30:15,Russia,armoured fighting vehicles,captured,1
+2022-04-02 12:30:15,Russia,armoured fighting vehicles,destroyed,1
+2022-04-02 12:30:15,Russia,infantry mobility vehicles,captured,1
+2022-04-02 12:30:15,Russia,tanks,captured,1
