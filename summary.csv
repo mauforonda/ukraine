@@ -6,7 +6,7 @@ Russia,Anti-Tank Guided Missiles ,abandoned,24
 Russia,Anti-Tank Guided Missiles ,captured,52
 Russia,Armoured Fighting Vehicles ,abandoned,32
 Russia,Armoured Fighting Vehicles ,captured,109
-Russia,Armoured Fighting Vehicles ,destroyed,124
+Russia,Armoured Fighting Vehicles ,destroyed,125
 Russia,Armoured Personnel Carriers ,abandoned,17
 Russia,Armoured Personnel Carriers ,captured,42
 Russia,Armoured Personnel Carriers ,damaged,1
@@ -87,7 +87,7 @@ Ukraine,Helicopters ,destroyed,2
 Ukraine,Infantry Fighting Vehicles ,abandoned,9
 Ukraine,Infantry Fighting Vehicles ,captured,28
 Ukraine,Infantry Fighting Vehicles ,damaged,2
-Ukraine,Infantry Fighting Vehicles ,destroyed,33
+Ukraine,Infantry Fighting Vehicles ,destroyed,34
 Ukraine,Infantry Mobility Vehicles ,abandoned,1
 Ukraine,Infantry Mobility Vehicles ,captured,31
 Ukraine,Infantry Mobility Vehicles ,damaged,1
@@ -122,4 +122,4 @@ Ukraine,"Trucks, Vehicles and Jeeps ",captured,117
 Ukraine,"Trucks, Vehicles and Jeeps ",damaged,5
 Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,78
 Ukraine,Unmanned Aerial Vehicles ,captured,2
-Ukraine,Unmanned Aerial Vehicles ,destroyed,10
+Ukraine,Unmanned Aerial Vehicles ,destroyed,11
