@@ -1706,3 +1706,13 @@ timestamp,country,category,state,value
 2022-04-03 12:30:59,Ukraine,tanks,captured,1
 2022-04-03 12:30:59,Ukraine,tanks,damaged,1
 2022-04-03 12:30:59,Ukraine,tanks,destroyed,2
+2022-04-03 15:19:34,Russia,aircraft,destroyed,1
+2022-04-03 15:19:34,Russia,armoured fighting vehicles,captured,1
+2022-04-03 15:19:34,Russia,armoured fighting vehicles,destroyed,1
+2022-04-03 15:19:34,Russia,infantry fighting vehicles,captured,3
+2022-04-03 15:19:34,Russia,infantry fighting vehicles,destroyed,1
+2022-04-03 15:19:34,Russia,infantry mobility vehicles,captured,1
+2022-04-03 15:19:34,Russia,self-propelled artillery,destroyed,2
+2022-04-03 15:19:34,Russia,tanks,captured,3
+2022-04-03 15:19:34,Russia,tanks,destroyed,1
+2022-04-03 15:19:34,Russia,"trucks, vehicles and jeeps",captured,1
