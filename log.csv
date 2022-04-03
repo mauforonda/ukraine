@@ -1674,3 +1674,8 @@ timestamp,country,category,state,value
 2022-04-02 21:17:22,Russia,armoured fighting vehicles,destroyed,1
 2022-04-02 21:17:22,Ukraine,infantry fighting vehicles,destroyed,1
 2022-04-02 21:17:22,Ukraine,unmanned aerial vehicles,destroyed,1
+2022-04-03 01:38:43,Russia,communications stations,abandoned,1
+2022-04-03 01:38:43,Russia,self-propelled artillery,destroyed,1
+2022-04-03 01:38:43,Russia,tanks,captured,1
+2022-04-03 01:38:43,Russia,tanks,destroyed,1
+2022-04-03 01:38:43,Ukraine,infantry fighting vehicles,destroyed,-1
