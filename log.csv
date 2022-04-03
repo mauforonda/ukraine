@@ -1716,3 +1716,26 @@ timestamp,country,category,state,value
 2022-04-03 15:19:34,Russia,tanks,captured,3
 2022-04-03 15:19:34,Russia,tanks,destroyed,1
 2022-04-03 15:19:34,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-03 18:22:08,Russia,armoured fighting vehicles,captured,2
+2022-04-03 18:22:08,Russia,engineering vehicles and equipment,captured,1
+2022-04-03 18:22:08,Russia,engineering vehicles and equipment,destroyed,1
+2022-04-03 18:22:08,Russia,infantry fighting vehicles,captured,10
+2022-04-03 18:22:08,Russia,infantry fighting vehicles,destroyed,1
+2022-04-03 18:22:08,Russia,self-propelled artillery,abandoned,-1
+2022-04-03 18:22:08,Russia,self-propelled artillery,captured,5
+2022-04-03 18:22:08,Russia,self-propelled artillery,destroyed,1
+2022-04-03 18:22:08,Russia,tanks,captured,1
+2022-04-03 18:22:08,Russia,tanks,destroyed,5
+2022-04-03 18:22:08,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-03 18:22:08,Russia,"trucks, vehicles and jeeps",destroyed,9
+2022-04-03 18:22:08,Ukraine,infantry fighting vehicles,captured,1
+2022-04-03 18:22:08,Ukraine,infantry fighting vehicles,destroyed,1
+2022-04-03 18:22:08,Ukraine,radars,abandoned,-1
+2022-04-03 18:22:08,Ukraine,radars,captured,-3
+2022-04-03 18:22:08,Ukraine,radars,damaged,-3
+2022-04-03 18:22:08,Ukraine,radars,destroyed,-6
+2022-04-03 18:22:08,Ukraine,radars and communications equipment,abandoned,1
+2022-04-03 18:22:08,Ukraine,radars and communications equipment,captured,3
+2022-04-03 18:22:08,Ukraine,radars and communications equipment,damaged,3
+2022-04-03 18:22:08,Ukraine,radars and communications equipment,destroyed,7
+2022-04-03 18:22:08,Ukraine,surface-to-air missile systems,destroyed,3
