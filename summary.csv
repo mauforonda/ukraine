@@ -44,7 +44,7 @@ Russia,Naval Ships ,destroyed,1
 Russia,Radars ,captured,5
 Russia,Radars ,destroyed,2
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,3
-Russia,Self-Propelled Anti-Aircraft Guns ,captured,3
+Russia,Self-Propelled Anti-Aircraft Guns ,captured,4
 Russia,Self-Propelled Anti-Aircraft Guns ,destroyed,5
 Russia,Self-Propelled Artillery ,abandoned,15
 Russia,Self-Propelled Artillery ,captured,34
@@ -57,7 +57,7 @@ Russia,Surface-To-Air Missile Systems ,destroyed,22
 Russia,Tanks ,abandoned,42
 Russia,Tanks ,captured,176
 Russia,Tanks ,damaged,6
-Russia,Tanks ,destroyed,200
+Russia,Tanks ,destroyed,201
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,30
 Russia,Towed Artillery ,damaged,4
@@ -65,7 +65,7 @@ Russia,Towed Artillery ,destroyed,10
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,59
 Russia,"Trucks, Vehicles and Jeeps ",captured,215
 Russia,"Trucks, Vehicles and Jeeps ",damaged,16
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,414
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,416
 Russia,Unmanned Aerial Vehicles ,captured,7
 Russia,Unmanned Aerial Vehicles ,destroyed,14
 Ukraine,Aircraft ,damaged,1

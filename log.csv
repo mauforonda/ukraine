@@ -1793,3 +1793,6 @@ timestamp,country,category,state,value
 2022-04-04 18:24:31,Russia,self-propelled artillery,destroyed,1
 2022-04-04 18:24:31,Russia,tanks,captured,2
 2022-04-04 18:24:31,Russia,tanks,destroyed,1
+2022-04-04 21:17:08,Russia,self-propelled anti-aircraft guns,captured,1
+2022-04-04 21:17:08,Russia,tanks,destroyed,1
+2022-04-04 21:17:08,Russia,"trucks, vehicles and jeeps",destroyed,2
