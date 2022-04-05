@@ -1801,3 +1801,9 @@ timestamp,country,category,state,value
 2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",captured,-5
 2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",damaged,-2
 2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",destroyed,-3
+2022-04-05 12:32:32,Russia,engineering vehicles and equipment,destroyed,1
+2022-04-05 12:32:32,Russia,helicopters,damaged,-1
+2022-04-05 12:32:32,Russia,helicopters,destroyed,-5
+2022-04-05 12:32:32,Russia,unmanned aerial vehicles,destroyed,1
+2022-04-05 12:32:32,Ukraine,aircraft,destroyed,2
+2022-04-05 12:32:32,Ukraine,helicopters,captured,1
