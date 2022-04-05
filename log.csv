@@ -1814,3 +1814,10 @@ timestamp,country,category,state,value
 2022-04-05 18:23:27,Russia,"trucks, vehicles and jeeps",captured,-1
 2022-04-05 18:23:27,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-04-05 18:23:27,Ukraine,aircraft,destroyed,1
+2022-04-05 21:15:13,Russia,engineering vehicles and equipment,abandoned,1
+2022-04-05 21:15:13,Russia,infantry fighting vehicles,captured,1
+2022-04-05 21:15:13,Russia,infantry fighting vehicles,destroyed,2
+2022-04-05 21:15:13,Russia,surface-to-air missile systems,captured,2
+2022-04-05 21:15:13,Russia,surface-to-air missile systems,destroyed,-2
+2022-04-05 21:15:13,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-05 21:15:13,Russia,"trucks, vehicles and jeeps",destroyed,2
