@@ -1796,3 +1796,8 @@ timestamp,country,category,state,value
 2022-04-04 21:17:08,Russia,self-propelled anti-aircraft guns,captured,1
 2022-04-04 21:17:08,Russia,tanks,destroyed,1
 2022-04-04 21:17:08,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-04-05 01:24:17,Russia,engineering vehicles and equipment,abandoned,1
+2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",abandoned,2
+2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",captured,-5
+2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",damaged,-2
+2022-04-05 01:24:17,Russia,"trucks, vehicles and jeeps",destroyed,-3
