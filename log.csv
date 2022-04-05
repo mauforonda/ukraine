@@ -1807,3 +1807,10 @@ timestamp,country,category,state,value
 2022-04-05 12:32:32,Russia,unmanned aerial vehicles,destroyed,1
 2022-04-05 12:32:32,Ukraine,aircraft,destroyed,2
 2022-04-05 12:32:32,Ukraine,helicopters,captured,1
+2022-04-05 18:23:27,Russia,engineering vehicles and equipment,captured,1
+2022-04-05 18:23:27,Russia,infantry fighting vehicles,destroyed,5
+2022-04-05 18:23:27,Russia,surface-to-air missile systems,captured,1
+2022-04-05 18:23:27,Russia,towed artillery,captured,1
+2022-04-05 18:23:27,Russia,"trucks, vehicles and jeeps",captured,-1
+2022-04-05 18:23:27,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-04-05 18:23:27,Ukraine,aircraft,destroyed,1
