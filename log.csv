@@ -1821,3 +1821,9 @@ timestamp,country,category,state,value
 2022-04-05 21:15:13,Russia,surface-to-air missile systems,destroyed,-2
 2022-04-05 21:15:13,Russia,"trucks, vehicles and jeeps",captured,2
 2022-04-05 21:15:13,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-04-06 01:27:39,Russia,infantry fighting vehicles,abandoned,1
+2022-04-06 01:27:39,Russia,infantry fighting vehicles,captured,6
+2022-04-06 01:27:39,Russia,infantry fighting vehicles,destroyed,21
+2022-04-06 01:27:39,Russia,tanks,destroyed,2
+2022-04-06 01:27:39,Russia,"trucks, vehicles and jeeps",captured,5
+2022-04-06 01:27:39,Russia,"trucks, vehicles and jeeps",destroyed,7
