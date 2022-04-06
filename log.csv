@@ -1862,3 +1862,15 @@ timestamp,country,category,state,value
 2022-04-06 18:23:58,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-04-06 18:23:58,Ukraine,armoured personnel carriers,destroyed,1
 2022-04-06 18:23:58,Ukraine,infantry mobility vehicles,captured,1
+2022-04-06 21:17:43,Russia,armoured personnel carriers,destroyed,2
+2022-04-06 21:17:43,Russia,infantry fighting vehicles,captured,2
+2022-04-06 21:17:43,Russia,infantry fighting vehicles,destroyed,1
+2022-04-06 21:17:43,Russia,infantry mobility vehicles,destroyed,3
+2022-04-06 21:17:43,Russia,mine-resistant ambush protected,destroyed,1
+2022-04-06 21:17:43,Russia,multiple rocket launchers,destroyed,1
+2022-04-06 21:17:43,Russia,self-propelled anti-aircraft guns,captured,1
+2022-04-06 21:17:43,Russia,self-propelled artillery,captured,1
+2022-04-06 21:17:43,Russia,tanks,destroyed,2
+2022-04-06 21:17:43,Russia,towed artillery,captured,2
+2022-04-06 21:17:43,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-06 21:17:43,Russia,"trucks, vehicles and jeeps",destroyed,2
