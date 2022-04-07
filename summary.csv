@@ -35,13 +35,13 @@ Russia,Jammers And Deception Systems ,destroyed,2
 Russia,Logistics Trains ,destroyed,2
 Russia,Mine-Resistant Ambush Protected ,abandoned,3
 Russia,Mine-Resistant Ambush Protected ,captured,7
-Russia,Mine-Resistant Ambush Protected ,destroyed,10
+Russia,Mine-Resistant Ambush Protected ,destroyed,11
 Russia,Multiple Rocket Launchers ,abandoned,5
 Russia,Multiple Rocket Launchers ,captured,23
 Russia,Multiple Rocket Launchers ,destroyed,21
 Russia,Naval Ships ,damaged,2
 Russia,Naval Ships ,destroyed,1
-Russia,Radars ,captured,5
+Russia,Radars ,captured,6
 Russia,Radars ,destroyed,3
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,3
 Russia,Self-Propelled Anti-Aircraft Guns ,captured,5
@@ -51,7 +51,7 @@ Russia,Self-Propelled Artillery ,captured,35
 Russia,Self-Propelled Artillery ,damaged,3
 Russia,Self-Propelled Artillery ,destroyed,30
 Russia,Surface-To-Air Missile Systems ,abandoned,7
-Russia,Surface-To-Air Missile Systems ,captured,16
+Russia,Surface-To-Air Missile Systems ,captured,18
 Russia,Surface-To-Air Missile Systems ,damaged,1
 Russia,Surface-To-Air Missile Systems ,destroyed,25
 Russia,Tanks ,abandoned,41
@@ -91,7 +91,7 @@ Ukraine,Infantry Mobility Vehicles ,captured,32
 Ukraine,Infantry Mobility Vehicles ,damaged,1
 Ukraine,Infantry Mobility Vehicles ,destroyed,15
 Ukraine,Multiple Rocket Launchers ,captured,5
-Ukraine,Multiple Rocket Launchers ,destroyed,7
+Ukraine,Multiple Rocket Launchers ,destroyed,10
 Ukraine,Naval Ships ,captured,12
 Ukraine,Naval Ships ,damaged,1
 Ukraine,Naval Ships ,destroyed,2
