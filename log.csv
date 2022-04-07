@@ -1897,3 +1897,8 @@ timestamp,country,category,state,value
 2022-04-07 18:23:17,Russia,engineering vehicles and equipment,destroyed,1
 2022-04-07 18:23:17,Russia,infantry fighting vehicles,captured,-1
 2022-04-07 18:23:17,Russia,infantry fighting vehicles,destroyed,9
+2022-04-07 21:17:17,Russia,infantry fighting vehicles,destroyed,5
+2022-04-07 21:17:17,Russia,jammers and deception systems,destroyed,1
+2022-04-07 21:17:17,Russia,tanks,destroyed,-2
+2022-04-07 21:17:17,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-07 21:17:17,Russia,"trucks, vehicles and jeeps",destroyed,23
