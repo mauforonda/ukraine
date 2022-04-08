@@ -1906,3 +1906,6 @@ timestamp,country,category,state,value
 2022-04-08 01:36:26,Russia,"trucks, vehicles and jeeps",destroyed,-2
 2022-04-08 01:36:26,Ukraine,engineering vehicles,destroyed,1
 2022-04-08 01:36:26,Ukraine,"trucks, vehicles and jeeps",destroyed,4
+2022-04-08 12:36:11,Russia,engineering vehicles and equipment,destroyed,1
+2022-04-08 12:36:11,Ukraine,engineering vehicles,destroyed,-1
+2022-04-08 12:36:11,Ukraine,"trucks, vehicles and jeeps",destroyed,1
