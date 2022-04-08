@@ -1909,3 +1909,10 @@ timestamp,country,category,state,value
 2022-04-08 12:36:11,Russia,engineering vehicles and equipment,destroyed,1
 2022-04-08 12:36:11,Ukraine,engineering vehicles,destroyed,-1
 2022-04-08 12:36:11,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-04-08 15:20:47,Russia,armoured personnel carriers,destroyed,1
+2022-04-08 15:20:47,Russia,infantry fighting vehicles,destroyed,1
+2022-04-08 15:20:47,Russia,self-propelled artillery,destroyed,1
+2022-04-08 15:20:47,Russia,tanks,destroyed,1
+2022-04-08 15:20:47,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-04-08 15:20:47,Ukraine,armoured personnel carriers,captured,1
+2022-04-08 15:20:47,Ukraine,tanks,captured,2
