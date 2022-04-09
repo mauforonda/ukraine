@@ -1926,3 +1926,15 @@ timestamp,country,category,state,value
 2022-04-09 12:30:57,Russia,infantry mobility vehicles,destroyed,1
 2022-04-09 12:30:57,Russia,tanks,destroyed,1
 2022-04-09 12:30:57,Russia,"trucks, vehicles and jeeps",destroyed,24
+2022-04-09 15:19:56,Russia,armoured personnel carriers,captured,1
+2022-04-09 15:19:56,Russia,infantry fighting vehicles,destroyed,6
+2022-04-09 15:19:56,Russia,infantry mobility vehicles,captured,1
+2022-04-09 15:19:56,Russia,infantry mobility vehicles,destroyed,3
+2022-04-09 15:19:56,Russia,self-propelled anti-aircraft guns,abandoned,-1
+2022-04-09 15:19:56,Russia,self-propelled anti-aircraft guns,captured,1
+2022-04-09 15:19:56,Russia,self-propelled artillery,captured,1
+2022-04-09 15:19:56,Russia,self-propelled artillery,damaged,-1
+2022-04-09 15:19:56,Russia,towed artillery,captured,1
+2022-04-09 15:19:56,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-09 15:19:56,Russia,unmanned aerial vehicles,captured,1
+2022-04-09 15:19:56,Ukraine,"trucks, vehicles and jeeps",destroyed,1
