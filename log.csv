@@ -1916,3 +1916,5 @@ timestamp,country,category,state,value
 2022-04-08 15:20:47,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-04-08 15:20:47,Ukraine,armoured personnel carriers,captured,1
 2022-04-08 15:20:47,Ukraine,tanks,captured,2
+2022-04-09 01:23:57,Russia,unmanned aerial vehicles,captured,1
+2022-04-09 01:23:57,Russia,unmanned aerial vehicles,destroyed,1
