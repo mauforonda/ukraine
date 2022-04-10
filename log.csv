@@ -1979,3 +1979,13 @@ timestamp,country,category,state,value
 2022-04-10 12:31:10,Russia,tanks,destroyed,4
 2022-04-10 12:31:10,Russia,"trucks, vehicles and jeeps",captured,2
 2022-04-10 12:31:10,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-04-10 15:19:45,Russia,armoured personnel carriers,destroyed,1
+2022-04-10 15:19:45,Russia,engineering vehicles and equipment,captured,3
+2022-04-10 15:19:45,Russia,engineering vehicles and equipment,destroyed,1
+2022-04-10 15:19:45,Russia,multiple rocket launchers,captured,-1
+2022-04-10 15:19:45,Russia,multiple rocket launchers,destroyed,-1
+2022-04-10 15:19:45,Russia,self-propelled anti-aircraft guns,captured,1
+2022-04-10 15:19:45,Russia,tanks,captured,2
+2022-04-10 15:19:45,Russia,tanks,destroyed,-1
+2022-04-10 15:19:45,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-04-10 15:19:45,Ukraine,surface-to-air missile systems,destroyed,1
