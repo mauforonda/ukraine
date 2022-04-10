@@ -1971,3 +1971,11 @@ timestamp,country,category,state,value
 2022-04-09 21:16:44,Ukraine,infantry fighting vehicles,captured,1
 2022-04-09 21:16:44,Ukraine,infantry mobility vehicles,destroyed,1
 2022-04-09 21:16:44,Ukraine,self-propelled anti-aircraft guns,captured,1
+2022-04-10 12:31:10,Russia,engineering vehicles and equipment,captured,1
+2022-04-10 12:31:10,Russia,infantry fighting vehicles,captured,1
+2022-04-10 12:31:10,Russia,multiple rocket launchers,destroyed,1
+2022-04-10 12:31:10,Russia,self-propelled artillery,destroyed,1
+2022-04-10 12:31:10,Russia,tanks,captured,1
+2022-04-10 12:31:10,Russia,tanks,destroyed,4
+2022-04-10 12:31:10,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-10 12:31:10,Russia,"trucks, vehicles and jeeps",destroyed,2
