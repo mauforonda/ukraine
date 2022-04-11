@@ -2015,3 +2015,5 @@ timestamp,country,category,state,value
 2022-04-11 15:02:02,Ukraine,tanks,damaged,-1
 2022-04-11 15:02:02,Ukraine,tanks,destroyed,3
 2022-04-11 15:02:02,Ukraine,"trucks, vehicles and jeeps",destroyed,8
+2022-04-11 18:26:33,Russia,tanks,destroyed,1
+2022-04-11 18:26:33,Ukraine,infantry mobility vehicles,captured,1
