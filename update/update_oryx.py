@@ -22,7 +22,13 @@ def format_dataframe(df):
         'https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png': 'ukraine',
         'https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Flag_of_Belarus.svg/23px-Flag_of_Belarus.svg.png': 'belarus',
         'https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png': 'united kingdom',
-        'https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png': 'united states'
+        'https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png': 'united states',
+        'https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png': 'italy',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png': 'czech republic',
+        'https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png': 'poland',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/21px-Flag_of_Israel.svg.png': 'israel',
+        'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/23px-Flag_of_Turkey.svg.png': 'turkey'
+        
     }
 
     df['category'] = df.subheading.apply(lambda _: _.split('(')[0])
@@ -49,7 +55,10 @@ def parse_article(html):
                     flag = li.select('img.thumbborder')[0]['src']
                 else:
                     flag = ''
-                equipment = li.get_text().split(':')[0].strip()
+                if ':' in li.get_text():
+                    equipment = li.get_text().split(':')[0].strip()
+                else:
+                    equipment = ''
                 for a in li.select('a'):
                     source = a['href']
                     text = a.get_text()
