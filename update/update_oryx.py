@@ -45,7 +45,10 @@ def parse_article(html):
             subheading = block.get_text()
         elif block.name == 'ul':
             for li in block.select('li'):
-                flag = li.select('img.thumbborder')[0]['src']
+                if len(li.select('img.thumbborder')) > 0:
+                    flag = li.select('img.thumbborder')[0]['src']
+                else:
+                    flag = ''
                 equipment = li.get_text().split(':')[0].strip()
                 for a in li.select('a'):
                     source = a['href']
