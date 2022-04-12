@@ -4,7 +4,7 @@ Russia,Aircraft ,destroyed,19
 Russia,Anti-Aircraft Guns ,captured,4
 Russia,Armoured Fighting Vehicles ,abandoned,28
 Russia,Armoured Fighting Vehicles ,captured,106
-Russia,Armoured Fighting Vehicles ,destroyed,122
+Russia,Armoured Fighting Vehicles ,destroyed,123
 Russia,Armoured Personnel Carriers ,abandoned,17
 Russia,Armoured Personnel Carriers ,captured,47
 Russia,Armoured Personnel Carriers ,damaged,1
@@ -24,11 +24,11 @@ Russia,Helicopters ,destroyed,28
 Russia,Infantry Fighting Vehicles ,abandoned,32
 Russia,Infantry Fighting Vehicles ,captured,172
 Russia,Infantry Fighting Vehicles ,damaged,2
-Russia,Infantry Fighting Vehicles ,destroyed,291
+Russia,Infantry Fighting Vehicles ,destroyed,290
 Russia,Infantry Mobility Vehicles ,abandoned,5
 Russia,Infantry Mobility Vehicles ,captured,28
 Russia,Infantry Mobility Vehicles ,damaged,2
-Russia,Infantry Mobility Vehicles ,destroyed,56
+Russia,Infantry Mobility Vehicles ,destroyed,55
 Russia,Jammers And Deception Systems ,captured,2
 Russia,Jammers And Deception Systems ,damaged,2
 Russia,Jammers And Deception Systems ,destroyed,3
@@ -57,7 +57,7 @@ Russia,Surface-To-Air Missile Systems ,destroyed,25
 Russia,Tanks ,abandoned,40
 Russia,Tanks ,captured,192
 Russia,Tanks ,damaged,8
-Russia,Tanks ,destroyed,236
+Russia,Tanks ,destroyed,239
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,34
 Russia,Towed Artillery ,damaged,4
@@ -65,7 +65,7 @@ Russia,Towed Artillery ,destroyed,10
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,61
 Russia,"Trucks, Vehicles and Jeeps ",captured,228
 Russia,"Trucks, Vehicles and Jeeps ",damaged,14
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,484
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,481
 Russia,Unmanned Aerial Vehicles ,captured,10
 Russia,Unmanned Aerial Vehicles ,destroyed,18
 Ukraine,Aircraft ,damaged,1
@@ -120,4 +120,4 @@ Ukraine,"Trucks, Vehicles and Jeeps ",captured,117
 Ukraine,"Trucks, Vehicles and Jeeps ",damaged,5
 Ukraine,"Trucks, Vehicles and Jeeps ",destroyed,97
 Ukraine,Unmanned Aerial Vehicles ,captured,2
-Ukraine,Unmanned Aerial Vehicles ,destroyed,11
+Ukraine,Unmanned Aerial Vehicles ,destroyed,12
