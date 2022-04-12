@@ -2051,3 +2051,14 @@ timestamp,country,category,state,value
 2022-04-12 18:23:38,Ukraine,surface-to-air missile systems,captured,1
 2022-04-12 18:23:38,Ukraine,tanks,captured,2
 2022-04-12 18:23:38,Ukraine,tanks,destroyed,1
+2022-04-12 21:17:09,Russia,armoured personnel carriers,destroyed,1
+2022-04-12 21:17:09,Russia,command posts and communications stations,destroyed,1
+2022-04-12 21:17:09,Russia,infantry fighting vehicles,captured,3
+2022-04-12 21:17:09,Russia,infantry fighting vehicles,destroyed,3
+2022-04-12 21:17:09,Russia,mine-resistant ambush protected,destroyed,1
+2022-04-12 21:17:09,Russia,multiple rocket launchers,destroyed,1
+2022-04-12 21:17:09,Russia,tanks,captured,2
+2022-04-12 21:17:09,Russia,tanks,destroyed,1
+2022-04-12 21:17:09,Russia,towed artillery,captured,1
+2022-04-12 21:17:09,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-12 21:17:09,Russia,"trucks, vehicles and jeeps",destroyed,2
