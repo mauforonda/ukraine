@@ -2023,3 +2023,7 @@ timestamp,country,category,state,value
 2022-04-11 21:17:39,Russia,infantry fighting vehicles,destroyed,3
 2022-04-11 21:17:39,Russia,infantry mobility vehicles,destroyed,1
 2022-04-11 21:17:39,Russia,tanks,destroyed,3
+2022-04-12 01:35:41,Russia,armoured fighting vehicles,destroyed,1
+2022-04-12 01:35:41,Russia,self-propelled artillery,destroyed,2
+2022-04-12 01:35:41,Russia,tanks,captured,1
+2022-04-12 01:35:41,Russia,unmanned aerial vehicles,destroyed,1
