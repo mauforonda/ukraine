@@ -2070,3 +2070,18 @@ timestamp,country,category,state,value
 2022-04-13 01:43:06,Ukraine,infantry fighting vehicles,captured,1
 2022-04-13 01:43:06,Ukraine,infantry mobility vehicles,destroyed,1
 2022-04-13 01:43:06,Ukraine,tanks,captured,1
+2022-04-13 12:33:39,Russia,infantry fighting vehicles,captured,1
+2022-04-13 12:33:39,Russia,infantry fighting vehicles,destroyed,14
+2022-04-13 12:33:39,Russia,multiple rocket launchers,destroyed,3
+2022-04-13 12:33:39,Russia,self-propelled artillery,captured,1
+2022-04-13 12:33:39,Russia,tanks,captured,1
+2022-04-13 12:33:39,Russia,tanks,destroyed,8
+2022-04-13 12:33:39,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-13 12:33:39,Russia,"trucks, vehicles and jeeps",destroyed,18
+2022-04-13 12:33:39,Ukraine,armoured personnel carriers,captured,2
+2022-04-13 12:33:39,Ukraine,armoured personnel carriers,destroyed,3
+2022-04-13 12:33:39,Ukraine,infantry fighting vehicles,destroyed,2
+2022-04-13 12:33:39,Ukraine,infantry mobility vehicles,captured,2
+2022-04-13 12:33:39,Ukraine,infantry mobility vehicles,destroyed,1
+2022-04-13 12:33:39,Ukraine,tanks,captured,1
+2022-04-13 12:33:39,Ukraine,"trucks, vehicles and jeeps",destroyed,1
