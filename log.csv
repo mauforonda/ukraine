@@ -2085,3 +2085,16 @@ timestamp,country,category,state,value
 2022-04-13 12:33:39,Ukraine,infantry mobility vehicles,destroyed,1
 2022-04-13 12:33:39,Ukraine,tanks,captured,1
 2022-04-13 12:33:39,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-04-13 15:20:53,Russia,armoured fighting vehicles,abandoned,1
+2022-04-13 15:20:53,Russia,armoured fighting vehicles,destroyed,2
+2022-04-13 15:20:53,Russia,armoured personnel carriers,damaged,1
+2022-04-13 15:20:53,Russia,engineering vehicles and equipment,captured,2
+2022-04-13 15:20:53,Russia,engineering vehicles and equipment,destroyed,1
+2022-04-13 15:20:53,Russia,infantry mobility vehicles,captured,1
+2022-04-13 15:20:53,Russia,tanks,captured,1
+2022-04-13 15:20:53,Russia,tanks,destroyed,1
+2022-04-13 15:20:53,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-13 15:20:53,Russia,"trucks, vehicles and jeeps",damaged,3
+2022-04-13 15:20:53,Russia,"trucks, vehicles and jeeps",destroyed,7
+2022-04-13 15:20:53,Ukraine,armoured personnel carriers,captured,1
+2022-04-13 15:20:53,Ukraine,tanks,captured,1
