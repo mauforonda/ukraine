@@ -2124,3 +2124,11 @@ timestamp,country,category,state,value
 2022-04-14 18:23:26,Ukraine,self-propelled artillery,destroyed,1
 2022-04-14 18:23:26,Ukraine,tanks,destroyed,1
 2022-04-14 18:23:26,Ukraine,"trucks, vehicles and jeeps",destroyed,6
+2022-04-14 21:18:00,Russia,naval ships,damaged,-1
+2022-04-14 21:18:00,Russia,naval ships,destroyed,1
+2022-04-14 21:18:00,Russia,tanks,captured,1
+2022-04-14 21:18:00,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-04-14 21:18:00,Russia,unmanned aerial vehicles,destroyed,1
+2022-04-14 21:18:00,Ukraine,engineering vehicles,captured,1
+2022-04-14 21:18:00,Ukraine,infantry mobility vehicles,destroyed,1
+2022-04-14 21:18:00,Ukraine,surface-to-air missile systems,destroyed,2
