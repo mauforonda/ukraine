@@ -22,7 +22,7 @@ Russia,Helicopters ,captured,1
 Russia,Helicopters ,damaged,2
 Russia,Helicopters ,destroyed,28
 Russia,Infantry Fighting Vehicles ,abandoned,32
-Russia,Infantry Fighting Vehicles ,captured,177
+Russia,Infantry Fighting Vehicles ,captured,178
 Russia,Infantry Fighting Vehicles ,damaged,2
 Russia,Infantry Fighting Vehicles ,destroyed,308
 Russia,Infantry Mobility Vehicles ,abandoned,5
@@ -39,6 +39,7 @@ Russia,Mine-Resistant Ambush Protected ,destroyed,12
 Russia,Multiple Rocket Launchers ,abandoned,5
 Russia,Multiple Rocket Launchers ,captured,24
 Russia,Multiple Rocket Launchers ,destroyed,25
+Russia,Naval Ships ,abandoned,1
 Russia,Naval Ships ,damaged,2
 Russia,Naval Ships ,destroyed,1
 Russia,Radars ,captured,6
