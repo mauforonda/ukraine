@@ -2138,3 +2138,5 @@ timestamp,country,category,state,value
 2022-04-15 01:39:41,Ukraine,aircraft,destroyed,1
 2022-04-15 12:33:04,Russia,aircraft,destroyed,1
 2022-04-15 12:33:04,Russia,helicopters,destroyed,1
+2022-04-15 21:17:17,Russia,armoured fighting vehicles,captured,-1
+2022-04-15 21:17:17,Ukraine,naval ships,captured,1
