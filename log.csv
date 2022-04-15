@@ -2132,3 +2132,7 @@ timestamp,country,category,state,value
 2022-04-14 21:18:00,Ukraine,engineering vehicles,captured,1
 2022-04-14 21:18:00,Ukraine,infantry mobility vehicles,destroyed,1
 2022-04-14 21:18:00,Ukraine,surface-to-air missile systems,destroyed,2
+2022-04-15 01:39:41,Russia,armoured fighting vehicles,destroyed,1
+2022-04-15 01:39:41,Russia,tanks,destroyed,1
+2022-04-15 01:39:41,Russia,unmanned aerial vehicles,captured,1
+2022-04-15 01:39:41,Ukraine,aircraft,destroyed,1
