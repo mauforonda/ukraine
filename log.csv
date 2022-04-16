@@ -2157,3 +2157,9 @@ timestamp,country,category,state,value
 2022-04-16 12:32:04,Ukraine,tanks,captured,6
 2022-04-16 12:32:04,Ukraine,tanks,destroyed,4
 2022-04-16 12:32:04,Ukraine,towed artillery,captured,1
+2022-04-16 15:19:49,Russia,armoured fighting vehicles,destroyed,1
+2022-04-16 15:19:49,Russia,tanks,destroyed,-1
+2022-04-16 15:19:49,Ukraine,armoured personnel carriers,destroyed,1
+2022-04-16 15:19:49,Ukraine,infantry fighting vehicles,destroyed,2
+2022-04-16 15:19:49,Ukraine,self-propelled artillery,destroyed,1
+2022-04-16 15:19:49,Ukraine,tanks,destroyed,1
