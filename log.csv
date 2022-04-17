@@ -2178,3 +2178,8 @@ timestamp,country,category,state,value
 2022-04-17 18:23:04,Ukraine,armoured personnel carriers,destroyed,1
 2022-04-17 18:23:04,Ukraine,infantry fighting vehicles,destroyed,1
 2022-04-17 18:23:04,Ukraine,tanks,captured,1
+2022-04-17 21:16:51,Russia,armoured fighting vehicles,captured,1
+2022-04-17 21:16:51,Russia,infantry fighting vehicles,captured,1
+2022-04-17 21:16:51,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-17 21:16:51,Ukraine,"trucks, vehicles and jeeps",captured,1
+2022-04-17 21:16:51,Ukraine,"trucks, vehicles and jeeps",destroyed,4
