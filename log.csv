@@ -2183,3 +2183,12 @@ timestamp,country,category,state,value
 2022-04-17 21:16:51,Russia,"trucks, vehicles and jeeps",captured,1
 2022-04-17 21:16:51,Ukraine,"trucks, vehicles and jeeps",captured,1
 2022-04-17 21:16:51,Ukraine,"trucks, vehicles and jeeps",destroyed,4
+2022-04-18 01:52:00,Russia,armoured fighting vehicles,destroyed,1
+2022-04-18 01:52:00,Russia,engineering vehicles and equipment,captured,1
+2022-04-18 01:52:00,Russia,infantry fighting vehicles,captured,1
+2022-04-18 01:52:00,Russia,tanks,captured,2
+2022-04-18 01:52:00,Russia,tanks,destroyed,2
+2022-04-18 01:52:00,Russia,towed artillery,captured,1
+2022-04-18 01:52:00,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-18 01:52:00,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-04-18 01:52:00,Russia,unmanned aerial vehicles,captured,1
