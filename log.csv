@@ -2215,3 +2215,9 @@ timestamp,country,category,state,value
 2022-04-18 21:18:39,Russia,tanks,destroyed,3
 2022-04-18 21:18:39,Ukraine,armoured personnel carriers,abandoned,1
 2022-04-18 21:18:39,Ukraine,"trucks, vehicles and jeeps",destroyed,1
+2022-04-19 01:49:27,Russia,armoured fighting vehicles,abandoned,2
+2022-04-19 01:49:27,Russia,armoured personnel carriers,abandoned,-3
+2022-04-19 01:49:27,Russia,armoured personnel carriers,captured,5
+2022-04-19 01:49:27,Russia,infantry fighting vehicles,abandoned,6
+2022-04-19 01:49:27,Russia,tanks,captured,1
+2022-04-19 01:49:27,Russia,tanks,destroyed,1
