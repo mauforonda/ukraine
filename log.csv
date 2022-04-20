@@ -2224,3 +2224,9 @@ timestamp,country,category,state,value
 2022-04-19 12:39:56,Russia,unmanned aerial vehicles,captured,1
 2022-04-19 15:21:25,Russia,infantry mobility vehicles,captured,-1
 2022-04-19 15:21:25,Russia,infantry mobility vehicles,destroyed,3
+2022-04-20 01:54:41,Russia,unmanned aerial vehicles,destroyed,2
+2022-04-20 01:54:41,Ukraine,armoured personnel carriers,captured,2
+2022-04-20 01:54:41,Ukraine,infantry mobility vehicles,destroyed,1
+2022-04-20 01:54:41,Ukraine,naval ships,destroyed,1
+2022-04-20 01:54:41,Ukraine,self-propelled artillery,captured,2
+2022-04-20 01:54:41,Ukraine,"trucks, vehicles and jeeps",destroyed,1
