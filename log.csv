@@ -2253,3 +2253,58 @@ timestamp,country,category,state,value
 2022-04-20 15:23:14,Ukraine,infantry mobility vehicles,captured,1
 2022-04-20 15:23:14,Ukraine,infantry mobility vehicles,destroyed,1
 2022-04-20 15:23:14,Ukraine,tanks,captured,2
+2022-04-20 18:24:46,Russia,armoured fighting vehicles,destroyed,1
+2022-04-20 18:24:46,Russia,infantry fighting vehicles,captured,7
+2022-04-20 18:24:46,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-04-20 18:24:46,Ukraine,aircraft,damaged,-1
+2022-04-20 18:24:46,Ukraine,aircraft,destroyed,-17
+2022-04-20 18:24:46,Ukraine,anti-aircraft guns,captured,-2
+2022-04-20 18:24:46,Ukraine,armoured fighting vehicles,abandoned,-4
+2022-04-20 18:24:46,Ukraine,armoured fighting vehicles,captured,-46
+2022-04-20 18:24:46,Ukraine,armoured fighting vehicles,destroyed,-28
+2022-04-20 18:24:46,Ukraine,armoured personnel carriers,abandoned,-3
+2022-04-20 18:24:46,Ukraine,armoured personnel carriers,captured,-34
+2022-04-20 18:24:46,Ukraine,armoured personnel carriers,damaged,-1
+2022-04-20 18:24:46,Ukraine,armoured personnel carriers,destroyed,-12
+2022-04-20 18:24:46,Ukraine,engineering vehicles,captured,-10
+2022-04-20 18:24:46,Ukraine,engineering vehicles,destroyed,-2
+2022-04-20 18:24:46,Ukraine,helicopters,captured,-1
+2022-04-20 18:24:46,Ukraine,helicopters,destroyed,-4
+2022-04-20 18:24:46,Ukraine,infantry fighting vehicles,abandoned,-9
+2022-04-20 18:24:46,Ukraine,infantry fighting vehicles,captured,-34
+2022-04-20 18:24:46,Ukraine,infantry fighting vehicles,damaged,-3
+2022-04-20 18:24:46,Ukraine,infantry fighting vehicles,destroyed,-42
+2022-04-20 18:24:46,Ukraine,infantry mobility vehicles,abandoned,-1
+2022-04-20 18:24:46,Ukraine,infantry mobility vehicles,captured,-43
+2022-04-20 18:24:46,Ukraine,infantry mobility vehicles,damaged,-1
+2022-04-20 18:24:46,Ukraine,infantry mobility vehicles,destroyed,-22
+2022-04-20 18:24:46,Ukraine,multiple rocket launchers,captured,-5
+2022-04-20 18:24:46,Ukraine,multiple rocket launchers,destroyed,-10
+2022-04-20 18:24:46,Ukraine,naval ships,captured,-13
+2022-04-20 18:24:46,Ukraine,naval ships,destroyed,-4
+2022-04-20 18:24:46,Ukraine,radars and communications equipment,abandoned,-1
+2022-04-20 18:24:46,Ukraine,radars and communications equipment,captured,-5
+2022-04-20 18:24:46,Ukraine,radars and communications equipment,damaged,-3
+2022-04-20 18:24:46,Ukraine,radars and communications equipment,destroyed,-9
+2022-04-20 18:24:46,Ukraine,self-propelled anti-aircraft guns,captured,-2
+2022-04-20 18:24:46,Ukraine,self-propelled artillery,abandoned,-1
+2022-04-20 18:24:46,Ukraine,self-propelled artillery,captured,-10
+2022-04-20 18:24:46,Ukraine,self-propelled artillery,damaged,-4
+2022-04-20 18:24:46,Ukraine,self-propelled artillery,destroyed,-10
+2022-04-20 18:24:46,Ukraine,surface-to-air missile systems,abandoned,-1
+2022-04-20 18:24:46,Ukraine,surface-to-air missile systems,captured,-6
+2022-04-20 18:24:46,Ukraine,surface-to-air missile systems,destroyed,-36
+2022-04-20 18:24:46,Ukraine,tanks,abandoned,-9
+2022-04-20 18:24:46,Ukraine,tanks,captured,-68
+2022-04-20 18:24:46,Ukraine,tanks,damaged,-1
+2022-04-20 18:24:46,Ukraine,tanks,destroyed,-49
+2022-04-20 18:24:46,Ukraine,towed artillery,abandoned,-3
+2022-04-20 18:24:46,Ukraine,towed artillery,captured,-12
+2022-04-20 18:24:46,Ukraine,towed artillery,damaged,-3
+2022-04-20 18:24:46,Ukraine,towed artillery,destroyed,-8
+2022-04-20 18:24:46,Ukraine,"trucks, vehicles and jeeps",abandoned,-5
+2022-04-20 18:24:46,Ukraine,"trucks, vehicles and jeeps",captured,-125
+2022-04-20 18:24:46,Ukraine,"trucks, vehicles and jeeps",damaged,-5
+2022-04-20 18:24:46,Ukraine,"trucks, vehicles and jeeps",destroyed,-111
+2022-04-20 18:24:46,Ukraine,unmanned aerial vehicles,captured,-2
+2022-04-20 18:24:46,Ukraine,unmanned aerial vehicles,destroyed,-12
