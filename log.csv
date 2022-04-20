@@ -2308,3 +2308,8 @@ timestamp,country,category,state,value
 2022-04-20 18:24:46,Ukraine,"trucks, vehicles and jeeps",destroyed,-111
 2022-04-20 18:24:46,Ukraine,unmanned aerial vehicles,captured,-2
 2022-04-20 18:24:46,Ukraine,unmanned aerial vehicles,destroyed,-12
+2022-04-20 21:17:21,Russia,infantry fighting vehicles,destroyed,17
+2022-04-20 21:17:21,Russia,tanks,captured,1
+2022-04-20 21:17:21,Russia,tanks,damaged,1
+2022-04-20 21:17:21,Russia,"trucks, vehicles and jeeps",captured,2
+2022-04-20 21:17:21,Russia,"trucks, vehicles and jeeps",destroyed,3
