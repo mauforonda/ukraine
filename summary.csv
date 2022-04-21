@@ -1,9 +1,9 @@
 country,category,state,value
 Russia,Aircraft ,damaged,1
-Russia,Aircraft ,destroyed,21
+Russia,Aircraft ,destroyed,22
 Russia,Anti-Aircraft Guns ,captured,4
 Russia,Armoured Fighting Vehicles ,abandoned,34
-Russia,Armoured Fighting Vehicles ,captured,130
+Russia,Armoured Fighting Vehicles ,captured,131
 Russia,Armoured Fighting Vehicles ,destroyed,147
 Russia,Armoured Personnel Carriers ,abandoned,14
 Russia,Armoured Personnel Carriers ,captured,52
@@ -22,7 +22,7 @@ Russia,Helicopters ,captured,1
 Russia,Helicopters ,damaged,2
 Russia,Helicopters ,destroyed,31
 Russia,Infantry Fighting Vehicles ,abandoned,38
-Russia,Infantry Fighting Vehicles ,captured,188
+Russia,Infantry Fighting Vehicles ,captured,189
 Russia,Infantry Fighting Vehicles ,damaged,2
 Russia,Infantry Fighting Vehicles ,destroyed,329
 Russia,Infantry Mobility Vehicles ,abandoned,5
@@ -38,8 +38,8 @@ Russia,Mine-Resistant Ambush Protected ,captured,7
 Russia,Mine-Resistant Ambush Protected ,damaged,1
 Russia,Mine-Resistant Ambush Protected ,destroyed,13
 Russia,Multiple Rocket Launchers ,abandoned,5
-Russia,Multiple Rocket Launchers ,captured,25
-Russia,Multiple Rocket Launchers ,destroyed,25
+Russia,Multiple Rocket Launchers ,captured,27
+Russia,Multiple Rocket Launchers ,destroyed,26
 Russia,Naval Ships ,damaged,2
 Russia,Naval Ships ,destroyed,2
 Russia,Radars ,captured,6
@@ -58,14 +58,14 @@ Russia,Surface-To-Air Missile Systems ,destroyed,26
 Russia,Tanks ,abandoned,39
 Russia,Tanks ,captured,211
 Russia,Tanks ,damaged,11
-Russia,Tanks ,destroyed,264
+Russia,Tanks ,destroyed,267
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,37
 Russia,Towed Artillery ,damaged,4
 Russia,Towed Artillery ,destroyed,10
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,63
-Russia,"Trucks, Vehicles and Jeeps ",captured,238
+Russia,"Trucks, Vehicles and Jeeps ",captured,245
 Russia,"Trucks, Vehicles and Jeeps ",damaged,18
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,522
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,525
 Russia,Unmanned Aerial Vehicles ,captured,13
 Russia,Unmanned Aerial Vehicles ,destroyed,26

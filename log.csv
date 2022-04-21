@@ -2313,3 +2313,11 @@ timestamp,country,category,state,value
 2022-04-20 21:17:21,Russia,tanks,damaged,1
 2022-04-20 21:17:21,Russia,"trucks, vehicles and jeeps",captured,2
 2022-04-20 21:17:21,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-04-21 12:35:51,Russia,aircraft,destroyed,1
+2022-04-21 12:35:51,Russia,armoured fighting vehicles,captured,1
+2022-04-21 12:35:51,Russia,infantry fighting vehicles,captured,1
+2022-04-21 12:35:51,Russia,multiple rocket launchers,captured,2
+2022-04-21 12:35:51,Russia,multiple rocket launchers,destroyed,1
+2022-04-21 12:35:51,Russia,tanks,destroyed,3
+2022-04-21 12:35:51,Russia,"trucks, vehicles and jeeps",captured,7
+2022-04-21 12:35:51,Russia,"trucks, vehicles and jeeps",destroyed,3
