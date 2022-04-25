@@ -2371,3 +2371,7 @@ timestamp,country,category,state,value
 2022-04-24 21:17:15,Russia,tanks,abandoned,1
 2022-04-24 21:17:15,Russia,tanks,captured,3
 2022-04-24 21:17:15,Russia,tanks,destroyed,2
+2022-04-25 01:40:59,Russia,armoured fighting vehicles,abandoned,3
+2022-04-25 01:40:59,Russia,infantry fighting vehicles,abandoned,1
+2022-04-25 01:40:59,Russia,tanks,abandoned,1
+2022-04-25 01:40:59,Russia,tanks,destroyed,1
