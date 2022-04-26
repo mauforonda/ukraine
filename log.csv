@@ -2399,3 +2399,10 @@ timestamp,country,category,state,value
 2022-04-26 18:24:56,Russia,aircraft,destroyed,1
 2022-04-26 18:24:56,Russia,helicopters,destroyed,1
 2022-04-26 18:24:56,Russia,unmanned aerial vehicles,destroyed,1
+2022-04-26 21:18:28,Russia,aircraft,destroyed,1
+2022-04-26 21:18:28,Russia,armoured fighting vehicles,destroyed,2
+2022-04-26 21:18:28,Russia,armoured personnel carriers,destroyed,1
+2022-04-26 21:18:28,Russia,infantry fighting vehicles,captured,1
+2022-04-26 21:18:28,Russia,infantry fighting vehicles,destroyed,2
+2022-04-26 21:18:28,Russia,tanks,captured,1
+2022-04-26 21:18:28,Russia,tanks,destroyed,8
