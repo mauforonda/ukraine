@@ -2421,3 +2421,6 @@ timestamp,country,category,state,value
 2022-04-27 18:25:08,Russia,tanks,destroyed,4
 2022-04-27 18:25:08,Russia,"trucks, vehicles and jeeps",captured,1
 2022-04-27 18:25:08,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-04-27 21:18:32,Russia,armoured fighting vehicles,destroyed,2
+2022-04-27 21:18:32,Russia,tanks,destroyed,2
+2022-04-27 21:18:32,Russia,"trucks, vehicles and jeeps",captured,1
