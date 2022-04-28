@@ -2427,3 +2427,6 @@ timestamp,country,category,state,value
 2022-04-28 02:23:04,Russia,tanks,destroyed,1
 2022-04-28 12:40:40,Russia,unmanned aerial vehicles,captured,1
 2022-04-28 12:40:40,Russia,unmanned aerial vehicles,destroyed,1
+2022-04-28 15:23:20,Russia,engineering vehicles and equipment,captured,1
+2022-04-28 15:23:20,Russia,infantry fighting vehicles,destroyed,1
+2022-04-28 15:23:20,Russia,tanks,destroyed,1
