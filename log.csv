@@ -2438,3 +2438,7 @@ timestamp,country,category,state,value
 2022-04-29 12:40:12,Russia,tanks,captured,1
 2022-04-29 12:40:12,Russia,tanks,destroyed,1
 2022-04-29 12:40:12,Russia,"trucks, vehicles and jeeps",captured,1
+2022-04-29 15:22:05,Russia,armoured fighting vehicles,captured,1
+2022-04-29 15:22:05,Russia,multiple rocket launchers,destroyed,3
+2022-04-29 15:22:05,Russia,tanks,destroyed,1
+2022-04-29 15:22:05,Russia,"trucks, vehicles and jeeps",destroyed,2
