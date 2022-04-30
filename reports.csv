@@ -59,11 +59,6 @@ Russia,Armoured Fighting Vehicles ,9P149 Shturm-S ATGM carrier,ussr,"10, capture
 Russia,Armoured Fighting Vehicles ,9P149 Shturm-S ATGM carrier,ussr,"9, captured",https://i.postimg.cc/j58tKX6Z/36.jpg
 Russia,Armoured Fighting Vehicles ,9P149 Shturm-S ATGM carrier,ussr,"8, captured",https://i.postimg.cc/x1RP0Bm9/60.png
 Russia,Armoured Fighting Vehicles ,9P163M-1 'Kornet-T' ATGM carrier,russian federation,"1, destroyed",https://i.postimg.cc/sfbm5Dp3/image.jpg
-Russia,Armoured Fighting Vehicles ,BMP-1KSh,ussr,"1, destroyed",https://i.postimg.cc/0yvPnDBt/570.png
-Russia,Armoured Fighting Vehicles ,BMP-1KSh,ussr,"4, captured",https://i.postimg.cc/MHLs0Sw0/578.png
-Russia,Armoured Fighting Vehicles ,BMP-1KSh,ussr,"3, captured",https://i.postimg.cc/rwTTBzGX/332.png
-Russia,Armoured Fighting Vehicles ,BMP-1KSh,ussr,"2, captured",https://i.postimg.cc/xTFr1xKP/4467.png
-Russia,Armoured Fighting Vehicles ,BRDM-2,ussr,"1, destroyed",https://i.postimg.cc/3Nv2pFRX/138.png
 Russia,Armoured Fighting Vehicles ,BRM-1K,ussr,"8, destroyed",https://i.postimg.cc/7Lbhr8dz/6658.jpg
 Russia,Armoured Fighting Vehicles ,BRM-1K,ussr,"4, destroyed",https://i.postimg.cc/QVLrdHRK/6880.png
 Russia,Armoured Fighting Vehicles ,BRM-1K,ussr,"3, destroyed",https://i.postimg.cc/Ss7ZV5zW/d13p.png
@@ -442,6 +437,10 @@ Russia,Command Posts And Communications Stations ,"9S932-2 intelligence, control
 Russia,Command Posts And Communications Stations ,APE-5 command post,russian federation,"1, destroyed",https://i.postimg.cc/6QPD29kh/uurall8.jpg
 Russia,Command Posts And Communications Stations ,BMD-1KSh-A command vehicle,ussr,"1, destroyed",https://i.postimg.cc/VNbkpMH1/6899.png
 Russia,Command Posts And Communications Stations ,BMD-1KSh-A command vehicle,ussr,"2, destroyed",https://i.postimg.cc/t4Sw4rfn/688.jpg
+Russia,Command Posts And Communications Stations ,BMP-1KSh command and staff vehicle,ussr,"1, destroyed",https://i.postimg.cc/0yvPnDBt/570.png
+Russia,Command Posts And Communications Stations ,BMP-1KSh command and staff vehicle,ussr,"4, captured",https://i.postimg.cc/MHLs0Sw0/578.png
+Russia,Command Posts And Communications Stations ,BMP-1KSh command and staff vehicle,ussr,"3, captured",https://i.postimg.cc/rwTTBzGX/332.png
+Russia,Command Posts And Communications Stations ,BMP-1KSh command and staff vehicle,ussr,"2, captured",https://i.postimg.cc/xTFr1xKP/4467.png
 Russia,Command Posts And Communications Stations ,BTR-60PU-12M air defence command vehicle,ussr,"1, captured",https://i.postimg.cc/65NCK7h7/76.jpg
 Russia,Command Posts And Communications Stations ,Barnaul-T 9С932-1 automated system for air defence units,russian federation,"3, captured",https://i.postimg.cc/7ZVjPfT2/3217.png
 Russia,Command Posts And Communications Stations ,Barnaul-T 9С932-1 automated system for air defence units,russian federation,"2, captured",https://i.postimg.cc/PqBBRwbf/557.png
@@ -621,6 +620,7 @@ Russia,Engineering Vehicles And Equipment ,Ural-4320 KET-L,russian federation,"1
 Russia,Engineering Vehicles And Equipment ,Ural-4320 KT-L,russian federation,"3, captured",https://i.postimg.cc/2yPmSYZz/678.jpg
 Russia,Engineering Vehicles And Equipment ,Ural-4320 KT-L,russian federation,"1, destroyed",https://i.postimg.cc/k56F4gkW/3dg0.png
 Russia,Engineering Vehicles And Equipment ,Ural-4320 KT-L,russian federation,"2, captured",https://i.postimg.cc/qRxkVf5t/113.jpg
+Russia,Engineering Vehicles And Equipment ,Ural-4320 recovery vehicle,russian federation,"1, destroyed",https://i.postimg.cc/76HgyxDv/24.jpg
 Russia,Engineering Vehicles And Equipment ,Ural-4320 with crane,russian federation,"1, destroyed",https://i.postimg.cc/W3Hvh6fz/3d11.png
 Russia,Engineering Vehicles And Equipment ,Ural-4320 with excavator,russian federation,"1, destroyed",https://i.postimg.cc/c4yxc120/65.jpg 
 Russia,Heavy Mortars ,120mm 2B11/2S12,ussr,"1, destroyed",https://i.postimg.cc/C5Bc8jtt/3d.png
@@ -837,177 +837,188 @@ Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"22, damaged",https://postimg.c
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"18, destroyed",https://postimg.cc/K1rWwGkC
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"9, destroyed",https://i.postimg.cc/0j9NCj2K/f24.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"43, destroyed",https://i.postimg.cc/0jHKLbvz/f86.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"172, captured",https://i.postimg.cc/0jqDtvcH/y6.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"151 and 152, abandoned",https://i.postimg.cc/15MCpgJd/3r5.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"186, captured",https://i.postimg.cc/0jqDtvcH/y6.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"164 and 165, abandoned",https://i.postimg.cc/15MCpgJd/3r5.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"26, destroyed",https://i.postimg.cc/1XWcgCn1/653g.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"177, captured",https://i.postimg.cc/1zr5w3rW/g540.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"191, captured",https://i.postimg.cc/1zr5w3rW/g540.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"107, destroyed",https://i.postimg.cc/1zzZVDL7/d2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"98, destroyed",https://i.postimg.cc/2576JPcZ/bb4.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"199, captured",https://i.postimg.cc/26HtS785/bbmmmpp222.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"213, captured",https://i.postimg.cc/26HtS785/bbmmmpp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"99, destroyed",https://i.postimg.cc/26fsBvjK/6889.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"2, destroyed",https://i.postimg.cc/26qYmmgL/668.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"188, captured",https://i.postimg.cc/2SYh9hJ8/16.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"138, damaged and abandoned",https://i.postimg.cc/2jX5hmCS/u1.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"202, captured",https://i.postimg.cc/2SYh9hJ8/16.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"150, damaged and abandoned",https://i.postimg.cc/2jX5hmCS/u1.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"75, destroyed",https://i.postimg.cc/2jZS8BVb/bmp.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"55, destroyed",https://i.postimg.cc/3J2MMTkK/m2.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"80, destroyed",https://i.postimg.cc/3JgpWxt1/bmpp2.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"36, destroyed",https://i.postimg.cc/3Jzmmyqb/57h.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"184, captured",https://i.postimg.cc/3rL56r3h/65h.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"165, damaged and captured",https://i.postimg.cc/3x5FhZtV/bmmp2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"198, captured",https://i.postimg.cc/3rL56r3h/65h.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"179, damaged and captured",https://i.postimg.cc/3x5FhZtV/bmmp2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"130, destroyed",https://i.postimg.cc/3xGB2tCM/bbmmmp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"57, destroyed",https://i.postimg.cc/43dF3kxH/m4.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"3, destroyed",https://i.postimg.cc/43mvcd15/b1.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"41, destroyed",https://i.postimg.cc/44pfYfdz/4fh.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"117, destroyed",https://i.postimg.cc/44wdvv7t/bbbmp222.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"158, abandoned",https://i.postimg.cc/4d30wt1k/r1.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"163, damaged and captured",https://i.postimg.cc/4nCw32NC/43133.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"171, abandoned",https://i.postimg.cc/4d30wt1k/r1.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"177, damaged and captured",https://i.postimg.cc/4nCw32NC/43133.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"129, destroyed",https://i.postimg.cc/59PnJYNr/bbmmmmpp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"12, destroyed",https://i.postimg.cc/5NDvYDNJ/bbmmpp22.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"145, abandoned",https://i.postimg.cc/5NY2mGtq/u2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"158, abandoned",https://i.postimg.cc/5NY2mGtq/u2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"69, destroyed",https://i.postimg.cc/6QKYW16J/bmp22.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"110, destroyed",https://i.postimg.cc/7Yy8MFF2/d5.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"5 and 6, destroyed",https://i.postimg.cc/7Z1483JC/4433.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"140, abandoned",https://i.postimg.cc/7hwWdnTr/ab10.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"153, abandoned",https://i.postimg.cc/7hwWdnTr/ab10.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"39, destroyed",https://i.postimg.cc/8PBwj8S7/7i.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"71, destroyed",https://i.postimg.cc/8cm0ZHPn/368.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"214, captured",https://i.postimg.cc/8kZRr17K/3280.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"212, captured",https://i.postimg.cc/9FFBKywz/5444.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"228, captured",https://i.postimg.cc/8kZRr17K/3280.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"226, captured",https://i.postimg.cc/9FFBKywz/5444.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"145, destroyed",https://i.postimg.cc/9FQ13Yb8/325.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"133, destroyed",https://i.postimg.cc/9MmY5C3V/bbmmpp2222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"54, destroyed",https://i.postimg.cc/9z5BPs2b/m1.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"85, destroyed",https://i.postimg.cc/B6Fh4BFH/bmpp.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"146, abandoned",https://i.postimg.cc/BQzv1YB0/Screenshot-8238.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"159, abandoned",https://i.postimg.cc/BQzv1YB0/Screenshot-8238.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"18, destroyed",https://i.postimg.cc/BbPvL9ZN/hh7.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"46, destroyed",https://i.postimg.cc/BnBx7nDb/764.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"135, destroyed",https://i.postimg.cc/C1Cn59hG/10.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"122, destroyed",https://i.postimg.cc/C1sKQkc3/bbmppp22.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"79, destroyed",https://i.postimg.cc/CK6n9BKh/bmpp.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"126, destroyed",https://i.postimg.cc/CLPR0CwY/bbbbbbmmpppp222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"206, captured",https://i.postimg.cc/CMfVLKCb/47h.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"220, captured",https://i.postimg.cc/CMfVLKCb/47h.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"56, destroyed",https://i.postimg.cc/CMfXDgHj/m3.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"183, captured",https://i.postimg.cc/D0F4Kdkp/1d.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"197, captured",https://i.postimg.cc/D0F4Kdkp/1d.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"72, destroyed",https://i.postimg.cc/DZHXtkmS/bbmp22.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"178, captured",https://i.postimg.cc/DfsyWCT2/558.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"192, captured",https://i.postimg.cc/DfsyWCT2/558.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"120, destroyed",https://i.postimg.cc/DwRmJ2WM/bbmmp222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"150, abandoned",https://i.postimg.cc/DwqTZzsJ/aa5.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"163, abandoned",https://i.postimg.cc/DwqTZzsJ/aa5.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"123, destroyed",https://i.postimg.cc/DyZzxWLN/bmmmp2.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"203, captured",https://i.postimg.cc/DygqQynD/bmppp2.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"156 and 157, abandoned",https://i.postimg.cc/DznHJRJz/r2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"217, captured",https://i.postimg.cc/DygqQynD/bmppp2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"169 and 170, abandoned",https://i.postimg.cc/DznHJRJz/r2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"10, destroyed",https://i.postimg.cc/FRqXfttT/436.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"96, destroyed",https://i.postimg.cc/GhtyDhMS/bb3.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"169, captured",https://i.postimg.cc/Gpj4tR0j/g45.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"183, captured",https://i.postimg.cc/Gpj4tR0j/g45.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"62, destroyed",https://i.postimg.cc/HnJzWc8K/t5.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"213, captured",https://i.postimg.cc/J0NjkYB1/654.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"227, captured",https://i.postimg.cc/J0NjkYB1/654.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"90, destroyed",https://i.postimg.cc/J0cPB7Ph/dbmp2.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"200, captured",https://i.postimg.cc/Jh5g9WfZ/bbmmmp2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"214, captured",https://i.postimg.cc/Jh5g9WfZ/bbmmmp2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"23, destroyed",https://i.postimg.cc/JhDwp7rZ/n8.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"52, destroyed",https://i.postimg.cc/Jhfk4vJ9/d133.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"37, destroyed",https://i.postimg.cc/Jzh9cSf0/313.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"143, abandoned",https://i.postimg.cc/Jzn9RxY1/ab2.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"179, captured",https://i.postimg.cc/KY8cWFwf/5800.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"170, captured",https://i.postimg.cc/Kjw7JqNY/4fh.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"156, abandoned",https://i.postimg.cc/Jzn9RxY1/ab2.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"193, captured",https://i.postimg.cc/KY8cWFwf/5800.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"184, captured",https://i.postimg.cc/Kjw7JqNY/4fh.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"61, destroyed",https://i.postimg.cc/KvkpxVnz/t4.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"78, destroyed",https://i.postimg.cc/Kzk3bGKn/bmp22222222222222222222222222222.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"189, captured",https://i.postimg.cc/LX2GsTmW/66556.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"203, captured",https://i.postimg.cc/LX2GsTmW/66556.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"118 and 119, destroyed",https://i.postimg.cc/MGRH1hVK/bbbmmmp22.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"155, abandoned",https://i.postimg.cc/MGTLkhhC/655.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"149, abandoned",https://i.postimg.cc/MGgQyPNn/ff22.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"168, abandoned",https://i.postimg.cc/MGTLkhhC/655.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"162, abandoned",https://i.postimg.cc/MGgQyPNn/ff22.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"143 and 144, destroyed",https://i.postimg.cc/MHv6Bc4t/366.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"172, abandoned",https://i.postimg.cc/MHv6Bc4t/366.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"88, destroyed",https://i.postimg.cc/MKW6Bzsv/356.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"140, destroyed",https://i.postimg.cc/MZdXL7vp/15.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"108, destroyed",https://i.postimg.cc/MpWCgyKZ/d3.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"164, damaged and captured",https://i.postimg.cc/MpqBBJ4S/bmp22222222222222.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"178, damaged and captured",https://i.postimg.cc/MpqBBJ4S/bmp22222222222222.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"138, destroyed",https://i.postimg.cc/NFg9HbFW/13.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"34, destroyed",https://i.postimg.cc/NFmgtZsB/3d1.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"81, destroyed",https://i.postimg.cc/NG1NnbBw/bmp22222222.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"196, captured",https://i.postimg.cc/NGzVhDzJ/bmp2222.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"139, destroyed",https://i.postimg.cc/NG4rchPY/14.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"210, captured",https://i.postimg.cc/NGzVhDzJ/bmp2222.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"53, destroyed",https://i.postimg.cc/NMD3tQD2/76.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"201, captured",https://i.postimg.cc/NMGVtztV/bmmpp2222.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"215, captured",https://i.postimg.cc/NMGVtztV/bmmpp2222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"4, destroyed",https://i.postimg.cc/NMX1NzS2/b2.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"131, destroyed",https://i.postimg.cc/Nf5bjsKj/bbmmp22.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"141, destroyed",https://i.postimg.cc/P58xN0KC/1.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"59, destroyed",https://i.postimg.cc/PJG6KCz1/m6.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"21, destroyed",https://i.postimg.cc/PfvwgJQJ/4f22.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"40, destroyed",https://i.postimg.cc/Pr9k1dCH/bmp22.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"70, destroyed",https://i.postimg.cc/PxRWw6Hq/bmp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"95, destroyed",https://i.postimg.cc/QN07VWqT/bb2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"58, destroyed",https://i.postimg.cc/QtK4pQ5X/m5.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"167, captured",https://i.postimg.cc/QtN7DcKC/559.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"182, captured",https://i.postimg.cc/QtzzhVSs/3212.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"181, captured",https://i.postimg.cc/QtN7DcKC/559.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"196, captured",https://i.postimg.cc/QtzzhVSs/3212.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"109, destroyed",https://i.postimg.cc/QxkL66Dn/d4.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"114, destroyed",https://i.postimg.cc/Qxrbky5B/bmpp2222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"176, captured",https://i.postimg.cc/R0xn75Sp/d130.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"190, captured",https://i.postimg.cc/R0xn75Sp/d130.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"1, destroyed",https://i.postimg.cc/RCtc2sB0/554.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"141 and 142, abandoned",https://i.postimg.cc/RFcYgDhT/ab11.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"192, captured",https://i.postimg.cc/RFkLTCPg/47.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"209, captured",https://i.postimg.cc/RV5GgxsP/4315.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"154 and 155, abandoned",https://i.postimg.cc/RFcYgDhT/ab11.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"206, captured",https://i.postimg.cc/RFkLTCPg/47.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"223, captured",https://i.postimg.cc/RV5GgxsP/4315.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"87, destroyed",https://i.postimg.cc/RZPpRF96/bmmpp2222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"154, abandoned",https://i.postimg.cc/RZVFPVYR/465.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"167, abandoned",https://i.postimg.cc/RZVFPVYR/465.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"94, destroyed",https://i.postimg.cc/RhsJYj0R/bb1.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"161, damaged and captured",https://i.postimg.cc/RhxT6Pz9/663.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"175, damaged and captured",https://i.postimg.cc/RhxT6Pz9/663.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"77, destroyed",https://i.postimg.cc/SKKzZ7k1/bmp222222222222.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"210, captured",https://i.postimg.cc/SN3dXB97/bmp22.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"190, captured",https://i.postimg.cc/SQDwxS89/25.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"139, abandoned",https://i.postimg.cc/T16zGXFS/ab1.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"166, captured",https://i.postimg.cc/T1HJcX0f/776.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"224, captured",https://i.postimg.cc/SN3dXB97/bmp22.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"204, captured",https://i.postimg.cc/SQDwxS89/25.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"152, abandoned",https://i.postimg.cc/T16zGXFS/ab1.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"180, captured",https://i.postimg.cc/T1HJcX0f/776.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"42, destroyed",https://i.postimg.cc/T3bXJd6c/4g.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"65, destroyed",https://i.postimg.cc/TP1qqvsj/7644.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"11, destroyed",https://i.postimg.cc/TPW4vs1n/212.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"63, destroyed",https://i.postimg.cc/VNZcqP4V/4.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"101 and 102, destroyed",https://i.postimg.cc/Vs9djKj6/570.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"160, abandoned",https://i.postimg.cc/W342ytqB/bmp2aban.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"174, abandoned",https://i.postimg.cc/W342ytqB/bmp2aban.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"124, destroyed",https://i.postimg.cc/W3v38Xwm/bmp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"97, destroyed",https://i.postimg.cc/Wbdd3Y3B/36.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"60, destroyed",https://i.postimg.cc/WbvWkJ4v/m7.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"136 and 137, damaged and abandoned",https://i.postimg.cc/XYyYKfsy/Screenshot-8236.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"148 and 149, damaged and abandoned",https://i.postimg.cc/XYyYKfsy/Screenshot-8236.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"89, destroyed",https://i.postimg.cc/Xq0sJBKh/bmmppp2.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"8, destroyed",https://i.postimg.cc/Xvkd415C/gg6.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"82, destroyed",https://i.postimg.cc/Y2gVHMNZ/bbmmppp222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"171, captured",https://i.postimg.cc/YqnQ7fv3/324.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"168, captured",https://i.postimg.cc/Zn38wp9q/680.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"185, captured",https://i.postimg.cc/YqnQ7fv3/324.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"182, captured",https://i.postimg.cc/Zn38wp9q/680.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"27, destroyed",https://i.postimg.cc/ZqKnwD3v/f3hj.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"208, captured",https://i.postimg.cc/bJgr4w9Y/7798.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"222, captured",https://i.postimg.cc/bJgr4w9Y/7798.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"128, destroyed",https://i.postimg.cc/bYR4twY0/f2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"121, destroyed",https://i.postimg.cc/br6wz8cL/bbmmpp22.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"132, destroyed",https://i.postimg.cc/bvjRg13Z/bbmmpp222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"195, captured",https://i.postimg.cc/cJBfnqWr/676.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"209, captured",https://i.postimg.cc/cJBfnqWr/676.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"73, destroyed",https://i.postimg.cc/d1bh52Sd/bmmp.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"112, destroyed",https://i.postimg.cc/d1kB4M4C/bmp22222.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"137, destroyed",https://i.postimg.cc/d347mdTD/12.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"113, destroyed",https://i.postimg.cc/d3G9c2Mt/bmpp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"28, destroyed",https://i.postimg.cc/dQ7HcyY7/bmp2.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"186, captured",https://i.postimg.cc/dQy18GgD/b1.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"173, captured",https://i.postimg.cc/dtnX1m6x/mp.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"193, captured",https://i.postimg.cc/fRK9ddR5/b316bmp2.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"174, captured",https://i.postimg.cc/fRLP0tgT/mpp.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"200, captured",https://i.postimg.cc/dQy18GgD/b1.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"187, captured",https://i.postimg.cc/dtnX1m6x/mp.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"207, captured",https://i.postimg.cc/fRK9ddR5/b316bmp2.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"188, captured",https://i.postimg.cc/fRLP0tgT/mpp.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"66 and 67, destroyed",https://i.postimg.cc/fTmYsJJb/54f.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"106, destroyed",https://i.postimg.cc/fbDGnYzT/d1.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"185, captured",https://i.postimg.cc/gcXCN37v/367.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"199, captured",https://i.postimg.cc/gcXCN37v/367.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"13, destroyed",https://i.postimg.cc/gkTGLLWz/985.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"51, destroyed",https://i.postimg.cc/h4VCnDsZ/33188.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"15, destroyed",https://i.postimg.cc/hPWjt8Fk/443.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"207, captured",https://i.postimg.cc/hPrZSFY9/4g.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"205, captured",https://i.postimg.cc/hjDFKj5L/bmppp2.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"215, captured",https://i.postimg.cc/hjwj83TY/3329.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"194, captured",https://i.postimg.cc/hvfDVh3C/ff9.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"198, captured",https://i.postimg.cc/j2mkzqf0/BMP22.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"202, captured",https://i.postimg.cc/j5T64qPp/b5.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"144, abandoned",https://i.postimg.cc/j5V9Qbx5/ab9.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"221, captured",https://i.postimg.cc/hPrZSFY9/4g.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"219, captured",https://i.postimg.cc/hjDFKj5L/bmppp2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"229, captured",https://i.postimg.cc/hjwj83TY/3329.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"208, captured",https://i.postimg.cc/hvfDVh3C/ff9.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"212, captured",https://i.postimg.cc/j2mkzqf0/BMP22.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"216, captured",https://i.postimg.cc/j5T64qPp/b5.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"157, abandoned",https://i.postimg.cc/j5V9Qbx5/ab9.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"22, destroyed",https://i.postimg.cc/jSsg42Dg/213.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"105, destroyed",https://i.postimg.cc/k43gSSGK/bbmpp22.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"47 and 48, destroyed",https://i.postimg.cc/k4sWSjrW/57.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"31, destroyed",https://i.postimg.cc/m2bRRf7L/5g.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"14, destroyed",https://i.postimg.cc/mDcppvGx/1f7.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"191, captured",https://i.postimg.cc/mgfNxnjn/21.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"205, captured",https://i.postimg.cc/mgfNxnjn/21.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"84, destroyed",https://i.postimg.cc/nLCRwJcd/bmp22222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"76, destroyed",https://i.postimg.cc/nc8BHDGM/bmp22222222222.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"181, captured",https://i.postimg.cc/pVZrGVkh/Screenshot-9012.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"195, captured",https://i.postimg.cc/pVZrGVkh/Screenshot-9012.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"134, destroyed",https://i.postimg.cc/pdYJ6y6q/jv-Ex-Doh-I-jpg-large.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"153, abandoned",https://i.postimg.cc/qR49PRwf/5540.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"159, damaged and abandoned",https://i.postimg.cc/rF84w7J1/fsl.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"166, abandoned",https://i.postimg.cc/qR49PRwf/5540.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"173, damaged and abandoned",https://i.postimg.cc/rF84w7J1/fsl.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"92, destroyed",https://i.postimg.cc/rFNPDjP9/bbmmp222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"33, destroyed",https://i.postimg.cc/rmjBhWPy/5y5.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"125, destroyed",https://i.postimg.cc/rwDKwdp4/bmp222222.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"104, destroyed",https://i.postimg.cc/s2Z21mj3/bbmpp2.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"142, destroyed",https://i.postimg.cc/s2d2WK0w/2.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"30, destroyed",https://i.postimg.cc/sxpLZX17/44f1.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"197, captured",https://i.postimg.cc/sxvNQGv4/bmp222.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"180, captured",https://i.postimg.cc/tJ0ZVgRD/6662.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"147, abandoned",https://i.postimg.cc/tJM8dQNL/h77.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"211, captured",https://i.postimg.cc/sxvNQGv4/bmp222.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"146, destroyed",https://i.postimg.cc/t4fBNnhr/326.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"194, captured",https://i.postimg.cc/tJ0ZVgRD/6662.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"160, abandoned",https://i.postimg.cc/tJM8dQNL/h77.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"16, destroyed",https://i.postimg.cc/tJXqrWt2/5y8.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"135, damaged and abandoned",https://i.postimg.cc/vBy9TRg0/77699.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"147, damaged and abandoned",https://i.postimg.cc/vBy9TRg0/77699.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"7, destroyed",https://i.postimg.cc/vHXP8qy9/65.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"20, destroyed",https://i.postimg.cc/vTBYGndK/7760.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"49 and 50, destroyed",https://i.postimg.cc/vTdWjXkN/355.png
@@ -1018,21 +1029,23 @@ Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"127, destroyed",https://i.postimg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"100, destroyed",https://i.postimg.cc/wMZTLHvS/bb40.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"32, destroyed",https://i.postimg.cc/wxFtfg1F/jo.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"86, destroyed",https://i.postimg.cc/x13FzS4T/bmp2222.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"187, captured",https://i.postimg.cc/x1VhM1QC/321.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"162, damaged and captured",https://i.postimg.cc/y80rBVY6/469.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"201, captured",https://i.postimg.cc/x1VhM1QC/321.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"136, destroyed",https://i.postimg.cc/xT1NjsWm/11.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"176, damaged and captured",https://i.postimg.cc/y80rBVY6/469.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"74, destroyed",https://i.postimg.cc/yNrgZ4mL/bmmmppp22.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"17, destroyed",https://i.postimg.cc/ydzX833d/f46.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"148, abandoned",https://i.postimg.cc/zBg2tRx0/436.png
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"175, captured",https://i.postimg.cc/zDWm7gjd/5g8.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"161, abandoned",https://i.postimg.cc/zBg2tRx0/436.png
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"189, captured",https://i.postimg.cc/zDWm7gjd/5g8.png
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"103, destroyed",https://i.postimg.cc/zGvvY54b/bbbmppp22.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"68, destroyed",https://i.postimg.cc/zvB5NG1f/b11.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"211, captured",https://i.postimg.cc/zvvMssWV/221.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"204, captured",https://postimg.cc/F7dqnk1v
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"225, captured",https://i.postimg.cc/zvvMssWV/221.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"218, captured",https://postimg.cc/F7dqnk1v
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"91, destroyed",https://postimg.cc/JHzqRJk2
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"24, destroyed",https://postimg.cc/XBC00RJW
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"38, destroyed",https://postimg.cc/ftQK4jpK
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"93, destroyed",https://postimg.cc/mtqwGP2m
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"83, destroyed",https://postimg.cc/phZCNkpj
+Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"151, damaged and abandoned",https://postlmg.cc/XXqxFmgP
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"29, destroyed",https://postlmg.cc/jny01hRh
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"111, destroyed",https://twitter.com/RALee85/status/1512530504104431620
 Russia,Infantry Fighting Vehicles ,BMP-2,ussr,"44 and 45, destroyed",https://twitter.com/UAWeapons/status/1505490721989611524
