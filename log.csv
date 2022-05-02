@@ -2478,3 +2478,12 @@ timestamp,country,category,state,value
 2022-05-01 18:23:26,Russia,infantry fighting vehicles,destroyed,3
 2022-05-01 18:23:26,Russia,tanks,destroyed,1
 2022-05-01 21:18:07,Russia,tanks,destroyed,1
+2022-05-02 12:38:49,Russia,armoured fighting vehicles,destroyed,1
+2022-05-02 12:38:49,Russia,armoured personnel carriers,destroyed,2
+2022-05-02 12:38:49,Russia,infantry fighting vehicles,destroyed,1
+2022-05-02 12:38:49,Russia,infantry mobility vehicles,destroyed,1
+2022-05-02 12:38:49,Russia,multiple rocket launchers,damaged,1
+2022-05-02 12:38:49,Russia,naval ships,destroyed,2
+2022-05-02 12:38:49,Russia,tanks,destroyed,2
+2022-05-02 12:38:49,Russia,"trucks, vehicles and jeeps",captured,1
+2022-05-02 12:38:49,Russia,"trucks, vehicles and jeeps",destroyed,1
