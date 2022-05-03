@@ -2492,3 +2492,5 @@ timestamp,country,category,state,value
 2022-05-02 18:24:01,Russia,tanks,destroyed,-1
 2022-05-02 18:24:01,Russia,"trucks, vehicles and jeeps",destroyed,4
 2022-05-02 18:24:01,Russia,unmanned aerial vehicles,destroyed,1
+2022-05-03 01:55:14,Russia,anti-aircraft guns,damaged,1
+2022-05-03 01:55:14,Russia,surface-to-air missile systems,destroyed,1
