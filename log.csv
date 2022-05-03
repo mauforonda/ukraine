@@ -2498,3 +2498,14 @@ timestamp,country,category,state,value
 2022-05-03 12:42:14,Russia,command posts and communications stations,destroyed,1
 2022-05-03 12:42:14,Russia,infantry fighting vehicles,destroyed,3
 2022-05-03 12:42:14,Russia,surface-to-air missile systems,destroyed,1
+2022-05-03 15:22:20,Russia,anti-aircraft guns,damaged,-1
+2022-05-03 15:22:20,Russia,anti-aircraft guns,destroyed,2
+2022-05-03 15:22:20,Russia,armoured fighting vehicles,captured,1
+2022-05-03 15:22:20,Russia,armoured fighting vehicles,destroyed,3
+2022-05-03 15:22:20,Russia,engineering vehicles and equipment,captured,1
+2022-05-03 15:22:20,Russia,infantry fighting vehicles,destroyed,1
+2022-05-03 15:22:20,Russia,tanks,captured,-1
+2022-05-03 15:22:20,Russia,tanks,destroyed,1
+2022-05-03 15:22:20,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-05-03 15:22:20,Russia,unmanned aerial vehicles,captured,2
+2022-05-03 15:22:20,Russia,unmanned aerial vehicles,destroyed,1
