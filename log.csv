@@ -2589,3 +2589,9 @@ timestamp,country,category,state,value
 2022-05-07 12:33:25,Russia,self-propelled anti-tank missile systems,abandoned,3
 2022-05-07 12:33:25,Russia,self-propelled anti-tank missile systems,captured,5
 2022-05-07 12:33:25,Russia,self-propelled anti-tank missile systems,destroyed,5
+2022-05-07 15:21:02,Russia,engineering vehicles and equipment,abandoned,1
+2022-05-07 15:21:02,Russia,engineering vehicles and equipment,captured,-2
+2022-05-07 15:21:02,Russia,multiple rocket launchers,abandoned,-1
+2022-05-07 15:21:02,Russia,multiple rocket launchers,captured,1
+2022-05-07 15:21:02,Russia,tanks,abandoned,-2
+2022-05-07 15:21:02,Russia,tanks,destroyed,-1
