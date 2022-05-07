@@ -2583,3 +2583,9 @@ timestamp,country,category,state,value
 2022-05-07 01:38:48,Russia,infantry fighting vehicles,destroyed,3
 2022-05-07 01:38:48,Russia,tanks,destroyed,1
 2022-05-07 01:38:48,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-05-07 12:33:25,Russia,armoured fighting vehicles,abandoned,-3
+2022-05-07 12:33:25,Russia,armoured fighting vehicles,captured,-5
+2022-05-07 12:33:25,Russia,armoured fighting vehicles,destroyed,-5
+2022-05-07 12:33:25,Russia,self-propelled anti-tank missile systems,abandoned,3
+2022-05-07 12:33:25,Russia,self-propelled anti-tank missile systems,captured,5
+2022-05-07 12:33:25,Russia,self-propelled anti-tank missile systems,destroyed,5
