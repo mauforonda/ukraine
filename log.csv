@@ -2595,3 +2595,5 @@ timestamp,country,category,state,value
 2022-05-07 15:21:02,Russia,multiple rocket launchers,captured,1
 2022-05-07 15:21:02,Russia,tanks,abandoned,-2
 2022-05-07 15:21:02,Russia,tanks,destroyed,-1
+2022-05-07 18:23:19,Russia,naval ships,destroyed,1
+2022-05-07 18:23:19,Russia,surface-to-air missile systems,destroyed,1
