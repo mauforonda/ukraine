@@ -2602,3 +2602,4 @@ timestamp,country,category,state,value
 2022-05-08 01:49:11,Russia,tanks,captured,1
 2022-05-08 01:49:11,Russia,tanks,destroyed,-1
 2022-05-08 01:49:11,Russia,"trucks, vehicles and jeeps",damaged,2
+2022-05-08 12:33:16,Russia,helicopters,destroyed,1
