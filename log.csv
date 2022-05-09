@@ -2637,3 +2637,8 @@ timestamp,country,category,state,value
 2022-05-09 15:22:25,Russia,multiple rocket launchers,captured,-1
 2022-05-09 15:22:25,Russia,tanks,destroyed,1
 2022-05-09 15:22:25,Russia,"trucks, vehicles and jeeps",captured,1
+2022-05-09 18:24:58,Russia,armoured fighting vehicles,destroyed,1
+2022-05-09 18:24:58,Russia,engineering vehicles and equipment,captured,1
+2022-05-09 18:24:58,Russia,tanks,destroyed,3
+2022-05-09 18:24:58,Russia,"trucks, vehicles and jeeps",captured,3
+2022-05-09 18:24:58,Russia,"trucks, vehicles and jeeps",destroyed,14
