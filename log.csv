@@ -2629,3 +2629,11 @@ timestamp,country,category,state,value
 2022-05-09 12:37:14,Russia,surface-to-air missile systems,captured,1
 2022-05-09 12:37:14,Russia,tanks,captured,1
 2022-05-09 12:37:14,Russia,tanks,damaged,1
+2022-05-09 15:22:25,Russia,armoured fighting vehicles,captured,1
+2022-05-09 15:22:25,Russia,armoured fighting vehicles,destroyed,2
+2022-05-09 15:22:25,Russia,infantry fighting vehicles,captured,1
+2022-05-09 15:22:25,Russia,infantry fighting vehicles,destroyed,4
+2022-05-09 15:22:25,Russia,infantry mobility vehicles,destroyed,1
+2022-05-09 15:22:25,Russia,multiple rocket launchers,captured,-1
+2022-05-09 15:22:25,Russia,tanks,destroyed,1
+2022-05-09 15:22:25,Russia,"trucks, vehicles and jeeps",captured,1
