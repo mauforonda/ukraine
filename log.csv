@@ -2625,3 +2625,7 @@ timestamp,country,category,state,value
 2022-05-09 01:50:04,Russia,tanks,captured,1
 2022-05-09 01:50:04,Russia,tanks,destroyed,3
 2022-05-09 01:50:04,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-05-09 12:37:14,Russia,multiple rocket launchers,captured,1
+2022-05-09 12:37:14,Russia,surface-to-air missile systems,captured,1
+2022-05-09 12:37:14,Russia,tanks,captured,1
+2022-05-09 12:37:14,Russia,tanks,damaged,1
