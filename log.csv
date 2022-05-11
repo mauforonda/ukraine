@@ -2670,3 +2670,5 @@ timestamp,country,category,state,value
 2022-05-11 12:41:53,Russia,tanks,captured,2
 2022-05-11 12:41:53,Russia,tanks,destroyed,2
 2022-05-11 12:41:53,Russia,unmanned aerial vehicles,captured,1
+2022-05-11 15:22:25,Russia,self-propelled artillery,destroyed,1
+2022-05-11 15:22:25,Russia,tanks,destroyed,1
