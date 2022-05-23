@@ -2796,3 +2796,6 @@ timestamp,country,category,state,value
 2022-05-22 21:18:07,Russia,infantry fighting vehicles,destroyed,5
 2022-05-22 21:18:07,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-05-22 21:18:07,Russia,unmanned aerial vehicles,captured,1
+2022-05-23 09:26:32,Russia,command posts and communications stations,captured,1
+2022-05-23 09:26:32,Russia,multiple rocket launchers,destroyed,2
+2022-05-23 09:26:32,Russia,tanks,destroyed,1
