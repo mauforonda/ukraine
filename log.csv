@@ -2820,3 +2820,4 @@ timestamp,country,category,state,value
 2022-05-24 12:41:01,Russia,"trucks, vehicles and jeeps",abandoned,1
 2022-05-24 12:41:01,Russia,"trucks, vehicles and jeeps",captured,14
 2022-05-24 12:41:01,Russia,"trucks, vehicles and jeeps",destroyed,88
+2022-05-24 15:22:06,Russia,tanks,captured,-1
