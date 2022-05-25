@@ -2829,3 +2829,5 @@ timestamp,country,category,state,value
 2022-05-24 21:18:39,Russia,tanks,abandoned,1
 2022-05-24 21:18:39,Russia,tanks,destroyed,2
 2022-05-25 01:50:39,Russia,"trucks, vehicles and jeeps",abandoned,-1
+2022-05-25 09:21:13,Russia,tanks,captured,1
+2022-05-25 09:21:13,Russia,tanks,destroyed,8
