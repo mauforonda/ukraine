@@ -2840,3 +2840,6 @@ timestamp,country,category,state,value
 2022-05-25 12:40:16,Russia,self-propelled anti-tank missile systems,captured,2
 2022-05-25 12:40:16,Russia,tanks,abandoned,1
 2022-05-25 12:40:16,Russia,tanks,destroyed,2
+2022-05-25 15:23:01,Russia,helicopters,destroyed,1
+2022-05-25 15:23:01,Russia,infantry fighting vehicles,abandoned,5
+2022-05-25 15:23:01,Russia,infantry fighting vehicles,destroyed,13
