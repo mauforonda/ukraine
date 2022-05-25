@@ -2848,3 +2848,6 @@ timestamp,country,category,state,value
 2022-05-25 18:25:33,Russia,tanks,abandoned,1
 2022-05-25 18:25:33,Russia,tanks,captured,1
 2022-05-25 18:25:33,Russia,tanks,destroyed,2
+2022-05-25 21:18:41,Russia,engineering vehicles and equipment,abandoned,1
+2022-05-25 21:18:41,Russia,infantry fighting vehicles,destroyed,2
+2022-05-25 21:18:41,Russia,tanks,destroyed,6
