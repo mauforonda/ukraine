@@ -2863,3 +2863,8 @@ timestamp,country,category,state,value
 2022-05-26 12:39:42,Russia,unmanned aerial vehicles,captured,2
 2022-05-26 12:39:42,Russia,unmanned aerial vehicles,destroyed,1
 2022-05-26 15:24:30,Russia,engineering vehicles and equipment,abandoned,3
+2022-05-26 18:26:26,Russia,armoured fighting vehicles,destroyed,2
+2022-05-26 18:26:26,Russia,engineering vehicles and equipment,abandoned,2
+2022-05-26 18:26:26,Russia,infantry fighting vehicles,destroyed,1
+2022-05-26 18:26:26,Russia,tanks,destroyed,5
+2022-05-26 18:26:26,Russia,"trucks, vehicles and jeeps",abandoned,1
