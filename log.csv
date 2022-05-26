@@ -2851,3 +2851,14 @@ timestamp,country,category,state,value
 2022-05-25 21:18:41,Russia,engineering vehicles and equipment,abandoned,1
 2022-05-25 21:18:41,Russia,infantry fighting vehicles,destroyed,2
 2022-05-25 21:18:41,Russia,tanks,destroyed,6
+2022-05-26 12:39:42,Russia,armoured fighting vehicles,abandoned,1
+2022-05-26 12:39:42,Russia,engineering vehicles and equipment,abandoned,7
+2022-05-26 12:39:42,Russia,engineering vehicles and equipment,destroyed,1
+2022-05-26 12:39:42,Russia,infantry fighting vehicles,abandoned,1
+2022-05-26 12:39:42,Russia,infantry fighting vehicles,destroyed,7
+2022-05-26 12:39:42,Russia,tanks,captured,1
+2022-05-26 12:39:42,Russia,tanks,destroyed,7
+2022-05-26 12:39:42,Russia,"trucks, vehicles and jeeps",captured,1
+2022-05-26 12:39:42,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-05-26 12:39:42,Russia,unmanned aerial vehicles,captured,2
+2022-05-26 12:39:42,Russia,unmanned aerial vehicles,destroyed,1
