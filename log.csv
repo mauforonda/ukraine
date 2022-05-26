@@ -2868,3 +2868,6 @@ timestamp,country,category,state,value
 2022-05-26 18:26:26,Russia,infantry fighting vehicles,destroyed,1
 2022-05-26 18:26:26,Russia,tanks,destroyed,5
 2022-05-26 18:26:26,Russia,"trucks, vehicles and jeeps",abandoned,1
+2022-05-26 21:19:25,Russia,anti-aircraft guns,captured,1
+2022-05-26 21:19:25,Russia,armoured fighting vehicles,captured,1
+2022-05-26 21:19:25,Russia,tanks,captured,1

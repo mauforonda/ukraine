@@ -1,10 +1,10 @@
 country,category,state,value
 Russia,Aircraft ,damaged,1
 Russia,Aircraft ,destroyed,26
-Russia,Anti-Aircraft Guns ,captured,4
+Russia,Anti-Aircraft Guns ,captured,5
 Russia,Anti-Aircraft Guns ,destroyed,2
 Russia,Armoured Fighting Vehicles ,abandoned,36
-Russia,Armoured Fighting Vehicles ,captured,134
+Russia,Armoured Fighting Vehicles ,captured,135
 Russia,Armoured Fighting Vehicles ,damaged,3
 Russia,Armoured Fighting Vehicles ,destroyed,230
 Russia,Armoured Personnel Carriers ,abandoned,14
@@ -62,7 +62,7 @@ Russia,Surface-To-Air Missile Systems ,captured,21
 Russia,Surface-To-Air Missile Systems ,damaged,1
 Russia,Surface-To-Air Missile Systems ,destroyed,34
 Russia,Tanks ,abandoned,55
-Russia,Tanks ,captured,245
+Russia,Tanks ,captured,246
 Russia,Tanks ,damaged,22
 Russia,Tanks ,destroyed,409
 Russia,Towed Artillery ,abandoned,5
