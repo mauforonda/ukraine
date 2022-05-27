@@ -2871,3 +2871,7 @@ timestamp,country,category,state,value
 2022-05-26 21:19:25,Russia,anti-aircraft guns,captured,1
 2022-05-26 21:19:25,Russia,armoured fighting vehicles,captured,1
 2022-05-26 21:19:25,Russia,tanks,captured,1
+2022-05-27 01:50:26,Russia,command posts and communications stations,destroyed,1
+2022-05-27 01:50:26,Russia,tanks,destroyed,1
+2022-05-27 01:50:26,Russia,"trucks, vehicles and jeeps",captured,1
+2022-05-27 01:50:26,Russia,"trucks, vehicles and jeeps",destroyed,1
