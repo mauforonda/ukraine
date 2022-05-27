@@ -2875,3 +2875,8 @@ timestamp,country,category,state,value
 2022-05-27 01:50:26,Russia,tanks,destroyed,1
 2022-05-27 01:50:26,Russia,"trucks, vehicles and jeeps",captured,1
 2022-05-27 01:50:26,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-05-27 18:26:22,Russia,armoured personnel carriers,destroyed,1
+2022-05-27 18:26:22,Russia,infantry fighting vehicles,destroyed,1
+2022-05-27 18:26:22,Russia,self-propelled anti-aircraft guns,destroyed,1
+2022-05-27 18:26:22,Russia,tanks,captured,1
+2022-05-27 18:26:22,Russia,"trucks, vehicles and jeeps",destroyed,1
