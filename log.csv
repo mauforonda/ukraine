@@ -2902,3 +2902,7 @@ timestamp,country,category,state,value
 2022-05-29 01:57:54,Russia,self-propelled anti-aircraft guns,captured,-1
 2022-05-29 01:57:54,Russia,tanks,captured,1
 2022-05-29 12:34:57,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2022-05-30 01:53:37,Russia,infantry fighting vehicles,captured,1
+2022-05-30 01:53:37,Russia,infantry fighting vehicles,destroyed,2
+2022-05-30 01:53:37,Russia,self-propelled artillery,captured,1
+2022-05-30 01:53:37,Russia,tanks,destroyed,2
