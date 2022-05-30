@@ -2906,3 +2906,6 @@ timestamp,country,category,state,value
 2022-05-30 01:53:37,Russia,infantry fighting vehicles,destroyed,2
 2022-05-30 01:53:37,Russia,self-propelled artillery,captured,1
 2022-05-30 01:53:37,Russia,tanks,destroyed,2
+2022-05-30 12:39:09,Russia,aircraft,damaged,-1
+2022-05-30 12:39:09,Russia,aircraft,destroyed,1
+2022-05-30 12:39:09,Russia,infantry fighting vehicles,destroyed,4
