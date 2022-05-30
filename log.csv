@@ -2909,3 +2909,6 @@ timestamp,country,category,state,value
 2022-05-30 12:39:09,Russia,aircraft,damaged,-1
 2022-05-30 12:39:09,Russia,aircraft,destroyed,1
 2022-05-30 12:39:09,Russia,infantry fighting vehicles,destroyed,4
+2022-05-30 15:23:48,Russia,tanks,captured,1
+2022-05-30 15:23:48,Russia,unmanned aerial vehicles,captured,-3
+2022-05-30 15:23:48,Russia,unmanned aerial vehicles,destroyed,-1
