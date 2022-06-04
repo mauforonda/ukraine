@@ -2945,3 +2945,12 @@ timestamp,country,category,state,value
 2022-06-03 12:35:26,Russia,tanks,captured,2
 2022-06-04 12:30:49,Russia,infantry fighting vehicles,destroyed,2
 2022-06-04 12:30:49,Russia,tanks,destroyed,1
+2022-06-04 15:18:41,Russia,armoured fighting vehicles,destroyed,3
+2022-06-04 15:18:41,Russia,command posts and communications stations,captured,1
+2022-06-04 15:18:41,Russia,helicopters,destroyed,1
+2022-06-04 15:18:41,Russia,infantry fighting vehicles,captured,1
+2022-06-04 15:18:41,Russia,self-propelled anti-tank missile systems,abandoned,2
+2022-06-04 15:18:41,Russia,tanks,captured,2
+2022-06-04 15:18:41,Russia,tanks,destroyed,6
+2022-06-04 15:18:41,Russia,towed artillery,destroyed,1
+2022-06-04 15:18:41,Russia,"trucks, vehicles and jeeps",destroyed,2
