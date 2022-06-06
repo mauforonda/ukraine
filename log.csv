@@ -2970,3 +2970,8 @@ timestamp,country,category,state,value
 2022-06-06 12:40:39,Russia,infantry fighting vehicles,captured,-1
 2022-06-06 12:40:39,Russia,self-propelled artillery,abandoned,-1
 2022-06-06 12:40:39,Russia,tanks,destroyed,1
+2022-06-06 15:22:01,Russia,infantry fighting vehicles,captured,1
+2022-06-06 15:22:01,Russia,infantry fighting vehicles,destroyed,1
+2022-06-06 15:22:01,Russia,multiple rocket launchers,captured,-1
+2022-06-06 15:22:01,Russia,tanks,destroyed,1
+2022-06-06 15:22:01,Russia,"trucks, vehicles and jeeps",destroyed,1
