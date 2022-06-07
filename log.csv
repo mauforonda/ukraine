@@ -2982,3 +2982,5 @@ timestamp,country,category,state,value
 2022-06-07 15:20:49,Russia,armoured fighting vehicles,destroyed,2
 2022-06-07 15:20:49,Russia,infantry fighting vehicles,destroyed,2
 2022-06-07 15:20:49,Russia,mine-resistant ambush protected,damaged,1
+2022-06-07 18:23:03,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-06-07 18:23:03,Russia,unmanned aerial vehicles,captured,1
