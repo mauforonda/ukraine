@@ -2979,3 +2979,6 @@ timestamp,country,category,state,value
 2022-06-06 21:16:43,Russia,infantry fighting vehicles,abandoned,1
 2022-06-06 21:16:43,Russia,infantry fighting vehicles,captured,1
 2022-06-06 21:16:43,Russia,infantry fighting vehicles,destroyed,1
+2022-06-07 15:20:49,Russia,armoured fighting vehicles,destroyed,2
+2022-06-07 15:20:49,Russia,infantry fighting vehicles,destroyed,2
+2022-06-07 15:20:49,Russia,mine-resistant ambush protected,damaged,1
