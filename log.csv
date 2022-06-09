@@ -3006,3 +3006,7 @@ timestamp,country,category,state,value
 2022-06-09 12:41:00,Russia,infantry mobility vehicles,abandoned,-1
 2022-06-09 12:41:00,Russia,infantry mobility vehicles,captured,-1
 2022-06-09 12:41:00,Russia,infantry mobility vehicles,destroyed,-2
+2022-06-09 15:19:18,Russia,armoured fighting vehicles,destroyed,1
+2022-06-09 15:19:18,Russia,tanks,destroyed,2
+2022-06-09 15:19:18,Russia,"trucks, vehicles and jeeps",captured,1
+2022-06-09 15:19:18,Russia,"trucks, vehicles and jeeps",destroyed,1
