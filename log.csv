@@ -3021,3 +3021,5 @@ timestamp,country,category,state,value
 2022-06-10 15:22:25,Russia,towed artillery,destroyed,1
 2022-06-10 15:22:25,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-06-10 15:22:25,Russia,unmanned aerial vehicles,destroyed,1
+2022-06-10 18:25:07,Russia,engineering vehicles and equipment,abandoned,-1
+2022-06-10 18:25:07,Russia,engineering vehicles and equipment,destroyed,-1
