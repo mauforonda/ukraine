@@ -3010,3 +3010,14 @@ timestamp,country,category,state,value
 2022-06-09 15:19:18,Russia,tanks,destroyed,2
 2022-06-09 15:19:18,Russia,"trucks, vehicles and jeeps",captured,1
 2022-06-09 15:19:18,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-06-10 15:22:25,Russia,aircraft,damaged,1
+2022-06-10 15:22:25,Russia,armoured fighting vehicles,destroyed,2
+2022-06-10 15:22:25,Russia,armoured personnel carriers,destroyed,1
+2022-06-10 15:22:25,Russia,engineering vehicles and equipment,abandoned,1
+2022-06-10 15:22:25,Russia,infantry fighting vehicles,abandoned,1
+2022-06-10 15:22:25,Russia,multiple rocket launchers,destroyed,2
+2022-06-10 15:22:25,Russia,tanks,captured,1
+2022-06-10 15:22:25,Russia,tanks,destroyed,1
+2022-06-10 15:22:25,Russia,towed artillery,destroyed,1
+2022-06-10 15:22:25,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-06-10 15:22:25,Russia,unmanned aerial vehicles,destroyed,1
