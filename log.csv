@@ -3032,3 +3032,7 @@ timestamp,country,category,state,value
 2022-06-11 01:45:55,Russia,infantry fighting vehicles,destroyed,1
 2022-06-11 01:45:55,Russia,tanks,captured,-1
 2022-06-11 01:45:55,Russia,tanks,destroyed,2
+2022-06-11 12:32:50,Russia,infantry fighting vehicles,destroyed,1
+2022-06-11 12:32:50,Russia,tanks,destroyed,1
+2022-06-11 12:32:50,Russia,"trucks, vehicles and jeeps",captured,1
+2022-06-11 12:32:50,Russia,"trucks, vehicles and jeeps",destroyed,2
