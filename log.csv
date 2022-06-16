@@ -3062,3 +3062,15 @@ timestamp,country,category,state,value
 2022-06-16 12:38:57,Russia,"trucks, vehicles and jeeps",captured,-5
 2022-06-16 12:38:57,Russia,"trucks, vehicles and jeeps",damaged,-1
 2022-06-16 12:38:57,Russia,"trucks, vehicles and jeeps",destroyed,-20
+2022-06-16 18:25:34,Russia,aircraft,destroyed,1
+2022-06-16 18:25:34,Russia,helicopters,destroyed,1
+2022-06-16 18:25:34,Russia,infantry fighting vehicles,destroyed,1
+2022-06-16 18:25:34,Russia,jammers and deception systems,destroyed,1
+2022-06-16 18:25:34,Russia,self-propelled anti-tank missile systems,destroyed,1
+2022-06-16 18:25:34,Russia,tanks,captured,1
+2022-06-16 18:25:34,Russia,tanks,destroyed,5
+2022-06-16 18:25:34,Russia,"trucks, vehicles and jeeps",abandoned,-3
+2022-06-16 18:25:34,Russia,"trucks, vehicles and jeeps",captured,1
+2022-06-16 18:25:34,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-06-16 18:25:34,Russia,unmanned aerial vehicles,captured,2
+2022-06-16 18:25:34,Russia,unmanned aerial vehicles,destroyed,1
