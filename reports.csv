@@ -1,7 +1,6 @@
 country,category,equipment,equipment_origin,text,source
 Russia,Aircraft ,An-26 transport aircraft,ussr,"1, destroyed",https://i.postimg.cc/R0ppMFNQ/448.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"8, destroyed",https://i.postimg.cc/DZ14y78S/316.png
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"12, destroyed",https://i.postimg.cc/KYkfrztL/335.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"1, destroyed",https://i.postimg.cc/L6456Fm4/38.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"2, destroyed",https://i.postimg.cc/Mp371YRh/675.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"11, destroyed",https://i.postimg.cc/PqBrzQ94/2d.png
@@ -10,6 +9,7 @@ Russia,Aircraft ,Su-25 close air support aircraft,ussr,"4, destroyed",https://i.
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"3, destroyed",https://i.postimg.cc/VNx7Xd0x/n86.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"9, destroyed",https://i.postimg.cc/XJ2YWqt8/6y6.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"10, destroyed",https://i.postimg.cc/bNnXPwcr/43g9.png
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"12, destroyed",https://i.postimg.cc/y6XbrW3z/6522.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"5, destroyed",https://i.postimg.cc/zBCBJNs4/360.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"13, damaged beyond economical repair",https://i.postimg.cc/zBVmRBJ2/h9.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"7, destroyed",https://twitter.com/RALee85/status/1507360503546449924
@@ -1831,11 +1831,11 @@ Russia,Multiple Rocket Launchers ,220mm TOS-1A,russian federation,"3, damaged an
 Russia,Multiple Rocket Launchers ,220mm TOS-1A,russian federation,"1, damaged",https://i.postimg.cc/HL58qWkz/76.jpg
 Russia,Multiple Rocket Launchers ,220mm TOS-1A,russian federation,"4, captured",https://i.postimg.cc/dtj7Fs6v/5g5.png
 Russia,Multiple Rocket Launchers ,Unknown MRL,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1533131912423800832
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"3, destroyed by Bayraktar TB2",https://i.postimg.cc/0yycFg18/6j.jpg
+Russia,Naval Ships ,Project 02510 BK-16E high-speed assault boat,russian federation,"1, destroyed by Bayraktar TB2",https://i.postimg.cc/V6TjLx6w/7769.png
+Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"2, destroyed by Bayraktar TB2",https://i.postimg.cc/0yycFg18/6j.jpg
 Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"1, destroyed by Bayraktar TB2",https://i.postimg.cc/LX8JW4dJ/46.png
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"2, destroyed by Bayraktar TB2",https://i.postimg.cc/pdqTKN9R/650.png
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"4, destroyed by Bayraktar TB2",https://i.postimg.cc/wBtFxhBZ/7j.jpg
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"5, damaged",https://twitter.com/UAWeapons/status/1506229325598756872
+Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"3, destroyed by Bayraktar TB2",https://i.postimg.cc/wBtFxhBZ/7j.jpg
+Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"4, damaged",https://twitter.com/UAWeapons/status/1506229325598756872
 Russia,Naval Ships ,Project 1164 Slava class guided missile cruiser 'Moskva',ussr,"1, sunk",https://i.postimg.cc/GhPrsQVH/68.png
 Russia,Naval Ships ,Project 1171 Tapir class landing ship 'Saratov (BDK-65)',ussr,"1, destroyed",https://twitter.com/RALee85/status/1506953417935179793
 Russia,Naval Ships ,Project 11770 Serna class landing craft,russian federation,"1, destroyed by Bayraktar TB2",https://i.postimg.cc/cJWjtN8s/437.png
