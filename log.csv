@@ -3080,3 +3080,33 @@ timestamp,country,category,state,value
 2022-06-18 12:32:13,Russia,"trucks, vehicles and jeeps",abandoned,-6
 2022-06-18 12:32:13,Russia,"trucks, vehicles and jeeps",captured,-1
 2022-06-18 12:32:13,Russia,"trucks, vehicles and jeeps",destroyed,-12
+2022-06-18 18:23:01,Russia,armoured fighting vehicles,captured,-2
+2022-06-18 18:23:01,Russia,armoured fighting vehicles,destroyed,2
+2022-06-18 18:23:01,Russia,armoured personnel carriers,abandoned,-1
+2022-06-18 18:23:01,Russia,armoured personnel carriers,captured,2
+2022-06-18 18:23:01,Russia,armoured personnel carriers,destroyed,-1
+2022-06-18 18:23:01,Russia,command posts and communications stations,captured,1
+2022-06-18 18:23:01,Russia,command posts and communications stations,destroyed,-1
+2022-06-18 18:23:01,Russia,engineering vehicles and equipment,abandoned,1
+2022-06-18 18:23:01,Russia,engineering vehicles and equipment,captured,1
+2022-06-18 18:23:01,Russia,engineering vehicles and equipment,damaged,1
+2022-06-18 18:23:01,Russia,engineering vehicles and equipment,destroyed,-4
+2022-06-18 18:23:01,Russia,helicopters,destroyed,1
+2022-06-18 18:23:01,Russia,infantry fighting vehicles,abandoned,2
+2022-06-18 18:23:01,Russia,infantry fighting vehicles,captured,-4
+2022-06-18 18:23:01,Russia,infantry fighting vehicles,damaged,-1
+2022-06-18 18:23:01,Russia,infantry fighting vehicles,destroyed,3
+2022-06-18 18:23:01,Russia,infantry mobility vehicles,captured,1
+2022-06-18 18:23:01,Russia,infantry mobility vehicles,destroyed,-1
+2022-06-18 18:23:01,Russia,jammers and deception systems,captured,1
+2022-06-18 18:23:01,Russia,jammers and deception systems,damaged,-1
+2022-06-18 18:23:01,Russia,multiple rocket launchers,captured,-1
+2022-06-18 18:23:01,Russia,multiple rocket launchers,destroyed,1
+2022-06-18 18:23:01,Russia,self-propelled artillery,abandoned,4
+2022-06-18 18:23:01,Russia,self-propelled artillery,captured,-3
+2022-06-18 18:23:01,Russia,tanks,abandoned,-4
+2022-06-18 18:23:01,Russia,tanks,captured,-13
+2022-06-18 18:23:01,Russia,tanks,damaged,1
+2022-06-18 18:23:01,Russia,tanks,destroyed,-3
+2022-06-18 18:23:01,Russia,towed artillery,abandoned,1
+2022-06-18 18:23:01,Russia,towed artillery,captured,-1
