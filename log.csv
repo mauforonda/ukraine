@@ -3198,3 +3198,7 @@ timestamp,country,category,state,value
 2022-06-29 12:41:23,Russia,self-propelled artillery,destroyed,4
 2022-06-29 12:41:23,Russia,tanks,destroyed,1
 2022-06-29 12:41:23,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-06-29 15:51:37,Russia,infantry fighting vehicles,abandoned,1
+2022-06-29 15:51:37,Russia,infantry fighting vehicles,destroyed,5
+2022-06-29 15:51:37,Russia,"trucks, vehicles and jeeps",captured,-8
+2022-06-29 15:51:37,Russia,"trucks, vehicles and jeeps",destroyed,-3
