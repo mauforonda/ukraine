@@ -3187,3 +3187,14 @@ timestamp,country,category,state,value
 2022-06-29 09:21:11,Russia,infantry fighting vehicles,captured,1
 2022-06-29 09:21:11,Russia,tanks,destroyed,2
 2022-06-29 09:21:11,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-06-29 12:41:23,Russia,armoured fighting vehicles,damaged,1
+2022-06-29 12:41:23,Russia,armoured fighting vehicles,destroyed,7
+2022-06-29 12:41:23,Russia,command posts and communications stations,destroyed,1
+2022-06-29 12:41:23,Russia,engineering vehicles and equipment,abandoned,1
+2022-06-29 12:41:23,Russia,engineering vehicles and equipment,destroyed,1
+2022-06-29 12:41:23,Russia,infantry fighting vehicles,abandoned,3
+2022-06-29 12:41:23,Russia,infantry fighting vehicles,destroyed,16
+2022-06-29 12:41:23,Russia,self-propelled artillery,abandoned,2
+2022-06-29 12:41:23,Russia,self-propelled artillery,destroyed,4
+2022-06-29 12:41:23,Russia,tanks,destroyed,1
+2022-06-29 12:41:23,Russia,"trucks, vehicles and jeeps",destroyed,2
