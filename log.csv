@@ -3209,3 +3209,6 @@ timestamp,country,category,state,value
 2022-06-30 02:01:46,Russia,tanks,captured,2
 2022-06-30 09:19:05,Russia,helicopters,abandoned,-1
 2022-06-30 12:41:44,Russia,infantry fighting vehicles,captured,-1
+2022-06-30 18:28:02,Russia,armoured fighting vehicles,destroyed,1
+2022-06-30 18:28:02,Russia,helicopters,destroyed,1
+2022-06-30 18:28:02,Russia,infantry fighting vehicles,destroyed,-1
