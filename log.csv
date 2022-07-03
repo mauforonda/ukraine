@@ -3237,3 +3237,5 @@ timestamp,country,category,state,value
 2022-07-02 21:16:20,Russia,tanks,destroyed,2
 2022-07-02 21:16:20,Russia,"trucks, vehicles and jeeps",damaged,1
 2022-07-02 21:16:20,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-07-03 02:02:19,Russia,engineering vehicles and equipment,captured,-1
+2022-07-03 02:02:19,Russia,"trucks, vehicles and jeeps",destroyed,3
