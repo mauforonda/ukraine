@@ -3304,3 +3304,10 @@ timestamp,country,category,state,value
 2022-07-09 01:50:36,Russia,tanks,destroyed,9
 2022-07-09 01:50:36,Russia,"trucks, vehicles and jeeps",abandoned,1
 2022-07-09 01:50:36,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-07-09 21:17:15,Russia,armoured fighting vehicles,destroyed,4
+2022-07-09 21:17:15,Russia,engineering vehicles and equipment,captured,1
+2022-07-09 21:17:15,Russia,infantry fighting vehicles,destroyed,3
+2022-07-09 21:17:15,Russia,tanks,captured,1
+2022-07-09 21:17:15,Russia,tanks,destroyed,3
+2022-07-09 21:17:15,Russia,towed artillery,destroyed,1
+2022-07-09 21:17:15,Russia,"trucks, vehicles and jeeps",destroyed,3
