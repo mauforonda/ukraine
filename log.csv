@@ -3326,3 +3326,4 @@ timestamp,country,category,state,value
 2022-07-11 21:17:34,Russia,tanks,destroyed,5
 2022-07-11 21:17:34,Russia,towed artillery,destroyed,2
 2022-07-11 21:17:34,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-07-12 02:05:08,Russia,unmanned aerial vehicles,captured,1
