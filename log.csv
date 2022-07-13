@@ -3333,3 +3333,11 @@ timestamp,country,category,state,value
 2022-07-12 21:18:10,Russia,infantry fighting vehicles,destroyed,1
 2022-07-12 21:18:10,Russia,"trucks, vehicles and jeeps",captured,-1
 2022-07-12 21:18:10,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-07-13 21:19:30,Russia,armoured fighting vehicles,destroyed,2
+2022-07-13 21:19:30,Russia,armoured personnel carriers,destroyed,1
+2022-07-13 21:19:30,Russia,infantry fighting vehicles,destroyed,2
+2022-07-13 21:19:30,Russia,multiple rocket launchers,destroyed,1
+2022-07-13 21:19:30,Russia,self-propelled artillery,destroyed,1
+2022-07-13 21:19:30,Russia,tanks,abandoned,1
+2022-07-13 21:19:30,Russia,tanks,destroyed,1
+2022-07-13 21:19:30,Russia,"trucks, vehicles and jeeps",destroyed,1
