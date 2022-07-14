@@ -3341,3 +3341,5 @@ timestamp,country,category,state,value
 2022-07-13 21:19:30,Russia,tanks,abandoned,1
 2022-07-13 21:19:30,Russia,tanks,destroyed,1
 2022-07-13 21:19:30,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-07-14 02:07:04,Russia,armoured fighting vehicles,destroyed,1
+2022-07-14 02:07:04,Russia,tanks,destroyed,-3
