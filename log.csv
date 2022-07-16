@@ -3358,3 +3358,10 @@ timestamp,country,category,state,value
 2022-07-16 01:57:44,Russia,tanks,destroyed,2
 2022-07-16 01:57:44,Russia,"trucks, vehicles and jeeps",destroyed,7
 2022-07-16 01:57:44,Russia,unmanned aerial vehicles,destroyed,1
+2022-07-16 21:16:29,Russia,armoured fighting vehicles,captured,1
+2022-07-16 21:16:29,Russia,armoured fighting vehicles,destroyed,3
+2022-07-16 21:16:29,Russia,armoured personnel carriers,destroyed,1
+2022-07-16 21:16:29,Russia,infantry fighting vehicles,destroyed,1
+2022-07-16 21:16:29,Russia,self-propelled artillery,destroyed,1
+2022-07-16 21:16:29,Russia,tanks,destroyed,3
+2022-07-16 21:16:29,Russia,"trucks, vehicles and jeeps",destroyed,1
