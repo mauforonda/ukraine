@@ -3386,3 +3386,11 @@ timestamp,country,category,state,value
 2022-07-18 15:24:13,Russia,mine-resistant ambush protected,destroyed,1
 2022-07-18 15:24:13,Russia,self-propelled artillery,captured,-1
 2022-07-18 15:24:13,Russia,self-propelled artillery,destroyed,1
+2022-07-18 21:17:49,Russia,aircraft,destroyed,1
+2022-07-18 21:17:49,Russia,armoured fighting vehicles,destroyed,2
+2022-07-18 21:17:49,Russia,infantry fighting vehicles,captured,11
+2022-07-18 21:17:49,Russia,infantry fighting vehicles,destroyed,21
+2022-07-18 21:17:49,Russia,self-propelled artillery,captured,1
+2022-07-18 21:17:49,Russia,self-propelled artillery,destroyed,1
+2022-07-18 21:17:49,Russia,tanks,captured,1
+2022-07-18 21:17:49,Russia,tanks,destroyed,1
