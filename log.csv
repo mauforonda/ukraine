@@ -3378,3 +3378,11 @@ timestamp,country,category,state,value
 2022-07-18 09:20:02,Russia,tanks,abandoned,-1
 2022-07-18 09:20:02,Russia,tanks,captured,-10
 2022-07-18 09:20:02,Russia,tanks,destroyed,-6
+2022-07-18 15:24:13,Russia,armoured personnel carriers,captured,-1
+2022-07-18 15:24:13,Russia,command posts and communications stations,destroyed,1
+2022-07-18 15:24:13,Russia,infantry fighting vehicles,captured,-2
+2022-07-18 15:24:13,Russia,infantry fighting vehicles,destroyed,-4
+2022-07-18 15:24:13,Russia,infantry mobility vehicles,destroyed,1
+2022-07-18 15:24:13,Russia,mine-resistant ambush protected,destroyed,1
+2022-07-18 15:24:13,Russia,self-propelled artillery,captured,-1
+2022-07-18 15:24:13,Russia,self-propelled artillery,destroyed,1
