@@ -3413,3 +3413,10 @@ timestamp,country,category,state,value
 2022-07-19 21:18:36,Russia,tanks,destroyed,-514
 2022-07-19 21:18:36,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-07-20 12:40:52,Russia,towed artillery,destroyed,1
+2022-07-20 21:17:02,Russia,armoured personnel carriers,destroyed,1
+2022-07-20 21:17:02,Russia,command posts and communications stations,destroyed,1
+2022-07-20 21:17:02,Russia,engineering vehicles and equipment,destroyed,1
+2022-07-20 21:17:02,Russia,infantry fighting vehicles,destroyed,2
+2022-07-20 21:17:02,Russia,infantry mobility vehicles,destroyed,1
+2022-07-20 21:17:02,Russia,self-propelled artillery,destroyed,1
+2022-07-20 21:17:02,Russia,tanks,captured,1
