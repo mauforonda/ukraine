@@ -3430,3 +3430,5 @@ timestamp,country,category,state,value
 2022-07-23 15:20:32,Russia,tanks,abandoned,-2
 2022-07-23 15:20:32,Russia,tanks,captured,2
 2022-07-23 15:20:32,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-07-23 18:23:42,Russia,multiple rocket launchers,damaged,1
+2022-07-23 18:23:42,Russia,"trucks, vehicles and jeeps",destroyed,1
