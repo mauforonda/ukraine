@@ -3460,3 +3460,6 @@ timestamp,country,category,state,value
 2022-07-24 18:24:31,Russia,naval ships,destroyed,1
 2022-07-24 18:24:31,Russia,"trucks, vehicles and jeeps",damaged,1
 2022-07-24 18:24:31,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-07-24 21:17:36,Russia,infantry fighting vehicles,captured,-1
+2022-07-24 21:17:36,Russia,infantry fighting vehicles,destroyed,1
+2022-07-24 21:17:36,Russia,surface-to-air missile systems,destroyed,2
