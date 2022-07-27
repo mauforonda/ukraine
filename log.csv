@@ -3473,3 +3473,10 @@ timestamp,country,category,state,value
 2022-07-25 21:17:32,Russia,multiple rocket launchers,destroyed,1
 2022-07-25 21:17:32,Russia,self-propelled artillery,captured,1
 2022-07-25 21:17:32,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-07-27 02:05:49,Russia,armoured personnel carriers,destroyed,1
+2022-07-27 02:05:49,Russia,engineering vehicles and equipment,captured,1
+2022-07-27 02:05:49,Russia,infantry fighting vehicles,captured,2
+2022-07-27 02:05:49,Russia,infantry fighting vehicles,destroyed,1
+2022-07-27 02:05:49,Russia,logistics trains,destroyed,1
+2022-07-27 02:05:49,Russia,tanks,captured,1
+2022-07-27 02:05:49,Russia,"trucks, vehicles and jeeps",destroyed,-1
