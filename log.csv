@@ -3491,3 +3491,7 @@ timestamp,country,category,state,value
 2022-07-27 18:24:22,Russia,engineering vehicles and equipment,destroyed,2
 2022-07-27 18:24:22,Russia,mine-resistant ambush protected,destroyed,1
 2022-07-27 18:24:22,Russia,self-propelled artillery,destroyed,2
+2022-07-28 01:58:22,Russia,engineering vehicles and equipment,destroyed,1
+2022-07-28 01:58:22,Russia,"trucks, vehicles and jeeps",abandoned,3
+2022-07-28 01:58:22,Russia,"trucks, vehicles and jeeps",captured,5
+2022-07-28 01:58:22,Russia,"trucks, vehicles and jeeps",destroyed,93
