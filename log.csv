@@ -3530,3 +3530,7 @@ timestamp,country,category,state,value
 2022-08-01 21:18:09,Russia,towed artillery,captured,1
 2022-08-01 21:18:09,Russia,towed artillery,damaged,1
 2022-08-01 21:18:09,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-08-02 12:44:03,Russia,infantry fighting vehicles,abandoned,1
+2022-08-02 12:44:03,Russia,infantry fighting vehicles,destroyed,1
+2022-08-02 12:44:03,Russia,tanks,captured,1
+2022-08-02 12:44:03,Russia,"trucks, vehicles and jeeps",captured,1
