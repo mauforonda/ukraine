@@ -3534,3 +3534,9 @@ timestamp,country,category,state,value
 2022-08-02 12:44:03,Russia,infantry fighting vehicles,destroyed,1
 2022-08-02 12:44:03,Russia,tanks,captured,1
 2022-08-02 12:44:03,Russia,"trucks, vehicles and jeeps",captured,1
+2022-08-02 21:18:00,Russia,armoured fighting vehicles,captured,1
+2022-08-02 21:18:00,Russia,armoured fighting vehicles,destroyed,2
+2022-08-02 21:18:00,Russia,armoured personnel carriers,captured,1
+2022-08-02 21:18:00,Russia,infantry fighting vehicles,destroyed,1
+2022-08-02 21:18:00,Russia,surface-to-air missile systems,destroyed,1
+2022-08-02 21:18:00,Russia,tanks,captured,1
