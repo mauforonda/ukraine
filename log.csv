@@ -3603,3 +3603,12 @@ timestamp,country,category,state,value
 2022-08-09 18:24:39,Russia,towed artillery,captured,1
 2022-08-09 18:24:39,Russia,"trucks, vehicles and jeeps",destroyed,3
 2022-08-09 21:18:32,Russia,infantry fighting vehicles,destroyed,1
+2022-08-10 21:17:55,Russia,aircraft,damaged,1
+2022-08-10 21:17:55,Russia,aircraft,destroyed,9
+2022-08-10 21:17:55,Russia,armoured fighting vehicles,destroyed,2
+2022-08-10 21:17:55,Russia,armoured personnel carriers,captured,-1
+2022-08-10 21:17:55,Russia,command posts and communications stations,destroyed,1
+2022-08-10 21:17:55,Russia,engineering vehicles and equipment,damaged,1
+2022-08-10 21:17:55,Russia,tanks,abandoned,1
+2022-08-10 21:17:55,Russia,"trucks, vehicles and jeeps",damaged,1
+2022-08-10 21:17:55,Russia,"trucks, vehicles and jeeps",destroyed,5
