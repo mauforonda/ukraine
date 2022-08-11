@@ -3613,3 +3613,13 @@ timestamp,country,category,state,value
 2022-08-10 21:17:55,Russia,"trucks, vehicles and jeeps",damaged,1
 2022-08-10 21:17:55,Russia,"trucks, vehicles and jeeps",destroyed,5
 2022-08-11 01:50:24,Russia,aircraft,destroyed,1
+2022-08-11 21:18:29,Russia,armoured fighting vehicles,captured,1
+2022-08-11 21:18:29,Russia,armoured fighting vehicles,destroyed,3
+2022-08-11 21:18:29,Russia,command posts and communications stations,captured,1
+2022-08-11 21:18:29,Russia,infantry fighting vehicles,captured,1
+2022-08-11 21:18:29,Russia,infantry fighting vehicles,destroyed,3
+2022-08-11 21:18:29,Russia,jammers and deception systems,destroyed,1
+2022-08-11 21:18:29,Russia,self-propelled artillery,destroyed,1
+2022-08-11 21:18:29,Russia,tanks,abandoned,1
+2022-08-11 21:18:29,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-08-11 21:18:29,Russia,unmanned aerial vehicles,captured,1
