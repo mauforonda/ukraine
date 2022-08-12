@@ -3623,3 +3623,9 @@ timestamp,country,category,state,value
 2022-08-11 21:18:29,Russia,tanks,abandoned,1
 2022-08-11 21:18:29,Russia,"trucks, vehicles and jeeps",destroyed,5
 2022-08-11 21:18:29,Russia,unmanned aerial vehicles,captured,1
+2022-08-12 21:17:55,Russia,armoured personnel carriers,captured,1
+2022-08-12 21:17:55,Russia,command posts and communications stations,captured,1
+2022-08-12 21:17:55,Russia,infantry fighting vehicles,damaged,1
+2022-08-12 21:17:55,Russia,infantry fighting vehicles,destroyed,3
+2022-08-12 21:17:55,Russia,multiple rocket launchers,destroyed,1
+2022-08-12 21:17:55,Russia,"trucks, vehicles and jeeps",captured,1

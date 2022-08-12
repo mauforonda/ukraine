@@ -8,11 +8,11 @@ Russia,Armoured Fighting Vehicles ,captured,139
 Russia,Armoured Fighting Vehicles ,damaged,6
 Russia,Armoured Fighting Vehicles ,destroyed,355
 Russia,Armoured Personnel Carriers ,abandoned,10
-Russia,Armoured Personnel Carriers ,captured,57
+Russia,Armoured Personnel Carriers ,captured,58
 Russia,Armoured Personnel Carriers ,damaged,3
 Russia,Armoured Personnel Carriers ,destroyed,71
 Russia,Command Posts And Communications Stations ,abandoned,7
-Russia,Command Posts And Communications Stations ,captured,40
+Russia,Command Posts And Communications Stations ,captured,41
 Russia,Command Posts And Communications Stations ,destroyed,60
 Russia,Engineering Vehicles And Equipment ,abandoned,41
 Russia,Engineering Vehicles And Equipment ,captured,71
@@ -26,8 +26,8 @@ Russia,Helicopters ,damaged,1
 Russia,Helicopters ,destroyed,47
 Russia,Infantry Fighting Vehicles ,abandoned,71
 Russia,Infantry Fighting Vehicles ,captured,261
-Russia,Infantry Fighting Vehicles ,damaged,20
-Russia,Infantry Fighting Vehicles ,destroyed,668
+Russia,Infantry Fighting Vehicles ,damaged,21
+Russia,Infantry Fighting Vehicles ,destroyed,671
 Russia,Infantry Mobility Vehicles ,abandoned,4
 Russia,Infantry Mobility Vehicles ,captured,35
 Russia,Infantry Mobility Vehicles ,damaged,2
@@ -43,7 +43,7 @@ Russia,Mine-Resistant Ambush Protected ,destroyed,17
 Russia,Multiple Rocket Launchers ,abandoned,2
 Russia,Multiple Rocket Launchers ,captured,29
 Russia,Multiple Rocket Launchers ,damaged,1
-Russia,Multiple Rocket Launchers ,destroyed,60
+Russia,Multiple Rocket Launchers ,destroyed,61
 Russia,Naval Ships ,damaged,3
 Russia,Naval Ships ,destroyed,8
 Russia,Radars ,captured,7
@@ -69,7 +69,7 @@ Russia,Towed Artillery ,captured,41
 Russia,Towed Artillery ,damaged,5
 Russia,Towed Artillery ,destroyed,24
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,61
-Russia,"Trucks, Vehicles and Jeeps ",captured,296
+Russia,"Trucks, Vehicles and Jeeps ",captured,297
 Russia,"Trucks, Vehicles and Jeeps ",damaged,25
 Russia,"Trucks, Vehicles and Jeeps ",destroyed,1019
 Russia,Unmanned Aerial Vehicles ,captured,51
