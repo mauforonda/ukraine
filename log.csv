@@ -3639,3 +3639,8 @@ timestamp,country,category,state,value
 2022-08-13 12:33:57,Russia,"trucks, vehicles and jeeps",captured,-5
 2022-08-13 12:33:57,Russia,"trucks, vehicles and jeeps",destroyed,-7
 2022-08-13 12:33:57,Russia,unmanned aerial vehicles,destroyed,2
+2022-08-13 21:16:55,Russia,armoured fighting vehicles,destroyed,1
+2022-08-13 21:16:55,Russia,infantry fighting vehicles,captured,2
+2022-08-13 21:16:55,Russia,infantry mobility vehicles,destroyed,1
+2022-08-13 21:16:55,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-08-13 21:16:55,Russia,unmanned aerial vehicles,destroyed,2
