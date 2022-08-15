@@ -3656,3 +3656,8 @@ timestamp,country,category,state,value
 2022-08-15 18:26:11,Russia,helicopters,destroyed,2
 2022-08-15 18:26:11,Russia,tanks,damaged,37
 2022-08-15 18:26:11,Russia,tanks,destroyed,579
+2022-08-15 21:18:03,Russia,armoured fighting vehicles,destroyed,1
+2022-08-15 21:18:03,Russia,infantry fighting vehicles,destroyed,2
+2022-08-15 21:18:03,Russia,tanks,captured,1
+2022-08-15 21:18:03,Russia,tanks,destroyed,4
+2022-08-15 21:18:03,Russia,"trucks, vehicles and jeeps",destroyed,1
