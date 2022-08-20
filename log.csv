@@ -3689,3 +3689,4 @@ timestamp,country,category,state,value
 2022-08-20 02:04:41,Russia,tanks,destroyed,3
 2022-08-20 02:04:41,Russia,unmanned aerial vehicles,destroyed,1
 2022-08-20 12:34:58,Russia,tanks,destroyed,1
+2022-08-20 18:23:48,Russia,tanks,destroyed,-1
