@@ -3704,3 +3704,7 @@ timestamp,country,category,state,value
 2022-08-21 18:23:58,Russia,armoured fighting vehicles,abandoned,-2
 2022-08-21 18:23:58,Russia,armoured fighting vehicles,destroyed,-7
 2022-08-21 18:23:58,Russia,tanks,destroyed,1
+2022-08-21 21:17:19,Russia,armoured fighting vehicles,destroyed,-3
+2022-08-21 21:17:19,Russia,infantry fighting vehicles,captured,-9
+2022-08-21 21:17:19,Russia,infantry fighting vehicles,destroyed,21
+2022-08-21 21:17:19,Russia,mine-resistant ambush protected,destroyed,-1
