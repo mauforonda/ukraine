@@ -3708,3 +3708,16 @@ timestamp,country,category,state,value
 2022-08-21 21:17:19,Russia,infantry fighting vehicles,captured,-9
 2022-08-21 21:17:19,Russia,infantry fighting vehicles,destroyed,21
 2022-08-21 21:17:19,Russia,mine-resistant ambush protected,destroyed,-1
+2022-08-22 12:41:58,Russia,armoured personnel carriers,captured,-2
+2022-08-22 12:41:58,Russia,armoured personnel carriers,destroyed,2
+2022-08-22 12:41:58,Russia,command posts and communications stations,abandoned,1
+2022-08-22 12:41:58,Russia,command posts and communications stations,destroyed,3
+2022-08-22 12:41:58,Russia,infantry fighting vehicles,abandoned,1
+2022-08-22 12:41:58,Russia,infantry mobility vehicles,abandoned,-3
+2022-08-22 12:41:58,Russia,infantry mobility vehicles,captured,-4
+2022-08-22 12:41:58,Russia,infantry mobility vehicles,destroyed,5
+2022-08-22 12:41:58,Russia,mine-resistant ambush protected,abandoned,-2
+2022-08-22 12:41:58,Russia,mine-resistant ambush protected,captured,1
+2022-08-22 12:41:58,Russia,mine-resistant ambush protected,damaged,1
+2022-08-22 12:41:58,Russia,mine-resistant ambush protected,destroyed,-1
+2022-08-22 12:41:58,Russia,tanks,destroyed,-1
