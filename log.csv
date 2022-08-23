@@ -3756,3 +3756,7 @@ timestamp,country,category,state,value
 2022-08-23 02:11:08,Russia,surface-to-air missile systems,damaged,1
 2022-08-23 02:11:08,Russia,tanks,abandoned,1
 2022-08-23 02:11:08,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2022-08-23 15:21:13,Russia,armoured personnel carriers,destroyed,1
+2022-08-23 15:21:13,Russia,infantry fighting vehicles,destroyed,-2
+2022-08-23 15:21:13,Russia,tanks,abandoned,-1
+2022-08-23 15:21:13,Russia,tanks,captured,1
