@@ -3781,3 +3781,11 @@ timestamp,country,category,state,value
 2022-08-24 21:17:58,Russia,tanks,damaged,1
 2022-08-24 21:17:58,Russia,tanks,destroyed,1
 2022-08-25 02:11:47,Russia,surface-to-air missile systems,destroyed,1
+2022-08-26 02:19:25,Russia,armoured fighting vehicles,captured,2
+2022-08-26 02:19:25,Russia,armoured fighting vehicles,destroyed,1
+2022-08-26 02:19:25,Russia,infantry fighting vehicles,captured,3
+2022-08-26 02:19:25,Russia,infantry fighting vehicles,destroyed,2
+2022-08-26 02:19:25,Russia,tanks,damaged,1
+2022-08-26 02:19:25,Russia,tanks,destroyed,5
+2022-08-26 02:19:25,Russia,towed artillery,destroyed,2
+2022-08-26 02:19:25,Russia,unmanned aerial vehicles,captured,1
