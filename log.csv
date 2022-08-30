@@ -3820,3 +3820,9 @@ timestamp,country,category,state,value
 2022-08-29 21:18:31,Russia,tanks,destroyed,-1
 2022-08-29 21:18:31,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-08-29 21:18:31,Russia,unmanned aerial vehicles,captured,1
+2022-08-30 21:18:51,Russia,armoured fighting vehicles,destroyed,3
+2022-08-30 21:18:51,Russia,infantry fighting vehicles,destroyed,1
+2022-08-30 21:18:51,Russia,self-propelled artillery,damaged,1
+2022-08-30 21:18:51,Russia,tanks,captured,-1
+2022-08-30 21:18:51,Russia,tanks,destroyed,2
+2022-08-30 21:18:51,Russia,"trucks, vehicles and jeeps",destroyed,4
