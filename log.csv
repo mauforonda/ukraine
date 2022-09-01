@@ -3839,3 +3839,8 @@ timestamp,country,category,state,value
 2022-09-01 09:20:41,Russia,armoured fighting vehicles,captured,1
 2022-09-01 09:20:41,Russia,armoured fighting vehicles,destroyed,-1
 2022-09-01 09:20:41,Russia,self-propelled anti-tank missile systems,destroyed,1
+2022-09-01 18:27:27,Russia,armoured fighting vehicles,destroyed,1
+2022-09-01 18:27:27,Russia,heavy mortars,destroyed,1
+2022-09-01 18:27:27,Russia,infantry fighting vehicles,destroyed,1
+2022-09-01 18:27:27,Russia,self-propelled artillery,destroyed,1
+2022-09-01 18:27:27,Russia,"trucks, vehicles and jeeps",destroyed,1
