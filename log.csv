@@ -3853,3 +3853,13 @@ timestamp,country,category,state,value
 2022-09-03 02:20:21,Russia,unmanned aerial vehicles,destroyed,1
 2022-09-03 15:21:10,Russia,tanks,damaged,2
 2022-09-03 15:21:10,Russia,tanks,destroyed,2
+2022-09-03 21:18:11,Russia,armoured fighting vehicles,damaged,1
+2022-09-03 21:18:11,Russia,armoured fighting vehicles,destroyed,5
+2022-09-03 21:18:11,Russia,infantry fighting vehicles,captured,4
+2022-09-03 21:18:11,Russia,infantry fighting vehicles,destroyed,5
+2022-09-03 21:18:11,Russia,surface-to-air missile systems,destroyed,1
+2022-09-03 21:18:11,Russia,tanks,captured,-1
+2022-09-03 21:18:11,Russia,tanks,destroyed,3
+2022-09-03 21:18:11,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-09-03 21:18:11,Russia,unmanned aerial vehicles,captured,2
+2022-09-03 21:18:11,Russia,unmanned aerial vehicles,destroyed,-1
