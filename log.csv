@@ -3873,3 +3873,11 @@ timestamp,country,category,state,value
 2022-09-04 09:19:37,Russia,"trucks, vehicles and jeeps",destroyed,-1
 2022-09-04 12:39:21,Russia,jammers and deception systems,captured,1
 2022-09-04 12:39:21,Russia,unmanned aerial vehicles,captured,1
+2022-09-04 21:17:53,Russia,armoured fighting vehicles,destroyed,1
+2022-09-04 21:17:53,Russia,armoured personnel carriers,captured,1
+2022-09-04 21:17:53,Russia,command posts and communications stations,captured,1
+2022-09-04 21:17:53,Russia,infantry fighting vehicles,captured,1
+2022-09-04 21:17:53,Russia,infantry fighting vehicles,destroyed,2
+2022-09-04 21:17:53,Russia,tanks,destroyed,3
+2022-09-04 21:17:53,Russia,towed artillery,destroyed,1
+2022-09-04 21:17:53,Russia,"trucks, vehicles and jeeps",destroyed,1
