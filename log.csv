@@ -3864,3 +3864,5 @@ timestamp,country,category,state,value
 2022-09-03 21:18:11,Russia,unmanned aerial vehicles,captured,2
 2022-09-03 21:18:11,Russia,unmanned aerial vehicles,destroyed,-1
 2022-09-04 02:11:22,Russia,armoured fighting vehicles,destroyed,-1
+2022-09-04 06:24:19,Russia,armoured fighting vehicles,destroyed,2
+2022-09-04 06:24:19,Russia,tanks,destroyed,1
