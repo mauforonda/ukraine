@@ -3881,3 +3881,10 @@ timestamp,country,category,state,value
 2022-09-04 21:17:53,Russia,tanks,destroyed,3
 2022-09-04 21:17:53,Russia,towed artillery,destroyed,1
 2022-09-04 21:17:53,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-09-05 15:22:29,Russia,armoured fighting vehicles,destroyed,1
+2022-09-05 15:22:29,Russia,infantry fighting vehicles,captured,3
+2022-09-05 15:22:29,Russia,infantry fighting vehicles,destroyed,1
+2022-09-05 15:22:29,Russia,self-propelled artillery,destroyed,1
+2022-09-05 15:22:29,Russia,surface-to-air missile systems,destroyed,2
+2022-09-05 15:22:29,Russia,tanks,captured,3
+2022-09-05 15:22:29,Russia,tanks,destroyed,-1
