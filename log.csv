@@ -3893,3 +3893,8 @@ timestamp,country,category,state,value
 2022-09-05 21:18:43,Russia,surface-to-air missile systems,destroyed,1
 2022-09-05 21:18:43,Russia,tanks,captured,1
 2022-09-05 21:18:43,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-09-06 02:25:57,Russia,armoured fighting vehicles,destroyed,1
+2022-09-06 02:25:57,Russia,infantry fighting vehicles,captured,2
+2022-09-06 02:25:57,Russia,infantry fighting vehicles,destroyed,1
+2022-09-06 02:25:57,Russia,tanks,destroyed,1
+2022-09-06 02:25:57,Russia,"trucks, vehicles and jeeps",destroyed,1
