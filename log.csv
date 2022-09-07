@@ -3900,3 +3900,23 @@ timestamp,country,category,state,value
 2022-09-06 02:25:57,Russia,"trucks, vehicles and jeeps",destroyed,1
 2022-09-07 15:23:13,Russia,infantry fighting vehicles,captured,-1
 2022-09-07 15:23:13,Russia,infantry fighting vehicles,destroyed,1
+2022-09-07 18:27:07,Russia,aircraft,destroyed,1
+2022-09-07 18:27:07,Russia,anti-aircraft guns,captured,3
+2022-09-07 18:27:07,Russia,armoured fighting vehicles,destroyed,3
+2022-09-07 18:27:07,Russia,armoured personnel carriers,captured,2
+2022-09-07 18:27:07,Russia,command posts and communications stations,captured,1
+2022-09-07 18:27:07,Russia,infantry fighting vehicles,captured,3
+2022-09-07 18:27:07,Russia,infantry fighting vehicles,destroyed,8
+2022-09-07 18:27:07,Russia,infantry mobility vehicles,captured,1
+2022-09-07 18:27:07,Russia,mine-resistant ambush protected,destroyed,1
+2022-09-07 18:27:07,Russia,multiple rocket launchers,captured,1
+2022-09-07 18:27:07,Russia,multiple rocket launchers,destroyed,1
+2022-09-07 18:27:07,Russia,self-propelled anti-tank missile systems,captured,1
+2022-09-07 18:27:07,Russia,self-propelled artillery,destroyed,4
+2022-09-07 18:27:07,Russia,tanks,abandoned,1
+2022-09-07 18:27:07,Russia,tanks,captured,4
+2022-09-07 18:27:07,Russia,tanks,destroyed,4
+2022-09-07 18:27:07,Russia,towed artillery,captured,2
+2022-09-07 18:27:07,Russia,towed artillery,destroyed,1
+2022-09-07 18:27:07,Russia,"trucks, vehicles and jeeps",captured,1
+2022-09-07 18:27:07,Russia,"trucks, vehicles and jeeps",destroyed,11
