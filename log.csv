@@ -3920,3 +3920,13 @@ timestamp,country,category,state,value
 2022-09-07 18:27:07,Russia,towed artillery,destroyed,1
 2022-09-07 18:27:07,Russia,"trucks, vehicles and jeeps",captured,1
 2022-09-07 18:27:07,Russia,"trucks, vehicles and jeeps",destroyed,11
+2022-09-07 21:19:49,Russia,armoured fighting vehicles,destroyed,1
+2022-09-07 21:19:49,Russia,armoured personnel carriers,captured,1
+2022-09-07 21:19:49,Russia,engineering vehicles and equipment,destroyed,1
+2022-09-07 21:19:49,Russia,infantry fighting vehicles,captured,1
+2022-09-07 21:19:49,Russia,infantry fighting vehicles,destroyed,6
+2022-09-07 21:19:49,Russia,multiple rocket launchers,destroyed,1
+2022-09-07 21:19:49,Russia,tanks,abandoned,-1
+2022-09-07 21:19:49,Russia,tanks,captured,1
+2022-09-07 21:19:49,Russia,tanks,destroyed,1
+2022-09-07 21:19:49,Russia,towed artillery,destroyed,1
