@@ -3938,3 +3938,11 @@ timestamp,country,category,state,value
 2022-09-08 02:19:39,Russia,infantry fighting vehicles,destroyed,-1
 2022-09-08 02:19:39,Russia,tanks,destroyed,1
 2022-09-08 02:19:39,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2022-09-08 15:23:57,Russia,anti-aircraft guns,captured,2
+2022-09-08 15:23:57,Russia,armoured fighting vehicles,destroyed,1
+2022-09-08 15:23:57,Russia,infantry fighting vehicles,destroyed,2
+2022-09-08 15:23:57,Russia,multiple rocket launchers,captured,1
+2022-09-08 15:23:57,Russia,self-propelled artillery,captured,1
+2022-09-08 15:23:57,Russia,tanks,destroyed,5
+2022-09-08 15:23:57,Russia,towed artillery,captured,1
+2022-09-08 15:23:57,Russia,"trucks, vehicles and jeeps",captured,1
