@@ -4009,3 +4009,5 @@ timestamp,country,category,state,value
 2022-09-10 15:22:12,Russia,self-propelled artillery,captured,1
 2022-09-10 15:22:12,Russia,tanks,destroyed,1
 2022-09-10 15:22:12,Russia,"trucks, vehicles and jeeps",captured,1
+2022-09-10 18:27:11,Russia,tanks,captured,-1
+2022-09-10 18:27:11,Russia,"trucks, vehicles and jeeps",destroyed,1
