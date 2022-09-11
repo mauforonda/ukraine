@@ -1,6 +1,6 @@
 country,category,state,value
 Russia,Aircraft ,damaged,2
-Russia,Aircraft ,destroyed,51
+Russia,Aircraft ,destroyed,52
 Russia,Anti-Aircraft Guns ,captured,9
 Russia,Anti-Aircraft Guns ,destroyed,2
 Russia,Armoured Fighting Vehicles ,abandoned,29
@@ -56,7 +56,7 @@ Russia,Self-Propelled Anti-Tank Missile Systems ,abandoned,5
 Russia,Self-Propelled Anti-Tank Missile Systems ,captured,11
 Russia,Self-Propelled Anti-Tank Missile Systems ,destroyed,9
 Russia,Self-Propelled Artillery ,abandoned,13
-Russia,Self-Propelled Artillery ,captured,55
+Russia,Self-Propelled Artillery ,captured,59
 Russia,Self-Propelled Artillery ,damaged,7
 Russia,Self-Propelled Artillery ,destroyed,99
 Russia,Surface-To-Air Missile Systems ,abandoned,8
