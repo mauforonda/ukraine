@@ -4093,3 +4093,17 @@ timestamp,country,category,state,value
 2022-09-13 09:24:16,Russia,unmanned aerial vehicles,destroyed,1
 2022-09-13 15:24:17,Russia,tanks,captured,1
 2022-09-13 15:24:17,Russia,tanks,destroyed,-1
+2022-09-13 21:20:04,Russia,armoured fighting vehicles,captured,2
+2022-09-13 21:20:04,Russia,armoured fighting vehicles,destroyed,1
+2022-09-13 21:20:04,Russia,artillery support vehicles and equipment,captured,1
+2022-09-13 21:20:04,Russia,command posts and communications stations,captured,3
+2022-09-13 21:20:04,Russia,infantry fighting vehicles,captured,3
+2022-09-13 21:20:04,Russia,infantry fighting vehicles,destroyed,4
+2022-09-13 21:20:04,Russia,infantry mobility vehicles,destroyed,3
+2022-09-13 21:20:04,Russia,jammers and deception systems,captured,1
+2022-09-13 21:20:04,Russia,self-propelled artillery,captured,2
+2022-09-13 21:20:04,Russia,self-propelled artillery,damaged,1
+2022-09-13 21:20:04,Russia,tanks,captured,13
+2022-09-13 21:20:04,Russia,tanks,destroyed,6
+2022-09-13 21:20:04,Russia,"trucks, vehicles and jeeps",captured,2
+2022-09-13 21:20:04,Russia,"trucks, vehicles and jeeps",destroyed,2
