@@ -4189,3 +4189,15 @@ timestamp,country,category,state,value
 2022-09-17 09:21:17,Russia,command posts and communications stations,captured,-1
 2022-09-17 09:21:17,Russia,infantry fighting vehicles,captured,-2
 2022-09-17 09:21:17,Russia,infantry fighting vehicles,destroyed,-3
+2022-09-17 12:38:41,Russia,armoured fighting vehicles,captured,7
+2022-09-17 12:38:41,Russia,armoured fighting vehicles,destroyed,1
+2022-09-17 12:38:41,Russia,armoured personnel carriers,captured,1
+2022-09-17 12:38:41,Russia,engineering vehicles and equipment,destroyed,1
+2022-09-17 12:38:41,Russia,heavy mortars,captured,2
+2022-09-17 12:38:41,Russia,infantry fighting vehicles,captured,4
+2022-09-17 12:38:41,Russia,infantry fighting vehicles,damaged,1
+2022-09-17 12:38:41,Russia,infantry fighting vehicles,destroyed,5
+2022-09-17 12:38:41,Russia,self-propelled artillery,captured,1
+2022-09-17 12:38:41,Russia,tanks,captured,2
+2022-09-17 12:38:41,Russia,"trucks, vehicles and jeeps",captured,5
+2022-09-17 12:38:41,Russia,"trucks, vehicles and jeeps",destroyed,14
