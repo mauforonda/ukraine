@@ -4217,3 +4217,5 @@ timestamp,country,category,state,value
 2022-09-17 21:19:23,Russia,"trucks, vehicles and jeeps",captured,-2
 2022-09-17 21:19:23,Russia,"trucks, vehicles and jeeps",destroyed,14
 2022-09-18 02:34:45,Russia,helicopters,destroyed,1
+2022-09-18 06:28:00,Russia,command posts and communications stations,abandoned,-1
+2022-09-18 06:28:00,Russia,command posts and communications stations,destroyed,-1
