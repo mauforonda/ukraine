@@ -4240,3 +4240,8 @@ timestamp,country,category,state,value
 2022-09-19 09:26:04,Russia,"trucks, vehicles and jeeps",abandoned,-1
 2022-09-19 09:26:04,Russia,"trucks, vehicles and jeeps",captured,1
 2022-09-19 09:26:04,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-09-19 12:49:20,Russia,armoured fighting vehicles,destroyed,1
+2022-09-19 12:49:20,Russia,command posts and communications stations,captured,4
+2022-09-19 12:49:20,Russia,engineering vehicles and equipment,captured,1
+2022-09-19 12:49:20,Russia,jammers and deception systems,captured,-1
+2022-09-19 12:49:20,Russia,"trucks, vehicles and jeeps",captured,2
