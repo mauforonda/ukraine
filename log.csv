@@ -4232,3 +4232,11 @@ timestamp,country,category,state,value
 2022-09-18 21:19:16,Russia,"trucks, vehicles and jeeps",captured,2
 2022-09-18 21:19:16,Russia,"trucks, vehicles and jeeps",destroyed,2
 2022-09-19 02:29:26,Russia,tanks,captured,-2
+2022-09-19 09:26:04,Russia,armoured fighting vehicles,captured,2
+2022-09-19 09:26:04,Russia,armoured fighting vehicles,destroyed,1
+2022-09-19 09:26:04,Russia,infantry fighting vehicles,captured,2
+2022-09-19 09:26:04,Russia,mine-resistant ambush protected,destroyed,1
+2022-09-19 09:26:04,Russia,tanks,destroyed,1
+2022-09-19 09:26:04,Russia,"trucks, vehicles and jeeps",abandoned,-1
+2022-09-19 09:26:04,Russia,"trucks, vehicles and jeeps",captured,1
+2022-09-19 09:26:04,Russia,"trucks, vehicles and jeeps",destroyed,1
