@@ -4318,3 +4318,13 @@ timestamp,country,category,state,value
 2022-09-22 21:21:07,Russia,tanks,captured,3
 2022-09-22 21:21:07,Russia,tanks,destroyed,4
 2022-09-22 21:21:07,Russia,"trucks, vehicles and jeeps",destroyed,3
+2022-09-23 21:20:24,Russia,armoured fighting vehicles,captured,3
+2022-09-23 21:20:24,Russia,armoured fighting vehicles,destroyed,-1
+2022-09-23 21:20:24,Russia,engineering vehicles and equipment,captured,1
+2022-09-23 21:20:24,Russia,infantry fighting vehicles,captured,1
+2022-09-23 21:20:24,Russia,infantry fighting vehicles,destroyed,2
+2022-09-23 21:20:24,Russia,self-propelled artillery,captured,1
+2022-09-23 21:20:24,Russia,tanks,abandoned,1
+2022-09-23 21:20:24,Russia,tanks,destroyed,1
+2022-09-23 21:20:24,Russia,"trucks, vehicles and jeeps",captured,4
+2022-09-23 21:20:24,Russia,"trucks, vehicles and jeeps",destroyed,4
