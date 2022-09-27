@@ -4399,3 +4399,12 @@ timestamp,country,category,state,value
 2022-09-27 18:33:46,Russia,infantry fighting vehicles,destroyed,-1
 2022-09-27 18:33:46,Russia,self-propelled artillery,destroyed,-1
 2022-09-27 18:33:46,Russia,tanks,destroyed,-3
+2022-09-27 21:21:12,Russia,armoured fighting vehicles,captured,1
+2022-09-27 21:21:12,Russia,engineering vehicles and equipment,captured,2
+2022-09-27 21:21:12,Russia,infantry fighting vehicles,captured,1
+2022-09-27 21:21:12,Russia,infantry fighting vehicles,destroyed,2
+2022-09-27 21:21:12,Russia,multiple rocket launchers,captured,1
+2022-09-27 21:21:12,Russia,self-propelled artillery,captured,2
+2022-09-27 21:21:12,Russia,surface-to-air missile systems,destroyed,1
+2022-09-27 21:21:12,Russia,tanks,captured,3
+2022-09-27 21:21:12,Russia,tanks,destroyed,2
