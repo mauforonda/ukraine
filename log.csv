@@ -4383,3 +4383,5 @@ timestamp,country,category,state,value
 2022-09-27 02:17:06,Russia,tanks,captured,-5
 2022-09-27 02:17:06,Russia,tanks,damaged,3
 2022-09-27 02:17:06,Russia,tanks,destroyed,-7
+2022-09-27 12:50:09,Russia,tanks,captured,1
+2022-09-27 12:50:09,Russia,"trucks, vehicles and jeeps",destroyed,8
