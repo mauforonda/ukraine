@@ -4432,3 +4432,7 @@ timestamp,country,category,state,value
 2022-09-28 12:47:02,Russia,tanks,destroyed,-1
 2022-09-28 12:47:02,Russia,towed artillery,captured,1
 2022-09-28 12:47:02,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-09-28 15:29:01,Russia,armoured personnel carriers,destroyed,1
+2022-09-28 15:29:01,Russia,command posts and communications stations,captured,1
+2022-09-28 15:29:01,Russia,infantry mobility vehicles,captured,1
+2022-09-28 15:29:01,Russia,tanks,captured,3
