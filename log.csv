@@ -4533,3 +4533,6 @@ timestamp,country,category,state,value
 2022-10-02 06:34:38,Russia,engineering vehicles and equipment,destroyed,1
 2022-10-02 06:34:38,Russia,infantry fighting vehicles,destroyed,1
 2022-10-02 06:34:38,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-10-02 09:25:17,Russia,armoured fighting vehicles,captured,1
+2022-10-02 09:25:17,Russia,infantry fighting vehicles,captured,1
+2022-10-02 09:25:17,Russia,infantry fighting vehicles,destroyed,1
