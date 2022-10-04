@@ -4581,3 +4581,13 @@ timestamp,country,category,state,value
 2022-10-04 18:36:17,Russia,tanks,destroyed,2
 2022-10-04 18:36:17,Russia,"trucks, vehicles and jeeps",destroyed,2
 2022-10-04 18:36:17,Russia,unmanned aerial vehicles,destroyed,1
+2022-10-04 21:21:52,Russia,command posts and communications stations,destroyed,1
+2022-10-04 21:21:52,Russia,heavy mortars,destroyed,1
+2022-10-04 21:21:52,Russia,infantry fighting vehicles,abandoned,1
+2022-10-04 21:21:52,Russia,infantry fighting vehicles,captured,2
+2022-10-04 21:21:52,Russia,infantry fighting vehicles,destroyed,1
+2022-10-04 21:21:52,Russia,infantry mobility vehicles,destroyed,1
+2022-10-04 21:21:52,Russia,tanks,captured,3
+2022-10-04 21:21:52,Russia,tanks,destroyed,1
+2022-10-04 21:21:52,Russia,"trucks, vehicles and jeeps",captured,3
+2022-10-04 21:21:52,Russia,"trucks, vehicles and jeeps",destroyed,1
