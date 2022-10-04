@@ -1,5 +1,6 @@
 country,category,equipment,equipment_origin,text,source
 Russia,Aircraft ,An-26 transport aircraft,ussr,"1, destroyed",https://i.postimg.cc/R0ppMFNQ/448.png
+Russia,Aircraft ,MiG-31BM fighter aircraft,russian federation,"1, destroyed",https://twitter.com/RALee85/status/1577180019939766272
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"5, damaged beyond economical repair on the ground",https://i.postimg.cc/mDQ1Vp8m/3326.png
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"6, damaged on the ground",https://i.postimg.cc/mr7rGzCD/3326.png
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"1, 2, 3 and 4, destroyed on the ground",https://i.postimg.cc/nVD3fnwW/3326.png
@@ -24,7 +25,7 @@ Russia,Aircraft ,Su-25 close air support aircraft,ussr,"7, destroyed",https://tw
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"14, destroyed",https://twitter.com/RALee85/status/1538798047249027072
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"1, damaged",https://twitter.com/UAWeapons/status/1535271617928081409
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"15, destroyed",https://twitter.com/UAWeapons/status/1539288719638859776
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"20, destroyed",https://twitter.com/UAWeapons/status/1567464762098814983
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"20, destroyed",https://twitter.com/UAWeapons/status/1568982695862046722
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"21, destroyed",https://twitter.com/UAWeapons/status/1569302325533020160
 Russia,Aircraft ,Su-30SM multirole aircraft,russian federation,"5, destroyed",https://i.postimg.cc/05Wr4fXG/4fs.png
 Russia,Aircraft ,Su-30SM multirole aircraft,russian federation,"3, destroyed",https://i.postimg.cc/3R8v9rk7/65.png
@@ -53,7 +54,6 @@ Russia,Aircraft ,Su-34 strike aircraft,russian federation,"15, destroyed",https:
 Russia,Aircraft ,Su-34M strike aircraft,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1548937987567804417
 Russia,Aircraft ,Su-35S multirole aircraft,russian federation,"1, destroyed",https://i.postimg.cc/9Xx2XhXx/32f.png
 Russia,Aircraft ,Unknown Su-30/Su-34/Su-35,russian federation,"1, destroyed",https://i.postimg.cc/4yvbSFJ1/1008.jpg
-Russia,Aircraft ,Unknown fixed-wing aircraft,russian federation,"1, destroyed",https://twitter.com/RALee85/status/1576242619683741698
 Russia,Anti-Aircraft Guns ,23mm ZU-23-2,ussr,"4, captured",https://i.postimg.cc/5t4w0KxM/467.png
 Russia,Anti-Aircraft Guns ,23mm ZU-23-2,ussr,"2, destroyed by Bayraktar TB2",https://i.postimg.cc/MKgzsYwB/366.png
 Russia,Anti-Aircraft Guns ,23mm ZU-23-2,ussr,"6, captured",https://i.postimg.cc/Nfrp5ZsT/1030-zu23-2.jpg
@@ -1966,7 +1966,7 @@ Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"142, destroyed",https://i.post
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"42, captured",https://i.postimg.cc/sDb7rVKc/87.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"159, destroyed",https://i.postimg.cc/sDryZ9Ty/f1.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"242, destroyed",https://i.postimg.cc/sXT4wH4W/1056-bmp2.jpg
-Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"165, captured",https://i.postimg.cc/sXwsGdhv/1001-bmp2-capt.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"167, captured",https://i.postimg.cc/sXwsGdhv/1001-bmp2-capt.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"149, captured",https://i.postimg.cc/sgKJNxZt/2022-09-14-BMP-2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"37, captured",https://i.postimg.cc/sggyDf2R/fss.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"167, destroyed",https://i.postimg.cc/sx5Z6kcp/m9.png
@@ -4047,6 +4047,7 @@ Russia,Tanks ,T-80BVM,russian federation,"10, destroyed",https://i.postimg.cc/cL
 Russia,Tanks ,T-80BVM,russian federation,"14, destroyed",https://i.postimg.cc/d0YT59gV/1007-t80bvm.jpg
 Russia,Tanks ,T-80BVM,russian federation,"16, captured",https://i.postimg.cc/fLpZW20x/d35.png
 Russia,Tanks ,T-80BVM,russian federation,"1, destroyed",https://i.postimg.cc/h469K9pD/4h.png
+Russia,Tanks ,T-80BVM,russian federation,"21, captured",https://i.postimg.cc/hj94SdBL/488.png
 Russia,Tanks ,T-80BVM,russian federation,"3, captured",https://i.postimg.cc/jdKNRZQV/v6.jpg
 Russia,Tanks ,T-80BVM,russian federation,"14, captured",https://i.postimg.cc/pT8gPXns/g78.png
 Russia,Tanks ,T-80BVM,russian federation,"12, destroyed",https://i.postimg.cc/pVCJD7hg/1000-t80bvm.jpg
