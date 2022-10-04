@@ -4570,3 +4570,14 @@ timestamp,country,category,state,value
 2022-10-04 02:08:17,Russia,"trucks, vehicles and jeeps",destroyed,6
 2022-10-04 12:53:23,Russia,tanks,captured,1
 2022-10-04 12:53:23,Russia,tanks,destroyed,1
+2022-10-04 18:36:17,Russia,anti-aircraft guns,captured,2
+2022-10-04 18:36:17,Russia,armoured fighting vehicles,destroyed,1
+2022-10-04 18:36:17,Russia,armoured personnel carriers,captured,3
+2022-10-04 18:36:17,Russia,armoured personnel carriers,destroyed,1
+2022-10-04 18:36:17,Russia,infantry fighting vehicles,abandoned,1
+2022-10-04 18:36:17,Russia,infantry fighting vehicles,captured,1
+2022-10-04 18:36:17,Russia,infantry fighting vehicles,destroyed,1
+2022-10-04 18:36:17,Russia,tanks,captured,6
+2022-10-04 18:36:17,Russia,tanks,destroyed,2
+2022-10-04 18:36:17,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-10-04 18:36:17,Russia,unmanned aerial vehicles,destroyed,1
