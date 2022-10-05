@@ -4595,3 +4595,13 @@ timestamp,country,category,state,value
 2022-10-05 02:07:44,Russia,"trucks, vehicles and jeeps",destroyed,2
 2022-10-05 09:26:40,Russia,armoured fighting vehicles,damaged,1
 2022-10-05 09:26:40,Russia,infantry fighting vehicles,destroyed,-1
+2022-10-05 15:23:48,Russia,armoured fighting vehicles,captured,-1
+2022-10-05 15:23:48,Russia,armoured fighting vehicles,destroyed,2
+2022-10-05 15:23:48,Russia,engineering vehicles and equipment,captured,1
+2022-10-05 15:23:48,Russia,engineering vehicles and equipment,destroyed,1
+2022-10-05 15:23:48,Russia,infantry fighting vehicles,captured,4
+2022-10-05 15:23:48,Russia,infantry fighting vehicles,destroyed,2
+2022-10-05 15:23:48,Russia,tanks,captured,6
+2022-10-05 15:23:48,Russia,tanks,destroyed,5
+2022-10-05 15:23:48,Russia,"trucks, vehicles and jeeps",captured,2
+2022-10-05 15:23:48,Russia,"trucks, vehicles and jeeps",destroyed,3
