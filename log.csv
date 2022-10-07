@@ -4640,3 +4640,6 @@ timestamp,country,category,state,value
 2022-10-06 21:22:00,Russia,towed artillery,destroyed,1
 2022-10-06 21:22:00,Russia,"trucks, vehicles and jeeps",captured,1
 2022-10-06 21:22:00,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-10-07 12:51:39,Russia,artillery support vehicles and equipment,destroyed,-1
+2022-10-07 12:51:39,Russia,infantry fighting vehicles,captured,-1
+2022-10-07 12:51:39,Russia,multiple rocket launchers,destroyed,1
