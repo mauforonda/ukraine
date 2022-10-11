@@ -4720,3 +4720,14 @@ timestamp,country,category,state,value
 2022-10-10 09:29:08,Russia,mine-resistant ambush protected,destroyed,-1
 2022-10-10 09:29:08,Russia,tanks,captured,-1
 2022-10-10 09:29:08,Russia,"trucks, vehicles and jeeps",destroyed,-2
+2022-10-11 09:28:36,Russia,armoured personnel carriers,destroyed,2
+2022-10-11 09:28:36,Russia,infantry fighting vehicles,destroyed,2
+2022-10-11 09:28:36,Russia,infantry mobility vehicles,captured,1
+2022-10-11 09:28:36,Russia,mine-resistant ambush protected,abandoned,-1
+2022-10-11 09:28:36,Russia,mine-resistant ambush protected,captured,-1
+2022-10-11 09:28:36,Russia,multiple rocket launchers,destroyed,3
+2022-10-11 09:28:36,Russia,self-propelled artillery,destroyed,3
+2022-10-11 09:28:36,Russia,surface-to-air missile systems,captured,-1
+2022-10-11 09:28:36,Russia,surface-to-air missile systems,destroyed,1
+2022-10-11 09:28:36,Russia,"trucks, vehicles and jeeps",captured,4
+2022-10-11 09:28:36,Russia,"trucks, vehicles and jeeps",destroyed,1
