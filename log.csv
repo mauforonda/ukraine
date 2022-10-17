@@ -4817,3 +4817,26 @@ timestamp,country,category,state,value
 2022-10-17 02:35:19,Russia,tanks,captured,1
 2022-10-17 02:35:19,Russia,tanks,destroyed,2
 2022-10-17 02:35:19,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-10-17 12:54:35,Russia,armoured fighting vehicles,captured,4
+2022-10-17 12:54:35,Russia,armoured fighting vehicles,destroyed,20
+2022-10-17 12:54:35,Russia,armoured personnel carriers,destroyed,9
+2022-10-17 12:54:35,Russia,artillery support vehicles and equipment,captured,2
+2022-10-17 12:54:35,Russia,artillery support vehicles and equipment,destroyed,2
+2022-10-17 12:54:35,Russia,command posts and communications stations,captured,3
+2022-10-17 12:54:35,Russia,command posts and communications stations,destroyed,5
+2022-10-17 12:54:35,Russia,engineering vehicles and equipment,captured,3
+2022-10-17 12:54:35,Russia,engineering vehicles and equipment,destroyed,4
+2022-10-17 12:54:35,Russia,infantry fighting vehicles,captured,5
+2022-10-17 12:54:35,Russia,infantry fighting vehicles,destroyed,85
+2022-10-17 12:54:35,Russia,infantry mobility vehicles,destroyed,5
+2022-10-17 12:54:35,Russia,mine-resistant ambush protected,destroyed,1
+2022-10-17 12:54:35,Russia,multiple rocket launchers,destroyed,3
+2022-10-17 12:54:35,Russia,self-propelled anti-tank missile systems,captured,1
+2022-10-17 12:54:35,Russia,self-propelled artillery,captured,1
+2022-10-17 12:54:35,Russia,self-propelled artillery,destroyed,5
+2022-10-17 12:54:35,Russia,surface-to-air missile systems,destroyed,1
+2022-10-17 12:54:35,Russia,tanks,abandoned,-1
+2022-10-17 12:54:35,Russia,tanks,captured,3
+2022-10-17 12:54:35,Russia,tanks,damaged,2
+2022-10-17 12:54:35,Russia,tanks,destroyed,35
+2022-10-17 12:54:35,Russia,towed artillery,destroyed,1
