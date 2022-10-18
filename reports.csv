@@ -1,7 +1,7 @@
 country,category,equipment,equipment_origin,text,source
-Russia,Aircraft ,An-26 transport aircraft,ussr,"1, destroyed",https://i.postimg.cc/R0ppMFNQ/448.png
-Russia,Aircraft ,MiG-31BM fighter aircraft,russian federation,"1, destroyed",https://twitter.com/thewarzonewire/status/1577767346093314048
-Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"5, destroyed",https://i.postimg.cc/DmVxDdDp/436.png
+Russia,Aircraft ,An-26 transport aircraft,ussr,"1, destroyed in a non-combat related incident",https://i.postimg.cc/R0ppMFNQ/448.png
+Russia,Aircraft ,MiG-31BM fighter aircraft,russian federation,"1, destroyed in a non-combat related incident",https://twitter.com/thewarzonewire/status/1577767346093314048
+Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"5, destroyed in a non-combat related incident",https://i.postimg.cc/DmVxDdDp/436.png
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"6, damaged beyond economical repair on the ground",https://i.postimg.cc/mDQ1Vp8m/3326.png
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"7, damaged on the ground",https://i.postimg.cc/mr7rGzCD/3326.png
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"1, 2, 3 and 4, destroyed on the ground",https://i.postimg.cc/nVD3fnwW/3326.png
@@ -12,8 +12,8 @@ Russia,Aircraft ,Su-25 close air support aircraft,ussr,"1, destroyed",https://i.
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"2, destroyed",https://i.postimg.cc/Mp371YRh/675.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"11, destroyed",https://i.postimg.cc/PqBrzQ94/2d.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"6, destroyed",https://i.postimg.cc/RCjcz7sM/h7.jpg
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"13, destroyed",https://i.postimg.cc/RZbzx5tR/338.png
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"22, destroyed",https://i.postimg.cc/RZffZm8b/25.png
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"13, destroyed in a non-combat related incident",https://i.postimg.cc/RZbzx5tR/338.png
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"22, destroyed in a non-combat related incident",https://i.postimg.cc/RZffZm8b/25.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"4, destroyed",https://i.postimg.cc/SsTkvvtc/46.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"3, destroyed",https://i.postimg.cc/VNx7Xd0x/n86.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"9, destroyed",https://i.postimg.cc/XJ2YWqt8/6y6.png
@@ -26,9 +26,9 @@ Russia,Aircraft ,Su-25 close air support aircraft,ussr,"18, damaged beyond econo
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"7, destroyed",https://twitter.com/RALee85/status/1507360503546449924
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"14, destroyed",https://twitter.com/RALee85/status/1538798047249027072
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"1, damaged",https://twitter.com/UAWeapons/status/1535271617928081409
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"15, destroyed",https://twitter.com/UAWeapons/status/1539288719638859776
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"15, destroyed in a non-combat related incident",https://twitter.com/UAWeapons/status/1539288719638859776
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"20, destroyed",https://twitter.com/UAWeapons/status/1568982695862046722
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"21, destroyed",https://twitter.com/UAWeapons/status/1569302325533020160
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"21, destroyed in a non-combat related incident",https://twitter.com/UAWeapons/status/1569302325533020160
 Russia,Aircraft ,Su-30SM multirole aircraft,russian federation,"5, destroyed",https://i.postimg.cc/05Wr4fXG/4fs.png
 Russia,Aircraft ,Su-30SM multirole aircraft,russian federation,"3, destroyed",https://i.postimg.cc/3R8v9rk7/65.png
 Russia,Aircraft ,Su-30SM multirole aircraft,russian federation,"4, destroyed",https://i.postimg.cc/8ch0qvfw/763.png
@@ -45,9 +45,9 @@ Russia,Aircraft ,Su-34 strike aircraft,russian federation,"1, destroyed",https:/
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"7, destroyed",https://i.postimg.cc/k5Yj5H3G/790.png
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"10, destroyed",https://i.postimg.cc/qv4zqnd1/55j.png
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"5, destroyed",https://i.postimg.cc/rpZdfjt7/5gh.png
-Russia,Aircraft ,Su-34 strike aircraft,russian federation,"16, destroyed",https://twitter.com/Liveuamap/status/1582039606169858050
-Russia,Aircraft ,Su-34 strike aircraft,russian federation,"6, destroyed",https://twitter.com/MotolkoHelp/status/1516815396552200200
-Russia,Aircraft ,Su-34 strike aircraft,russian federation,"12, destroyed",https://twitter.com/RALee85/status/1569279954281705473
+Russia,Aircraft ,Su-34 strike aircraft,russian federation,"16, destroyed in a non-combat related incident",https://twitter.com/Liveuamap/status/1582039606169858050
+Russia,Aircraft ,Su-34 strike aircraft,russian federation,"6, destroyed in a non-combat related incident",https://twitter.com/MotolkoHelp/status/1516815396552200200
+Russia,Aircraft ,Su-34 strike aircraft,russian federation,"12, destroyed in a non-combat related incident",https://twitter.com/RALee85/status/1569279954281705473
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"9, destroyed",https://twitter.com/UAWeapons/status/1518542194646388738
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"8, destroyed",https://twitter.com/UAWeapons/status/1519020714937962497
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"11, destroyed",https://twitter.com/UAWeapons/status/1568710616868704258
@@ -1407,12 +1407,11 @@ Russia,Heavy Mortars ,2B9 Vasilek 82mm automatic gun mortar,ussr,"1, destroyed",
 Russia,Heavy Mortars ,2B9 Vasilek 82mm automatic gun mortar,ussr,"3, captured",https://twitter.com/UAWeapons/status/1572585885274865665
 Russia,Heavy Mortars ,Unknown heavy mortar,russian federation,"2, destroyed",https://i.postimg.cc/50hM6yN9/1007-120mm-mortar.jpg
 Russia,Heavy Mortars ,Unknown heavy mortar,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1538167865471385602
-Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"21, destroyed",https://i.postimg.cc/02bY3cq7/1007-ka52-destr.jpg
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1, damaged and captured",https://i.postimg.cc/0jWMTTRH/43d.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"2, destroyed",https://i.postimg.cc/1tPVQmb4/4fd6.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"8, destroyed",https://i.postimg.cc/4dzsQMTW/541.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"6, destroyed",https://i.postimg.cc/MTn487kW/h2.png
-Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1, destroyed",https://i.postimg.cc/R0k4cc7Z/548.png
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1, destroyed in a non-combat related incident",https://i.postimg.cc/R0k4cc7Z/548.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"10, destroyed",https://i.postimg.cc/YCLMm1sx/2f4.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"12, destroyed",https://i.postimg.cc/d3mQqdqh/288.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"16, destroyed",https://i.postimg.cc/k5N18rBH/1002-ka52.jpg
@@ -1420,6 +1419,7 @@ Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"4 an
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"14, damaged, abandoned and later destroyed",https://i.postimg.cc/tRxDy5TM/3288.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"15, damaged, abandoned and later destroyed",https://i.postimg.cc/vmtC0wn8/57.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"3, destroyed",https://i.postimg.cc/xTYxdB3c/4w.png
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"21, destroyed",https://twitter.com/LotA47816230/status/1578721387493019650
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"13, destroyed",https://twitter.com/RALee85/status/1559186083140739074
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"19, destroyed",https://twitter.com/RALee85/status/1576263500720091136
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"7, destroyed",https://twitter.com/UAWeapons/status/1511292509619568640
@@ -1449,7 +1449,7 @@ Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"2, destroyed",
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"1, destroyed",https://i.postimg.cc/Zq8KtSRg/37.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"3, destroyed",https://i.postimg.cc/cHJ7QfR3/668.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"8, abandoned and destroyed",https://i.postimg.cc/ncL87Pvg/65.png
-Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"4, destroyed",https://i.postimg.cc/nrRXyX9x/367.png
+Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"4, destroyed in a non-combat related incident",https://i.postimg.cc/nrRXyX9x/367.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"6 and 7, destroyed by Bayraktar TB2 and artillery",https://postimg.cc/hJQ6678b
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"10, destroyed",https://twitter.com/RALee85/status/1515925894568857602
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"11, destroyed",https://twitter.com/UAWeapons/status/1517145886194683904
@@ -6576,7 +6576,7 @@ Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,
 Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"12, captured",https://twitter.com/UAWeapons/status/1561452400619159558
 Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"1, destroyed",https://i.postimg.cc/QMfV9BST/35g.png
 Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"3, destroyed",https://i.postimg.cc/RhmxzhXp/d3.png
-Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"2, destroyed",https://twitter.com/UAWeapons/status/1543997005294452743
+Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"2, destroyed in a non-combat related incident",https://twitter.com/UAWeapons/status/1543997005294452743
 Russia,Unmanned Aerial Vehicles ,Lastochka-M reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/5NfHCQZp/4144.png
 Russia,Unmanned Aerial Vehicles ,Merlin-VR reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/x1NDqL6V/433.png
 Russia,Unmanned Aerial Vehicles ,Mohajer-6 UCAV,,"1, captured",https://twitter.com/UAWeapons/status/1576953933398151169
