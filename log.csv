@@ -4907,3 +4907,5 @@ timestamp,country,category,state,value
 2022-10-20 02:23:49,Russia,towed artillery,captured,1
 2022-10-20 02:23:49,Russia,"trucks, vehicles and jeeps",captured,2
 2022-10-20 02:23:49,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-10-20 12:52:56,Russia,armoured personnel carriers,captured,-2
+2022-10-20 12:52:56,Russia,infantry mobility vehicles,captured,2
