@@ -4902,3 +4902,8 @@ timestamp,country,category,state,value
 2022-10-19 21:23:18,Russia,command posts and communications stations,captured,1
 2022-10-19 21:23:18,Russia,infantry mobility vehicles,captured,1
 2022-10-19 21:23:18,Russia,multiple rocket launchers,destroyed,-1
+2022-10-20 02:23:49,Russia,helicopters,destroyed,1
+2022-10-20 02:23:49,Russia,tanks,captured,1
+2022-10-20 02:23:49,Russia,towed artillery,captured,1
+2022-10-20 02:23:49,Russia,"trucks, vehicles and jeeps",captured,2
+2022-10-20 02:23:49,Russia,"trucks, vehicles and jeeps",destroyed,1
