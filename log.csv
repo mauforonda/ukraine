@@ -4932,3 +4932,5 @@ timestamp,country,category,state,value
 2022-10-22 02:09:38,Russia,tanks,destroyed,1
 2022-10-22 02:09:38,Russia,"trucks, vehicles and jeeps",damaged,1
 2022-10-22 02:09:38,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-10-22 12:44:48,Russia,surface-to-air missile systems,destroyed,-1
+2022-10-22 12:44:48,Russia,tanks,captured,-1
