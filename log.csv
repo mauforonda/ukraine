@@ -4924,3 +4924,11 @@ timestamp,country,category,state,value
 2022-10-21 01:57:12,Russia,"trucks, vehicles and jeeps",destroyed,2
 2022-10-21 01:57:12,Russia,unmanned aerial vehicles,destroyed,1
 2022-10-21 21:22:14,Russia,tanks,destroyed,-1
+2022-10-22 02:09:38,Russia,artillery support vehicles and equipment,captured,1
+2022-10-22 02:09:38,Russia,infantry fighting vehicles,captured,3
+2022-10-22 02:09:38,Russia,infantry fighting vehicles,destroyed,2
+2022-10-22 02:09:38,Russia,multiple rocket launchers,destroyed,1
+2022-10-22 02:09:38,Russia,tanks,damaged,1
+2022-10-22 02:09:38,Russia,tanks,destroyed,1
+2022-10-22 02:09:38,Russia,"trucks, vehicles and jeeps",damaged,1
+2022-10-22 02:09:38,Russia,"trucks, vehicles and jeeps",destroyed,1
