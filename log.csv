@@ -4960,3 +4960,8 @@ timestamp,country,category,state,value
 2022-10-24 02:36:20,Russia,infantry fighting vehicles,destroyed,3
 2022-10-24 02:36:20,Russia,tanks,captured,-1
 2022-10-24 02:36:20,Russia,tanks,destroyed,1
+2022-10-24 21:23:19,Russia,command posts and communications stations,captured,1
+2022-10-24 21:23:19,Russia,infantry fighting vehicles,captured,1
+2022-10-24 21:23:19,Russia,infantry fighting vehicles,destroyed,3
+2022-10-24 21:23:19,Russia,infantry mobility vehicles,destroyed,1
+2022-10-24 21:23:19,Russia,tanks,destroyed,4
