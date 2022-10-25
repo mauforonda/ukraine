@@ -4979,3 +4979,12 @@ timestamp,country,category,state,value
 2022-10-25 02:29:29,Russia,self-propelled artillery,destroyed,1
 2022-10-25 02:29:29,Russia,tanks,destroyed,4
 2022-10-25 02:29:29,Russia,"trucks, vehicles and jeeps",destroyed,4
+2022-10-25 15:29:54,Russia,armoured personnel carriers,destroyed,3
+2022-10-25 15:29:54,Russia,command posts and communications stations,destroyed,1
+2022-10-25 15:29:54,Russia,engineering vehicles and equipment,captured,2
+2022-10-25 15:29:54,Russia,infantry mobility vehicles,destroyed,3
+2022-10-25 15:29:54,Russia,tanks,captured,1
+2022-10-25 15:29:54,Russia,tanks,damaged,1
+2022-10-25 15:29:54,Russia,tanks,destroyed,2
+2022-10-25 15:29:54,Russia,"trucks, vehicles and jeeps",captured,4
+2022-10-25 15:29:54,Russia,"trucks, vehicles and jeeps",destroyed,1
