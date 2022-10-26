@@ -4998,3 +4998,17 @@ timestamp,country,category,state,value
 2022-10-26 18:27:31,Russia,infantry fighting vehicles,captured,1
 2022-10-26 18:27:31,Russia,infantry fighting vehicles,destroyed,1
 2022-10-26 18:27:31,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-10-26 21:20:36,Russia,armoured fighting vehicles,captured,3
+2022-10-26 21:20:36,Russia,armoured fighting vehicles,destroyed,1
+2022-10-26 21:20:36,Russia,armoured personnel carriers,captured,1
+2022-10-26 21:20:36,Russia,armoured personnel carriers,destroyed,2
+2022-10-26 21:20:36,Russia,command posts and communications stations,destroyed,1
+2022-10-26 21:20:36,Russia,infantry fighting vehicles,destroyed,3
+2022-10-26 21:20:36,Russia,infantry mobility vehicles,destroyed,1
+2022-10-26 21:20:36,Russia,logistics trains,destroyed,1
+2022-10-26 21:20:36,Russia,tanks,captured,3
+2022-10-26 21:20:36,Russia,tanks,damaged,1
+2022-10-26 21:20:36,Russia,tanks,destroyed,2
+2022-10-26 21:20:36,Russia,towed artillery,captured,1
+2022-10-26 21:20:36,Russia,"trucks, vehicles and jeeps",captured,3
+2022-10-26 21:20:36,Russia,"trucks, vehicles and jeeps",destroyed,12
