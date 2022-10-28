@@ -5024,3 +5024,6 @@ timestamp,country,category,state,value
 2022-10-27 21:19:16,Russia,towed artillery,destroyed,1
 2022-10-27 21:19:16,Russia,"trucks, vehicles and jeeps",captured,1
 2022-10-27 21:19:16,Russia,"trucks, vehicles and jeeps",destroyed,4
+2022-10-28 12:48:22,Russia,tanks,abandoned,-1
+2022-10-28 12:48:22,Russia,tanks,captured,-8
+2022-10-28 12:48:22,Russia,tanks,destroyed,-2
