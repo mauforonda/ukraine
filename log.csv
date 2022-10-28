@@ -5029,3 +5029,16 @@ timestamp,country,category,state,value
 2022-10-28 12:48:22,Russia,tanks,destroyed,-2
 2022-10-28 15:25:22,Russia,tanks,captured,-2
 2022-10-28 15:25:22,Russia,tanks,destroyed,-8
+2022-10-28 18:27:27,Russia,armoured fighting vehicles,captured,-2
+2022-10-28 18:27:27,Russia,armoured fighting vehicles,destroyed,-4
+2022-10-28 18:27:27,Russia,armoured personnel carriers,abandoned,-1
+2022-10-28 18:27:27,Russia,armoured personnel carriers,destroyed,-1
+2022-10-28 18:27:27,Russia,artillery support vehicles and equipment,captured,-1
+2022-10-28 18:27:27,Russia,artillery support vehicles and equipment,destroyed,-1
+2022-10-28 18:27:27,Russia,infantry fighting vehicles,captured,-6
+2022-10-28 18:27:27,Russia,infantry fighting vehicles,destroyed,-5
+2022-10-28 18:27:27,Russia,infantry mobility vehicles,captured,-1
+2022-10-28 18:27:27,Russia,infantry mobility vehicles,destroyed,-1
+2022-10-28 18:27:27,Russia,self-propelled artillery,abandoned,-1
+2022-10-28 18:27:27,Russia,surface-to-air missile systems,abandoned,-4
+2022-10-28 18:27:27,Russia,surface-to-air missile systems,captured,1
