@@ -5118,3 +5118,9 @@ timestamp,country,category,state,value
 2022-11-01 18:29:02,Russia,towed artillery,damaged,-1
 2022-11-01 18:29:02,Russia,"trucks, vehicles and jeeps",captured,-10
 2022-11-01 18:29:02,Russia,"trucks, vehicles and jeeps",destroyed,-5
+2022-11-01 21:20:33,Russia,armoured personnel carriers,destroyed,1
+2022-11-01 21:20:33,Russia,helicopters,damaged,-2
+2022-11-01 21:20:33,Russia,helicopters,destroyed,2
+2022-11-01 21:20:33,Russia,infantry fighting vehicles,destroyed,1
+2022-11-01 21:20:33,Russia,tanks,captured,1
+2022-11-01 21:20:33,Russia,tanks,destroyed,1
