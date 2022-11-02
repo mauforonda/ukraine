@@ -5136,3 +5136,14 @@ timestamp,country,category,state,value
 2022-11-02 02:10:26,Russia,tanks,damaged,1
 2022-11-02 02:10:26,Russia,tanks,destroyed,1
 2022-11-02 02:10:26,Russia,"trucks, vehicles and jeeps",destroyed,5
+2022-11-02 21:21:46,Russia,armoured fighting vehicles,destroyed,1
+2022-11-02 21:21:46,Russia,armoured personnel carriers,destroyed,1
+2022-11-02 21:21:46,Russia,infantry fighting vehicles,captured,2
+2022-11-02 21:21:46,Russia,infantry fighting vehicles,destroyed,5
+2022-11-02 21:21:46,Russia,jammers and deception systems,captured,1
+2022-11-02 21:21:46,Russia,naval ships,damaged,-1
+2022-11-02 21:21:46,Russia,surface-to-air missile systems,destroyed,2
+2022-11-02 21:21:46,Russia,tanks,captured,1
+2022-11-02 21:21:46,Russia,tanks,destroyed,1
+2022-11-02 21:21:46,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-11-02 21:21:46,Russia,unmanned aerial vehicles,destroyed,1
