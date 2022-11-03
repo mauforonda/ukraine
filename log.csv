@@ -5147,3 +5147,6 @@ timestamp,country,category,state,value
 2022-11-02 21:21:46,Russia,tanks,destroyed,1
 2022-11-02 21:21:46,Russia,"trucks, vehicles and jeeps",destroyed,10
 2022-11-02 21:21:46,Russia,unmanned aerial vehicles,destroyed,1
+2022-11-03 01:56:59,Russia,infantry fighting vehicles,abandoned,1
+2022-11-03 01:56:59,Russia,tanks,destroyed,1
+2022-11-03 01:56:59,Russia,unmanned aerial vehicles,destroyed,1
