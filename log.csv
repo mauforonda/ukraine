@@ -5178,3 +5178,7 @@ timestamp,country,category,state,value
 2022-11-07 18:25:55,Russia,"trucks, vehicles and jeeps",captured,1
 2022-11-07 18:25:55,Russia,"trucks, vehicles and jeeps",damaged,1
 2022-11-07 18:25:55,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-11-07 21:20:36,Russia,armoured personnel carriers,destroyed,1
+2022-11-07 21:20:36,Russia,infantry fighting vehicles,destroyed,-2
+2022-11-07 21:20:36,Russia,tanks,captured,-2
+2022-11-07 21:20:36,Russia,tanks,destroyed,2
