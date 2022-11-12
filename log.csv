@@ -5245,3 +5245,10 @@ timestamp,country,category,state,value
 2022-11-12 01:51:20,Russia,"trucks, vehicles and jeeps",abandoned,1
 2022-11-12 01:51:20,Russia,"trucks, vehicles and jeeps",captured,6
 2022-11-12 01:51:20,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-11-12 09:20:13,Russia,armoured personnel carriers,destroyed,-1
+2022-11-12 09:20:13,Russia,infantry fighting vehicles,captured,1
+2022-11-12 09:20:13,Russia,infantry fighting vehicles,destroyed,3
+2022-11-12 09:20:13,Russia,self-propelled artillery,destroyed,1
+2022-11-12 09:20:13,Russia,tanks,abandoned,1
+2022-11-12 09:20:13,Russia,tanks,destroyed,-6
+2022-11-12 09:20:13,Russia,"trucks, vehicles and jeeps",destroyed,-2
