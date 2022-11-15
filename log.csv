@@ -5297,3 +5297,5 @@ timestamp,country,category,state,value
 2022-11-15 15:21:18,Russia,unmanned aerial vehicles,captured,-77
 2022-11-15 15:21:18,Russia,unmanned aerial vehicles,destroyed,-71
 2022-11-15 15:21:18,Russia,unmanned combat aerial vehicles,destroyed,4
+2022-11-15 21:17:47,Russia,surface-to-air missile systems,captured,1
+2022-11-15 21:17:47,Russia,surface-to-air missile systems,destroyed,-1
