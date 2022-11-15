@@ -77,7 +77,8 @@ Russia,Armoured Fighting Vehicles ,BRDM-2,ussr,"1, captured",https://i.postimg.c
 Russia,Armoured Fighting Vehicles ,BRDM-2,ussr,"1, destroyed",https://i.postimg.cc/HWJMWnXs/d4.png
 Russia,Armoured Fighting Vehicles ,BRDM-2,ussr,"2, destroyed",https://i.postimg.cc/Qx0xF42r/1001-brdm2.jpg
 Russia,Armoured Fighting Vehicles ,BRDM-2,ussr,"3, destroyed",https://i.postimg.cc/hvs0Z6v0/1002-brdm2.jpg
-Russia,Armoured Fighting Vehicles ,BRDM-2RKhb chemical recon vehicle,ussr,"1, captured",https://i.postimg.cc/Znvff41t/1018-BRDM-2-capt.jpg
+Russia,Armoured Fighting Vehicles ,BRDM-2-based ZS-82 PsyOps vehicle,ussr,"1, destroyed",https://i.postimg.cc/J4cL6170/1051-ZS-82-Psy-Ops-vehicle-destr.jpg
+Russia,Armoured Fighting Vehicles ,BRDM-2RKhb chemical reconnaissance vehicle,ussr,"1, captured",https://i.postimg.cc/Znvff41t/1018-BRDM-2-capt.jpg
 Russia,Armoured Fighting Vehicles ,BRM-1K reconnaissance vehicle,ussr,"10, destroyed",https://i.postimg.cc/3wGmwKjQ/55441.png
 Russia,Armoured Fighting Vehicles ,BRM-1K reconnaissance vehicle,ussr,"8, destroyed",https://i.postimg.cc/7Lbhr8dz/6658.jpg
 Russia,Armoured Fighting Vehicles ,BRM-1K reconnaissance vehicle,ussr,"9, destroyed",https://i.postimg.cc/85k1X8rv/1005-BRM-1-K.jpg
@@ -723,7 +724,6 @@ Russia,Armoured Fighting Vehicles ,Vityaz DT-10PM articulated tracked carrier,ru
 Russia,Armoured Fighting Vehicles ,Vityaz DT-30 articulated tracked carrier,russian federation,"2, captured",https://i.postimg.cc/fLbGschs/46.png
 Russia,Armoured Fighting Vehicles ,Vityaz DT-30 articulated tracked carrier,russian federation,"1, destroyed",https://i.postimg.cc/qRYCwdBj/16.png
 Russia,Armoured Fighting Vehicles ,Vityaz DT-30 articulated tracked carrier,russian federation,"1, damaged and captured",https://i.postimg.cc/wTZRmzx8/dt1.png
-Russia,Armoured Fighting Vehicles ,ZS-82 PsyOps vehicle,ussr,"1, destroyed",https://i.postimg.cc/J4cL6170/1051-ZS-82-Psy-Ops-vehicle-destr.jpg
 Russia,Armoured Personnel Carriers ,BTR-60PB,ussr,"1, damaged",https://i.postimg.cc/28S1XDpx/1009-btr60.jpg
 Russia,Armoured Personnel Carriers ,BTR-70,ussr,"2, destroyed",https://i.postimg.cc/NMWkzrGS/v6.png
 Russia,Armoured Personnel Carriers ,BTR-70,ussr,"1, captured",https://i.postimg.cc/ZRSyFsmQ/2022-09-13-BTR.png
@@ -937,8 +937,8 @@ Russia,Armoured Personnel Carriers ,BTR-MDM 'Rakushka',russian federation,"5, ca
 Russia,Armoured Personnel Carriers ,BTR-MDM 'Rakushka',russian federation,"2, destroyed",https://postimg.cc/7GfzWswh
 Russia,Armoured Personnel Carriers ,BTR-MDM 'Rakushka',russian federation,"4, destroyed",https://twitter.com/UAWeapons/status/1547270777887723524
 Russia,Armoured Personnel Carriers ,BTR-MDM 'Rakushka',russian federation,"7, captured",https://twitter.com/UAWeapons/status/1590462176652689408
-Russia,Armoured Personnel Carriers ,"Remdiesel Z-STS ""Akhmat""",russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1577250357549608960
-Russia,Armoured Personnel Carriers ,"Remdiesel Z-STS ""Akhmat""",russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1591539522655117312
+Russia,Armoured Personnel Carriers ,Remdiesel Z-STS Akhmat,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1577250357549608960
+Russia,Armoured Personnel Carriers ,Remdiesel Z-STS Akhmat,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1591539522655117312
 Russia,Armoured Personnel Carriers ,Unknown BTR-80/BTR-82A,russian federation,"34, destroyed",https://i.postimg.cc/4dM9Zzsj/1007-unkn-btr.jpg
 Russia,Armoured Personnel Carriers ,Unknown BTR-80/BTR-82A,russian federation,"3, abandoned",https://i.postimg.cc/5yXs16gn/89.png
 Russia,Armoured Personnel Carriers ,Unknown BTR-80/BTR-82A,russian federation,"13, destroyed",https://i.postimg.cc/7YyKnSxV/1000.jpg
@@ -1507,14 +1507,14 @@ Russia,Heavy Mortars ,Unknown heavy mortar,russian federation,"1, destroyed",htt
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1, damaged and captured",https://i.postimg.cc/0jWMTTRH/43d.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"2, destroyed",https://i.postimg.cc/1tPVQmb4/4fd6.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"8, destroyed",https://i.postimg.cc/4dzsQMTW/541.png
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"25 and 26, damaged on the ground",https://i.postimg.cc/GmLwHKZf/88755.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"6, destroyed",https://i.postimg.cc/MTn487kW/h2.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1, destroyed in a non-combat related incident",https://i.postimg.cc/R0k4cc7Z/548.png
-Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"22, destroyed",https://i.postimg.cc/YC3NCKfc/1027-ka52-destr.jpg
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"4 and 5, destroyed on the ground",https://i.postimg.cc/V6zN6zLy/533.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"10, destroyed",https://i.postimg.cc/YCLMm1sx/2f4.png
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"22, destroyed",https://i.postimg.cc/d17jPsV2/image.jpg
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"12, destroyed",https://i.postimg.cc/d3mQqdqh/288.png
-Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"23 and 24, damaged beyond economic repair",https://i.postimg.cc/g0r5cRcC/1009-helicopter-sabotage-aftermath.jpg
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"16, destroyed",https://i.postimg.cc/k5N18rBH/1002-ka52.jpg
-Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"4 and 5, destroyed",https://i.postimg.cc/rwVSHcbt/37.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"14, damaged, abandoned and later destroyed",https://i.postimg.cc/tRxDy5TM/3288.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"15, damaged, abandoned and later destroyed",https://i.postimg.cc/vmtC0wn8/57.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"3, destroyed",https://i.postimg.cc/xTYxdB3c/4w.png
@@ -1527,15 +1527,19 @@ Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"11, 
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"18, destroyed",https://twitter.com/UAWeapons/status/1541425714502705152
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"17, destroyed",https://twitter.com/UAWeapons/status/1572975784720998404
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"20, destroyed",https://twitter.com/UAWeapons/status/1576313385343279104
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"23 and 24, destroyed on the ground",https://twitter.com/UAWeapons/status/1587182889002827780
 Russia,Helicopters ,Mi-24P attack helicopter,ussr,"2, destroyed",https://i.postimg.cc/dVVvB2vh/48.png
 Russia,Helicopters ,Mi-24P attack helicopter,ussr,"3, destroyed",https://i.postimg.cc/x82n2HvR/4f3.png
 Russia,Helicopters ,Mi-24P attack helicopter,ussr,"1, destroyed",https://twitter.com/UAWeapons/status/1522207716755734528
-Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"5, destroyed",https://i.postimg.cc/05mTSd1m/599.png
-Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"4, destroyed",https://i.postimg.cc/7LmXCpww/29.png
-Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"6, destroyed",https://i.postimg.cc/8Crd9Dky/7633.jpg
-Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"3, destroyed",https://i.postimg.cc/d1w1860v/66591.png
+Russia,Helicopters ,Mi-24P/35M attack helicopter,russian federation,"1 and 2, damaged on the ground",https://i.postimg.cc/1zQwZg2s/3326.png
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"6, destroyed",https://i.postimg.cc/05mTSd1m/599.png
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"1 and 2, damaged on the ground",https://i.postimg.cc/0yT1fSjG/354.png
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"5, destroyed",https://i.postimg.cc/7LmXCpww/29.png
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"7, destroyed",https://i.postimg.cc/8Crd9Dky/7633.jpg
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"3, destroyed on the ground",https://i.postimg.cc/C587Myhq/4472.png
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"4, destroyed",https://i.postimg.cc/d1w1860v/66591.png
 Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1509867710892711939
-Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"1, destroyed",https://twitter.com/oryxspioenkop/status/1502605989400489990  
+Russia,Helicopters ,Mi-28 attack helicopter,russian federation,"1, destroyed",https://twitter.com/oryxspioenkop/status/1502605989400489990
 Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"2, destroyed",https://i.postimg.cc/4x2WCZvL/135.png
 Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"4, destroyed",https://i.postimg.cc/PJJNvNF3/653.png
 Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"1, destroyed",https://i.postimg.cc/sgyP7pxk/d3.png
@@ -1544,17 +1548,17 @@ Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"5, destroyed",h
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"9, destroyed",https://i.postimg.cc/3J0cxpnW/549.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"12, destroyed",https://i.postimg.cc/NFMqWfJp/47.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"5, destroyed",https://i.postimg.cc/XqtmXXdR/442.png
+Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"6 and 7, destroyed on the ground",https://i.postimg.cc/Y98sFBYL/8875.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"2, destroyed",https://i.postimg.cc/YS3Jpmpz/4799.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"1, destroyed",https://i.postimg.cc/Zq8KtSRg/37.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"3, destroyed",https://i.postimg.cc/cHJ7QfR3/668.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"8, abandoned and destroyed",https://i.postimg.cc/ncL87Pvg/65.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"4, destroyed in a non-combat related incident",https://i.postimg.cc/nrRXyX9x/367.png
-Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"6 and 7, destroyed",https://postimg.cc/hJQ6678b
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"10, destroyed",https://twitter.com/RALee85/status/1515925894568857602
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"11, destroyed",https://twitter.com/UAWeapons/status/1517145886194683904
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"13, destroyed",https://twitter.com/UAWeapons/status/1587071834364776448
-Russia,Helicopters ,Unknown helicopter,russian federation,"1, 2, 3, 4, and 5, destroyed",https://i.postimg.cc/NG9B0yBC/72.png
-Russia,Helicopters ,Unknown helicopter,russian federation,"6, 7, 8, 9, 10 and 11, destroyed",https://twitter.com/LotA_IL/status/1591485801896243201
+Russia,Helicopters ,Unknown helicopter,russian federation,"1, 2 and 3, destroyed on the ground",https://i.postimg.cc/DfXGmPhn/6658.png
+Russia,Helicopters ,Unknown helicopter,russian federation,"4, 5, 6, 7 and 8, destroyed on the ground",https://twitter.com/LotA_IL/status/1591485801896243201
 Russia,Infantry Fighting Vehicles ,BMD-2,ussr,"77, destroyed",https://i.postimg.cc/02Tq6zbq/1008-bmd2.jpg
 Russia,Infantry Fighting Vehicles ,BMD-2,ussr,"47, destroyed",https://i.postimg.cc/0QCqYTSQ/655.jpg
 Russia,Infantry Fighting Vehicles ,BMD-2,ussr,"43, destroyed",https://i.postimg.cc/0yqfdLkY/887.jpg
@@ -3158,10 +3162,10 @@ Russia,Infantry Fighting Vehicles ,Unknown BMP-1/2,ussr,"75 and 76, destroyed",h
 Russia,Infantry Fighting Vehicles ,Unknown BMP-1/2,ussr,"77, destroyed",https://twitter.com/UAWeapons/status/1587877743336849410
 Russia,Infantry Fighting Vehicles ,Unknown BMP-1/2,ussr,"78, destroyed",https://twitter.com/UAWeapons/status/1589312549253971968
 Russia,Infantry Fighting Vehicles ,Unknown BMP-1/2,ussr,"62, destroyed",https://twitter.com/naalsio26/status/1576664189074305025
-Russia,Infantry Mobility Vehicles ,AMN-590951 multipurpose armored vehicle,russian federation,"2, captured",https://i.postimg.cc/65y5xNCk/1037-AMN-590951-capt.jpg
-Russia,Infantry Mobility Vehicles ,AMN-590951 multipurpose armored vehicle,russian federation,"3, captured",https://i.postimg.cc/Pxx90vdL/1017-590951-capt.jpg
-Russia,Infantry Mobility Vehicles ,AMN-590951 multipurpose armored vehicle,russian federation,"4, captured",https://i.postimg.cc/Y9HrK3Yz/1003-AMN-590951-capt.jpg
-Russia,Infantry Mobility Vehicles ,AMN-590951 multipurpose armored vehicle,russian federation,"1, captured",https://twitter.com/UAWeapons/status/1578037471106899968
+Russia,Infantry Mobility Vehicles ,AMN-590951,russian federation,"2, captured",https://i.postimg.cc/65y5xNCk/1037-AMN-590951-capt.jpg
+Russia,Infantry Mobility Vehicles ,AMN-590951,russian federation,"3, captured",https://i.postimg.cc/Pxx90vdL/1017-590951-capt.jpg
+Russia,Infantry Mobility Vehicles ,AMN-590951,russian federation,"4, captured",https://i.postimg.cc/Y9HrK3Yz/1003-AMN-590951-capt.jpg
+Russia,Infantry Mobility Vehicles ,AMN-590951,russian federation,"1, captured",https://twitter.com/UAWeapons/status/1578037471106899968
 Russia,Infantry Mobility Vehicles ,BPM-97 Vystrel,russian federation,"1, captured",https://i.postimg.cc/85NPHstQ/1012-BPM-97-Vystrel-capt.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr,russian federation,"5, captured",https://i.postimg.cc/8Cwxg6XG/4g.png
 Russia,Infantry Mobility Vehicles ,GAZ Tigr,russian federation,"2, destroyed",https://i.postimg.cc/HnZYs9hn/hh4.jpg
@@ -3513,17 +3517,17 @@ Russia,Multiple Rocket Launchers ,300mm BM-30 Smerch,ussr,"1, destroyed",https:/
 Russia,Multiple Rocket Launchers ,Unknown MRL,russian federation,"2, destroyed",https://i.postimg.cc/XJWFmZM7/1036-unkn-MRLS.jpg
 Russia,Multiple Rocket Launchers ,Unknown MRL,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1533131912423800832
 Russia,Naval Ships ,Project 02510 BK-16E high-speed assault boat,russian federation,"1, destroyed",https://i.postimg.cc/V6TjLx6w/7769.png
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"2, destroyed",https://i.postimg.cc/0yycFg18/6j.jpg
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"1, damaged",https://i.postimg.cc/Gh7yVRxL/4438.png
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"1, destroyed",https://i.postimg.cc/LX8JW4dJ/46.png
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"3, destroyed",https://i.postimg.cc/qqhnJFrH/1011.jpg
-Russia,Naval Ships ,Project 03160 Raptor class patrol boat,russian federation,"2, damaged",https://twitter.com/UAWeapons/status/1506229325598756872
-Russia,Naval Ships ,Project 1164 Slava class guided missile cruiser 'Moskva',ussr,"1, sunk",https://i.postimg.cc/GhPrsQVH/68.png
-Russia,Naval Ships ,Project 1171 Tapir class landing ship 'Saratov (BDK-65)',ussr,"1, destroyed",https://twitter.com/RALee85/status/1506953417935179793
-Russia,Naval Ships ,Project 11770 Serna class landing craft,russian federation,"1, destroyed",https://i.postimg.cc/cJWjtN8s/437.png
+Russia,Naval Ships ,Project 03160 Raptor-class patrol boat,russian federation,"2, destroyed",https://i.postimg.cc/0yycFg18/6j.jpg
+Russia,Naval Ships ,Project 03160 Raptor-class patrol boat,russian federation,"1, damaged",https://i.postimg.cc/Gh7yVRxL/4438.png
+Russia,Naval Ships ,Project 03160 Raptor-class patrol boat,russian federation,"1, destroyed",https://i.postimg.cc/LX8JW4dJ/46.png
+Russia,Naval Ships ,Project 03160 Raptor-class patrol boat,russian federation,"3, destroyed",https://i.postimg.cc/qqhnJFrH/1011.jpg
+Russia,Naval Ships ,Project 03160 Raptor-class patrol boat,russian federation,"2, damaged",https://twitter.com/UAWeapons/status/1506229325598756872
+Russia,Naval Ships ,Project 1164 Slava-class guided missile cruiser 'Moskva',ussr,"1, sunk",https://i.postimg.cc/GhPrsQVH/68.png
+Russia,Naval Ships ,Project 1171 Tapir-class landing ship 'Saratov (BDK-65)',ussr,"1, destroyed",https://twitter.com/RALee85/status/1506953417935179793
+Russia,Naval Ships ,Project 11770 Serna-class landing craft,russian federation,"1, destroyed",https://i.postimg.cc/cJWjtN8s/437.png
 Russia,Naval Ships ,Project 22870 SB-739 Vasily Bekh rescue tug,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1538455159914876928
 Russia,Naval Ships ,Project 266M Natya-class minesweeper,ussr,"1, damaged",https://twitter.com/UAWeapons/status/1586363908071489536
-Russia,Naval Ships ,Project 775 Ropucha class landing ship,poland,"1, damaged",https://i.postimg.cc/k4zbP5Ff/13.png
+Russia,Naval Ships ,Project 775 Ropucha-class landing ship,poland,"1, damaged",https://i.postimg.cc/k4zbP5Ff/13.png
 Russia,Radars ,1L261 (for 1L260 Zoopark-1M counter-battery radar complex),russian federation,"1, captured",https://i.postimg.cc/TPXZzwYr/47h.png
 Russia,Radars ,1L261 (for 1L260 Zoopark-1M counter-battery radar complex),russian federation,"1, destroyed",https://postimg.cc/hQstNghL
 Russia,Radars ,1L261 (for 1L260 Zoopark-1M counter-battery radar complex),russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1560925593302089731
@@ -3543,7 +3547,151 @@ Russia,Radars ,P-18T,russian federation,"1, destroyed",https://i.postimg.cc/4xh3
 Russia,Radars ,PPRU-1(M) '9S80(-1)' 'Sborka' (for 9K35 Strela-10),russian federation,"1, captured",https://i.postimg.cc/Bvg6z7R1/4388.png
 Russia,Radars ,PPRU-1(M) '9S80(-1)' 'Sborka' (for 9K35 Strela-10),russian federation,"1, destroyed",https://i.postimg.cc/ZRnFXjBh/32.jpg
 Russia,Radars ,SNAR-10M1 battlefield surveillance radar,russian federation,"1, captured",https://i.postimg.cc/Px9Q1Gck/45.jpg
-Russia,Radars ,unknown radar,russian federation,"1 and 2, destroyed",https://i.postimg.cc/26HwhGym/1001-2x-unkn-radar-destr-26-2.jpg
+Russia,Radars ,Unknown radar,russian federation,"1 and 2, destroyed",https://i.postimg.cc/26HwhGym/1001-2x-unkn-radar-destr-26-2.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"1, captured",https://i.postimg.cc/hPPz5cxF/877.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"3, destroyed",https://i.postimg.cc/nrJ7kC7g/51.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"2, destroyed",https://i.postimg.cc/tgwcwDnq/544.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"1, destroyed",https://i.postimg.cc/wjfQ6sKd/7j.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"4, destroyed",https://twitter.com/UAWeapons/status/1553733587639353346
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"5, destroyed",https://twitter.com/UAWeapons/status/1561282572369403904
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"2, damaged and captured",https://twitter.com/UAWeapons/status/1565678439952269312
+Russia,Reconnaissance Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'',russian federation,"6, destroyed",https://twitter.com/UAWeapons/status/1571824407169101824
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron T28ME,russian federation,"1, captured",https://twitter.com/UAWeapons/status/1559628435819044864
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"11, captured",https://i.postimg.cc/3RLLMqnV/1007-Eleron-3-reconnaissance-UAV.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"8, captured",https://i.postimg.cc/8CbDZkFx/589.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"6, captured",https://i.postimg.cc/G3GCT98B/479.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"5, captured",https://i.postimg.cc/V6S9fK6Z/769.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"9, captured",https://i.postimg.cc/brBpB1P1/434.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"4, captured",https://i.postimg.cc/dtTP9TgR/f50.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"1, captured",https://i.postimg.cc/hGsW7Rwk/36hp.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"10, captured",https://i.postimg.cc/ht00FV6v/5g5.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"2, captured",https://i.postimg.cc/ncWt99Cy/4ff.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"7, captured",https://i.postimg.cc/t43HgRz7/49.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"3, captured",https://i.postimg.cc/yxRnwVzy/421.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"13, captured",https://postimg.cc/QFpQ5z8d
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1525923825333960705
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"12, captured",https://twitter.com/UAWeapons/status/1561452400619159558
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Eleron-3,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1587921872272097280
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Forpost,israel,"1, destroyed",https://i.postimg.cc/QMfV9BST/35g.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Forpost,israel,"3, destroyed",https://i.postimg.cc/RhmxzhXp/d3.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Forpost,israel,"2, destroyed in a non-combat related incident",https://twitter.com/UAWeapons/status/1543997005294452743
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Granat-4,russian federation,"2, captured",https://i.postimg.cc/prgztXj0/354.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Granat-4,russian federation,"1, captured",https://postimg.cc/fkztstLf
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Grifon-12,russian federation,"1, captured",https://i.postimg.cc/SRMbNRm3/1011-Grifon-12-uav-capt.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Lastochka-M,russian federation,"1, captured",https://i.postimg.cc/5NfHCQZp/4144.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Merlin-VR,russian federation,"1, destroyed",https://i.postimg.cc/x1NDqL6V/433.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"36, captured",https://i.postimg.cc/0QzQdnnK/1002-orlan10.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"25, destroyed",https://i.postimg.cc/14x9rbSm/f66.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"15, captured",https://i.postimg.cc/1X19XPBM/f5.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"46, destroyed",https://i.postimg.cc/1ztF3wPV/665.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"8, captured",https://i.postimg.cc/5N6BMbSX/g2.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"4, destroyed",https://i.postimg.cc/6QVsMf3H/6522.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"1, captured",https://i.postimg.cc/6QqPwj1t/4f.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"11, destroyed",https://i.postimg.cc/6pDBhGh6/5h.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"16, destroyed",https://i.postimg.cc/7YFSSDws/498.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"45, captured",https://i.postimg.cc/7Zc6sQgV/446.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"12, destroyed",https://i.postimg.cc/85kvfqLf/6689.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"16, captured",https://i.postimg.cc/8zkzDNf8/o1.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"9, destroyed",https://i.postimg.cc/9FyvR6MK/4316.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"17, destroyed",https://i.postimg.cc/9fPVvT9R/t4.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"18, captured",https://i.postimg.cc/9fZz7drg/778.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"29, captured",https://i.postimg.cc/BbxhgctG/7761.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"8, destroyed",https://i.postimg.cc/C11d0vhZ/35g.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"27, captured",https://i.postimg.cc/CKJQDtPK/4488.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"1, destroyed",https://i.postimg.cc/CKwKbTnN/5799.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"31, destroyed",https://i.postimg.cc/CLDQYPF4/48.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"43, captured",https://i.postimg.cc/D06r8GnC/36.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"2, destroyed",https://i.postimg.cc/DfGxGMLk/3g.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"20, destroyed",https://i.postimg.cc/F1t2dQdF/431.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"10, destroyed",https://i.postimg.cc/FRYR7QVY/669.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"28, destroyed",https://i.postimg.cc/Fs5cqXRf/f88.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"14, destroyed",https://i.postimg.cc/J4nGRTnh/4jl.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"23, captured",https://i.postimg.cc/JnpJ6DcS/4f88.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"13, destroyed",https://i.postimg.cc/KYLkzGTc/37.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"2, captured",https://i.postimg.cc/NF1kqKHh/1.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"22, destroyed",https://i.postimg.cc/NMTgv9xM/387.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"42, captured",https://i.postimg.cc/Pf49vd2q/1007-oraln10-capt.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"7, captured",https://i.postimg.cc/QMpYq1Jn/65g.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"4, captured",https://i.postimg.cc/RZF5FGVc/576.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"25, captured",https://i.postimg.cc/SsmD3Q1Q/489.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"6, captured",https://i.postimg.cc/TY4KfK2d/57.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"30, destroyed",https://i.postimg.cc/VNxHMNty/43.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"27, destroyed",https://i.postimg.cc/VsCR1LSN/589.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"32, destroyed",https://i.postimg.cc/W3wy2LJK/o2.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"32, captured",https://i.postimg.cc/X7DyWsdF/1007-orlan10.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"23, destroyed",https://i.postimg.cc/Xq9krxQS/7663.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"22, captured",https://i.postimg.cc/Y95mK6D2/o2.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"44, captured",https://i.postimg.cc/YCSLd5H6/54.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"10, captured",https://i.postimg.cc/YqNCVRZ8/689.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"3, captured",https://i.postimg.cc/Zq7rm9pH/370.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"20, captured",https://i.postimg.cc/bJ9tZDL2/j77.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"5, captured",https://i.postimg.cc/dtPZbsKy/4f2.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"14, captured",https://i.postimg.cc/fL9zMkcJ/f4.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"19, destroyed",https://i.postimg.cc/fLXP3MWp/d21.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"36, destroyed",https://i.postimg.cc/fbVLCq1n/1004.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"47, captured",https://i.postimg.cc/g2D6v8XZ/66568.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"43, destroyed",https://i.postimg.cc/gJv1Z874/1002-orlan.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"15, destroyed",https://i.postimg.cc/gjVssHLf/89.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"17, captured",https://i.postimg.cc/hGqMhZgq/o3.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"12, captured",https://i.postimg.cc/jdHNY3wM/5471.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"24, destroyed",https://i.postimg.cc/kgg8Zp5G/47h.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"21, captured",https://i.postimg.cc/nLwDTbvD/o1.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"7, destroyed",https://i.postimg.cc/nVBCPx9W/76.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"26, destroyed",https://i.postimg.cc/ncgvFg30/g8.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"37, destroyed",https://i.postimg.cc/nhhztFNQ/1002-orlan-10.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"26, captured",https://i.postimg.cc/nhnvjKN9/433.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"34, destroyed",https://i.postimg.cc/sfkV79nR/f4.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"33, destroyed",https://i.postimg.cc/sxWR9n55/22s.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"13, captured",https://i.postimg.cc/sxc4pmht/684.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"5, destroyed",https://i.postimg.cc/tgR0mVxp/331.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"11, captured",https://i.postimg.cc/vBGZW9Dm/769.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"28, captured",https://i.postimg.cc/vH8mfDPF/178.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"18, destroyed",https://i.postimg.cc/vTprjftg/542.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"19, captured",https://i.postimg.cc/wM3vnwmj/548.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"24, captured",https://i.postimg.cc/wx21XFCw/090.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"31, captured",https://i.postimg.cc/xCxn758d/1100-orlan10.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"6, destroyed",https://i.postimg.cc/yxB9PFbx/f5.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"29, destroyed",https://i.postimg.cc/zBJtTyvc/54.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"9, captured",https://i.postimg.cc/zX4cH9kG/378.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"3, destroyed",https://i.postimg.cc/zXHnbFzQ/5gl.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"33, captured",https://twitter.com/RALee85/status/1561460268994965505
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"34, captured",https://twitter.com/RALee85/status/1561952181779156993
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"21, destroyed",https://twitter.com/UAWeapons/status/1521105540885192707
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"35, destroyed",https://twitter.com/UAWeapons/status/1543964967573020678
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"30, captured",https://twitter.com/UAWeapons/status/1557721655991885824
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"38 and 39, destroyed",https://twitter.com/UAWeapons/status/1558411984479158274
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"40, destroyed",https://twitter.com/UAWeapons/status/1560673609550417921
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"35, captured",https://twitter.com/UAWeapons/status/1562762515993358336
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"41, destroyed",https://twitter.com/UAWeapons/status/1563908371639574529
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"42, destroyed",https://twitter.com/UAWeapons/status/1564981255107739649
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"37, captured",https://twitter.com/UAWeapons/status/1566364893661511680
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"38 and 39, captured",https://twitter.com/UAWeapons/status/1568935751777415168
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"40, captured",https://twitter.com/UAWeapons/status/1573271316521787392
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"41, captured",https://twitter.com/UAWeapons/status/1575211477380001792
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"44, destroyed",https://twitter.com/UAWeapons/status/1575450424496250881
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"45, destroyed",https://twitter.com/UAWeapons/status/1577311724880945154
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"46, captured",https://twitter.com/UAWeapons/status/1590235567547375617
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10 jamming UAV,russian federation,"2, captured",https://i.postimg.cc/TYLmNYfv/546.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10 jamming UAV,russian federation,"1, captured",https://i.postimg.cc/bJTQmCp8/6899.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10 jamming UAV,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1548015648613154818
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-30,russian federation,"2, destroyed",https://i.postimg.cc/Hkdgvsp2/652.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-30,russian federation,"1, captured",https://i.postimg.cc/Y9Ps2VXG/f5.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-30,russian federation,"1, destroyed",https://i.postimg.cc/sgB11ZNw/68.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-30,russian federation,"2, captured",https://twitter.com/UAWeapons/status/1573271316521787392
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Supercam S150,russian federation,"1, captured",https://i.postimg.cc/cC42XVpx/554.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Supercam S150,russian federation,"1, destroyed",https://i.postimg.cc/rFYXYwyv/327.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Supercam S350,russian federation,"1, captured",https://i.postimg.cc/9fSnXycR/46g.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Takhion,russian federation,"2, captured",https://i.postimg.cc/26dxtGgS/554.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Takhion,russian federation,"1, captured",https://i.postimg.cc/L8Hsjzh6/41.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Unknown reconnaissance UAV,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1534994117691949082
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Unknown reconnaissance UAV,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1539305630963482626
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Unknown reconnaissance UAV,russian federation,"3, destroyed",https://twitter.com/UAWeapons/status/1587795318799835136
+Russia,Reconnaissance Unmanned Aerial Vehicles ,ZALA 421-16Е2,russian federation,"1, captured",https://i.postimg.cc/XqR7yK79/8744.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,ZALA 421-16Е2,russian federation,"1, destroyed",https://i.postimg.cc/g0PSJpwZ/g2.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,ZALA 421-16Е2,russian federation,"2, captured",https://i.postimg.cc/mZM31swq/1006.jpg
+Russia,Reconnaissance Unmanned Aerial Vehicles ,ZALA 421-16Е2,russian federation,"2, destroyed",https://i.postimg.cc/qqBxnjfW/480.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,ZALA 421-16Е2,russian federation,"3, captured",https://twitter.com/UAWeapons/status/1565999784208498689
+Russia,Reconnaissance Unmanned Aerial Vehicles ,ZALA 421-16ЕM,russian federation,"1, captured",https://twitter.com/UAWeapons/status/1576500730478764032
 Russia,Self-Propelled Anti-Aircraft Guns ,2K22M1 Tunguska,russian federation,"2, abandoned",https://i.postimg.cc/6pD3WrQj/gy67.png
 Russia,Self-Propelled Anti-Aircraft Guns ,2K22M1 Tunguska,russian federation,"1, damaged and abandoned",https://i.postimg.cc/9MqLyHJZ/764.png
 Russia,Self-Propelled Anti-Aircraft Guns ,2K22M1 Tunguska,russian federation,"2, 3, 4 and 5, abandoned and later destroyed",https://i.postimg.cc/BZ7r1kkf/3d2.png
@@ -5406,9 +5554,9 @@ Russia,Towed Artillery ,152mm D-20 gun-howitzer,ussr,"1, destroyed",https://i.po
 Russia,Towed Artillery ,152mm D-20 gun-howitzer,ussr,"1, captured",https://twitter.com/UAWeapons/status/1570491371903131649
 Russia,Towed Artillery ,152mm D-20 gun-howitzer,ussr,"2, destroyed",https://twitter.com/UAWeapons/status/1577737276783837196
 Russia,Towed Artillery ,152mm D-20 gun-howitzer,ussr,"2, captured",https://twitter.com/UAWeapons/status/1577737276783837196
-Russia,Towed Artillery ,Unknown towed artillery,ussr,"4, destroyed",https://i.postimg.cc/3w5D0yxC/1034-unkn-towed-arty.jpg
-Russia,Towed Artillery ,Unknown towed artillery,ussr,"1, destroyed",https://twitter.com/Blue_Sauron/status/1545642114486263808
-Russia,Towed Artillery ,Unknown towed artillery,ussr,"2 and 3, destroyed",https://twitter.com/Blue_Sauron/status/1546433071335063558
+Russia,Towed Artillery ,Unknown towed artillery,russian federation,"4, destroyed",https://i.postimg.cc/3w5D0yxC/1034-unkn-towed-arty.jpg
+Russia,Towed Artillery ,Unknown towed artillery,russian federation,"1, destroyed",https://twitter.com/Blue_Sauron/status/1545642114486263808
+Russia,Towed Artillery ,Unknown towed artillery,russian federation,"2 and 3, destroyed",https://twitter.com/Blue_Sauron/status/1546433071335063558
 Russia,"Trucks, Vehicles and Jeeps ",(Unknown) truck,russian federation,"90, destroyed",https://i.postimg.cc/0jRWbGP9/5433.jpg
 Russia,"Trucks, Vehicles and Jeeps ",(Unknown) truck,russian federation,"187, destroyed",https://i.postimg.cc/0jnXSRjn/58.jpg
 Russia,"Trucks, Vehicles and Jeeps ",(Unknown) truck,russian federation,"78, destroyed",https://i.postimg.cc/13wN0z51/ut.jpg
@@ -7057,150 +7205,7 @@ Russia,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"5, captured",https://i.postim
 Russia,"Trucks, Vehicles and Jeeps ",ZiL-131,ussr,"3, captured",https://i.postimg.cc/yxkvTzHY/1002-Zi-L-131-HB-capt.jpg
 Russia,"Trucks, Vehicles and Jeeps ",ZiL-131 tanker,ussr,"1, captured",https://i.postimg.cc/NfFtVMs9/1021-zil-tanker.jpg
 Russia,"Trucks, Vehicles and Jeeps ",ZiL-131 tanker,ussr,"1, destroyed",https://twitter.com/UAWeapons/status/1577310511212920834
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/hPPz5cxF/877.jpg
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"3, destroyed",https://i.postimg.cc/nrJ7kC7g/51.png
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"2, destroyed",https://i.postimg.cc/tgwcwDnq/544.png
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/wjfQ6sKd/7j.jpg
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"4, destroyed",https://twitter.com/UAWeapons/status/1553733587639353346
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"5, destroyed",https://twitter.com/UAWeapons/status/1561282572369403904
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"2, damaged and captured",https://twitter.com/UAWeapons/status/1565678439952269312
-Russia,Unmanned Aerial Vehicles ,'Orlan-20' ''Kartograf'' reconnaissance UAV,russian federation,"6, destroyed",https://twitter.com/UAWeapons/status/1571824407169101824
-Russia,Unmanned Aerial Vehicles ,Eleron T28ME reconnaissance UAV,russian federation,"1, captured",https://twitter.com/UAWeapons/status/1559628435819044864
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"11, captured",https://i.postimg.cc/3RLLMqnV/1007-Eleron-3-reconnaissance-UAV.jpg
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"8, captured",https://i.postimg.cc/8CbDZkFx/589.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"6, captured",https://i.postimg.cc/G3GCT98B/479.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"5, captured",https://i.postimg.cc/V6S9fK6Z/769.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"9, captured",https://i.postimg.cc/brBpB1P1/434.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"4, captured",https://i.postimg.cc/dtTP9TgR/f50.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/hGsW7Rwk/36hp.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"10, captured",https://i.postimg.cc/ht00FV6v/5g5.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"2, captured",https://i.postimg.cc/ncWt99Cy/4ff.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"7, captured",https://i.postimg.cc/t43HgRz7/49.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"3, captured",https://i.postimg.cc/yxRnwVzy/421.png
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"13, captured",https://postimg.cc/QFpQ5z8d
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1525923825333960705
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"12, captured",https://twitter.com/UAWeapons/status/1561452400619159558
-Russia,Unmanned Aerial Vehicles ,Eleron-3 reconnaissance UAV,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1587921872272097280
-Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"1, destroyed",https://i.postimg.cc/QMfV9BST/35g.png
-Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"3, destroyed",https://i.postimg.cc/RhmxzhXp/d3.png
-Russia,Unmanned Aerial Vehicles ,Forpost reconnaissance UAV,israel,"2, destroyed in a non-combat related incident",https://twitter.com/UAWeapons/status/1543997005294452743
-Russia,Unmanned Aerial Vehicles ,Granat-4 reconnaissance UAV,russian federation,"2, captured",https://i.postimg.cc/prgztXj0/354.png
-Russia,Unmanned Aerial Vehicles ,Granat-4 reconnaissance UAV,russian federation,"1, captured",https://postimg.cc/fkztstLf
-Russia,Unmanned Aerial Vehicles ,Grifon-12 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/SRMbNRm3/1011-Grifon-12-uav-capt.jpg
-Russia,Unmanned Aerial Vehicles ,Lastochka-M reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/5NfHCQZp/4144.png
-Russia,Unmanned Aerial Vehicles ,Luch Korsar UCAV,russian federation,"1, destroyed",https://i.postimg.cc/26wHy9PW/97.png
-Russia,Unmanned Aerial Vehicles ,Merlin-VR reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/x1NDqL6V/433.png
-Russia,Unmanned Aerial Vehicles ,Mohajer-6 UCAV,,"1, captured",https://twitter.com/UAWeapons/status/1576953933398151169
-Russia,Unmanned Aerial Vehicles ,Orion UCAV,russian federation,"1, destroyed",https://i.postimg.cc/FsNjfGyG/57.png
-Russia,Unmanned Aerial Vehicles ,Orion UCAV,russian federation,"2, destroyed",https://i.postimg.cc/sXhTDycN/1500.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 jamming UAV,russian federation,"2, captured",https://i.postimg.cc/TYLmNYfv/546.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 jamming UAV,russian federation,"1, captured",https://i.postimg.cc/bJTQmCp8/6899.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 jamming UAV,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1548015648613154818
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"36, captured",https://i.postimg.cc/0QzQdnnK/1002-orlan10.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"25, destroyed",https://i.postimg.cc/14x9rbSm/f66.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"15, captured",https://i.postimg.cc/1X19XPBM/f5.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"46, destroyed",https://i.postimg.cc/1ztF3wPV/665.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"8, captured",https://i.postimg.cc/5N6BMbSX/g2.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"4, destroyed",https://i.postimg.cc/6QVsMf3H/6522.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/6QqPwj1t/4f.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"11, destroyed",https://i.postimg.cc/6pDBhGh6/5h.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"16, destroyed",https://i.postimg.cc/7YFSSDws/498.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"12, destroyed",https://i.postimg.cc/85kvfqLf/6689.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"16, captured",https://i.postimg.cc/8zkzDNf8/o1.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"9, destroyed",https://i.postimg.cc/9FyvR6MK/4316.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"17, destroyed",https://i.postimg.cc/9fPVvT9R/t4.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"18, captured",https://i.postimg.cc/9fZz7drg/778.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"29, captured",https://i.postimg.cc/BbxhgctG/7761.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"8, destroyed",https://i.postimg.cc/C11d0vhZ/35g.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"27, captured",https://i.postimg.cc/CKJQDtPK/4488.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/CKwKbTnN/5799.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"31, destroyed",https://i.postimg.cc/CLDQYPF4/48.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"43, captured",https://i.postimg.cc/D06r8GnC/36.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"2, destroyed",https://i.postimg.cc/DfGxGMLk/3g.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"20, destroyed",https://i.postimg.cc/F1t2dQdF/431.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"10, destroyed",https://i.postimg.cc/FRYR7QVY/669.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"28, destroyed",https://i.postimg.cc/Fs5cqXRf/f88.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"14, destroyed",https://i.postimg.cc/J4nGRTnh/4jl.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"23, captured",https://i.postimg.cc/JnpJ6DcS/4f88.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"13, destroyed",https://i.postimg.cc/KYLkzGTc/37.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"2, captured",https://i.postimg.cc/NF1kqKHh/1.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"22, destroyed",https://i.postimg.cc/NMTgv9xM/387.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"42, captured",https://i.postimg.cc/Pf49vd2q/1007-oraln10-capt.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"7, captured",https://i.postimg.cc/QMpYq1Jn/65g.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"4, captured",https://i.postimg.cc/RZF5FGVc/576.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"25, captured",https://i.postimg.cc/SsmD3Q1Q/489.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"6, captured",https://i.postimg.cc/TY4KfK2d/57.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"30, destroyed",https://i.postimg.cc/VNxHMNty/43.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"27, destroyed",https://i.postimg.cc/VsCR1LSN/589.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"32, destroyed",https://i.postimg.cc/W3wy2LJK/o2.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"32, captured",https://i.postimg.cc/X7DyWsdF/1007-orlan10.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"23, destroyed",https://i.postimg.cc/Xq9krxQS/7663.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"22, captured",https://i.postimg.cc/Y95mK6D2/o2.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"44, captured",https://i.postimg.cc/YCSLd5H6/54.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"10, captured",https://i.postimg.cc/YqNCVRZ8/689.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"3, captured",https://i.postimg.cc/Zq7rm9pH/370.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"20, captured",https://i.postimg.cc/bJ9tZDL2/j77.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"5, captured",https://i.postimg.cc/dtPZbsKy/4f2.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"14, captured",https://i.postimg.cc/fL9zMkcJ/f4.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"19, destroyed",https://i.postimg.cc/fLXP3MWp/d21.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"36, destroyed",https://i.postimg.cc/fbVLCq1n/1004.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"43, destroyed",https://i.postimg.cc/gJv1Z874/1002-orlan.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"15, destroyed",https://i.postimg.cc/gjVssHLf/89.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"17, captured",https://i.postimg.cc/hGqMhZgq/o3.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"12, captured",https://i.postimg.cc/jdHNY3wM/5471.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"24, destroyed",https://i.postimg.cc/kgg8Zp5G/47h.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"21, captured",https://i.postimg.cc/nLwDTbvD/o1.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"7, destroyed",https://i.postimg.cc/nVBCPx9W/76.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"26, destroyed",https://i.postimg.cc/ncgvFg30/g8.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"37, destroyed",https://i.postimg.cc/nhhztFNQ/1002-orlan-10.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"26, captured",https://i.postimg.cc/nhnvjKN9/433.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"34, destroyed",https://i.postimg.cc/sfkV79nR/f4.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"33, destroyed",https://i.postimg.cc/sxWR9n55/22s.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"13, captured",https://i.postimg.cc/sxc4pmht/684.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"5, destroyed",https://i.postimg.cc/tgR0mVxp/331.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"11, captured",https://i.postimg.cc/vBGZW9Dm/769.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"28, captured",https://i.postimg.cc/vH8mfDPF/178.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"18, destroyed",https://i.postimg.cc/vTprjftg/542.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"19, captured",https://i.postimg.cc/wM3vnwmj/548.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"24, captured",https://i.postimg.cc/wx21XFCw/090.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"31, captured",https://i.postimg.cc/xCxn758d/1100-orlan10.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"6, destroyed",https://i.postimg.cc/yxB9PFbx/f5.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"29, destroyed",https://i.postimg.cc/zBJtTyvc/54.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"9, captured",https://i.postimg.cc/zX4cH9kG/378.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"3, destroyed",https://i.postimg.cc/zXHnbFzQ/5gl.png
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"33, captured",https://twitter.com/RALee85/status/1561460268994965505
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"34, captured",https://twitter.com/RALee85/status/1561952181779156993
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"21, destroyed",https://twitter.com/UAWeapons/status/1521105540885192707
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"35, destroyed",https://twitter.com/UAWeapons/status/1543964967573020678
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"30, captured",https://twitter.com/UAWeapons/status/1557721655991885824
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"38 and 39, destroyed",https://twitter.com/UAWeapons/status/1558411984479158274
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"40, destroyed",https://twitter.com/UAWeapons/status/1560673609550417921
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"35, captured",https://twitter.com/UAWeapons/status/1562762515993358336
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"41, destroyed",https://twitter.com/UAWeapons/status/1563908371639574529
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"42, destroyed",https://twitter.com/UAWeapons/status/1564981255107739649
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"37, captured",https://twitter.com/UAWeapons/status/1566364893661511680
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"38 and 39, captured",https://twitter.com/UAWeapons/status/1568935751777415168
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"40, captured",https://twitter.com/UAWeapons/status/1573271316521787392
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"41, captured",https://twitter.com/UAWeapons/status/1575211477380001792
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"44, destroyed",https://twitter.com/UAWeapons/status/1575450424496250881
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"45, destroyed",https://twitter.com/UAWeapons/status/1577311724880945154
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"45, captured",https://twitter.com/UAWeapons/status/1589896618664677376
-Russia,Unmanned Aerial Vehicles ,Orlan-10 reconnaissance UAV,russian federation,"47, destroyed",https://twitter.com/UAWeapons/status/1590235567547375617
-Russia,Unmanned Aerial Vehicles ,Orlan-30 reconnaissance UAV,russian federation,"2, destroyed",https://i.postimg.cc/Hkdgvsp2/652.jpg
-Russia,Unmanned Aerial Vehicles ,Orlan-30 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/Y9Ps2VXG/f5.png
-Russia,Unmanned Aerial Vehicles ,Orlan-30 reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/sgB11ZNw/68.png
-Russia,Unmanned Aerial Vehicles ,Orlan-30 reconnaissance UAV,russian federation,"2, captured",https://twitter.com/UAWeapons/status/1573271316521787392
-Russia,Unmanned Aerial Vehicles ,Supercam S150 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/cC42XVpx/554.png
-Russia,Unmanned Aerial Vehicles ,Supercam S150 reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/rFYXYwyv/327.png
-Russia,Unmanned Aerial Vehicles ,Supercam S350 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/9fSnXycR/46g.png
-Russia,Unmanned Aerial Vehicles ,Takhion reconnaissance UAV,russian federation,"2, captured",https://i.postimg.cc/26dxtGgS/554.jpg
-Russia,Unmanned Aerial Vehicles ,Takhion reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/L8Hsjzh6/41.png
-Russia,Unmanned Aerial Vehicles ,Unknown UAV,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1534994117691949082
-Russia,Unmanned Aerial Vehicles ,Unknown UAV,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1539305630963482626
-Russia,Unmanned Aerial Vehicles ,Unknown UAV,russian federation,"3, destroyed",https://twitter.com/UAWeapons/status/1587795318799835136
-Russia,Unmanned Aerial Vehicles ,ZALA 421-16Е2 reconnaissance UAV,russian federation,"1, captured",https://i.postimg.cc/XqR7yK79/8744.jpg
-Russia,Unmanned Aerial Vehicles ,ZALA 421-16Е2 reconnaissance UAV,russian federation,"1, destroyed",https://i.postimg.cc/g0PSJpwZ/g2.jpg
-Russia,Unmanned Aerial Vehicles ,ZALA 421-16Е2 reconnaissance UAV,russian federation,"2, captured",https://i.postimg.cc/mZM31swq/1006.jpg
-Russia,Unmanned Aerial Vehicles ,ZALA 421-16Е2 reconnaissance UAV,russian federation,"2, destroyed",https://i.postimg.cc/qqBxnjfW/480.png
-Russia,Unmanned Aerial Vehicles ,ZALA 421-16Е2 reconnaissance UAV,russian federation,"3, captured",https://twitter.com/UAWeapons/status/1565999784208498689
-Russia,Unmanned Aerial Vehicles ,ZALA 421-16ЕM,russian federation,"1, captured",https://twitter.com/UAWeapons/status/1576500730478764032
+Russia,Unmanned Combat Aerial Vehicles ,Korsar,russian federation,"1, destroyed",https://i.postimg.cc/26wHy9PW/97.png
+Russia,Unmanned Combat Aerial Vehicles ,Mohajer-6,,"1, destroyed",https://twitter.com/UAWeapons/status/1573369579430354944
+Russia,Unmanned Combat Aerial Vehicles ,Orion,russian federation,"1, destroyed",https://i.postimg.cc/FsNjfGyG/57.png
+Russia,Unmanned Combat Aerial Vehicles ,Orion,russian federation,"2, destroyed",https://twitter.com/LotA_IL/status/1583159775860510720
