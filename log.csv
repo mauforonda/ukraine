@@ -5311,3 +5311,10 @@ timestamp,country,category,state,value
 2022-11-16 01:49:32,Russia,towed artillery,destroyed,1
 2022-11-16 01:49:32,Russia,"trucks, vehicles and jeeps",captured,3
 2022-11-16 01:49:32,Russia,"trucks, vehicles and jeeps",destroyed,10
+2022-11-17 15:21:18,Russia,armoured fighting vehicles,destroyed,-1
+2022-11-17 15:21:18,Russia,infantry fighting vehicles,captured,-1
+2022-11-17 15:21:18,Russia,infantry fighting vehicles,destroyed,-3
+2022-11-17 15:21:18,Russia,mine-resistant ambush protected,destroyed,-1
+2022-11-17 15:21:18,Russia,tanks,captured,-1
+2022-11-17 15:21:18,Russia,tanks,destroyed,-2
+2022-11-17 15:21:18,Russia,"trucks, vehicles and jeeps",destroyed,-2
