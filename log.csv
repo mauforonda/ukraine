@@ -5354,3 +5354,9 @@ timestamp,country,category,state,value
 2022-11-18 21:17:16,Russia,"trucks, vehicles and jeeps",captured,1
 2022-11-18 21:17:16,Russia,"trucks, vehicles and jeeps",destroyed,4
 2022-11-20 01:52:50,Russia,tanks,destroyed,1
+2022-11-20 21:16:38,Russia,armoured fighting vehicles,captured,2
+2022-11-20 21:16:38,Russia,armoured fighting vehicles,destroyed,1
+2022-11-20 21:16:38,Russia,infantry fighting vehicles,destroyed,3
+2022-11-20 21:16:38,Russia,self-propelled anti-tank missile systems,abandoned,-1
+2022-11-20 21:16:38,Russia,tanks,captured,1
+2022-11-20 21:16:38,Russia,tanks,destroyed,2
