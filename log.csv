@@ -5399,3 +5399,14 @@ timestamp,country,category,state,value
 2022-11-26 01:27:32,Russia,tanks,captured,2
 2022-11-26 01:27:32,Russia,tanks,destroyed,1
 2022-11-26 01:27:32,Russia,"trucks, vehicles and jeeps",captured,2
+2022-11-27 01:44:36,Russia,armoured fighting vehicles,abandoned,1
+2022-11-27 01:44:36,Russia,artillery support vehicles and equipment,destroyed,3
+2022-11-27 01:44:36,Russia,command posts and communications stations,captured,1
+2022-11-27 01:44:36,Russia,engineering vehicles and equipment,destroyed,1
+2022-11-27 01:44:36,Russia,infantry fighting vehicles,destroyed,2
+2022-11-27 01:44:36,Russia,infantry mobility vehicles,destroyed,1
+2022-11-27 01:44:36,Russia,multiple rocket launchers,destroyed,3
+2022-11-27 01:44:36,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2022-11-27 01:44:36,Russia,tanks,captured,2
+2022-11-27 01:44:36,Russia,tanks,destroyed,2
+2022-11-27 01:44:36,Russia,"trucks, vehicles and jeeps",destroyed,12
