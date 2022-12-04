@@ -5464,3 +5464,4 @@ timestamp,country,category,state,value
 2022-12-04 01:26:45,Russia,tanks,destroyed,2
 2022-12-04 01:26:45,Russia,"trucks, vehicles and jeeps",captured,2
 2022-12-04 01:26:45,Russia,"trucks, vehicles and jeeps",destroyed,6
+2022-12-04 09:15:41,Russia,self-propelled artillery,destroyed,-1
