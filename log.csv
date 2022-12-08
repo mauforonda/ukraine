@@ -5486,3 +5486,14 @@ timestamp,country,category,state,value
 2022-12-07 21:15:50,Russia,infantry mobility vehicles,destroyed,1
 2022-12-07 21:15:50,Russia,tanks,destroyed,1
 2022-12-07 21:15:50,Russia,towed artillery,captured,1
+2022-12-08 01:24:51,Russia,armoured personnel carriers,captured,1
+2022-12-08 01:24:51,Russia,command posts and communications stations,destroyed,1
+2022-12-08 01:24:51,Russia,infantry fighting vehicles,captured,1
+2022-12-08 01:24:51,Russia,infantry fighting vehicles,destroyed,4
+2022-12-08 01:24:51,Russia,infantry mobility vehicles,destroyed,1
+2022-12-08 01:24:51,Russia,reconnaissance unmanned aerial vehicles,captured,-1
+2022-12-08 01:24:51,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2022-12-08 01:24:51,Russia,self-propelled artillery,destroyed,2
+2022-12-08 01:24:51,Russia,tanks,destroyed,3
+2022-12-08 01:24:51,Russia,"trucks, vehicles and jeeps",captured,3
+2022-12-08 01:24:51,Russia,"trucks, vehicles and jeeps",destroyed,1
