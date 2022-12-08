@@ -5497,3 +5497,4 @@ timestamp,country,category,state,value
 2022-12-08 01:24:51,Russia,tanks,destroyed,3
 2022-12-08 01:24:51,Russia,"trucks, vehicles and jeeps",captured,3
 2022-12-08 01:24:51,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-12-08 12:33:32,Russia,"trucks, vehicles and jeeps",captured,-1
