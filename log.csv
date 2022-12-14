@@ -5556,3 +5556,6 @@ timestamp,country,category,state,value
 2022-12-13 01:36:00,Russia,infantry fighting vehicles,captured,2
 2022-12-13 01:36:00,Russia,infantry fighting vehicles,destroyed,1
 2022-12-13 01:36:00,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-12-14 18:21:46,Russia,infantry fighting vehicles,abandoned,-2
+2022-12-14 18:21:46,Russia,tanks,abandoned,1
+2022-12-14 18:21:46,Russia,"trucks, vehicles and jeeps",destroyed,-1
