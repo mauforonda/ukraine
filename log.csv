@@ -5577,3 +5577,8 @@ timestamp,country,category,state,value
 2022-12-15 01:27:33,Russia,tanks,abandoned,1
 2022-12-15 01:27:33,Russia,tanks,destroyed,1
 2022-12-16 21:14:26,Russia,engineering vehicles and equipment,destroyed,-1
+2022-12-17 01:18:54,Russia,armoured fighting vehicles,destroyed,2
+2022-12-17 01:18:54,Russia,infantry fighting vehicles,captured,1
+2022-12-17 01:18:54,Russia,infantry fighting vehicles,destroyed,2
+2022-12-17 01:18:54,Russia,"trucks, vehicles and jeeps",captured,1
+2022-12-17 01:18:54,Russia,"trucks, vehicles and jeeps",destroyed,11
