@@ -5582,3 +5582,12 @@ timestamp,country,category,state,value
 2022-12-17 01:18:54,Russia,infantry fighting vehicles,destroyed,2
 2022-12-17 01:18:54,Russia,"trucks, vehicles and jeeps",captured,1
 2022-12-17 01:18:54,Russia,"trucks, vehicles and jeeps",destroyed,11
+2022-12-20 15:19:10,Russia,command posts and communications stations,captured,1
+2022-12-20 15:19:10,Russia,engineering vehicles and equipment,captured,1
+2022-12-20 15:19:10,Russia,engineering vehicles and equipment,destroyed,3
+2022-12-20 15:19:10,Russia,infantry fighting vehicles,captured,1
+2022-12-20 15:19:10,Russia,infantry fighting vehicles,destroyed,3
+2022-12-20 15:19:10,Russia,self-propelled artillery,captured,-2
+2022-12-20 15:19:10,Russia,self-propelled artillery,destroyed,1
+2022-12-20 15:19:10,Russia,tanks,destroyed,4
+2022-12-20 15:19:10,Russia,"trucks, vehicles and jeeps",destroyed,5
