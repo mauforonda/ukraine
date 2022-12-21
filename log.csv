@@ -5604,3 +5604,8 @@ timestamp,country,category,state,value
 2022-12-21 12:32:19,Russia,helicopters,destroyed,1
 2022-12-21 12:32:19,Russia,towed artillery,destroyed,1
 2022-12-21 12:32:19,Russia,"trucks, vehicles and jeeps",captured,1
+2022-12-21 15:18:26,Russia,armoured fighting vehicles,captured,1
+2022-12-21 15:18:26,Russia,radars,destroyed,-1
+2022-12-21 15:18:26,Russia,surface-to-air missile systems,abandoned,4
+2022-12-21 15:18:26,Russia,surface-to-air missile systems,captured,-2
+2022-12-21 15:18:26,Russia,surface-to-air missile systems,destroyed,5
