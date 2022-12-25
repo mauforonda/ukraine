@@ -5626,3 +5626,17 @@ timestamp,country,category,state,value
 2022-12-25 09:15:04,Russia,tanks,captured,-8
 2022-12-25 09:15:04,Russia,tanks,damaged,4
 2022-12-25 09:15:04,Russia,tanks,destroyed,-12
+2022-12-25 12:29:42,Russia,engineering vehicles and equipment,destroyed,1
+2022-12-25 12:29:42,Russia,infantry fighting vehicles,abandoned,1
+2022-12-25 12:29:42,Russia,infantry fighting vehicles,captured,-11
+2022-12-25 12:29:42,Russia,infantry fighting vehicles,damaged,-2
+2022-12-25 12:29:42,Russia,infantry fighting vehicles,destroyed,-15
+2022-12-25 12:29:42,Russia,infantry mobility vehicles,captured,-3
+2022-12-25 12:29:42,Russia,mine-resistant ambush protected,destroyed,-1
+2022-12-25 12:29:42,Russia,self-propelled artillery,captured,-2
+2022-12-25 12:29:42,Russia,self-propelled artillery,destroyed,-1
+2022-12-25 12:29:42,Russia,surface-to-air missile systems,captured,-1
+2022-12-25 12:29:42,Russia,surface-to-air missile systems,destroyed,-2
+2022-12-25 12:29:42,Russia,tanks,destroyed,1
+2022-12-25 12:29:42,Russia,towed artillery,captured,-2
+2022-12-25 12:29:42,Russia,"trucks, vehicles and jeeps",destroyed,-8
