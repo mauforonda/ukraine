@@ -5650,3 +5650,15 @@ timestamp,country,category,state,value
 2022-12-26 01:21:40,Russia,tanks,destroyed,2
 2022-12-26 01:21:40,Russia,"trucks, vehicles and jeeps",destroyed,2
 2022-12-26 01:21:40,Russia,tured: 569),tured,569
+2022-12-28 01:20:10,Russia,armoured fighting vehicles,captured,1
+2022-12-28 01:20:10,Russia,armoured fighting vehicles,destroyed,2
+2022-12-28 01:20:10,Russia,infantry fighting vehicles,abandoned,82
+2022-12-28 01:20:10,Russia,infantry fighting vehicles,captured,569
+2022-12-28 01:20:10,Russia,infantry fighting vehicles,damaged,44
+2022-12-28 01:20:10,Russia,infantry fighting vehicles,destroyed,1166
+2022-12-28 01:20:10,Russia,multiple rocket launchers,destroyed,3
+2022-12-28 01:20:10,Russia,tanks,captured,1
+2022-12-28 01:20:10,Russia,tanks,damaged,1
+2022-12-28 01:20:10,Russia,tanks,destroyed,5
+2022-12-28 01:20:10,Russia,"trucks, vehicles and jeeps",destroyed,1
+2022-12-28 01:20:10,Russia,tured: 569),tured,-569
