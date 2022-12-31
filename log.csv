@@ -5681,3 +5681,10 @@ timestamp,country,category,state,value
 2022-12-30 01:22:14,Russia,tanks,destroyed,4
 2022-12-30 01:22:14,Russia,towed artillery,captured,1
 2022-12-30 01:22:14,Russia,"trucks, vehicles and jeeps",destroyed,2
+2022-12-31 12:28:43,Russia,armoured personnel carriers,destroyed,1
+2022-12-31 12:28:43,Russia,infantry fighting vehicles,abandoned,-3
+2022-12-31 12:28:43,Russia,infantry fighting vehicles,destroyed,3
+2022-12-31 12:28:43,Russia,self-propelled artillery,captured,-1
+2022-12-31 12:28:43,Russia,self-propelled artillery,destroyed,1
+2022-12-31 12:28:43,Russia,tanks,damaged,1
+2022-12-31 12:28:43,Russia,"trucks, vehicles and jeeps",destroyed,-1
