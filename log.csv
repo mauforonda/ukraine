@@ -5703,3 +5703,5 @@ timestamp,country,category,state,value
 2022-12-31 15:15:45,Russia,"trucks, vehicles and jeeps",captured,2
 2022-12-31 15:15:45,Russia,"trucks, vehicles and jeeps",destroyed,6
 2022-12-31 18:19:06,Russia,surface-to-air missile systems,destroyed,1
+2023-01-02 21:14:07,Russia,self-propelled artillery,damaged,-1
+2023-01-02 21:14:07,Russia,self-propelled artillery,destroyed,1
