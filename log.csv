@@ -5713,3 +5713,13 @@ timestamp,country,category,state,value
 2023-01-03 15:18:19,Russia,self-propelled artillery,captured,1
 2023-01-03 15:18:19,Russia,tanks,captured,1
 2023-01-03 15:18:19,Russia,tanks,destroyed,1
+2023-01-03 18:19:22,Russia,artillery support vehicles and equipment,captured,1
+2023-01-03 18:19:22,Russia,command posts and communications stations,captured,1
+2023-01-03 18:19:22,Russia,infantry fighting vehicles,captured,3
+2023-01-03 18:19:22,Russia,infantry fighting vehicles,destroyed,3
+2023-01-03 18:19:22,Russia,multiple rocket launchers,destroyed,1
+2023-01-03 18:19:22,Russia,self-propelled artillery,captured,1
+2023-01-03 18:19:22,Russia,self-propelled artillery,destroyed,1
+2023-01-03 18:19:22,Russia,tanks,captured,2
+2023-01-03 18:19:22,Russia,tanks,destroyed,-2
+2023-01-03 18:19:22,Russia,"trucks, vehicles and jeeps",destroyed,7
