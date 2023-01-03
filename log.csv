@@ -5705,3 +5705,11 @@ timestamp,country,category,state,value
 2022-12-31 18:19:06,Russia,surface-to-air missile systems,destroyed,1
 2023-01-02 21:14:07,Russia,self-propelled artillery,damaged,-1
 2023-01-02 21:14:07,Russia,self-propelled artillery,destroyed,1
+2023-01-03 15:18:19,Russia,armoured fighting vehicles,damaged,1
+2023-01-03 15:18:19,Russia,armoured fighting vehicles,destroyed,5
+2023-01-03 15:18:19,Russia,command posts and communications stations,destroyed,-1
+2023-01-03 15:18:19,Russia,infantry fighting vehicles,destroyed,1
+2023-01-03 15:18:19,Russia,self-propelled artillery,abandoned,-1
+2023-01-03 15:18:19,Russia,self-propelled artillery,captured,1
+2023-01-03 15:18:19,Russia,tanks,captured,1
+2023-01-03 15:18:19,Russia,tanks,destroyed,1
