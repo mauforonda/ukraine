@@ -5723,3 +5723,6 @@ timestamp,country,category,state,value
 2023-01-03 18:19:22,Russia,tanks,captured,2
 2023-01-03 18:19:22,Russia,tanks,destroyed,-2
 2023-01-03 18:19:22,Russia,"trucks, vehicles and jeeps",destroyed,7
+2023-01-04 01:22:56,Russia,armoured fighting vehicles,destroyed,1
+2023-01-04 01:22:56,Russia,tanks,captured,-1
+2023-01-04 01:22:56,Russia,tanks,destroyed,2
