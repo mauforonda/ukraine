@@ -5790,3 +5790,5 @@ timestamp,country,category,state,value
 2023-01-12 01:25:19,Russia,"trucks, vehicles and jeeps",captured,3
 2023-01-12 01:25:19,Russia,"trucks, vehicles and jeeps",destroyed,12
 2023-01-12 01:25:19,Russia,unmanned combat aerial vehicles,destroyed,1
+2023-01-13 21:14:39,Russia,tanks,captured,1
+2023-01-13 21:14:39,Russia,tanks,destroyed,1
