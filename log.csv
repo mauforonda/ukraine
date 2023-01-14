@@ -5804,3 +5804,15 @@ timestamp,country,category,state,value
 2023-01-14 01:19:35,Russia,tanks,destroyed,2
 2023-01-14 01:19:35,Russia,"trucks, vehicles and jeeps",captured,2
 2023-01-14 01:19:35,Russia,"trucks, vehicles and jeeps",destroyed,8
+2023-01-14 09:15:19,Russia,armoured fighting vehicles,destroyed,-2
+2023-01-14 09:15:19,Russia,command posts and communications stations,abandoned,-1
+2023-01-14 09:15:19,Russia,command posts and communications stations,destroyed,1
+2023-01-14 09:15:19,Russia,engineering vehicles and equipment,destroyed,1
+2023-01-14 09:15:19,Russia,infantry fighting vehicles,destroyed,1
+2023-01-14 09:15:19,Russia,multiple rocket launchers,captured,-1
+2023-01-14 09:15:19,Russia,multiple rocket launchers,destroyed,1
+2023-01-14 09:15:19,Russia,self-propelled artillery,destroyed,1
+2023-01-14 09:15:19,Russia,tanks,abandoned,-1
+2023-01-14 09:15:19,Russia,tanks,captured,-2
+2023-01-14 09:15:19,Russia,tanks,destroyed,-9
+2023-01-14 09:15:19,Russia,"trucks, vehicles and jeeps",destroyed,-1
