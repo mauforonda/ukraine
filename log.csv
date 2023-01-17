@@ -5841,3 +5841,10 @@ timestamp,country,category,state,value
 2023-01-16 01:23:11,Russia,infantry mobility vehicles,destroyed,1
 2023-01-16 01:23:11,Russia,towed artillery,captured,1
 2023-01-16 01:23:11,Russia,"trucks, vehicles and jeeps",destroyed,2
+2023-01-17 21:15:10,Russia,engineering vehicles and equipment,destroyed,1
+2023-01-17 21:15:10,Russia,infantry fighting vehicles,destroyed,16
+2023-01-17 21:15:10,Russia,self-propelled artillery,destroyed,1
+2023-01-17 21:15:10,Russia,tanks,captured,1
+2023-01-17 21:15:10,Russia,tanks,destroyed,5
+2023-01-17 21:15:10,Russia,"trucks, vehicles and jeeps",captured,1
+2023-01-17 21:15:10,Russia,"trucks, vehicles and jeeps",destroyed,4
