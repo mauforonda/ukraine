@@ -5852,3 +5852,5 @@ timestamp,country,category,state,value
 2023-01-18 01:26:07,Russia,tanks,destroyed,-1
 2023-01-19 12:33:59,Russia,self-propelled artillery,destroyed,2
 2023-01-19 12:33:59,Russia,towed artillery,damaged,1
+2023-01-19 15:19:28,Russia,surface-to-air missile systems,abandoned,-1
+2023-01-19 15:19:28,Russia,surface-to-air missile systems,destroyed,1
