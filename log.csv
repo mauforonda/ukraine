@@ -5850,3 +5850,5 @@ timestamp,country,category,state,value
 2023-01-17 21:15:10,Russia,"trucks, vehicles and jeeps",destroyed,4
 2023-01-18 01:26:07,Russia,infantry fighting vehicles,destroyed,-1
 2023-01-18 01:26:07,Russia,tanks,destroyed,-1
+2023-01-19 12:33:59,Russia,self-propelled artillery,destroyed,2
+2023-01-19 12:33:59,Russia,towed artillery,damaged,1
