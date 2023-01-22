@@ -1,5 +1,5 @@
 country,category,state,value
-Russia,Aircraft ,damaged,4
+Russia,Aircraft ,damaged,5
 Russia,Aircraft ,destroyed,64
 Russia,Anti-Aircraft Guns ,captured,13
 Russia,Anti-Aircraft Guns ,destroyed,3
@@ -25,9 +25,9 @@ Russia,Helicopters ,captured,1
 Russia,Helicopters ,damaged,10
 Russia,Helicopters ,destroyed,64
 Russia,Infantry Fighting Vehicles ,abandoned,78
-Russia,Infantry Fighting Vehicles ,captured,584
+Russia,Infantry Fighting Vehicles ,captured,585
 Russia,Infantry Fighting Vehicles ,damaged,47
-Russia,Infantry Fighting Vehicles ,destroyed,1232
+Russia,Infantry Fighting Vehicles ,destroyed,1231
 Russia,Infantry Mobility Vehicles ,abandoned,1
 Russia,Infantry Mobility Vehicles ,captured,50
 Russia,Infantry Mobility Vehicles ,damaged,2
