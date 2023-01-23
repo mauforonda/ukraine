@@ -5888,3 +5888,11 @@ timestamp,country,category,state,value
 2023-01-22 09:15:22,Russia,aircraft,damaged,1
 2023-01-22 09:15:22,Russia,infantry fighting vehicles,captured,1
 2023-01-22 09:15:22,Russia,infantry fighting vehicles,destroyed,-1
+2023-01-23 15:18:52,Russia,armoured fighting vehicles,captured,-2
+2023-01-23 15:18:52,Russia,armoured fighting vehicles,destroyed,2
+2023-01-23 15:18:52,Russia,command posts and communications stations,destroyed,2
+2023-01-23 15:18:52,Russia,infantry fighting vehicles,destroyed,-1
+2023-01-23 15:18:52,Russia,multiple rocket launchers,destroyed,-1
+2023-01-23 15:18:52,Russia,surface-to-air missile systems,destroyed,-1
+2023-01-23 15:18:52,Russia,"trucks, vehicles and jeeps",captured,1
+2023-01-23 15:18:52,Russia,"trucks, vehicles and jeeps",destroyed,-3
