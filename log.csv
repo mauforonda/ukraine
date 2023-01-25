@@ -5912,3 +5912,6 @@ timestamp,country,category,state,value
 2023-01-23 21:14:56,Russia,infantry fighting vehicles,damaged,5
 2023-01-23 21:14:56,Russia,infantry fighting vehicles,destroyed,-5
 2023-01-24 01:25:47,Russia,multiple rocket launchers,destroyed,1
+2023-01-25 21:13:01,Russia,engineering vehicles and equipment,destroyed,1
+2023-01-25 21:13:01,Russia,self-propelled artillery,destroyed,1
+2023-01-25 21:13:01,Russia,surface-to-air missile systems,destroyed,1
