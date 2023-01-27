@@ -5930,3 +5930,10 @@ timestamp,country,category,state,value
 2023-01-26 01:23:46,Russia,tanks,captured,2
 2023-01-26 01:23:46,Russia,tanks,destroyed,2
 2023-01-26 01:23:46,Russia,"trucks, vehicles and jeeps",destroyed,3
+2023-01-27 21:14:29,Russia,armoured fighting vehicles,destroyed,-1
+2023-01-27 21:14:29,Russia,infantry fighting vehicles,captured,-1
+2023-01-27 21:14:29,Russia,infantry mobility vehicles,destroyed,-1
+2023-01-27 21:14:29,Russia,tanks,captured,-1
+2023-01-27 21:14:29,Russia,tanks,damaged,1
+2023-01-27 21:14:29,Russia,"trucks, vehicles and jeeps",captured,-1
+2023-01-27 21:14:29,Russia,"trucks, vehicles and jeeps",destroyed,1
