@@ -5946,3 +5946,9 @@ timestamp,country,category,state,value
 2023-01-28 01:25:11,Russia,self-propelled artillery,destroyed,2
 2023-01-28 01:25:11,Russia,tanks,destroyed,4
 2023-01-28 01:25:11,Russia,"trucks, vehicles and jeeps",destroyed,1
+2023-01-29 15:15:59,Russia,infantry fighting vehicles,destroyed,-2
+2023-01-29 15:15:59,Russia,multiple rocket launchers,destroyed,2
+2023-01-29 15:15:59,Russia,self-propelled artillery,damaged,1
+2023-01-29 15:15:59,Russia,self-propelled artillery,destroyed,2
+2023-01-29 15:15:59,Russia,tanks,destroyed,1
+2023-01-29 15:15:59,Russia,"trucks, vehicles and jeeps",destroyed,-1
