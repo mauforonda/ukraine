@@ -5981,3 +5981,4 @@ timestamp,country,category,state,value
 2023-02-01 01:42:18,Russia,tanks,destroyed,3
 2023-02-01 09:17:11,Russia,reconnaissance unmanned aerial vehicles,captured,-2
 2023-02-01 09:17:11,Russia,reconnaissance unmanned aerial vehicles,destroyed,-1
+2023-02-01 12:34:27,Russia,tanks,captured,-1
