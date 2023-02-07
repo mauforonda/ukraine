@@ -6047,3 +6047,9 @@ timestamp,country,category,state,value
 2023-02-07 15:17:54,Russia,"trucks, vehicles and jeeps",abandoned,-4
 2023-02-07 15:17:54,Russia,"trucks, vehicles and jeeps",captured,-1
 2023-02-07 15:17:54,Russia,"trucks, vehicles and jeeps",destroyed,1
+2023-02-07 18:21:08,Russia,helicopters,destroyed,-1
+2023-02-07 18:21:08,Russia,infantry fighting vehicles,destroyed,-3
+2023-02-07 18:21:08,Russia,self-propelled anti-tank missile systems,destroyed,-1
+2023-02-07 18:21:08,Russia,tanks,captured,-1
+2023-02-07 18:21:08,Russia,tanks,destroyed,1
+2023-02-07 18:21:08,Russia,"trucks, vehicles and jeeps",captured,1
