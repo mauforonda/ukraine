@@ -6075,3 +6075,8 @@ timestamp,country,category,state,value
 2023-02-08 01:26:50,Russia,tanks,destroyed,5
 2023-02-08 01:26:50,Russia,"trucks, vehicles and jeeps",destroyed,7
 2023-02-09 12:35:36,Russia,armoured fighting vehicles,destroyed,1
+2023-02-09 18:22:05,Russia,aircraft,destroyed,1
+2023-02-09 18:22:05,Russia,infantry fighting vehicles,damaged,1
+2023-02-09 18:22:05,Russia,self-propelled artillery,destroyed,2
+2023-02-09 18:22:05,Russia,surface-to-air missile systems,destroyed,1
+2023-02-09 18:22:05,Russia,towed artillery,destroyed,3
