@@ -6080,3 +6080,17 @@ timestamp,country,category,state,value
 2023-02-09 18:22:05,Russia,self-propelled artillery,destroyed,2
 2023-02-09 18:22:05,Russia,surface-to-air missile systems,destroyed,1
 2023-02-09 18:22:05,Russia,towed artillery,destroyed,3
+2023-02-09 21:15:34,Russia,armoured fighting vehicles,abandoned,2
+2023-02-09 21:15:34,Russia,armoured fighting vehicles,destroyed,1
+2023-02-09 21:15:34,Russia,command posts and communications stations,destroyed,1
+2023-02-09 21:15:34,Russia,engineering vehicles and equipment,abandoned,1
+2023-02-09 21:15:34,Russia,engineering vehicles and equipment,destroyed,2
+2023-02-09 21:15:34,Russia,helicopters,destroyed,1
+2023-02-09 21:15:34,Russia,infantry fighting vehicles,abandoned,3
+2023-02-09 21:15:34,Russia,infantry fighting vehicles,destroyed,11
+2023-02-09 21:15:34,Russia,infantry mobility vehicles,damaged,1
+2023-02-09 21:15:34,Russia,self-propelled artillery,destroyed,3
+2023-02-09 21:15:34,Russia,tanks,abandoned,10
+2023-02-09 21:15:34,Russia,tanks,captured,2
+2023-02-09 21:15:34,Russia,tanks,damaged,1
+2023-02-09 21:15:34,Russia,tanks,destroyed,12
