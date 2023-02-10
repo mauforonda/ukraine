@@ -6098,3 +6098,9 @@ timestamp,country,category,state,value
 2023-02-10 01:38:06,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
 2023-02-10 01:38:06,Russia,surface-to-air missile systems,damaged,1
 2023-02-10 01:38:06,Russia,"trucks, vehicles and jeeps",destroyed,4
+2023-02-10 21:15:13,Russia,armoured fighting vehicles,destroyed,1
+2023-02-10 21:15:13,Russia,infantry fighting vehicles,abandoned,1
+2023-02-10 21:15:13,Russia,infantry fighting vehicles,destroyed,-1
+2023-02-10 21:15:13,Russia,tanks,abandoned,7
+2023-02-10 21:15:13,Russia,tanks,damaged,-1
+2023-02-10 21:15:13,Russia,tanks,destroyed,-9
