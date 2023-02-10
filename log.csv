@@ -6094,3 +6094,7 @@ timestamp,country,category,state,value
 2023-02-09 21:15:34,Russia,tanks,captured,2
 2023-02-09 21:15:34,Russia,tanks,damaged,1
 2023-02-09 21:15:34,Russia,tanks,destroyed,12
+2023-02-10 01:38:06,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-02-10 01:38:06,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2023-02-10 01:38:06,Russia,surface-to-air missile systems,damaged,1
+2023-02-10 01:38:06,Russia,"trucks, vehicles and jeeps",destroyed,4
