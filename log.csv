@@ -6122,3 +6122,8 @@ timestamp,country,category,state,value
 2023-02-11 12:30:40,Russia,self-propelled artillery,damaged,1
 2023-02-11 12:30:40,Russia,self-propelled artillery,destroyed,-1
 2023-02-11 12:30:40,Russia,tanks,abandoned,-2
+2023-02-12 18:20:06,Russia,infantry fighting vehicles,abandoned,-1
+2023-02-12 18:20:06,Russia,infantry fighting vehicles,destroyed,-4
+2023-02-12 18:20:06,Russia,multiple rocket launchers,destroyed,1
+2023-02-12 18:20:06,Russia,self-propelled artillery,destroyed,1
+2023-02-12 18:20:06,Russia,tanks,damaged,-1
