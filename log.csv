@@ -6127,3 +6127,14 @@ timestamp,country,category,state,value
 2023-02-12 18:20:06,Russia,multiple rocket launchers,destroyed,1
 2023-02-12 18:20:06,Russia,self-propelled artillery,destroyed,1
 2023-02-12 18:20:06,Russia,tanks,damaged,-1
+2023-02-13 01:36:45,Russia,armoured fighting vehicles,abandoned,1
+2023-02-13 01:36:45,Russia,armoured fighting vehicles,captured,1
+2023-02-13 01:36:45,Russia,armoured fighting vehicles,destroyed,3
+2023-02-13 01:36:45,Russia,infantry fighting vehicles,abandoned,2
+2023-02-13 01:36:45,Russia,infantry fighting vehicles,captured,-1
+2023-02-13 01:36:45,Russia,infantry fighting vehicles,destroyed,14
+2023-02-13 01:36:45,Russia,infantry mobility vehicles,damaged,1
+2023-02-13 01:36:45,Russia,surface-to-air missile systems,damaged,1
+2023-02-13 01:36:45,Russia,tanks,captured,1
+2023-02-13 01:36:45,Russia,tanks,destroyed,9
+2023-02-13 01:36:45,Russia,"trucks, vehicles and jeeps",destroyed,12
