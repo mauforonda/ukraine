@@ -6138,3 +6138,6 @@ timestamp,country,category,state,value
 2023-02-13 01:36:45,Russia,tanks,captured,1
 2023-02-13 01:36:45,Russia,tanks,destroyed,9
 2023-02-13 01:36:45,Russia,"trucks, vehicles and jeeps",destroyed,12
+2023-02-14 21:15:44,Russia,infantry fighting vehicles,destroyed,-1
+2023-02-14 21:15:44,Russia,self-propelled artillery,damaged,1
+2023-02-14 21:15:44,Russia,towed artillery,damaged,1
