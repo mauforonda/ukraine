@@ -6141,3 +6141,15 @@ timestamp,country,category,state,value
 2023-02-14 21:15:44,Russia,infantry fighting vehicles,destroyed,-1
 2023-02-14 21:15:44,Russia,self-propelled artillery,damaged,1
 2023-02-14 21:15:44,Russia,towed artillery,damaged,1
+2023-02-15 01:36:22,Russia,aircraft,damaged,1
+2023-02-15 01:36:22,Russia,armoured fighting vehicles,damaged,1
+2023-02-15 01:36:22,Russia,armoured fighting vehicles,destroyed,1
+2023-02-15 01:36:22,Russia,infantry fighting vehicles,abandoned,5
+2023-02-15 01:36:22,Russia,infantry fighting vehicles,destroyed,9
+2023-02-15 01:36:22,Russia,multiple rocket launchers,destroyed,2
+2023-02-15 01:36:22,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-02-15 01:36:22,Russia,self-propelled artillery,destroyed,1
+2023-02-15 01:36:22,Russia,tanks,abandoned,1
+2023-02-15 01:36:22,Russia,tanks,damaged,2
+2023-02-15 01:36:22,Russia,tanks,destroyed,3
+2023-02-15 01:36:22,Russia,towed artillery,destroyed,2
