@@ -6186,3 +6186,8 @@ timestamp,country,category,state,value
 2023-02-20 18:21:32,Russia,engineering vehicles and equipment,destroyed,1
 2023-02-20 18:21:32,Russia,infantry fighting vehicles,destroyed,2
 2023-02-20 18:21:32,Russia,tanks,destroyed,2
+2023-02-20 21:15:06,Russia,armoured fighting vehicles,captured,2
+2023-02-20 21:15:06,Russia,armoured fighting vehicles,destroyed,1
+2023-02-20 21:15:06,Russia,tanks,abandoned,2
+2023-02-20 21:15:06,Russia,tanks,damaged,3
+2023-02-20 21:15:06,Russia,tanks,destroyed,10
