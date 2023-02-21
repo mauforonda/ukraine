@@ -6191,3 +6191,14 @@ timestamp,country,category,state,value
 2023-02-20 21:15:06,Russia,tanks,abandoned,2
 2023-02-20 21:15:06,Russia,tanks,damaged,3
 2023-02-20 21:15:06,Russia,tanks,destroyed,10
+2023-02-21 01:37:54,Russia,armoured personnel carriers,destroyed,1
+2023-02-21 01:37:54,Russia,command posts and communications stations,destroyed,2
+2023-02-21 01:37:54,Russia,engineering vehicles and equipment,abandoned,1
+2023-02-21 01:37:54,Russia,engineering vehicles and equipment,destroyed,1
+2023-02-21 01:37:54,Russia,helicopters,destroyed,1
+2023-02-21 01:37:54,Russia,infantry fighting vehicles,abandoned,1
+2023-02-21 01:37:54,Russia,infantry fighting vehicles,destroyed,10
+2023-02-21 01:37:54,Russia,infantry mobility vehicles,destroyed,1
+2023-02-21 01:37:54,Russia,jammers and deception systems,destroyed,2
+2023-02-21 01:37:54,Russia,self-propelled artillery,damaged,1
+2023-02-21 01:37:54,Russia,"trucks, vehicles and jeeps",destroyed,11
