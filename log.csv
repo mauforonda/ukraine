@@ -6240,3 +6240,10 @@ timestamp,country,category,state,value
 2023-02-23 01:24:58,Russia,tanks,abandoned,-1
 2023-02-23 01:24:58,Russia,tanks,captured,1
 2023-02-23 01:24:58,Russia,tanks,destroyed,3
+2023-02-23 21:16:09,Russia,aircraft,destroyed,1
+2023-02-23 21:16:09,Russia,armoured fighting vehicles,abandoned,-1
+2023-02-23 21:16:09,Russia,armoured fighting vehicles,destroyed,5
+2023-02-23 21:16:09,Russia,artillery support vehicles and equipment,destroyed,-1
+2023-02-23 21:16:09,Russia,infantry fighting vehicles,damaged,1
+2023-02-23 21:16:09,Russia,tanks,damaged,1
+2023-02-23 21:16:09,Russia,tanks,destroyed,5
