@@ -6278,3 +6278,6 @@ timestamp,country,category,state,value
 2023-02-27 12:36:17,Russia,infantry fighting vehicles,captured,1
 2023-02-27 12:36:17,Russia,infantry fighting vehicles,damaged,-1
 2023-02-27 12:36:17,Russia,infantry fighting vehicles,destroyed,5
+2023-02-28 21:16:06,Russia,infantry fighting vehicles,destroyed,2
+2023-02-28 21:16:06,Russia,tanks,abandoned,1
+2023-02-28 21:16:06,Russia,tanks,destroyed,1
