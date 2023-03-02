@@ -6290,3 +6290,7 @@ timestamp,country,category,state,value
 2023-03-01 01:43:53,Russia,tanks,destroyed,1
 2023-03-01 01:43:53,Russia,towed artillery,destroyed,1
 2023-03-01 01:43:53,Russia,"trucks, vehicles and jeeps",destroyed,2
+2023-03-02 09:18:25,Russia,command posts and communications stations,destroyed,-1
+2023-03-02 09:18:25,Russia,infantry fighting vehicles,destroyed,-1
+2023-03-02 09:18:25,Russia,jammers and deception systems,destroyed,1
+2023-03-02 09:18:25,Russia,tanks,destroyed,-1
