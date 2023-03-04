@@ -6298,3 +6298,11 @@ timestamp,country,category,state,value
 2023-03-03 21:14:39,Russia,engineering vehicles and equipment,destroyed,1
 2023-03-03 21:14:39,Russia,infantry fighting vehicles,destroyed,2
 2023-03-03 21:14:39,Russia,self-propelled artillery,destroyed,1
+2023-03-04 01:26:21,Russia,armoured fighting vehicles,captured,1
+2023-03-04 01:26:21,Russia,armoured fighting vehicles,destroyed,2
+2023-03-04 01:26:21,Russia,infantry fighting vehicles,abandoned,2
+2023-03-04 01:26:21,Russia,infantry fighting vehicles,destroyed,13
+2023-03-04 01:26:21,Russia,jammers and deception systems,destroyed,1
+2023-03-04 01:26:21,Russia,tanks,abandoned,2
+2023-03-04 01:26:21,Russia,tanks,captured,1
+2023-03-04 01:26:21,Russia,tanks,destroyed,6
