@@ -6318,3 +6318,10 @@ timestamp,country,category,state,value
 2023-03-05 09:16:24,Russia,tanks,captured,-1
 2023-03-05 09:16:24,Russia,tanks,destroyed,-4
 2023-03-05 12:32:00,Russia,tanks,destroyed,1
+2023-03-06 21:15:19,Russia,armoured fighting vehicles,destroyed,1
+2023-03-06 21:15:19,Russia,helicopters,destroyed,1
+2023-03-06 21:15:19,Russia,infantry fighting vehicles,destroyed,2
+2023-03-06 21:15:19,Russia,mine-resistant ambush protected,destroyed,1
+2023-03-06 21:15:19,Russia,multiple rocket launchers,destroyed,1
+2023-03-06 21:15:19,Russia,tanks,abandoned,1
+2023-03-06 21:15:19,Russia,tanks,destroyed,9
