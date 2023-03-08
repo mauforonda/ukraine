@@ -6352,3 +6352,9 @@ timestamp,country,category,state,value
 2023-03-07 15:17:53,Russia,tanks,abandoned,-1
 2023-03-07 15:17:53,Russia,tanks,captured,-1
 2023-03-07 15:17:53,Russia,tanks,destroyed,-1
+2023-03-08 21:16:00,Russia,infantry fighting vehicles,abandoned,-2
+2023-03-08 21:16:00,Russia,infantry fighting vehicles,destroyed,3
+2023-03-08 21:16:00,Russia,mine-resistant ambush protected,destroyed,-1
+2023-03-08 21:16:00,Russia,multiple rocket launchers,damaged,1
+2023-03-08 21:16:00,Russia,tanks,damaged,1
+2023-03-08 21:16:00,Russia,tanks,destroyed,3
