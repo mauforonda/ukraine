@@ -6438,3 +6438,12 @@ timestamp,country,category,state,value
 2023-03-19 18:19:57,Russia,tanks,captured,-1
 2023-03-19 18:19:57,Russia,tanks,damaged,2
 2023-03-19 18:19:57,Russia,tanks,destroyed,5
+2023-03-19 21:14:15,Russia,armoured fighting vehicles,destroyed,4
+2023-03-19 21:14:15,Russia,armoured personnel carriers,destroyed,2
+2023-03-19 21:14:15,Russia,engineering vehicles and equipment,captured,4
+2023-03-19 21:14:15,Russia,engineering vehicles and equipment,destroyed,1
+2023-03-19 21:14:15,Russia,infantry fighting vehicles,captured,3
+2023-03-19 21:14:15,Russia,infantry fighting vehicles,destroyed,7
+2023-03-19 21:14:15,Russia,tanks,abandoned,2
+2023-03-19 21:14:15,Russia,tanks,captured,1
+2023-03-19 21:14:15,Russia,tanks,destroyed,9
