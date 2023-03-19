@@ -6434,3 +6434,7 @@ timestamp,country,category,state,value
 2023-03-19 15:16:20,Russia,self-propelled artillery,destroyed,-1
 2023-03-19 15:16:20,Russia,tanks,abandoned,1
 2023-03-19 15:16:20,Russia,tanks,destroyed,1
+2023-03-19 18:19:57,Russia,artillery support vehicles and equipment,destroyed,1
+2023-03-19 18:19:57,Russia,tanks,captured,-1
+2023-03-19 18:19:57,Russia,tanks,damaged,2
+2023-03-19 18:19:57,Russia,tanks,destroyed,5
