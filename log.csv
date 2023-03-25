@@ -6477,3 +6477,21 @@ timestamp,country,category,state,value
 2023-03-25 01:16:59,Russia,tanks,captured,1
 2023-03-25 01:16:59,Russia,tanks,destroyed,2
 2023-03-25 01:16:59,Russia,"trucks, vehicles and jeeps",destroyed,4
+2023-03-25 12:28:48,Russia,armoured fighting vehicles,captured,1
+2023-03-25 12:28:48,Russia,armoured fighting vehicles,destroyed,3
+2023-03-25 12:28:48,Russia,armoured personnel carriers,destroyed,-2
+2023-03-25 12:28:48,Russia,artillery support vehicles and equipment,captured,1
+2023-03-25 12:28:48,Russia,command posts and communications stations,destroyed,1
+2023-03-25 12:28:48,Russia,engineering vehicles and equipment,destroyed,1
+2023-03-25 12:28:48,Russia,infantry fighting vehicles,abandoned,1
+2023-03-25 12:28:48,Russia,infantry fighting vehicles,destroyed,2
+2023-03-25 12:28:48,Russia,radars,damaged,1
+2023-03-25 12:28:48,Russia,radars,destroyed,1
+2023-03-25 12:28:48,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-03-25 12:28:48,Russia,surface-to-air missile systems,destroyed,1
+2023-03-25 12:28:48,Russia,tanks,captured,1
+2023-03-25 12:28:48,Russia,tanks,damaged,2
+2023-03-25 12:28:48,Russia,tanks,destroyed,7
+2023-03-25 12:28:48,Russia,towed artillery,damaged,1
+2023-03-25 12:28:48,Russia,"trucks, vehicles and jeeps",captured,3
+2023-03-25 12:28:48,Russia,"trucks, vehicles and jeeps",destroyed,3
