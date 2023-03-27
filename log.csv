@@ -6524,3 +6524,7 @@ timestamp,country,category,state,value
 2023-03-26 15:15:17,Russia,tanks,abandoned,-1
 2023-03-26 18:18:42,Russia,jammers and deception systems,destroyed,1
 2023-03-26 18:18:42,Russia,tanks,destroyed,1
+2023-03-27 01:18:17,Russia,armoured fighting vehicles,destroyed,-2
+2023-03-27 01:18:17,Russia,infantry fighting vehicles,abandoned,-1
+2023-03-27 01:18:17,Russia,infantry fighting vehicles,captured,-1
+2023-03-27 01:18:17,Russia,infantry fighting vehicles,destroyed,-1
