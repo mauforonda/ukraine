@@ -6612,3 +6612,6 @@ timestamp,country,category,state,value
 2023-04-02 12:28:04,Russia,reconnaissance unmanned aerial vehicles,destroyed,-1
 2023-04-02 12:28:04,Russia,self-propelled artillery,destroyed,1
 2023-04-02 12:28:04,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2023-04-02 15:14:33,Russia,self-propelled artillery,destroyed,1
+2023-04-02 15:14:33,Russia,"trucks, vehicles and jeeps",captured,-4
+2023-04-02 15:14:33,Russia,"trucks, vehicles and jeeps",destroyed,1
