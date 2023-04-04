@@ -6629,3 +6629,7 @@ timestamp,country,category,state,value
 2023-04-04 01:21:37,Russia,multiple rocket launchers,destroyed,1
 2023-04-04 01:21:37,Russia,tanks,abandoned,3
 2023-04-04 01:21:37,Russia,tanks,destroyed,4
+2023-04-04 12:30:56,Russia,artillery support vehicles and equipment,destroyed,1
+2023-04-04 12:30:56,Russia,infantry fighting vehicles,destroyed,-1
+2023-04-04 12:30:56,Russia,multiple rocket launchers,destroyed,-1
+2023-04-04 12:30:56,Russia,"trucks, vehicles and jeeps",abandoned,-1
