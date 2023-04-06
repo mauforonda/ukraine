@@ -6664,3 +6664,6 @@ timestamp,country,category,state,value
 2023-04-06 09:15:38,Russia,armoured fighting vehicles,destroyed,1
 2023-04-06 09:15:38,Russia,infantry fighting vehicles,captured,1
 2023-04-06 09:15:38,Russia,"trucks, vehicles and jeeps",destroyed,2
+2023-04-06 12:30:20,Russia,mine-resistant ambush protected,captured,-1
+2023-04-06 12:30:20,Russia,self-propelled anti-tank missile systems,captured,-1
+2023-04-06 12:30:20,Russia,tanks,destroyed,1
