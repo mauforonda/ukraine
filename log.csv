@@ -6670,3 +6670,12 @@ timestamp,country,category,state,value
 2023-04-06 15:14:30,Russia,armoured personnel carriers,captured,-1
 2023-04-07 09:15:03,Russia,armoured personnel carriers,captured,-1
 2023-04-07 09:15:03,Russia,infantry fighting vehicles,destroyed,2
+2023-04-07 12:29:22,Russia,aircraft,destroyed,1
+2023-04-07 12:29:22,Russia,armoured fighting vehicles,destroyed,-1
+2023-04-07 12:29:22,Russia,infantry fighting vehicles,abandoned,1
+2023-04-07 12:29:22,Russia,infantry fighting vehicles,destroyed,-1
+2023-04-07 12:29:22,Russia,radars,destroyed,1
+2023-04-07 12:29:22,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-04-07 12:29:22,Russia,self-propelled artillery,destroyed,3
+2023-04-07 12:29:22,Russia,tanks,destroyed,1
+2023-04-07 12:29:22,Russia,"trucks, vehicles and jeeps",captured,-1
