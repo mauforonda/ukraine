@@ -6687,3 +6687,12 @@ timestamp,country,category,state,value
 2023-04-07 21:12:52,Russia,self-propelled artillery,destroyed,1
 2023-04-08 01:13:49,Russia,artillery support vehicles and equipment,captured,-1
 2023-04-08 01:13:49,Russia,tanks,destroyed,1
+2023-04-08 12:27:44,Russia,armoured fighting vehicles,captured,1
+2023-04-08 12:27:44,Russia,command posts and communications stations,destroyed,2
+2023-04-08 12:27:44,Russia,engineering vehicles and equipment,abandoned,1
+2023-04-08 12:27:44,Russia,infantry fighting vehicles,damaged,1
+2023-04-08 12:27:44,Russia,infantry fighting vehicles,destroyed,3
+2023-04-08 12:27:44,Russia,multiple rocket launchers,destroyed,1
+2023-04-08 12:27:44,Russia,tanks,captured,1
+2023-04-08 12:27:44,Russia,tanks,destroyed,-1
+2023-04-08 12:27:44,Russia,"trucks, vehicles and jeeps",destroyed,-1
