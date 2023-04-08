@@ -6685,3 +6685,5 @@ timestamp,country,category,state,value
 2023-04-07 18:18:45,Russia,tanks,abandoned,1
 2023-04-07 18:18:45,Russia,"trucks, vehicles and jeeps",destroyed,1
 2023-04-07 21:12:52,Russia,self-propelled artillery,destroyed,1
+2023-04-08 01:13:49,Russia,artillery support vehicles and equipment,captured,-1
+2023-04-08 01:13:49,Russia,tanks,destroyed,1
