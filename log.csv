@@ -6696,3 +6696,4 @@ timestamp,country,category,state,value
 2023-04-08 12:27:44,Russia,tanks,captured,1
 2023-04-08 12:27:44,Russia,tanks,destroyed,-1
 2023-04-08 12:27:44,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2023-04-08 15:14:20,Russia,tanks,abandoned,1
