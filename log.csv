@@ -6700,3 +6700,7 @@ timestamp,country,category,state,value
 2023-04-08 18:17:48,Russia,self-propelled artillery,destroyed,1
 2023-04-09 15:14:40,Russia,infantry fighting vehicles,destroyed,1
 2023-04-09 15:14:40,Russia,radars,destroyed,1
+2023-04-09 18:18:06,Russia,command posts and communications stations,captured,-1
+2023-04-09 18:18:06,Russia,infantry fighting vehicles,destroyed,1
+2023-04-09 18:18:06,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-04-09 18:18:06,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
