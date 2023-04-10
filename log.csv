@@ -6711,3 +6711,5 @@ timestamp,country,category,state,value
 2023-04-10 18:19:11,Russia,tanks,destroyed,1
 2023-04-10 18:19:11,Russia,"trucks, vehicles and jeeps",damaged,1
 2023-04-10 18:19:11,Russia,"trucks, vehicles and jeeps",destroyed,3
+2023-04-10 21:13:39,Russia,infantry fighting vehicles,captured,-2
+2023-04-10 21:13:39,Russia,infantry fighting vehicles,destroyed,-1
