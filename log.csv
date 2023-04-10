@@ -6704,3 +6704,10 @@ timestamp,country,category,state,value
 2023-04-09 18:18:06,Russia,infantry fighting vehicles,destroyed,1
 2023-04-09 18:18:06,Russia,reconnaissance unmanned aerial vehicles,captured,1
 2023-04-09 18:18:06,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-04-10 18:19:11,Russia,armoured fighting vehicles,destroyed,1
+2023-04-10 18:19:11,Russia,engineering vehicles and equipment,destroyed,-1
+2023-04-10 18:19:11,Russia,infantry fighting vehicles,destroyed,3
+2023-04-10 18:19:11,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-04-10 18:19:11,Russia,tanks,destroyed,1
+2023-04-10 18:19:11,Russia,"trucks, vehicles and jeeps",damaged,1
+2023-04-10 18:19:11,Russia,"trucks, vehicles and jeeps",destroyed,3
