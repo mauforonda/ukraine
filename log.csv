@@ -6720,3 +6720,9 @@ timestamp,country,category,state,value
 2023-04-11 18:18:19,Russia,tanks,abandoned,-1
 2023-04-11 18:18:19,Russia,tanks,captured,-2
 2023-04-11 18:18:19,Russia,"trucks, vehicles and jeeps",destroyed,5
+2023-04-11 21:13:07,Russia,armoured personnel carriers,destroyed,1
+2023-04-11 21:13:07,Russia,infantry fighting vehicles,destroyed,2
+2023-04-11 21:13:07,Russia,jammers and deception systems,destroyed,2
+2023-04-11 21:13:07,Russia,tanks,abandoned,-2
+2023-04-11 21:13:07,Russia,tanks,captured,-1
+2023-04-11 21:13:07,Russia,tanks,destroyed,-7
