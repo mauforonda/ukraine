@@ -6713,3 +6713,10 @@ timestamp,country,category,state,value
 2023-04-10 18:19:11,Russia,"trucks, vehicles and jeeps",destroyed,3
 2023-04-10 21:13:39,Russia,infantry fighting vehicles,captured,-2
 2023-04-10 21:13:39,Russia,infantry fighting vehicles,destroyed,-1
+2023-04-11 18:18:19,Russia,armoured personnel carriers,destroyed,1
+2023-04-11 18:18:19,Russia,infantry fighting vehicles,destroyed,-2
+2023-04-11 18:18:19,Russia,infantry mobility vehicles,destroyed,1
+2023-04-11 18:18:19,Russia,surface-to-air missile systems,destroyed,1
+2023-04-11 18:18:19,Russia,tanks,abandoned,-1
+2023-04-11 18:18:19,Russia,tanks,captured,-2
+2023-04-11 18:18:19,Russia,"trucks, vehicles and jeeps",destroyed,5
