@@ -6726,3 +6726,6 @@ timestamp,country,category,state,value
 2023-04-11 21:13:07,Russia,tanks,abandoned,-2
 2023-04-11 21:13:07,Russia,tanks,captured,-1
 2023-04-11 21:13:07,Russia,tanks,destroyed,-7
+2023-04-12 09:15:21,Russia,armoured fighting vehicles,destroyed,1
+2023-04-12 09:15:21,Russia,tanks,captured,-1
+2023-04-12 09:15:21,Russia,tanks,destroyed,-2
