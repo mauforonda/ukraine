@@ -27,7 +27,7 @@ Russia,Helicopters ,destroyed,70
 Russia,Infantry Fighting Vehicles ,abandoned,129
 Russia,Infantry Fighting Vehicles ,captured,608
 Russia,Infantry Fighting Vehicles ,damaged,70
-Russia,Infantry Fighting Vehicles ,destroyed,1496
+Russia,Infantry Fighting Vehicles ,destroyed,1497
 Russia,Infantry Mobility Vehicles ,abandoned,1
 Russia,Infantry Mobility Vehicles ,captured,53
 Russia,Infantry Mobility Vehicles ,damaged,4
@@ -48,7 +48,7 @@ Russia,Naval Ships ,destroyed,8
 Russia,Radars ,captured,9
 Russia,Radars ,damaged,3
 Russia,Radars ,destroyed,19
-Russia,Reconnaissance Unmanned Aerial Vehicles ,captured,99
+Russia,Reconnaissance Unmanned Aerial Vehicles ,captured,101
 Russia,Reconnaissance Unmanned Aerial Vehicles ,destroyed,106
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,3
 Russia,Self-Propelled Anti-Aircraft Guns ,captured,8
@@ -59,7 +59,7 @@ Russia,Self-Propelled Anti-Tank Missile Systems ,destroyed,14
 Russia,Self-Propelled Artillery ,abandoned,7
 Russia,Self-Propelled Artillery ,captured,104
 Russia,Self-Propelled Artillery ,damaged,16
-Russia,Self-Propelled Artillery ,destroyed,257
+Russia,Self-Propelled Artillery ,destroyed,258
 Russia,Surface-To-Air Missile Systems ,abandoned,4
 Russia,Surface-To-Air Missile Systems ,captured,23
 Russia,Surface-To-Air Missile Systems ,damaged,6
@@ -67,7 +67,7 @@ Russia,Surface-To-Air Missile Systems ,destroyed,73
 Russia,Tanks ,abandoned,102
 Russia,Tanks ,captured,544
 Russia,Tanks ,damaged,99
-Russia,Tanks ,destroyed,1157
+Russia,Tanks ,destroyed,1158
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,95
 Russia,Towed Artillery ,damaged,9
@@ -75,6 +75,6 @@ Russia,Towed Artillery ,destroyed,88
 Russia,"Trucks, Vehicles and Jeeps ",abandoned,48
 Russia,"Trucks, Vehicles and Jeeps ",captured,563
 Russia,"Trucks, Vehicles and Jeeps ",damaged,38
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,1783
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,1787
 Russia,Unmanned Combat Aerial Vehicles ,captured,1
 Russia,Unmanned Combat Aerial Vehicles ,destroyed,6
