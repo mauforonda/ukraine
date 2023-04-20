@@ -6783,3 +6783,8 @@ timestamp,country,category,state,value
 2023-04-18 21:14:09,Russia,self-propelled artillery,destroyed,1
 2023-04-18 21:14:09,Russia,tanks,destroyed,1
 2023-04-18 21:14:09,Russia,"trucks, vehicles and jeeps",destroyed,4
+2023-04-20 18:19:10,Russia,infantry fighting vehicles,destroyed,6
+2023-04-20 18:19:10,Russia,tanks,destroyed,1
+2023-04-20 18:19:10,Russia,towed artillery,damaged,2
+2023-04-20 18:19:10,Russia,towed artillery,destroyed,1
+2023-04-20 18:19:10,Russia,"trucks, vehicles and jeeps",destroyed,6
