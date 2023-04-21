@@ -6799,3 +6799,9 @@ timestamp,country,category,state,value
 2023-04-21 01:16:13,Russia,tanks,destroyed,1
 2023-04-21 01:16:13,Russia,towed artillery,destroyed,1
 2023-04-21 01:16:13,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2023-04-21 21:13:22,Russia,helicopters,destroyed,2
+2023-04-21 21:13:22,Russia,infantry fighting vehicles,captured,-1
+2023-04-21 21:13:22,Russia,infantry fighting vehicles,damaged,1
+2023-04-21 21:13:22,Russia,infantry fighting vehicles,destroyed,1
+2023-04-21 21:13:22,Russia,tanks,destroyed,2
+2023-04-21 21:13:22,Russia,"trucks, vehicles and jeeps",destroyed,4
