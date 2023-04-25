@@ -6821,3 +6821,7 @@ timestamp,country,category,state,value
 2023-04-25 12:30:45,Russia,infantry fighting vehicles,captured,-5
 2023-04-25 12:30:45,Russia,infantry fighting vehicles,destroyed,-2
 2023-04-25 12:30:45,Russia,tanks,destroyed,-1
+2023-04-25 15:16:38,Russia,infantry fighting vehicles,abandoned,-4
+2023-04-25 15:16:38,Russia,infantry fighting vehicles,captured,-5
+2023-04-25 15:16:38,Russia,infantry fighting vehicles,damaged,-1
+2023-04-25 15:16:38,Russia,infantry fighting vehicles,destroyed,-16
