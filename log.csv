@@ -6908,3 +6908,6 @@ timestamp,country,category,state,value
 2023-05-06 01:13:32,Russia,"trucks, vehicles and jeeps",captured,1
 2023-05-06 01:13:32,Russia,"trucks, vehicles and jeeps",damaged,2
 2023-05-06 01:13:32,Russia,"trucks, vehicles and jeeps",destroyed,6
+2023-05-09 21:13:07,Russia,infantry fighting vehicles,destroyed,1
+2023-05-09 21:13:07,Russia,surface-to-air missile systems,destroyed,1
+2023-05-09 21:13:07,Russia,tanks,destroyed,1
