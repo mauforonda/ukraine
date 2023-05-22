@@ -6998,3 +6998,14 @@ timestamp,country,category,state,value
 2023-05-21 21:12:42,Russia,tanks,abandoned,1
 2023-05-21 21:12:42,Russia,tanks,destroyed,6
 2023-05-21 21:12:42,Russia,towed artillery,destroyed,1
+2023-05-22 21:13:15,Russia,armoured fighting vehicles,destroyed,1
+2023-05-22 21:13:15,Russia,engineering vehicles and equipment,destroyed,1
+2023-05-22 21:13:15,Russia,infantry fighting vehicles,abandoned,-1
+2023-05-22 21:13:15,Russia,infantry fighting vehicles,captured,2
+2023-05-22 21:13:15,Russia,infantry fighting vehicles,damaged,3
+2023-05-22 21:13:15,Russia,infantry fighting vehicles,destroyed,13
+2023-05-22 21:13:15,Russia,infantry mobility vehicles,abandoned,1
+2023-05-22 21:13:15,Russia,infantry mobility vehicles,destroyed,1
+2023-05-22 21:13:15,Russia,self-propelled artillery,damaged,1
+2023-05-22 21:13:15,Russia,tanks,abandoned,2
+2023-05-22 21:13:15,Russia,tanks,destroyed,5
