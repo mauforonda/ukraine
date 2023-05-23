@@ -11,7 +11,6 @@ Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"2, dama
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"7, destroyed",https://twitter.com/UAWeapons/status/1599479845204873216
 Russia,Aircraft ,Su-24MR tactical reconnaissance aircraft,ussr,"1, destroyed on the ground",https://i.postimg.cc/G3FmfyrS/6653.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"17, destroyed",https://i.postimg.cc/0NjSWsy8/42.png
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"8, destroyed",https://i.postimg.cc/DZ14y78S/316.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"1, destroyed",https://i.postimg.cc/L6456Fm4/38.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"26, destroyed",https://i.postimg.cc/MTdXBs5S/1033-su-25-destr-01-03-23.jpg
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"2, destroyed",https://i.postimg.cc/Mp371YRh/675.png
@@ -24,8 +23,8 @@ Russia,Aircraft ,Su-25 close air support aircraft,ussr,"3, destroyed",https://i.
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"9, destroyed",https://i.postimg.cc/XJ2YWqt8/6y6.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"25, destroyed",https://i.postimg.cc/Y2VXBBWc/1000-su-25-destr-26-02-23.jpg
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"10, destroyed",https://i.postimg.cc/YC7NRMpG/658.png
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"16, destroyed",https://i.postimg.cc/ZY64Sn83/331.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"19, destroyed",https://i.postimg.cc/d0frJvX8/1008-su25.jpg
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"8, destroyed",https://i.postimg.cc/qB6BGzcW/1303-su25-destr-07-03-22.jpg
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"12, destroyed",https://i.postimg.cc/y6XbrW3z/6522.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"5, destroyed",https://i.postimg.cc/zBCBJNs4/360.png
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"18, damaged beyond economical repair",https://i.postimg.cc/zBVmRBJ2/h9.png
@@ -38,7 +37,7 @@ Russia,Aircraft ,Su-25 close air support aircraft,ussr,"20, destroyed",https://t
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"21, destroyed in a non-combat related incident",https://twitter.com/UAWeapons/status/1569302325533020160
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"2, damaged",https://twitter.com/UAWeapons/status/1601507744401739776
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"24, destroyed",https://twitter.com/UAWeapons/status/1628694821345935360
-Russia,Aircraft ,Su-25 close air support aircraft,ussr,"28, destroyed",https://twitter.com/UAWeapons/status/1644291760791617536
+Russia,Aircraft ,Su-25 close air support aircraft,ussr,"16, destroyed",https://twitter.com/UAWeapons/status/1644291760791617536
 Russia,Aircraft ,Su-25 close air support aircraft,ussr,"23, destroyed",https://twitter.com/duke_garland_2/status/1639583173100093440
 Russia,Aircraft ,Su-27 multirole aircraft,ussr,"1, damaged",https://twitter.com/RALee85/status/1635691846977433616
 Russia,Aircraft ,Su-30SM multirole aircraft,russian federation,"5, destroyed",https://i.postimg.cc/05Wr4fXG/4fs.png
@@ -71,6 +70,7 @@ Russia,Aircraft ,Su-34 strike aircraft,russian federation,"18, destroyed",https:
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"19, destroyed",https://twitter.com/UAWeapons/status/1631632523548557312
 Russia,Aircraft ,Su-34 strike aircraft,russian federation,"20, destroyed",https://twitter.com/UAWeapons/status/1657368124788809728
 Russia,Aircraft ,Su-34M strike aircraft,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1548937987567804417
+Russia,Aircraft ,Su-35S multirole aircraft,russian federation,"4, destroyed",https://i.postimg.cc/7P9gfhs2/1011-Su35-and-ka52-destr-21-and-22-05-23.jpg
 Russia,Aircraft ,Su-35S multirole aircraft,russian federation,"1, destroyed",https://i.postimg.cc/9Xx2XhXx/32f.png
 Russia,Aircraft ,Su-35S multirole aircraft,russian federation,"2, destroyed",https://i.postimg.cc/YC0fGghJ/1301-su35-destr-19-07-22.jpg
 Russia,Aircraft ,Su-35S multirole aircraft,russian federation,"3, destroyed",https://twitter.com/UAWeapons/status/1657368124788809728
@@ -510,6 +510,7 @@ Russia,Armoured Fighting Vehicles ,MT-LB,ussr,"225, destroyed",https://twitter.c
 Russia,Armoured Fighting Vehicles ,MT-LB,ussr,"224, destroyed",https://twitter.com/naalsio26/status/1647414483583639553
 Russia,Armoured Fighting Vehicles ,MT-LB,ussr,"235, destroyed",https://twitter.com/naalsio26/status/1657852654737842176
 Russia,Armoured Fighting Vehicles ,MT-LB with 14.5mm 2M-7 naval gun mount,ussr,"1, captured",https://twitter.com/UAWeapons/status/1621590682849648644
+Russia,Armoured Fighting Vehicles ,MT-LB with AZP S-60 AA gun,ussr,"1, destroyed",https://i.postimg.cc/FRd8KrBL/1016-mtlb-with-AZP-S-60-AA-gun-23-05-23.jpg
 Russia,Armoured Fighting Vehicles ,MT-LB with ZU-23 AA gun,ussr,"10, captured",https://i.postimg.cc/4xNpKypX/1030-mtlb-with-zu232-capt-19-01-23.jpg
 Russia,Armoured Fighting Vehicles ,MT-LB with ZU-23 AA gun,ussr,"4, captured",https://i.postimg.cc/8crFr596/MT-LB-with-ZU-23-2-autocannon.png
 Russia,Armoured Fighting Vehicles ,MT-LB with ZU-23 AA gun,ussr,"2, destroyed",https://i.postimg.cc/Cxfq7cg7/1006.jpg
@@ -1066,9 +1067,8 @@ Russia,Armoured Personnel Carriers ,BTR-D,ussr,"3, captured",https://i.postimg.c
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"21, destroyed",https://i.postimg.cc/BvNKZd7R/1023-bmp2-and-btr-d-destr-17-03-23.jpg
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"19, captured",https://i.postimg.cc/C17M6YQZ/1019-BTR-D-capt.jpg
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"30, destroyed",https://i.postimg.cc/CLHdL5Hg/1078-BTR-D.jpg
-Russia,Armoured Personnel Carriers ,BTR-D,ussr,"45, destroyed",https://i.postimg.cc/DZHPkBKB/1012-btr-d-destr-01-05-23.jpg
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"19, destroyed",https://i.postimg.cc/DfbZBcFR/1026.jpg
-Russia,Armoured Personnel Carriers ,BTR-D,ussr,"46, captured and later destroyed",https://i.postimg.cc/FFD4cJny/2700.jpg
+Russia,Armoured Personnel Carriers ,BTR-D,ussr,"45, captured and later destroyed",https://i.postimg.cc/FFD4cJny/2700.jpg
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"1, destroyed",https://i.postimg.cc/J4crJP7d/46.png
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"23, captured",https://i.postimg.cc/K835KQqm/1000-btr-d-capt.jpg
 Russia,Armoured Personnel Carriers ,BTR-D,ussr,"5, destroyed",https://i.postimg.cc/KjyWxc2f/g59.png
@@ -1824,6 +1824,7 @@ Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1, d
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"2, destroyed",https://i.postimg.cc/1tPVQmb4/4fd6.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"31, destroyed",https://i.postimg.cc/3xDHk4Tt/836.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"8, destroyed",https://i.postimg.cc/4dzsQMTW/541.png
+Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"32, destroyed",https://i.postimg.cc/7P9gfhs2/1011-Su35-and-ka52-destr-21-and-22-05-23.jpg
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"27, destroyed",https://i.postimg.cc/Dz4LQrz5/1002-ka52-destr-10-08-22.jpg
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"1 and 2, damaged on the ground",https://i.postimg.cc/GmLwHKZf/88755.png
 Russia,Helicopters ,Ka-52 'Alligator' attack helicopter,russian federation,"6, destroyed",https://i.postimg.cc/MTn487kW/h2.png
@@ -1877,6 +1878,7 @@ Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"3, destroyed",h
 Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"5, destroyed",https://twitter.com/UAWeapons/status/1537469034123386881
 Russia,Helicopters ,Mi-35M attack helicopter,russian federation,"6, destroyed",https://twitter.com/UAWeapons/status/1623742529211363328
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"11, destroyed",https://i.postimg.cc/3J0cxpnW/549.png
+Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"19, destroyed",https://i.postimg.cc/Kj0LVpkN/1000-mi8-destr-26-09-22.jpg
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"16, destroyed",https://i.postimg.cc/L5qVgXCL/1004-mi8-destr-06-03-22.jpg
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"14, destroyed",https://i.postimg.cc/NFMqWfJp/47.png
 Russia,Helicopters ,Mi-8 transport helicopter,russian federation,"5, destroyed",https://i.postimg.cc/XqtmXXdR/442.png
@@ -2240,6 +2242,7 @@ Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"41, destroyed",https://i.posti
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"4, destroyed",https://i.postimg.cc/Jh06DJ2r/f33.png
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"83, captured",https://i.postimg.cc/Jn7Wv97x/439.png
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"23, destroyed",https://i.postimg.cc/JnW1D2Fq/b2.png
+Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"239, destroyed",https://i.postimg.cc/K84QZxJ2/1009-bmp1-destr-28-04-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"218, destroyed",https://i.postimg.cc/K8mq4wpx/1002-bmp1-destr-21-02-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"175, destroyed",https://i.postimg.cc/K8zpNfk8/1010-bmp1-destr-20-02-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-1(P),ussr,"22, destroyed",https://i.postimg.cc/KYTGY20j/b1.png
@@ -3028,6 +3031,7 @@ Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"215, destroyed",https://i.post
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"90, captured",https://i.postimg.cc/rssy7FFV/1012-bmp2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"491, destroyed",https://i.postimg.cc/s23WrVmp/1033-bmp2-destr-16-03-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"142, destroyed",https://i.postimg.cc/s2d2WK0w/2.png
+Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"527, destroyed",https://i.postimg.cc/sDTwdvPm/1006-bmp2-destr-15-05-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"42, captured",https://i.postimg.cc/sDb7rVKc/87.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"159, destroyed",https://i.postimg.cc/sDryZ9Ty/f1.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"242, destroyed",https://i.postimg.cc/sXT4wH4W/1056-bmp2.jpg
@@ -3362,7 +3366,6 @@ Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"18, captured",https
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"11, destroyed",https://i.postimg.cc/MHB05ZKP/r2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"54, destroyed",https://i.postimg.cc/MHRbC9wS/f2.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"58, destroyed",https://i.postimg.cc/Mp8LWqHb/1002.jpg
-Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"15, damaged and abandoned",https://i.postimg.cc/NF7mhcSW/1038-bmp3-dad-aband-06-02-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"104, destroyed",https://i.postimg.cc/NF83GTjR/1006-bmp3-destr.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"47, captured",https://i.postimg.cc/NFnwb5WB/1000.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"142, destroyed",https://i.postimg.cc/NGTN0DbQ/437h.png
@@ -3375,9 +3378,8 @@ Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"64, damaged and cap
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"86, destroyed",https://i.postimg.cc/P5tmVHRQ/1006-bmp3-destr-06-01-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"24, destroyed",https://i.postimg.cc/PqhsKgsJ/1003-bmp3.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"108, destroyed",https://i.postimg.cc/Pr71rwRT/u8.jpg
-Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"12, damaged and abandoned",https://i.postimg.cc/PxbvdbsN/1019-bmp3-dam-aband-24-01-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"111, destroyed",https://i.postimg.cc/PxpRysP6/1013-bmp3-destr.jpg
-Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"17, damaged and abandoned",https://i.postimg.cc/QCTHH3jq/66580.jpg
+Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"12, damaged and abandoned",https://i.postimg.cc/QCTHH3jq/66580.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"6, damaged and abandoned",https://i.postimg.cc/QM9zTHYN/1024-bmp3-and-btr82a-dam-aband.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"107, destroyed",https://i.postimg.cc/QMZmcdZQ/1010-bmp3-destr.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"17, captured",https://i.postimg.cc/RCkvgNdS/33h.jpg
@@ -3462,7 +3464,7 @@ Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"15, damaged",https:
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"14, damaged",https://i.postimg.cc/tJZLHSKc/1012-bmp3-dam-24-03-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"126, destroyed",https://i.postimg.cc/tghhq6Mx/1006-bmp3-destr-01-01-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"16, captured",https://i.postimg.cc/vB4pd7z1/768.png
-Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"18, damaged and abandoned",https://i.postimg.cc/vmXsPW9n/1028-bmp3-dam-aband-02-03-23.jpg
+Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"16, damaged and abandoned",https://i.postimg.cc/vmXsPW9n/1028-bmp3-dam-aband-02-03-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"27, destroyed",https://i.postimg.cc/wB2hgbSG/5541.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"14, captured",https://i.postimg.cc/wT2CXJ4J/b11.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"152, destroyed",https://i.postimg.cc/wjMx59h3/1050-bmp3-destr-18-05-23.jpg
@@ -3478,7 +3480,7 @@ Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"4, destroyed",https
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"121, destroyed",https://i.postimg.cc/zfQfyzKM/1003-bmp3-destr.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"61, captured",https://i.postimg.cc/zvJvZh2v/1001-bmp3-capt.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"125, destroyed",https://i.postimg.cc/zvR130Lq/1022-bmp3-destr-28-12-22.jpg
-Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"16, damaged and abandoned",https://i.postimg.cc/zvW2tVvv/1000-2x-T-72b3-1x-t72-2x-bmp3-2x-btr82-dan-aband-1x-bmp3-destr-24-01-23.jpg
+Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"18, damaged",https://i.postimg.cc/zvW2tVvv/1000-2x-T-72b3-1x-t72-2x-bmp3-2x-btr82-dan-aband-1x-bmp3-destr-24-01-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"5, 6, and 7, destroyed",https://postimg.cc/5Xczy0Gd
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"38, destroyed",https://postimg.cc/pyns9btm
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"113, destroyed",https://twitter.com/666_mancer/status/1621443801314123776
@@ -3523,11 +3525,13 @@ Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"135, destroyed",htt
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"136, destroyed",https://twitter.com/UAWeapons/status/1629515791509880832
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"139, destroyed",https://twitter.com/UAWeapons/status/1638463648648626177
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"147, destroyed",https://twitter.com/UAWeapons/status/1647949838732984321
-Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"19, abandoned",https://twitter.com/UAWeapons/status/1652390786841935872
+Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"15, abandoned",https://twitter.com/UAWeapons/status/1652390786841935872
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"150, destroyed",https://twitter.com/UAWeapons/status/1659300830103707649
 Russia,Infantry Fighting Vehicles ,BMP-3,russian federation,"146, destroyed",https://twitter.com/naalsio26/status/1647017081055985675
 Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"3, destroyed",https://i.postimg.cc/PJx0sxwh/1009-bmp3-destr-14-02-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"6, destroyed",https://i.postimg.cc/Zq7f1s3b/35.png
+Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"2, damaged and abandoned",https://i.postimg.cc/rpbqN2hC/1302-bmp3-uparmored-damaged-and-abandoned-24-01-23.jpg
+Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"1, damaged and abandoned",https://i.postimg.cc/xjMSj5NC/1300-bmp3-dad-aband-06-02-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"1 and 2, destroyed",https://twitter.com/UAWeapons/status/1626579093801271304
 Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"4, destroyed",https://twitter.com/UAWeapons/status/1628792868461592577
 Russia,Infantry Fighting Vehicles ,BMP-3 688M sb. 3KDZ,russian federation,"5, destroyed",https://twitter.com/UAWeapons/status/1630607586490761219
@@ -3794,7 +3798,7 @@ Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"24, captured",
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"197, destroyed",https://i.postimg.cc/kGS85w7k/1006-btr82a-destr.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"35, captured",https://i.postimg.cc/kGvFHQdg/b2.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"60, destroyed",https://i.postimg.cc/kMx3FbWz/btr822aa.jpg
-Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"13, abandoned",https://i.postimg.cc/kXN1jSHW/6h.png
+Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"4, abandoned",https://i.postimg.cc/kXN1jSHW/6h.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"11, destroyed",https://i.postimg.cc/kXN80wNc/33215.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"2, destroyed",https://i.postimg.cc/kXQV46L8/gg5.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"63, destroyed",https://i.postimg.cc/kXfHfFG1/btr.jpg
@@ -3810,6 +3814,7 @@ Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"162, destroyed
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"275, destroyed",https://i.postimg.cc/nh0xDBw9/443f6.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"280, destroyed",https://i.postimg.cc/nhgMcLPq/1019-BTR-82-A-destr-26-04-23.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"101, captured",https://i.postimg.cc/nzJ5S2zL/9.png
+Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"288, destroyed",https://i.postimg.cc/pL7Cr46n/1008-btr82a-destr-15-05-23.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"2, abandoned",https://i.postimg.cc/pLXYWb0d/49.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"86, captured",https://i.postimg.cc/pT0x80TF/2022-09-20-BTR-82-A-1.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"18, destroyed",https://i.postimg.cc/pX6DMmZQ/2fl.jpg
@@ -3877,7 +3882,7 @@ Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"40, destroyed"
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"93, destroyed",https://i.postimg.cc/zXQb8dN2/4313.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"25, captured",https://i.postimg.cc/zfX8Ls5G/87.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"111, captured",https://i.postimg.cc/zv53xbMC/1014-btr82a-capt.jpg
-Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"4 and 5, damaged and abandoned",https://i.postimg.cc/zvW2tVvv/1000-2x-T-72b3-1x-t72-2x-bmp3-2x-btr82-dan-aband-1x-bmp3-destr-24-01-23.jpg
+Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"13 and 14, damaged",https://i.postimg.cc/zvW2tVvv/1000-2x-T-72b3-1x-t72-2x-bmp3-2x-btr82-dan-aband-1x-bmp3-destr-24-01-23.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"97, captured",https://pic.twitter.com/a9BoN1E03K
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"238, destroyed",https://postimg.cc/H8cv6JXg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"33, captured",https://postimg.cc/jDJzXhDS
@@ -3949,7 +3954,7 @@ Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"242, destroyed
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"120, destroyed",https://twitter.com/naalsio26/status/1648064844023713807
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"229, destroyed",https://twitter.com/naalsio26/status/1648431825365393408
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"279, destroyed",https://twitter.com/naalsio26/status/1651029309526618115
-Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"14, abandoned",https://twitter.com/naalsio26/status/1651029309526618115
+Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"5, abandoned",https://twitter.com/naalsio26/status/1651029309526618115
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"285, destroyed",https://twitter.com/naalsio26/status/1657081730124111881
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"124, captured",https://twitter.com/naalsio26/status/1657081730124111881
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"286, destroyed",https://twitter.com/naalsio26/status/1657852654737842176
@@ -4121,6 +4126,7 @@ Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"14, captured",
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"96, destroyed",https://i.postimg.cc/Cxj1NwNv/1025-Tigr-M-destr-13-03-23.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"69, destroyed",https://i.postimg.cc/D09ddJ6B/1004-GAZ-Tigr-M-destr.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"4, captured",https://i.postimg.cc/DZysb6p8/41.png
+Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"100, destroyed",https://i.postimg.cc/Fzp5QNGS/1001-gaz-tigr-m-destr-20-05-23.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"23, captured",https://i.postimg.cc/GhNxNwm8/7j.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"24, destroyed",https://i.postimg.cc/GtTzQ8KR/4477.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"35, destroyed",https://i.postimg.cc/Hn8Ycb71/437.png
@@ -4301,8 +4307,7 @@ Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"4, des
 Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"7, destroyed",https://i.postimg.cc/d1qLLM86/1019-Kam-AZ-53949-Linza-destr-06-03-23.jpg
 Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"5, destroyed",https://i.postimg.cc/dQS0WYZm/2022-04-01-linza.jpg
 Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"3, destroyed",https://i.postimg.cc/fL424R3C/1012-linza-mrap.jpg
-Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"3, captured",https://i.postimg.cc/nrpPX8Dc/d21d.jpg
-Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"4, damaged and captured",https://twitter.com/UAWeapons/status/1568899249688952833
+Russia,Mine-Resistant Ambush Protected ,K-53949 Linza,russian federation,"3, damaged and captured",https://twitter.com/UAWeapons/status/1568899249688952833
 Russia,Mine-Resistant Ambush Protected ,K-53949 Typhoon-K,russian federation,"1, captured",https://i.postimg.cc/63JHwmRH/5424.png
 Russia,Mine-Resistant Ambush Protected ,K-53949 Typhoon-K,russian federation,"4, destroyed",https://i.postimg.cc/9Q7PYs4j/5770.jpg
 Russia,Mine-Resistant Ambush Protected ,K-53949 Typhoon-K,russian federation,"2, destroyed",https://i.postimg.cc/JhCMFXN9/66886.jpg
@@ -4629,12 +4634,12 @@ Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"31,
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"43, captured",https://i.postimg.cc/D06r8GnC/36.png
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"57, captured",https://i.postimg.cc/DZ67zrTZ/121.png
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"2, destroyed",https://i.postimg.cc/DfGxGMLk/3g.png
+Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"79, destroyed",https://i.postimg.cc/Dw9GtXZt/1002-orlan10-destr-23-05-23.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"20, destroyed",https://i.postimg.cc/F1t2dQdF/431.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"32, destroyed",https://i.postimg.cc/FFLzJQ6Q/1039-orlan10-destr-29-01-23.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"49, captured",https://i.postimg.cc/FH90kLdh/1035-orlan10-capt-18-05-22.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"10, destroyed",https://i.postimg.cc/FRYR7QVY/669.png
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"28, destroyed",https://i.postimg.cc/Fs5cqXRf/f88.png
-Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"79, destroyed",https://i.postimg.cc/GtQjPFk0/1037-orlan10-destr-18-05-23.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"70, destroyed",https://i.postimg.cc/Hkdgvsp2/652.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"61, destroyed",https://i.postimg.cc/HstymkSR/1044-orlan10-destr-05-08-22.jpg
 Russia,Reconnaissance Unmanned Aerial Vehicles ,Orlan-10,russian federation,"68, destroyed",https://i.postimg.cc/J0hkxFb7/1003-orlan10-destr-12-03-23.jpg
@@ -5031,6 +5036,7 @@ Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"63 and 64, destroyed",h
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"4, damaged",https://twitter.com/UAWeapons/status/1624140520535560202
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,65 destroyed,https://twitter.com/UAWeapons/status/1628136583864979482
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,70 destroyed,https://twitter.com/UAWeapons/status/1635988608782925824
+Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"80 and 81, destroyed",https://twitter.com/UAWeapons/status/1661064793707495445
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"73, destroyed",https://twitter.com/naalsio26/status/1642000722068635650
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"76 and 77, destroyed",https://twitter.com/naalsio26/status/1642731010017091585
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"78, destroyed",https://twitter.com/naalsio26/status/1644103459543699457
@@ -5588,6 +5594,7 @@ Russia,Tanks ,T-72B,ussr,"26, destroyed",https://i.postimg.cc/MK7H2bYN/64.png
 Russia,Tanks ,T-72B,ussr,"70, destroyed",https://i.postimg.cc/MZP1tvq7/dd3.jpg
 Russia,Tanks ,T-72B,ussr,"133, destroyed",https://i.postimg.cc/MZQQkBRz/11-16-2022-T-72-B-destroyed.png
 Russia,Tanks ,T-72B,ussr,"147, destroyed",https://i.postimg.cc/NG85znc2/1012-t72b-destr-02-02-23.jpg
+Russia,Tanks ,T-72B,ussr,"179, destroyed",https://i.postimg.cc/NMkbxQZh/1025-unkn-tank-destr-24-02-23.jpg
 Russia,Tanks ,T-72B,ussr,"12 and 13, destroyed",https://i.postimg.cc/NfHfvHzc/4678.png
 Russia,Tanks ,T-72B,ussr,"31, captured",https://i.postimg.cc/NfgnqWvB/1012-t72b-16-Sep-2022-capt.jpg
 Russia,Tanks ,T-72B,ussr,"168, destroyed",https://i.postimg.cc/P51MfvZ2/338.png
@@ -5980,6 +5987,7 @@ Russia,Tanks ,T-72B3,russian federation,"31, captured",https://i.postimg.cc/fRPS
 Russia,Tanks ,T-72B3,russian federation,"67, destroyed",https://i.postimg.cc/fThXPcn6/2022-09-18-T-72-B3.png
 Russia,Tanks ,T-72B3,russian federation,"20, damaged",https://i.postimg.cc/fTvTV3hd/1002-t72b3-dam-20-04-23.jpg
 Russia,Tanks ,T-72B3,russian federation,"129, destroyed",https://i.postimg.cc/fbZjKjBJ/1008-t72b3-destr.jpg
+Russia,Tanks ,T-72B3,russian federation,"183, 184 and 185, destroyed",https://i.postimg.cc/fbnWwTDt/1010-3x-t72b3-destr-28-04-23.jpg
 Russia,Tanks ,T-72B3,russian federation,"41, captured",https://i.postimg.cc/gJdTxphG/t2.jpg
 Russia,Tanks ,T-72B3,russian federation,"123, destroyed",https://i.postimg.cc/gJt1tMfg/1036-T-72-B3-Kam-AZ-6x6-tanker-destr-3-11.jpg
 Russia,Tanks ,T-72B3,russian federation,"9, damaged",https://i.postimg.cc/gj3F2623/541.png
@@ -6029,7 +6037,6 @@ Russia,Tanks ,T-72B3,russian federation,"7, destroyed",https://i.postimg.cc/t4Cm
 Russia,Tanks ,T-72B3,russian federation,"14, captured",https://i.postimg.cc/t4ZV3QNj/1013-t72b3-capt.jpg
 Russia,Tanks ,T-72B3,russian federation,"18, damaged",https://i.postimg.cc/t4mYxw9n/1304-5x-BMP1-and-1x-t72b3-destroyed-21-02-23.jpg
 Russia,Tanks ,T-72B3,russian federation,"137, destroyed",https://i.postimg.cc/tC5B4j1G/2022-04-03-T-72-B3-captured-Chernihiv.jpg
-Russia,Tanks ,T-72B3,russian federation,"183, destroyed",https://i.postimg.cc/tCZjdRtg/1012-unkn-tank-destr-06-05-23.jpg
 Russia,Tanks ,T-72B3,russian federation,"81, captured",https://i.postimg.cc/tJBtY1yM/1028-t72b3-capt.jpg
 Russia,Tanks ,T-72B3,russian federation,"20, destroyed",https://i.postimg.cc/tRSzJC9K/670.png
 Russia,Tanks ,T-72B3,russian federation,"86, destroyed",https://i.postimg.cc/tT8NxcCc/331.jpg
@@ -6190,7 +6197,7 @@ Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"24, captured",https://i.posti
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"4, destroyed",https://i.postimg.cc/L6tGr73p/bb665.png
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"90, destroyed",https://i.postimg.cc/Ls6C6gk0/1021-t72b3m-destr-14-11-22.jpg
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"44, captured",https://i.postimg.cc/MHdnWbYQ/g422.jpg
-Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"111, destroyed",https://i.postimg.cc/MHnjxtTW/1039-t72b3m-destr-05-05-23.jpg
+Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"107, destroyed",https://i.postimg.cc/MHnjxtTW/1039-t72b3m-destr-05-05-23.jpg
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"21, destroyed",https://i.postimg.cc/MKfjQR9R/44311.png
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"63, destroyed",https://i.postimg.cc/Mpjk3Ycs/u.png
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"103, destroyed",https://i.postimg.cc/Nj1CzjQr/4f7.png
@@ -6345,8 +6352,8 @@ Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"83 and 84, destroyed",https:/
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"17, captured",https://twitter.com/UAWeapons/status/1599033138583244800
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"85 and 86, destroyed",https://twitter.com/UAWeapons/status/1602279682841448451
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"100, destroyed",https://twitter.com/UAWeapons/status/1635725524545798151
-Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"107, destroyed",https://twitter.com/UAWeapons/status/1648611400179146752
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"106, destroyed",https://twitter.com/naalsio26/status/1648145283010707456
+Russia,Tanks ,T-72B3 Obr. 2022,russian federation,"1, destroyed",https://i.postimg.cc/TPDMYCQS/t47.png
 Russia,Tanks ,T-72BA,russian federation,"2, captured",https://i.postimg.cc/15GfGd3q/3328.jpg
 Russia,Tanks ,T-72BA,russian federation,"2, destroyed",https://i.postimg.cc/3RkbP4HG/1022-t72ba-destr.jpg
 Russia,Tanks ,T-72BA,russian federation,"13, damaged and captured",https://i.postimg.cc/3rtkQs7z/1013-t72ba-dam-capt.jpg
@@ -6390,7 +6397,7 @@ Russia,Tanks ,T-80BV,ussr,"67, destroyed",https://i.postimg.cc/2694zrQG/T-80-BV-
 Russia,Tanks ,T-80BV,ussr,"70, damaged and captured",https://i.postimg.cc/26pW1mc1/1500-T-80-BV-damaged-1-captured.jpg
 Russia,Tanks ,T-80BV,ussr,"8, damaged and abandoned",https://i.postimg.cc/2857gx7R/1019-t80bv-dam-aband.jpg
 Russia,Tanks ,T-80BV,ussr,"9, captured",https://i.postimg.cc/28NZTGvw/4449.png
-Russia,Tanks ,T-80BV,ussr,"168, destroyed",https://i.postimg.cc/2S2jvPs2/1027-t80bv-destr-15-05-23.jpg
+Russia,Tanks ,T-80BV,ussr,"154, destroyed",https://i.postimg.cc/2S2jvPs2/1027-t80bv-destr-15-05-23.jpg
 Russia,Tanks ,T-80BV,ussr,"16 and 17, destroyed",https://i.postimg.cc/2SGjFQ4b/665.jpg
 Russia,Tanks ,T-80BV,ussr,"48 and 49, captured",https://i.postimg.cc/2STDrpRS/1037-2x-t-80bv-dam-capt.jpg
 Russia,Tanks ,T-80BV,ussr,"20, damaged and abandoned",https://i.postimg.cc/2yRYthkb/1036-t80bv-dam-aband-19-02-23.jpg
@@ -6459,7 +6466,6 @@ Russia,Tanks ,T-80BV,ussr,"109 and 110, destroyed",https://i.postimg.cc/RZ2MyrHT
 Russia,Tanks ,T-80BV,ussr,"35, captured",https://i.postimg.cc/SK3422K0/488.png
 Russia,Tanks ,T-80BV,ussr,"31, destroyed",https://i.postimg.cc/SxbmMZrB/442.png
 Russia,Tanks ,T-80BV,ussr,"29, damaged and abandoned",https://i.postimg.cc/T1V21xNx/1032-t80bv-dam-aband-28-11-22.jpg
-Russia,Tanks ,T-80BV,ussr,"154, destroyed",https://i.postimg.cc/TPDMYCQS/t47.png
 Russia,Tanks ,T-80BV,ussr,"15, captured",https://i.postimg.cc/TPp0Q1mb/f5.jpg
 Russia,Tanks ,T-80BV,ussr,"160, destroyed",https://i.postimg.cc/TYZn28gB/1022-t80bv-destr-27-04-23.jpg
 Russia,Tanks ,T-80BV,ussr,"53, destroyed",https://i.postimg.cc/TYwjZjKp/1003-unkn-t80.jpg
@@ -6526,13 +6532,14 @@ Russia,Tanks ,T-80BV,ussr,"41, destroyed",https://i.postimg.cc/nLyqDxjG/1009-t80
 Russia,Tanks ,T-80BV,ussr,"13, captured",https://i.postimg.cc/pL0kDz9x/f4.jpg
 Russia,Tanks ,T-80BV,ussr,"41, captured",https://i.postimg.cc/pV3r5Xzf/2022-09-18-T80-BV.jpg
 Russia,Tanks ,T-80BV,ussr,"131, destroyed",https://i.postimg.cc/q7736RZZ/1001-t80bv-destr-03-03-23.jpg
+Russia,Tanks ,T-80BV,ussr,"31, damaged and abandoned",https://i.postimg.cc/q7sJgVvm/1007-t80bv-dam-aband-15-05-23.jpg
 Russia,Tanks ,T-80BV,ussr,"57, captured",https://i.postimg.cc/qq9wJRTF/1032-t80bv-capt.jpg
 Russia,Tanks ,T-80BV,ussr,"167, destroyed",https://i.postimg.cc/rF2pLGGC/1007-t80bv-destr-01-05-23.jpg
 Russia,Tanks ,T-80BV,ussr,"2, destroyed",https://i.postimg.cc/rFQR8BVG/689.png
-Russia,Tanks ,T-80BV,ussr,"30, damaged and abandoned",https://i.postimg.cc/rpfGkc17/5541.png
+Russia,Tanks ,T-80BV,ussr,"17, damaged and abandoned",https://i.postimg.cc/rpfGkc17/5541.png
 Russia,Tanks ,T-80BV,ussr,"15, destroyed",https://i.postimg.cc/rs9rXqxF/8j0.png
 Russia,Tanks ,T-80BV,ussr,"66, destroyed",https://i.postimg.cc/rshn7LQf/1006-t80bv-destr.jpg
-Russia,Tanks ,T-80BV,ussr,"31, damaged and abandoned",https://i.postimg.cc/s29yBnP9/1021-t80bv-dam-aband-07-05-23.jpg
+Russia,Tanks ,T-80BV,ussr,"30, damaged and abandoned",https://i.postimg.cc/s29yBnP9/1021-t80bv-dam-aband-07-05-23.jpg
 Russia,Tanks ,T-80BV,ussr,"21, damaged and abandoned",https://i.postimg.cc/sgM7gJPw/1001-bmp3-and-t-80bv-dam-aband-06-02-23.jpg
 Russia,Tanks ,T-80BV,ussr,"114, destroyed",https://i.postimg.cc/t4ft51Dv/1020-t80bv-destr-06-02-23.jpg
 Russia,Tanks ,T-80BV,ussr,"7 and 8, destroyed",https://i.postimg.cc/tJG3GrcD/t4.png
@@ -6732,7 +6739,6 @@ Russia,Tanks ,T-80U,russian federation,"39, captured",https://i.postimg.cc/595rr
 Russia,Tanks ,T-80U,russian federation,"43, captured",https://i.postimg.cc/5N9DjYzn/390.png
 Russia,Tanks ,T-80U,russian federation,"36, destroyed",https://i.postimg.cc/5NDMqwwX/131j.png
 Russia,Tanks ,T-80U,russian federation,"34, abandoned and destroyed",https://i.postimg.cc/5ys6P3S7/652.png
-Russia,Tanks ,T-80U,russian federation,"1, damaged",https://i.postimg.cc/6QgyG7dv/1000-t80u.jpg
 Russia,Tanks ,T-80U,russian federation,"7, destroyed",https://i.postimg.cc/6Qx9fWM3/u1.jpg
 Russia,Tanks ,T-80U,russian federation,"3, abandoned",https://i.postimg.cc/6pZrMGJj/5554.png
 Russia,Tanks ,T-80U,russian federation,"25, captured",https://i.postimg.cc/7LFzTNhH/5466.png
@@ -6742,7 +6748,7 @@ Russia,Tanks ,T-80U,russian federation,"13, destroyed",https://i.postimg.cc/C5cr
 Russia,Tanks ,T-80U,russian federation,"27, destroyed",https://i.postimg.cc/DyPtqWL3/31.png
 Russia,Tanks ,T-80U,russian federation,"3, destroyed",https://i.postimg.cc/F1tnjNHH/f431.png
 Russia,Tanks ,T-80U,russian federation,"24, captured",https://i.postimg.cc/FHWbsTzf/87j.jpg
-Russia,Tanks ,T-80U,russian federation,"2, damaged",https://i.postimg.cc/GhVxv3yB/1002-t80u-dam.jpg
+Russia,Tanks ,T-80U,russian federation,"1, damaged",https://i.postimg.cc/GhVxv3yB/1002-t80u-dam.jpg
 Russia,Tanks ,T-80U,russian federation,"5, captured",https://i.postimg.cc/GmVvVvpf/8k.png
 Russia,Tanks ,T-80U,russian federation,"42, captured",https://i.postimg.cc/Gp7V5dDV/1007-t80u-capt.jpg
 Russia,Tanks ,T-80U,russian federation,"23, captured",https://i.postimg.cc/Gpp0CYB5/c1.jpg
@@ -6768,6 +6774,7 @@ Russia,Tanks ,T-80U,russian federation,"23, destroyed",https://i.postimg.cc/QCyh
 Russia,Tanks ,T-80U,russian federation,"18, destroyed",https://i.postimg.cc/QxhMbJ3V/a1.png
 Russia,Tanks ,T-80U,russian federation,"12, destroyed",https://i.postimg.cc/RVRrnQvV/4322.jpg
 Russia,Tanks ,T-80U,russian federation,"11, destroyed",https://i.postimg.cc/SxK50W3z/887.jpg
+Russia,Tanks ,T-80U,russian federation,"40, destroyed",https://i.postimg.cc/VNmk3vK4/1301-t80u-destr-05-08-22.jpg
 Russia,Tanks ,T-80U,russian federation,"8, destroyed",https://i.postimg.cc/W1GRjM7N/r1.png
 Russia,Tanks ,T-80U,russian federation,"16, captured and stripped",https://i.postimg.cc/W1bDL7xH/787.png
 Russia,Tanks ,T-80U,russian federation,"24, destroyed",https://i.postimg.cc/XJp4BYQV/489.png
@@ -7014,10 +7021,8 @@ Russia,Tanks ,Unknown tank,russian federation,"81, destroyed",https://i.postimg.
 Russia,Tanks ,Unknown tank,russian federation,"2, damaged and abandoned",https://i.postimg.cc/MKzpNpgY/1003.jpg
 Russia,Tanks ,Unknown tank,russian federation,"197, destroyed",https://i.postimg.cc/NG87r8gp/1014-unkn-tank-destr-25-04-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"8, destroyed",https://i.postimg.cc/NMKQLbn8/8jj.jpg
-Russia,Tanks ,Unknown tank,russian federation,"172, destroyed",https://i.postimg.cc/NMkbxQZh/1025-unkn-tank-destr-24-02-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"13, destroyed",https://i.postimg.cc/NjWVL03k/3211.jpg
-Russia,Tanks ,Unknown tank,russian federation,"206, destroyed",https://i.postimg.cc/NjnPdfrh/1051-unkn-tank-destr-15-05-23.jpg
-Russia,Tanks ,Unknown tank,russian federation,"207, destroyed",https://i.postimg.cc/PJd6CC0D/1071-unkn-tanks-destr-13-05-23.jpg
+Russia,Tanks ,Unknown tank,russian federation,"206, destroyed",https://i.postimg.cc/PJd6CC0D/1071-unkn-tanks-destr-13-05-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"83, destroyed",https://i.postimg.cc/Pfvj1KmR/1009-unkn-tank.jpg
 Russia,Tanks ,Unknown tank,russian federation,"42, destroyed",https://i.postimg.cc/PxD6kXQc/7666.jpg
 Russia,Tanks ,Unknown tank,russian federation,"2, destroyed",https://i.postimg.cc/PxJk1gpS/4688.png
@@ -7041,7 +7046,7 @@ Russia,Tanks ,Unknown tank,russian federation,"190, destroyed",https://i.postimg
 Russia,Tanks ,Unknown tank,russian federation,"53, destroyed",https://i.postimg.cc/XNzTZ5zw/5g.png
 Russia,Tanks ,Unknown tank,russian federation,"72, destroyed",https://i.postimg.cc/Y07qkGBC/1007.jpg
 Russia,Tanks ,Unknown tank,russian federation,"82, destroyed",https://i.postimg.cc/Y9hwnzTj/1008-unkn-tank.jpg
-Russia,Tanks ,Unknown tank,russian federation,"210, destroyed",https://i.postimg.cc/Z5TKWTMW/1047-unkn-tank-destr-20-05-23.jpg
+Russia,Tanks ,Unknown tank,russian federation,"209, destroyed",https://i.postimg.cc/Z5TKWTMW/1047-unkn-tank-destr-20-05-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"199, destroyed",https://i.postimg.cc/Z5ppCfLn/1037-unkn-tank-destr-05-05-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"1, destroyed",https://i.postimg.cc/ZYXm1v90/d1k.png
 Russia,Tanks ,Unknown tank,russian federation,"34, destroyed",https://i.postimg.cc/ZnP0rRzK/3d.png
@@ -7059,7 +7064,7 @@ Russia,Tanks ,Unknown tank,russian federation,"44, destroyed",https://i.postimg.
 Russia,Tanks ,Unknown tank,russian federation,"6, abandoned",https://i.postimg.cc/mgsRjQN4/1010-1x-t72b3-aband-1x-unkn-tank-aband-09-02-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"12, damaged",https://i.postimg.cc/mkr5X8Cn/1022-unkn-tank-dam-16-01-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"177, destroyed",https://i.postimg.cc/mkvgFDpk/1012-unkn-tank-destr-08-03-23.jpg
-Russia,Tanks ,Unknown tank,russian federation,"211, destroyed",https://i.postimg.cc/nLWHSqcm/1042-unkn-tank-destr-10-05-23.png
+Russia,Tanks ,Unknown tank,russian federation,"172, destroyed",https://i.postimg.cc/nLWHSqcm/1042-unkn-tank-destr-10-05-23.png
 Russia,Tanks ,Unknown tank,russian federation,"35, destroyed",https://i.postimg.cc/nc1rvgYx/1006-unkn-tank-destr.jpg
 Russia,Tanks ,Unknown tank,russian federation,"176, destroyed",https://i.postimg.cc/nh02yFpj/1301-unkn-tank-03-03-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"12, damaged and abandoned",https://i.postimg.cc/nrbnpZmc/1041-unkn-tank-aband-10-05-23.png
@@ -7189,7 +7194,7 @@ Russia,Tanks ,Unknown tank,russian federation,"192 and 193, destroyed",https://t
 Russia,Tanks ,Unknown tank,russian federation,"194, destroyed",https://twitter.com/UAWeapons/status/1645890836888952833
 Russia,Tanks ,Unknown tank,russian federation,"195, destroyed",https://twitter.com/UAWeapons/status/1651305712188784658
 Russia,Tanks ,Unknown tank,russian federation,"201, destroyed",https://twitter.com/UAWeapons/status/1659123190008885248
-Russia,Tanks ,Unknown tank,russian federation,"208 and 209, destroyed",https://twitter.com/UAWeapons/status/1659852877681111040
+Russia,Tanks ,Unknown tank,russian federation,"207 and 208, destroyed",https://twitter.com/UAWeapons/status/1659852877681111040
 Russia,Towed Artillery ,100mm MT-12 anti-tank gun,ussr,"1, captured",https://i.postimg.cc/85pqC5hy/4y.png
 Russia,Towed Artillery ,100mm MT-12 anti-tank gun,ussr,"2, captured",https://i.postimg.cc/HLLcDxQ0/1003-mt-12-rapira.jpg
 Russia,Towed Artillery ,100mm MT-12 anti-tank gun,ussr,"3, destroyed",https://i.postimg.cc/JhtZzjGR/1027-mt12-destr-18-03-23.jpg
@@ -7656,6 +7661,7 @@ Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"478, destroye
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"310 and 311, destroyed",https://i.postimg.cc/1tnWVMCW/2022-09-15-2-Kam-AZ-6x6-5-x2.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"25, destroyed",https://i.postimg.cc/1ttjTBH0/4455.png
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"213, destroyed",https://i.postimg.cc/1z3fYtxV/1068-Kam-AZ-6x6.jpg
+Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"582, destroyed",https://i.postimg.cc/1zPJF2QC/1005-kamaz6x6-destr-22-05-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"119, captured",https://i.postimg.cc/1zVwv4Tm/1010-kamaz-6x6-capt.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"580, destroyed",https://i.postimg.cc/1zkWPxwJ/1026-kamaz6x6-destr-15-05-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"73, destroyed",https://i.postimg.cc/1zpGWfc9/3f.jpg
@@ -7992,6 +7998,7 @@ Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"488, destroye
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"263, destroyed",https://i.postimg.cc/c6qrF3s6/1126-kamaz.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"26, captured",https://i.postimg.cc/cC93z2Zk/3268.png
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"139, captured",https://i.postimg.cc/cHZ7spPC/1009-kamaz-6x6-capt.jpg
+Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"581, destroyed",https://i.postimg.cc/cHkmVJ82/1004-1xkamaz6x6-and-2x-Ural4320-destr-22-05-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"30, captured",https://i.postimg.cc/cHx8rbLV/kamaaz.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"497, destroyed",https://i.postimg.cc/cLBRGcM7/1012-kamaz6x6-destr-11-02-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",KamAZ 6x6,russian federation,"43 and 44, captured",https://i.postimg.cc/d0VpWVYH/f7.png
@@ -8648,6 +8655,7 @@ Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"403, destroye
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"28, captured",https://i.postimg.cc/0yhB1dJk/t6.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"8, abandoned",https://i.postimg.cc/0yrVn7sf/4314.png
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"492, destroyed",https://i.postimg.cc/0ywPPw4v/1014-ural4320-destr-21-05-23.jpg
+Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"499, destroyed",https://i.postimg.cc/13DvfPLV/1003-ural4320-destr-22-05-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"424, destroyed",https://i.postimg.cc/13QbrbrT/1025-ural4320-destr-20-01-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"339, destroyed",https://i.postimg.cc/15WHt4Th/2022-04-19-ural-4320.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"139, destroyed",https://i.postimg.cc/1RHBJzV8/2022-04-21-Ural-4320-destroyed-Bervitsya-2.jpg
@@ -8996,13 +9004,13 @@ Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"366, destroye
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"77, destroyed",https://i.postimg.cc/bv8k4t2x/cb.png
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"427, destroyed",https://i.postimg.cc/bvdgxRWW/1031-ural4320-destr-10-06-22.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"79, destroyed",https://i.postimg.cc/bvtCN0DQ/1ural4320.png
-Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"497, destroyed",https://i.postimg.cc/bwDNrMsK/1051-Ural-43206-destr-02-04-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"27, captured",https://i.postimg.cc/bwKjNfwx/cc3.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"121, with ZU-23 AA gun, captured",https://i.postimg.cc/bwx1nJVw/2022-04-01-ural-4320.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"234, 235, 236 and 237 destroyed",https://i.postimg.cc/c1XkVk8K/1107_Ural-4320_4x.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"80, captured",https://i.postimg.cc/cH24yGKf/1027-ural4320.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"32, captured",https://i.postimg.cc/cHWH5g9M/uuu.png
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"75, destroyed",https://i.postimg.cc/cHcLYcQg/2dg.jpg
+Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"497 and 498, destroyed",https://i.postimg.cc/cHkmVJ82/1004-1xkamaz6x6-and-2x-Ural4320-destr-22-05-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"402, destroyed",https://i.postimg.cc/cJhrSF5g/1019-Ural-4320-destr-29-10-22.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"149, captured",https://i.postimg.cc/cJy6ZNxn/1025-ural4320-capt-10-09-22.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-4320,russian federation,"347, destroyed",https://i.postimg.cc/d02MSmZ9/1015-ural4320-destr.jpg
@@ -9468,6 +9476,7 @@ Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"20, captured
 Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"11, destroyed",https://i.postimg.cc/ZnLWCPrN/1d3.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"43, destroyed",https://i.postimg.cc/brT7839W/1003-ural-43206.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"35, destroyed",https://i.postimg.cc/bw6hK2Vh/1001.jpg
+Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"84, destroyed",https://i.postimg.cc/bwDNrMsK/1051-Ural-43206-destr-02-04-23.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"72, destroyed",https://i.postimg.cc/cHGw9X4D/1009-Ural-43206-destr-23-12-22.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"31, destroyed",https://i.postimg.cc/d0KhPnGT/1140-Ural-43206.jpg
 Russia,"Trucks, Vehicles and Jeeps ",Ural-43206,russian federation,"16, captured",https://i.postimg.cc/g0MJ0bQM/q.jpg

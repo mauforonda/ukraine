@@ -7021,3 +7021,13 @@ timestamp,country,category,state,value
 2023-05-23 01:19:22,Russia,tanks,destroyed,2
 2023-05-23 01:19:22,Russia,towed artillery,destroyed,3
 2023-05-23 01:19:22,Russia,"trucks, vehicles and jeeps",destroyed,4
+2023-05-23 18:18:52,Russia,armoured fighting vehicles,destroyed,1
+2023-05-23 18:18:52,Russia,helicopters,destroyed,2
+2023-05-23 18:18:52,Russia,infantry fighting vehicles,destroyed,3
+2023-05-23 18:18:52,Russia,infantry mobility vehicles,destroyed,1
+2023-05-23 18:18:52,Russia,mine-resistant ambush protected,captured,-1
+2023-05-23 18:18:52,Russia,self-propelled artillery,destroyed,2
+2023-05-23 18:18:52,Russia,tanks,abandoned,1
+2023-05-23 18:18:52,Russia,tanks,damaged,-1
+2023-05-23 18:18:52,Russia,tanks,destroyed,1
+2023-05-23 18:18:52,Russia,"trucks, vehicles and jeeps",destroyed,5
