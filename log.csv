@@ -7033,3 +7033,15 @@ timestamp,country,category,state,value
 2023-05-23 18:18:52,Russia,"trucks, vehicles and jeeps",destroyed,5
 2023-05-25 09:15:21,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
 2023-05-25 09:15:21,Russia,self-propelled artillery,destroyed,-1
+2023-05-25 21:13:16,Russia,armoured fighting vehicles,destroyed,3
+2023-05-25 21:13:16,Russia,armoured personnel carriers,destroyed,2
+2023-05-25 21:13:16,Russia,infantry fighting vehicles,destroyed,3
+2023-05-25 21:13:16,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-05-25 21:13:16,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-05-25 21:13:16,Russia,self-propelled artillery,destroyed,3
+2023-05-25 21:13:16,Russia,tanks,captured,1
+2023-05-25 21:13:16,Russia,tanks,destroyed,1
+2023-05-25 21:13:16,Russia,towed artillery,damaged,1
+2023-05-25 21:13:16,Russia,towed artillery,destroyed,3
+2023-05-25 21:13:16,Russia,"trucks, vehicles and jeeps",damaged,1
+2023-05-25 21:13:16,Russia,"trucks, vehicles and jeeps",destroyed,4
