@@ -7031,3 +7031,5 @@ timestamp,country,category,state,value
 2023-05-23 18:18:52,Russia,tanks,damaged,-1
 2023-05-23 18:18:52,Russia,tanks,destroyed,1
 2023-05-23 18:18:52,Russia,"trucks, vehicles and jeeps",destroyed,5
+2023-05-25 09:15:21,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-05-25 09:15:21,Russia,self-propelled artillery,destroyed,-1
