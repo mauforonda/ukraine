@@ -7066,3 +7066,8 @@ timestamp,country,category,state,value
 2023-05-27 21:13:30,Russia,tanks,abandoned,-1
 2023-05-27 21:13:30,Russia,tanks,captured,1
 2023-05-27 21:13:30,Russia,tanks,destroyed,-1
+2023-05-28 06:18:50,Russia,armoured fighting vehicles,destroyed,1
+2023-05-28 06:18:50,Russia,infantry fighting vehicles,abandoned,1
+2023-05-28 06:18:50,Russia,infantry fighting vehicles,damaged,-1
+2023-05-28 06:18:50,Russia,tanks,destroyed,1
+2023-05-28 06:18:50,Russia,"trucks, vehicles and jeeps",destroyed,2
