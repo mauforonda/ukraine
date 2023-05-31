@@ -3,10 +3,10 @@ Russia,Aircraft ,damaged,8
 Russia,Aircraft ,destroyed,74
 Russia,Anti-Aircraft Guns ,captured,14
 Russia,Anti-Aircraft Guns ,destroyed,3
-Russia,Armoured Fighting Vehicles ,abandoned,29
+Russia,Armoured Fighting Vehicles ,abandoned,30
 Russia,Armoured Fighting Vehicles ,captured,265
 Russia,Armoured Fighting Vehicles ,damaged,17
-Russia,Armoured Fighting Vehicles ,destroyed,551
+Russia,Armoured Fighting Vehicles ,destroyed,553
 Russia,Armoured Personnel Carriers ,abandoned,11
 Russia,Armoured Personnel Carriers ,captured,91
 Russia,Armoured Personnel Carriers ,damaged,8
@@ -16,25 +16,25 @@ Russia,Artillery Support Vehicles And Equipment ,captured,50
 Russia,Artillery Support Vehicles And Equipment ,destroyed,51
 Russia,Command Posts And Communications Stations ,abandoned,3
 Russia,Command Posts And Communications Stations ,captured,85
-Russia,Command Posts And Communications Stations ,destroyed,154
+Russia,Command Posts And Communications Stations ,destroyed,155
 Russia,Engineering Vehicles And Equipment ,abandoned,40
-Russia,Engineering Vehicles And Equipment ,captured,119
+Russia,Engineering Vehicles And Equipment ,captured,120
 Russia,Engineering Vehicles And Equipment ,damaged,7
-Russia,Engineering Vehicles And Equipment ,destroyed,140
+Russia,Engineering Vehicles And Equipment ,destroyed,141
 Russia,Helicopters ,captured,1
 Russia,Helicopters ,damaged,10
 Russia,Helicopters ,destroyed,79
-Russia,Infantry Fighting Vehicles ,abandoned,125
+Russia,Infantry Fighting Vehicles ,abandoned,128
 Russia,Infantry Fighting Vehicles ,captured,599
 Russia,Infantry Fighting Vehicles ,damaged,81
-Russia,Infantry Fighting Vehicles ,destroyed,1561
+Russia,Infantry Fighting Vehicles ,destroyed,1564
 Russia,Infantry Mobility Vehicles ,abandoned,2
 Russia,Infantry Mobility Vehicles ,captured,51
 Russia,Infantry Mobility Vehicles ,damaged,5
 Russia,Infantry Mobility Vehicles ,destroyed,131
 Russia,Jammers And Deception Systems ,captured,7
 Russia,Jammers And Deception Systems ,damaged,3
-Russia,Jammers And Deception Systems ,destroyed,27
+Russia,Jammers And Deception Systems ,destroyed,30
 Russia,Mine-Resistant Ambush Protected ,abandoned,1
 Russia,Mine-Resistant Ambush Protected ,captured,9
 Russia,Mine-Resistant Ambush Protected ,damaged,4
@@ -48,7 +48,7 @@ Russia,Naval Ships ,destroyed,8
 Russia,Radars ,captured,9
 Russia,Radars ,damaged,3
 Russia,Radars ,destroyed,19
-Russia,Reconnaissance Unmanned Aerial Vehicles ,captured,110
+Russia,Reconnaissance Unmanned Aerial Vehicles ,captured,111
 Russia,Reconnaissance Unmanned Aerial Vehicles ,destroyed,123
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,2
 Russia,Self-Propelled Anti-Aircraft Guns ,captured,8
@@ -68,14 +68,14 @@ Russia,Surface-To-Air Missile Systems ,destroyed,78
 Russia,Tanks ,abandoned,113
 Russia,Tanks ,captured,544
 Russia,Tanks ,damaged,106
-Russia,Tanks ,destroyed,1238
+Russia,Tanks ,destroyed,1240
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,96
 Russia,Towed Artillery ,damaged,14
-Russia,Towed Artillery ,destroyed,109
-Russia,"Trucks, Vehicles and Jeeps ",abandoned,49
-Russia,"Trucks, Vehicles and Jeeps ",captured,562
+Russia,Towed Artillery ,destroyed,110
+Russia,"Trucks, Vehicles and Jeeps ",abandoned,51
+Russia,"Trucks, Vehicles and Jeeps ",captured,563
 Russia,"Trucks, Vehicles and Jeeps ",damaged,43
-Russia,"Trucks, Vehicles and Jeeps ",destroyed,1864
+Russia,"Trucks, Vehicles and Jeeps ",destroyed,1875
 Russia,Unmanned Combat Aerial Vehicles ,captured,1
 Russia,Unmanned Combat Aerial Vehicles ,destroyed,8
