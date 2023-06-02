@@ -7095,3 +7095,8 @@ timestamp,country,category,state,value
 2023-05-31 21:13:13,Russia,"trucks, vehicles and jeeps",captured,1
 2023-05-31 21:13:13,Russia,"trucks, vehicles and jeeps",destroyed,11
 2023-06-01 01:59:28,Russia,"trucks, vehicles and jeeps",captured,-1
+2023-06-02 15:15:42,Russia,armoured fighting vehicles,destroyed,1
+2023-06-02 15:15:42,Russia,armoured personnel carriers,abandoned,1
+2023-06-02 15:15:42,Russia,infantry fighting vehicles,destroyed,1
+2023-06-02 15:15:42,Russia,self-propelled artillery,destroyed,1
+2023-06-02 15:15:42,Russia,surface-to-air missile systems,damaged,1
