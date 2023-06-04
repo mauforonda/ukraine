@@ -7114,3 +7114,10 @@ timestamp,country,category,state,value
 2023-06-03 15:14:10,Russia,"trucks, vehicles and jeeps",damaged,1
 2023-06-03 15:14:10,Russia,"trucks, vehicles and jeeps",destroyed,7
 2023-06-03 18:17:47,Russia,"trucks, vehicles and jeeps",destroyed,-1
+2023-06-04 12:28:40,Russia,armoured personnel carriers,captured,-1
+2023-06-04 12:28:40,Russia,armoured personnel carriers,destroyed,-3
+2023-06-04 12:28:40,Russia,radars,destroyed,1
+2023-06-04 12:28:40,Russia,towed artillery,damaged,1
+2023-06-04 12:28:40,Russia,towed artillery,destroyed,-1
+2023-06-04 12:28:40,Russia,"trucks, vehicles and jeeps",captured,4
+2023-06-04 12:28:40,Russia,"trucks, vehicles and jeeps",destroyed,7
