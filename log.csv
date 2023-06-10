@@ -7147,3 +7147,11 @@ timestamp,country,category,state,value
 2023-06-08 21:15:00,Russia,"trucks, vehicles, and jeeps",destroyed,1898
 2023-06-09 21:13:05,Russia,multiple rocket launchers,destroyed,1
 2023-06-09 21:13:05,Russia,towed artillery,destroyed,1
+2023-06-10 15:14:32,Russia,armoured fighting vehicles,abandoned,-1
+2023-06-10 15:14:32,Russia,infantry fighting vehicles,abandoned,-2
+2023-06-10 15:14:32,Russia,infantry fighting vehicles,captured,-2
+2023-06-10 15:14:32,Russia,infantry fighting vehicles,destroyed,-1
+2023-06-10 15:14:32,Russia,tanks,destroyed,-2
+2023-06-10 15:14:32,Russia,towed artillery,destroyed,-1
+2023-06-10 15:14:32,Russia,"trucks, vehicles, and jeeps",abandoned,-1
+2023-06-10 15:14:32,Russia,"trucks, vehicles, and jeeps",destroyed,-2
