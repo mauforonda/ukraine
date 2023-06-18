@@ -7208,3 +7208,6 @@ timestamp,country,category,state,value
 2023-06-15 21:13:51,Russia,tanks,destroyed,1
 2023-06-15 21:13:51,Russia,"trucks, vehicles, and jeeps",captured,-4
 2023-06-17 15:14:02,Russia,tanks,destroyed,4
+2023-06-18 18:18:10,Russia,armoured personnel carriers,captured,-1
+2023-06-18 18:18:10,Russia,infantry fighting vehicles,destroyed,1
+2023-06-18 18:18:10,Russia,tanks,destroyed,-2
