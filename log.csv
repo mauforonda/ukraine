@@ -7244,3 +7244,5 @@ timestamp,country,category,state,value
 2023-06-21 18:19:01,Russia,towed artillery,damaged,2
 2023-06-21 18:19:01,Russia,towed artillery,destroyed,2
 2023-06-21 18:19:01,Russia,"trucks, vehicles, and jeeps",destroyed,14
+2023-06-21 21:14:46,Russia,infantry fighting vehicles,damaged,2
+2023-06-21 21:14:46,Russia,self-propelled anti-tank missile systems,damaged,1
