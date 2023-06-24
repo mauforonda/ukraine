@@ -7267,3 +7267,11 @@ timestamp,country,category,state,value
 2023-06-24 18:20:54,Russia,helicopters,destroyed,3
 2023-06-24 18:20:54,Russia,infantry fighting vehicles,destroyed,4
 2023-06-24 18:20:54,Russia,tanks,destroyed,1
+2023-06-24 21:14:40,Russia,armoured fighting vehicles,damaged,1
+2023-06-24 21:14:40,Russia,armoured fighting vehicles,destroyed,-1
+2023-06-24 21:14:40,Russia,command posts and communications stations,damaged,1
+2023-06-24 21:14:40,Russia,helicopters,damaged,2
+2023-06-24 21:14:40,Russia,helicopters,destroyed,-2
+2023-06-24 21:14:40,Russia,infantry fighting vehicles,destroyed,1
+2023-06-24 21:14:40,Russia,multiple rocket launchers,destroyed,3
+2023-06-24 21:14:40,Russia,"trucks, vehicles, and jeeps",destroyed,1
