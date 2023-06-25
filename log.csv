@@ -7275,3 +7275,5 @@ timestamp,country,category,state,value
 2023-06-24 21:14:40,Russia,infantry fighting vehicles,destroyed,1
 2023-06-24 21:14:40,Russia,multiple rocket launchers,destroyed,3
 2023-06-24 21:14:40,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2023-06-25 01:55:40,Russia,armoured fighting vehicles,captured,1
+2023-06-25 01:55:40,Russia,helicopters,damaged,-1
