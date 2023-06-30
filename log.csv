@@ -7336,3 +7336,6 @@ timestamp,country,category,state,value
 2023-06-30 15:17:19,Russia,infantry fighting vehicles,destroyed,2
 2023-06-30 15:17:19,Russia,tanks,abandoned,-2
 2023-06-30 15:17:19,Russia,tanks,destroyed,3
+2023-06-30 21:14:31,Russia,multiple rocket launchers,destroyed,-1
+2023-06-30 21:14:31,Russia,tanks,destroyed,2
+2023-06-30 21:14:31,Russia,"trucks, vehicles, and jeeps",destroyed,1
