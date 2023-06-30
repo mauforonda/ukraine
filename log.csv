@@ -7307,3 +7307,6 @@ timestamp,country,category,state,value
 2023-06-27 21:14:56,Russia,self-propelled artillery,damaged,1
 2023-06-27 21:14:56,Russia,tanks,destroyed,1
 2023-06-27 21:14:56,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2023-06-30 09:16:29,Russia,tanks,captured,1
+2023-06-30 09:16:29,Russia,tanks,damaged,1
+2023-06-30 09:16:29,Russia,tanks,destroyed,2
