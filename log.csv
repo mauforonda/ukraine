@@ -7384,3 +7384,7 @@ timestamp,country,category,state,value
 2023-07-07 01:45:38,Russia,"trucks, vehicles, and jeeps",destroyed,2
 2023-07-08 09:15:18,Russia,tanks,abandoned,-1
 2023-07-08 09:15:18,Russia,tanks,destroyed,1
+2023-07-08 12:32:01,Russia,infantry fighting vehicles,captured,-3
+2023-07-08 12:32:01,Russia,infantry fighting vehicles,destroyed,-4
+2023-07-08 12:32:01,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-07-08 12:32:01,Russia,surface-to-air missile systems,damaged,-1
