@@ -7406,3 +7406,13 @@ timestamp,country,category,state,value
 2023-07-08 21:13:59,Russia,tanks,destroyed,4
 2023-07-08 21:13:59,Russia,towed artillery,destroyed,2
 2023-07-09 12:32:10,Russia,radars,destroyed,1
+2023-07-09 21:13:59,Russia,armoured personnel carriers,destroyed,1
+2023-07-09 21:13:59,Russia,infantry fighting vehicles,abandoned,3
+2023-07-09 21:13:59,Russia,infantry fighting vehicles,destroyed,6
+2023-07-09 21:13:59,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-07-09 21:13:59,Russia,self-propelled artillery,destroyed,1
+2023-07-09 21:13:59,Russia,tanks,abandoned,1
+2023-07-09 21:13:59,Russia,tanks,destroyed,4
+2023-07-09 21:13:59,Russia,towed artillery,destroyed,1
+2023-07-09 21:13:59,Russia,"trucks, vehicles, and jeeps",captured,2
+2023-07-09 21:13:59,Russia,"trucks, vehicles, and jeeps",destroyed,3
