@@ -7419,3 +7419,12 @@ timestamp,country,category,state,value
 2023-07-11 09:17:19,Russia,radars,destroyed,1
 2023-07-11 09:17:19,Russia,surface-to-air missile systems,destroyed,1
 2023-07-11 12:36:18,Russia,tanks,damaged,1
+2023-07-11 15:18:23,Russia,armoured fighting vehicles,destroyed,3
+2023-07-11 15:18:23,Russia,armoured personnel carriers,destroyed,1
+2023-07-11 15:18:23,Russia,infantry fighting vehicles,destroyed,9
+2023-07-11 15:18:23,Russia,multiple rocket launchers,destroyed,1
+2023-07-11 15:18:23,Russia,tanks,captured,1
+2023-07-11 15:18:23,Russia,tanks,damaged,1
+2023-07-11 15:18:23,Russia,tanks,destroyed,8
+2023-07-11 15:18:23,Russia,towed artillery,damaged,1
+2023-07-11 15:18:23,Russia,towed artillery,destroyed,4
