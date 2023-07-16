@@ -7475,3 +7475,29 @@ timestamp,country,category,state,value
 2023-07-15 18:20:04,Russia,"trucks, vehicles, and jeeps",destroyed,4
 2023-07-16 15:16:04,Russia,self-propelled artillery,destroyed,1
 2023-07-16 15:16:04,Russia,"trucks, vehicles, and jeeps",destroyed,5
+2023-07-16 21:13:56,Russia,armoured fighting vehicles,destroyed,5
+2023-07-16 21:13:56,Russia,armoured personnel carriers,destroyed,1
+2023-07-16 21:13:56,Russia,artillery support vehicles and equipment,abandoned,-1
+2023-07-16 21:13:56,Russia,artillery support vehicles and equipment,captured,1
+2023-07-16 21:13:56,Russia,command posts and communications stations,captured,-2
+2023-07-16 21:13:56,Russia,command posts and communications stations,destroyed,-1
+2023-07-16 21:13:56,Russia,engineering vehicles and equipment,abandoned,-3
+2023-07-16 21:13:56,Russia,engineering vehicles and equipment,captured,3
+2023-07-16 21:13:56,Russia,engineering vehicles and equipment,destroyed,1
+2023-07-16 21:13:56,Russia,helicopters,destroyed,1
+2023-07-16 21:13:56,Russia,infantry fighting vehicles,abandoned,-2
+2023-07-16 21:13:56,Russia,infantry fighting vehicles,captured,3
+2023-07-16 21:13:56,Russia,infantry fighting vehicles,damaged,1
+2023-07-16 21:13:56,Russia,infantry fighting vehicles,destroyed,7
+2023-07-16 21:13:56,Russia,jammers and deception systems,destroyed,1
+2023-07-16 21:13:56,Russia,multiple rocket launchers,damaged,1
+2023-07-16 21:13:56,Russia,multiple rocket launchers,destroyed,2
+2023-07-16 21:13:56,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2023-07-16 21:13:56,Russia,self-propelled artillery,damaged,1
+2023-07-16 21:13:56,Russia,self-propelled artillery,destroyed,2
+2023-07-16 21:13:56,Russia,surface-to-air missile systems,damaged,1
+2023-07-16 21:13:56,Russia,tanks,abandoned,-1
+2023-07-16 21:13:56,Russia,tanks,captured,3
+2023-07-16 21:13:56,Russia,tanks,destroyed,9
+2023-07-16 21:13:56,Russia,towed artillery,destroyed,2
+2023-07-16 21:13:56,Russia,"trucks, vehicles, and jeeps",destroyed,7
