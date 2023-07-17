@@ -7502,3 +7502,5 @@ timestamp,country,category,state,value
 2023-07-16 21:13:56,Russia,towed artillery,destroyed,2
 2023-07-16 21:13:56,Russia,"trucks, vehicles, and jeeps",destroyed,7
 2023-07-17 12:37:16,Russia,helicopters,destroyed,-1
+2023-07-17 21:14:22,Russia,helicopters,destroyed,1
+2023-07-17 21:14:22,Russia,tanks,destroyed,1
