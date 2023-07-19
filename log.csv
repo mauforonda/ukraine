@@ -7504,3 +7504,8 @@ timestamp,country,category,state,value
 2023-07-17 12:37:16,Russia,helicopters,destroyed,-1
 2023-07-17 21:14:22,Russia,helicopters,destroyed,1
 2023-07-17 21:14:22,Russia,tanks,destroyed,1
+2023-07-19 12:31:25,Russia,aircraft,destroyed,1
+2023-07-19 12:31:25,Russia,infantry fighting vehicles,destroyed,1
+2023-07-19 12:31:25,Russia,self-propelled artillery,destroyed,3
+2023-07-19 12:31:25,Russia,tanks,damaged,-1
+2023-07-19 12:31:25,Russia,tanks,destroyed,2
