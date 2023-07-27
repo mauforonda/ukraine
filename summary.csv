@@ -10,12 +10,12 @@ Russia,Armoured Fighting Vehicles ,destroyed,603
 Russia,Armoured Personnel Carriers ,abandoned,14
 Russia,Armoured Personnel Carriers ,captured,90
 Russia,Armoured Personnel Carriers ,damaged,9
-Russia,Armoured Personnel Carriers ,destroyed,224
+Russia,Armoured Personnel Carriers ,destroyed,222
 Russia,Artillery Support Vehicles And Equipment ,abandoned,1
 Russia,Artillery Support Vehicles And Equipment ,captured,51
 Russia,Artillery Support Vehicles And Equipment ,destroyed,51
-Russia,Command Posts And Communications Stations ,abandoned,3
-Russia,Command Posts And Communications Stations ,captured,83
+Russia,Command Posts And Communications Stations ,abandoned,2
+Russia,Command Posts And Communications Stations ,captured,82
 Russia,Command Posts And Communications Stations ,damaged,1
 Russia,Command Posts And Communications Stations ,destroyed,159
 Russia,Engineering Vehicles And Equipment ,abandoned,38
@@ -28,7 +28,7 @@ Russia,Helicopters ,destroyed,87
 Russia,Infantry Fighting Vehicles ,abandoned,136
 Russia,Infantry Fighting Vehicles ,captured,604
 Russia,Infantry Fighting Vehicles ,damaged,97
-Russia,Infantry Fighting Vehicles ,destroyed,1737
+Russia,Infantry Fighting Vehicles ,destroyed,1736
 Russia,Infantry Mobility Vehicles ,abandoned,2
 Russia,Infantry Mobility Vehicles ,captured,51
 Russia,Infantry Mobility Vehicles ,damaged,6
@@ -43,7 +43,7 @@ Russia,Mine-Resistant Ambush Protected ,destroyed,32
 Russia,Multiple Rocket Launchers ,abandoned,2
 Russia,Multiple Rocket Launchers ,captured,53
 Russia,Multiple Rocket Launchers ,damaged,14
-Russia,Multiple Rocket Launchers ,destroyed,178
+Russia,Multiple Rocket Launchers ,destroyed,179
 Russia,Naval Ships ,damaged,4
 Russia,Naval Ships ,destroyed,8
 Russia,Radars ,captured,9
@@ -70,7 +70,7 @@ Russia,Surface-To-Air Missile Systems ,destroyed,90
 Russia,Tanks ,abandoned,115
 Russia,Tanks ,captured,547
 Russia,Tanks ,damaged,122
-Russia,Tanks ,destroyed,1383
+Russia,Tanks ,destroyed,1384
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,96
 Russia,Towed Artillery ,damaged,20

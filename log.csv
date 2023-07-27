@@ -7588,3 +7588,9 @@ timestamp,country,category,state,value
 2023-07-26 01:23:40,Russia,tanks,abandoned,-1
 2023-07-26 01:23:40,Russia,tanks,captured,-2
 2023-07-26 01:23:40,Russia,tanks,destroyed,1
+2023-07-27 15:14:43,Russia,armoured personnel carriers,destroyed,-2
+2023-07-27 15:14:43,Russia,command posts and communications stations,abandoned,-1
+2023-07-27 15:14:43,Russia,command posts and communications stations,captured,-1
+2023-07-27 15:14:43,Russia,infantry fighting vehicles,destroyed,-1
+2023-07-27 15:14:43,Russia,multiple rocket launchers,destroyed,1
+2023-07-27 15:14:43,Russia,tanks,destroyed,1
