@@ -7614,3 +7614,6 @@ timestamp,country,category,state,value
 2023-07-30 21:11:57,Russia,tanks,captured,1
 2023-07-30 21:11:57,Russia,tanks,damaged,2
 2023-07-30 21:11:57,Russia,tanks,destroyed,11
+2023-07-31 15:16:43,Russia,infantry fighting vehicles,damaged,-1
+2023-07-31 15:16:43,Russia,infantry fighting vehicles,destroyed,1
+2023-07-31 15:16:43,Russia,tanks,captured,-1
