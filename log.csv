@@ -7654,3 +7654,14 @@ timestamp,country,category,state,value
 2023-08-03 18:18:52,Russia,tanks,destroyed,2
 2023-08-05 09:12:51,Russia,naval ships,damaged,1
 2023-08-05 12:27:37,Russia,surface-to-air missile systems,destroyed,1
+2023-08-05 15:13:29,Russia,armoured fighting vehicles,destroyed,1
+2023-08-05 15:13:29,Russia,armoured personnel carriers,destroyed,2
+2023-08-05 15:13:29,Russia,infantry fighting vehicles,abandoned,2
+2023-08-05 15:13:29,Russia,infantry fighting vehicles,destroyed,4
+2023-08-05 15:13:29,Russia,multiple rocket launchers,destroyed,2
+2023-08-05 15:13:29,Russia,self-propelled artillery,destroyed,1
+2023-08-05 15:13:29,Russia,surface-to-air missile systems,damaged,1
+2023-08-05 15:13:29,Russia,tanks,abandoned,3
+2023-08-05 15:13:29,Russia,tanks,destroyed,1
+2023-08-05 15:13:29,Russia,towed artillery,destroyed,2
+2023-08-05 15:13:29,Russia,"trucks, vehicles, and jeeps",destroyed,9
