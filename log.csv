@@ -7682,3 +7682,7 @@ timestamp,country,category,state,value
 2023-08-08 21:13:14,Russia,towed artillery,destroyed,4
 2023-08-08 21:13:14,Russia,"trucks, vehicles, and jeeps",captured,1
 2023-08-08 21:13:14,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2023-08-11 12:27:37,Russia,multiple rocket launchers,damaged,1
+2023-08-11 12:27:37,Russia,multiple rocket launchers,destroyed,1
+2023-08-11 12:27:37,Russia,tanks,abandoned,1
+2023-08-11 12:27:37,Russia,tanks,destroyed,2
