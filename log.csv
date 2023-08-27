@@ -7803,3 +7803,5 @@ timestamp,country,category,state,value
 2023-08-26 21:11:46,Russia,infantry fighting vehicles,destroyed,1
 2023-08-26 21:11:46,Russia,self-propelled artillery,destroyed,1
 2023-08-26 21:11:46,Russia,tanks,destroyed,1
+2023-08-27 03:14:42,Russia,tanks,abandoned,-1
+2023-08-27 03:14:42,Russia,tanks,destroyed,1
