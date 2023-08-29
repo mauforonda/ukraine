@@ -7829,3 +7829,5 @@ timestamp,country,category,state,value
 2023-08-29 12:29:35,Russia,"trucks, vehicles, and jeeps",destroyed,11
 2023-08-29 15:15:42,Russia,infantry fighting vehicles,damaged,2
 2023-08-29 15:15:42,Russia,radars,destroyed,1
+2023-08-29 18:18:49,Russia,infantry fighting vehicles,destroyed,-1
+2023-08-29 18:18:49,Russia,self-propelled artillery,destroyed,2
