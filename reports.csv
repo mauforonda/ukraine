@@ -816,7 +816,6 @@ Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"163, destroye
 Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"185, destroyed",https://i.postimg.cc/3RwpwWyk/1005-unkn-afv-destr-30-07-23.jpg
 Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"8, destroyed",https://i.postimg.cc/5N5fZdwK/4dh.png
 Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"57, destroyed",https://i.postimg.cc/5t4BrG8W/1004-unkn-afv-destr-19-06-23.jpg
-Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"186, destroyed",https://i.postimg.cc/5tHVq68x/1004-unkn-afv-destr-20-08-23.jpg
 Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"184, destroyed",https://i.postimg.cc/63vhZMWC/1025-unkn-afv-destr-21-07-23.jpg
 Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"165, destroyed",https://i.postimg.cc/661Bdx0g/1000-unkn-afv-destr-20-03-23.jpg
 Russia,Armoured Fighting Vehicles ,Unknown AFV,russian federation,"2, captured",https://i.postimg.cc/6px1pGbc/f8.jpg
@@ -3012,6 +3011,7 @@ Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"46, destroyed",https://i.posti
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"428, destroyed",https://i.postimg.cc/BnpmLNXZ/1031-bmp2-destr-31-01-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"490, destroyed",https://i.postimg.cc/BvNKZd7R/1023-bmp2-and-btr-d-destr-17-03-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"427, destroyed",https://i.postimg.cc/BvZwMkd1/1025-BMP-2-and-unkn-truck-destr-30-01-23.jpg
+Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"623, destroyed",https://i.postimg.cc/Bvw0FR1X/2025-bmp2-destr-04-06-23.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"377, destroyed",https://i.postimg.cc/BvzBh5zt/1006-bmp2-destr.jpg
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"135, destroyed",https://i.postimg.cc/C1Cn59hG/10.png
 Russia,Infantry Fighting Vehicles ,BMP-2(K),ussr,"511, destroyed",https://i.postimg.cc/C1zncsmh/1037-bmp2-destr-27-04-23.jpg
@@ -5160,16 +5160,17 @@ Russia,Radars ,1L271 Aistyonok portable mortar locating reconnaissance radar,rus
 Russia,Radars ,1RL239 Ark-1(M) counter-battery radar,ussr,"1, destroyed",https://i.postimg.cc/bNNP4dmV/1023-1-RL239-Ark-1-M-destr-24-02-23.jpg
 Russia,Radars ,48Ya6-K1 Podlet-K1 low-altitude S-band surveillance radar,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1549458529752432641
 Russia,Radars ,48Ya6-K1 Podlet-K1 low-altitude S-band surveillance radar,russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1591876056960598023
-Russia,Radars ,92N6A multi-functional radar,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1678509667603869697
-Russia,Radars ,9S18 'Tube Arm' radar variant for the Buk missile system,ussr,"1, destroyed",https://i.postimg.cc/4N2GVcss/1035-9-S18-Tube-Arm-radar-variant-for-the-Buk-missile-system-destr-12-05-23.jpg
-Russia,Radars ,9S18 Kupol TUBE ARM search and acquisition radar (for Buk-M2),russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1591751621360377856
+Russia,Radars ,92N6A (for S-400),russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1678509667603869697
+Russia,Radars ,9S18 Kupol (for Buk-M1-2/M2),russian federation,"1, destroyed",https://i.postimg.cc/4N2GVcss/1035-9-S18-Tube-Arm-radar-variant-for-the-Buk-missile-system-destr-12-05-23.jpg
+Russia,Radars ,9S18 Kupol (for Buk-M1-2/M2),russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1591751621360377856
 Russia,Radars ,9S18М1(-2) (for Buk-M2),russian federation,"1, captured",https://i.postimg.cc/qMVp7ZP5/579.jpg
 Russia,Radars ,9S18М1(-3) (for Buk-M3),russian federation,"1, destroyed",https://i.postimg.cc/1R8dSsf4/54fd.png
-Russia,Radars ,9S19M2 radar (for S-300V),russian federation,"1, damaged",https://twitter.com/UAWeapons/status/1691491187985723402
-Russia,Radars ,9S32M1 radar (for S-300V),russian federation,"1, damaged",https://twitter.com/UAWeapons/status/1691491187985723402
+Russia,Radars ,9S19M2 (for S-300V),russian federation,"1, damaged",https://twitter.com/UAWeapons/status/1691491187985723402
+Russia,Radars ,9S32M1 (for S-300V),russian federation,"1, damaged",https://twitter.com/UAWeapons/status/1691491187985723402
 Russia,Radars ,9S36 (for Buk-M2),russian federation,"1, captured",https://i.postimg.cc/T2bczB37/5g5.jpg
 Russia,Radars ,9S36 (for Buk-M2),russian federation,"1, destroyed",https://i.postimg.cc/ZRZxmLh3/55.jpg
 Russia,Radars ,9S36 (for Buk-M2),russian federation,"2, destroyed",https://twitter.com/UAWeapons/status/1685581789169852416
+Russia,Radars ,9S36M (for Buk-M3),russian federation,"1, destroyed",https://twitter.com/kemal_115/status/1696579313984745589
 Russia,Radars ,Fara ground surveillance radar,russian federation,"1, captured",https://i.postimg.cc/RVzmKMQT/41.png
 Russia,Radars ,Fara ground surveillance radar,russian federation,"2, captured",https://i.postimg.cc/sDd4XP6T/55422.png
 Russia,Radars ,P-18-2 2D VHF surveillance radar,russian federation,"2, destroyed",https://i.postimg.cc/Rhw9Ltkq/1060-R-18-destr-11-07-23.jpg
@@ -6791,6 +6792,7 @@ Russia,Tanks ,T-72B3,russian federation,"10, destroyed",https://i.postimg.cc/J0S
 Russia,Tanks ,T-72B3,russian federation,"167, destroyed",https://i.postimg.cc/J0Zr7K65/1031-t72b3-destr-xx-08-22.jpg
 Russia,Tanks ,T-72B3,russian federation,"18, damaged and abandoned",https://i.postimg.cc/J0tMSfm3/1005-72-B3-and-80-BVM-dam-aband-20-08-23.jpg
 Russia,Tanks ,T-72B3,russian federation,"83, captured",https://i.postimg.cc/J4tzjR7x/1017-t72b3-capt-22-01-23.jpg
+Russia,Tanks ,T-72B3,russian federation,"206, destroyed",https://i.postimg.cc/J7jscb64/3211.png
 Russia,Tanks ,T-72B3,russian federation,"116, destroyed",https://i.postimg.cc/Jh9RxFZK/2022-04-07-t-72b3-1.jpg
 Russia,Tanks ,T-72B3,russian federation,"30, captured",https://i.postimg.cc/JhrRczwF/65h.png
 Russia,Tanks ,T-72B3,russian federation,"158, destroyed",https://i.postimg.cc/JnCNf9fb/1014-t72b3-destr-05-02-23.jpg
