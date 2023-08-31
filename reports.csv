@@ -2,7 +2,8 @@ country,category,equipment,equipment_origin,text,source
 Russia,Aircraft ,An-26 transport aircraft,ussr,"1, destroyed in a non-combat related incident",https://i.postimg.cc/R0ppMFNQ/448.png
 Russia,Aircraft ,Il-22 airborne command post,ussr,"1, damaged",https://i.postimg.cc/wxtPmTsw/1051-Il-22-dam-03-04-22.jpg
 Russia,Aircraft ,Il-22 airborne command post,ussr,"1, destroyed",https://twitter.com/UAWeapons/status/1672542143280234496
-Russia,Aircraft ,Il-76 transport aircraft,ussr,"1 and 2, damaged beyond economical repair on the ground",https://i.postimg.cc/bY4N2WyD/543.png
+Russia,Aircraft ,Il-76 transport aircraft,ussr,"1 and 2, destroyed on the ground",https://i.postimg.cc/LsPYg3Mp/24k.png
+Russia,Aircraft ,Il-76 transport aircraft,ussr,"3 and 4, damaged beyond economical repair on the ground",https://i.postimg.cc/W1R5JSBN/24k.png
 Russia,Aircraft ,MiG-31BM fighter aircraft,russian federation,"1, destroyed in a non-combat related incident",https://twitter.com/thewarzonewire/status/1577767346093314048
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"5, destroyed in a non-combat related incident",https://i.postimg.cc/DmVxDdDp/436.png
 Russia,Aircraft ,Su-24M/MR strike/tactical reconnaissance aircraft,ussr,"6, damaged beyond economical repair on the ground",https://i.postimg.cc/mDQ1Vp8m/3326.png
@@ -125,6 +126,7 @@ Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"13, des
 Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"3, captured",https://i.postimg.cc/g0nfvNjc/1013-brm1k.jpg
 Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"2, destroyed",https://i.postimg.cc/gj3KbRGG/fsl.png
 Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"8, captured",https://i.postimg.cc/k4vsL4Hv/1010-brm-1k-capt.jpg
+Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"14, destroyed",https://i.postimg.cc/vT22xsWD/76j.png
 Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"7, destroyed",https://i.postimg.cc/yNVXckN7/s1.png
 Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"7, captured",https://i.postimg.cc/yYnZX0Xs/488.png
 Russia,Armoured Fighting Vehicles ,BRM-1(K) reconnaissance vehicle,ussr,"1, destroyed",https://postimg.cc/bGSbfRQm
@@ -4408,6 +4410,7 @@ Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"34, captured",
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"110, captured",https://i.postimg.cc/zGjrMtzW/1012-btr82a-capt.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"40, destroyed",https://i.postimg.cc/zGvvczFd/3223.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"93, destroyed",https://i.postimg.cc/zXQb8dN2/4313.png
+Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"327, destroyed",https://i.postimg.cc/zXqcdxdx/240.png
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"25, captured",https://i.postimg.cc/zfX8Ls5G/87.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"111, captured",https://i.postimg.cc/zv53xbMC/1014-btr82a-capt.jpg
 Russia,Infantry Fighting Vehicles ,BTR-82A(M),russian federation,"315, destroyed",https://i.postimg.cc/zvQzzVSc/1009-BTR-82-A-destr-13-09-22.jpg
@@ -4749,6 +4752,7 @@ Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"97, destroyed"
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"16, captured",https://i.postimg.cc/t45RJGBy/449.png
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"50, with Arbalet-DM turret, destroyed",https://i.postimg.cc/vBWKHMVX/10-07-2022-Tigr-M-Arbalet-DM-destroyed.png
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"53, destroyed",https://i.postimg.cc/vZRf920n/t1.jpg
+Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"110, destroyed",https://i.postimg.cc/vmCK3Mjn/2.png
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"85 and 86, destroyed",https://i.postimg.cc/vmVsQYsY/1002-2x-GAZ-Tigr-M-destr.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"70, destroyed",https://i.postimg.cc/vmhZJXCf/1026-Tigr-M-destr-13-03-23.jpg
 Russia,Infantry Mobility Vehicles ,GAZ Tigr-M,russian federation,"12, captured",https://i.postimg.cc/wvDJ4Vgv/Tigr-M-captured.png
@@ -4813,6 +4817,7 @@ Russia,Infantry Mobility Vehicles ,Iveco LMV Rys,italy,"5, damaged and captured"
 Russia,Infantry Mobility Vehicles ,Iveco LMV Rys,italy,"9, destroyed",https://twitter.com/UAWeapons/status/1646580037456637952
 Russia,Jammers And Deception Systems ,1L262E Rtut-BM,russian federation,"1, destroyed",https://i.postimg.cc/26yT1ms4/687.png
 Russia,Jammers And Deception Systems ,1RL257 Krasukha-4 (command post),russian federation,"1, captured",https://i.postimg.cc/G3y10MLj/87.png
+Russia,Jammers And Deception Systems ,Leer-2 electronic warfare system,russian federation,"4, destroyed",https://i.postimg.cc/PrB8XRB4/356.png
 Russia,Jammers And Deception Systems ,Leer-2 electronic warfare system,russian federation,"3, destroyed",https://i.postimg.cc/dttJwhn2/1020-leer2-destr-25-07-23.jpg
 Russia,Jammers And Deception Systems ,Leer-2 electronic warfare system,russian federation,"2, destroyed",https://i.postimg.cc/mDPjGdXz/1045-Leer-2-destr-16-07-23.jpg
 Russia,Jammers And Deception Systems ,Leer-2 electronic warfare system,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1553681823573725184
@@ -5630,6 +5635,7 @@ Russia,Self-Propelled Artillery ,122mm 2S1 Gvozdika,ussr,"39 and 40, destroyed",
 Russia,Self-Propelled Artillery ,122mm 2S1 Gvozdika,ussr,"43, destroyed",https://twitter.com/UAWeapons/status/1651564282918719489
 Russia,Self-Propelled Artillery ,122mm 2S1 Gvozdika,ussr,"48, destroyed",https://twitter.com/UAWeapons/status/1676137451683733504
 Russia,Self-Propelled Artillery ,122mm 2S1 Gvozdika,ussr,"41, destroyed",https://twitter.com/naalsio26/status/1640096081080991744
+Russia,Self-Propelled Artillery ,122mm 2S1 Gvozdika,ussr,"65, destroyed",https://twitter.com/naalsio26/status/1696920434363580869
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"54, destroyed",https://i.postimg.cc/0N5W2GPx/3f60.png
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"44, destroyed",https://i.postimg.cc/1XcDWRv9/1001-msta-s-destr.jpg
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"16, destroyed",https://i.postimg.cc/1zhRvmfp/t5.jpg
@@ -7264,6 +7270,7 @@ Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"17, captured",https://twitter
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"85 and 86, destroyed",https://twitter.com/UAWeapons/status/1602279682841448451
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"100, destroyed",https://twitter.com/UAWeapons/status/1635725524545798151
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"103, captured",https://twitter.com/UAWeapons/status/1674481857386168320
+Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"125, destroyed",https://twitter.com/UAWeapons/status/1697263030168367373
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"106, destroyed",https://twitter.com/naalsio26/status/1648145283010707456
 Russia,Tanks ,T-72B3 Obr. 2016,russian federation,"124, destroyed",https://twitter.com/naalsio26/status/1696331884010086592
 Russia,Tanks ,T-72B3 Obr. 2022,russian federation,"3, destroyed",https://i.postimg.cc/QC4cxhP7/1022-72-B3-obr-2022-destr-10-08-23.jpg
