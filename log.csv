@@ -7889,3 +7889,7 @@ timestamp,country,category,state,value
 2023-09-04 21:12:15,Russia,tanks,destroyed,2
 2023-09-04 21:12:15,Russia,towed artillery,destroyed,1
 2023-09-04 21:12:15,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2023-09-05 12:29:31,Russia,infantry fighting vehicles,destroyed,4
+2023-09-05 12:29:31,Russia,multiple rocket launchers,damaged,1
+2023-09-05 12:29:31,Russia,multiple rocket launchers,destroyed,1
+2023-09-05 12:29:31,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
