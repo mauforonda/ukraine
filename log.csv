@@ -7920,3 +7920,11 @@ timestamp,country,category,state,value
 2023-09-07 15:15:39,Russia,tanks,damaged,1
 2023-09-07 15:15:39,Russia,tanks,destroyed,4
 2023-09-07 15:15:39,Russia,"trucks, vehicles, and jeeps",destroyed,5
+2023-09-07 18:18:54,Russia,armoured fighting vehicles,abandoned,-1
+2023-09-07 18:18:54,Russia,armoured fighting vehicles,damaged,1
+2023-09-07 18:18:54,Russia,armoured fighting vehicles,destroyed,3
+2023-09-07 18:18:54,Russia,engineering vehicles and equipment,abandoned,1
+2023-09-07 18:18:54,Russia,infantry fighting vehicles,destroyed,7
+2023-09-07 18:18:54,Russia,multiple rocket launchers,destroyed,1
+2023-09-07 18:18:54,Russia,tanks,destroyed,4
+2023-09-07 18:18:54,Russia,"trucks, vehicles, and jeeps",destroyed,5
