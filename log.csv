@@ -7933,3 +7933,8 @@ timestamp,country,category,state,value
 2023-09-09 01:03:44,Russia,multiple rocket launchers,destroyed,1
 2023-09-09 01:03:44,Russia,tanks,captured,1
 2023-09-09 12:25:59,Russia,self-propelled artillery,destroyed,1
+2023-09-09 15:13:29,Russia,engineering vehicles and equipment,destroyed,-1
+2023-09-09 15:13:29,Russia,self-propelled artillery,destroyed,1
+2023-09-09 15:13:29,Russia,surface-to-air missile systems,damaged,1
+2023-09-09 15:13:29,Russia,surface-to-air missile systems,destroyed,4
+2023-09-09 15:13:29,Russia,tanks,destroyed,1
