@@ -7938,3 +7938,5 @@ timestamp,country,category,state,value
 2023-09-09 15:13:29,Russia,surface-to-air missile systems,damaged,1
 2023-09-09 15:13:29,Russia,surface-to-air missile systems,destroyed,4
 2023-09-09 15:13:29,Russia,tanks,destroyed,1
+2023-09-09 18:17:22,Russia,surface-to-air missile systems,destroyed,-1
+2023-09-09 18:17:22,Russia,"trucks, vehicles, and jeeps",destroyed,1
