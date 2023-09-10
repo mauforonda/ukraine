@@ -7952,3 +7952,6 @@ timestamp,country,category,state,value
 2023-09-10 15:13:43,Russia,tanks,abandoned,2
 2023-09-10 15:13:43,Russia,tanks,destroyed,1
 2023-09-10 15:13:43,Russia,"trucks, vehicles, and jeeps",destroyed,2
+2023-09-10 21:11:48,Russia,armoured fighting vehicles,destroyed,1
+2023-09-10 21:11:48,Russia,self-propelled artillery,destroyed,-1
+2023-09-10 21:11:48,Russia,towed artillery,captured,1
