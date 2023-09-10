@@ -7940,3 +7940,8 @@ timestamp,country,category,state,value
 2023-09-09 15:13:29,Russia,tanks,destroyed,1
 2023-09-09 18:17:22,Russia,surface-to-air missile systems,destroyed,-1
 2023-09-09 18:17:22,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2023-09-10 12:26:22,Russia,armoured fighting vehicles,captured,1
+2023-09-10 12:26:22,Russia,armoured personnel carriers,destroyed,1
+2023-09-10 12:26:22,Russia,infantry fighting vehicles,destroyed,1
+2023-09-10 12:26:22,Russia,infantry mobility vehicles,destroyed,1
+2023-09-10 12:26:22,Russia,"trucks, vehicles, and jeeps",destroyed,5
