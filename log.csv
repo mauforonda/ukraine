@@ -7964,3 +7964,6 @@ timestamp,country,category,state,value
 2023-09-11 18:19:17,Russia,engineering vehicles and equipment,destroyed,1
 2023-09-11 18:19:17,Russia,infantry fighting vehicles,destroyed,1
 2023-09-11 18:19:17,Russia,tanks,destroyed,1
+2023-09-12 01:04:08,Russia,infantry fighting vehicles,abandoned,1
+2023-09-12 01:04:08,Russia,infantry fighting vehicles,destroyed,2
+2023-09-12 01:04:08,Russia,"trucks, vehicles, and jeeps",destroyed,2
