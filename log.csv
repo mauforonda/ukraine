@@ -7984,3 +7984,9 @@ timestamp,country,category,state,value
 2023-09-13 09:15:00,Russia,naval ships,destroyed,-9
 2023-09-13 09:15:00,Russia,naval ships and submarines,damaged,7
 2023-09-13 09:15:00,Russia,naval ships and submarines,destroyed,9
+2023-09-13 12:30:16,Russia,aircraft,destroyed,1
+2023-09-13 12:30:16,Russia,multiple rocket launchers,damaged,1
+2023-09-13 12:30:16,Russia,naval ships and submarines,damaged,-1
+2023-09-13 12:30:16,Russia,naval ships and submarines,destroyed,1
+2023-09-13 12:30:16,Russia,surface-to-air missile systems,destroyed,-1
+2023-09-13 12:30:16,Russia,towed artillery,damaged,1
