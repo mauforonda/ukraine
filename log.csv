@@ -8001,3 +8001,7 @@ timestamp,country,category,state,value
 2023-09-14 12:29:42,Russia,naval ships and submarines,damaged,-1
 2023-09-14 12:29:42,Russia,naval ships and submarines,destroyed,1
 2023-09-14 18:19:27,Russia,tanks,destroyed,2
+2023-09-15 09:15:09,Russia,infantry fighting vehicles,destroyed,1
+2023-09-15 09:15:09,Russia,multiple rocket launchers,destroyed,1
+2023-09-15 09:15:09,Russia,surface-to-air missile systems,destroyed,1
+2023-09-15 09:15:09,Russia,"trucks, vehicles, and jeeps",destroyed,1
