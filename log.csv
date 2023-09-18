@@ -8018,3 +8018,7 @@ timestamp,country,category,state,value
 2023-09-18 09:15:22,Russia,tanks,captured,1
 2023-09-18 09:15:22,Russia,tanks,damaged,-1
 2023-09-18 09:15:22,Russia,tanks,destroyed,6
+2023-09-18 15:16:27,Russia,engineering vehicles and equipment,destroyed,-2
+2023-09-18 15:16:27,Russia,self-propelled artillery,damaged,1
+2023-09-18 15:16:27,Russia,self-propelled artillery,destroyed,1
+2023-09-18 15:16:27,Russia,"trucks, vehicles, and jeeps",destroyed,1
