@@ -8025,3 +8025,8 @@ timestamp,country,category,state,value
 2023-09-19 12:30:23,Russia,armoured fighting vehicles,destroyed,1
 2023-09-19 12:30:23,Russia,self-propelled artillery,destroyed,2
 2023-09-19 12:30:23,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2023-09-19 15:16:13,Russia,infantry fighting vehicles,destroyed,-1
+2023-09-19 15:16:13,Russia,infantry mobility vehicles,destroyed,1
+2023-09-19 15:16:13,Russia,tanks,abandoned,1
+2023-09-19 15:16:13,Russia,tanks,destroyed,7
+2023-09-19 15:16:13,Russia,"trucks, vehicles, and jeeps",destroyed,1
