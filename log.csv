@@ -8053,3 +8053,6 @@ timestamp,country,category,state,value
 2023-09-21 21:13:02,Russia,self-propelled artillery,destroyed,1
 2023-09-21 21:13:02,Russia,towed artillery,damaged,2
 2023-09-21 21:13:02,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2023-09-22 15:15:30,Russia,infantry fighting vehicles,destroyed,-2
+2023-09-22 15:15:30,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-09-22 15:15:30,Russia,"trucks, vehicles, and jeeps",destroyed,-2
