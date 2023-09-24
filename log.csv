@@ -8056,3 +8056,10 @@ timestamp,country,category,state,value
 2023-09-22 15:15:30,Russia,infantry fighting vehicles,destroyed,-2
 2023-09-22 15:15:30,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
 2023-09-22 15:15:30,Russia,"trucks, vehicles, and jeeps",destroyed,-2
+2023-09-24 18:17:40,Russia,armoured personnel carriers,destroyed,2
+2023-09-24 18:17:40,Russia,helicopters,damaged,1
+2023-09-24 18:17:40,Russia,infantry fighting vehicles,damaged,1
+2023-09-24 18:17:40,Russia,infantry fighting vehicles,destroyed,1
+2023-09-24 18:17:40,Russia,multiple rocket launchers,destroyed,1
+2023-09-24 18:17:40,Russia,self-propelled artillery,destroyed,2
+2023-09-24 18:17:40,Russia,tanks,destroyed,-1
