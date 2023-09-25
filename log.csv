@@ -8076,3 +8076,10 @@ timestamp,country,category,state,value
 2023-09-24 21:12:00,Russia,towed artillery,damaged,2
 2023-09-24 21:12:00,Russia,towed artillery,destroyed,3
 2023-09-24 21:12:00,Russia,"trucks, vehicles, and jeeps",destroyed,11
+2023-09-25 18:19:59,Russia,infantry fighting vehicles,destroyed,1
+2023-09-25 18:19:59,Russia,mine-resistant ambush protected,destroyed,1
+2023-09-25 18:19:59,Russia,multiple rocket launchers,destroyed,1
+2023-09-25 18:19:59,Russia,tanks,destroyed,2
+2023-09-25 18:19:59,Russia,towed artillery,destroyed,1
+2023-09-25 18:19:59,Russia,"trucks, vehicles, and jeeps",captured,1
+2023-09-25 18:19:59,Russia,"trucks, vehicles, and jeeps",destroyed,1
