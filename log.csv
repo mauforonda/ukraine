@@ -8084,3 +8084,9 @@ timestamp,country,category,state,value
 2023-09-25 18:19:59,Russia,"trucks, vehicles, and jeeps",captured,1
 2023-09-25 18:19:59,Russia,"trucks, vehicles, and jeeps",destroyed,1
 2023-09-25 21:13:06,Russia,armoured fighting vehicles,destroyed,1
+2023-09-26 12:30:49,Russia,armoured personnel carriers,captured,1
+2023-09-26 12:30:49,Russia,engineering vehicles and equipment,destroyed,1
+2023-09-26 12:30:49,Russia,mine-resistant ambush protected,destroyed,-1
+2023-09-26 12:30:49,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-09-26 12:30:49,Russia,self-propelled anti-tank missile systems,destroyed,1
+2023-09-26 12:30:49,Russia,"trucks, vehicles, and jeeps",destroyed,1
