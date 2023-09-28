@@ -8096,3 +8096,13 @@ timestamp,country,category,state,value
 2023-09-27 01:07:07,Russia,tanks,destroyed,1
 2023-09-27 01:07:07,Russia,towed artillery,destroyed,1
 2023-09-28 09:15:18,Russia,tanks,captured,-1
+2023-09-28 12:30:14,Russia,armoured fighting vehicles,destroyed,1
+2023-09-28 12:30:14,Russia,armoured personnel carriers,destroyed,-1
+2023-09-28 12:30:14,Russia,infantry fighting vehicles,destroyed,-1
+2023-09-28 12:30:14,Russia,infantry mobility vehicles,destroyed,2
+2023-09-28 12:30:14,Russia,multiple rocket launchers,destroyed,-1
+2023-09-28 12:30:14,Russia,reconnaissance unmanned aerial vehicles,captured,-1
+2023-09-28 12:30:14,Russia,self-propelled artillery,destroyed,1
+2023-09-28 12:30:14,Russia,surface-to-air missile systems,destroyed,1
+2023-09-28 12:30:14,Russia,tanks,abandoned,-2
+2023-09-28 12:30:14,Russia,tanks,destroyed,-3
