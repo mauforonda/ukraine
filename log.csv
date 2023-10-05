@@ -8136,3 +8136,18 @@ timestamp,country,category,state,value
 2023-10-05 12:31:45,Russia,engineering vehicles and equipment,destroyed,1
 2023-10-05 12:31:45,Russia,self-propelled artillery,destroyed,2
 2023-10-05 12:31:45,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2023-10-05 18:20:27,Russia,anti-aircraft guns,destroyed,1
+2023-10-05 18:20:27,Russia,armoured fighting vehicles,captured,1
+2023-10-05 18:20:27,Russia,armoured personnel carriers,abandoned,1
+2023-10-05 18:20:27,Russia,command posts and communications stations,destroyed,1
+2023-10-05 18:20:27,Russia,engineering vehicles and equipment,destroyed,2
+2023-10-05 18:20:27,Russia,infantry fighting vehicles,destroyed,4
+2023-10-05 18:20:27,Russia,jammers and deception systems,destroyed,1
+2023-10-05 18:20:27,Russia,multiple rocket launchers,damaged,1
+2023-10-05 18:20:27,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-10-05 18:20:27,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-10-05 18:20:27,Russia,tanks,damaged,1
+2023-10-05 18:20:27,Russia,tanks,destroyed,3
+2023-10-05 18:20:27,Russia,"trucks, vehicles, and jeeps",captured,1
+2023-10-05 18:20:27,Russia,"trucks, vehicles, and jeeps",damaged,2
+2023-10-05 18:20:27,Russia,"trucks, vehicles, and jeeps",destroyed,19
