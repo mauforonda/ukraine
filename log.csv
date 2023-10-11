@@ -8183,3 +8183,7 @@ timestamp,country,category,state,value
 2023-10-08 18:18:20,Russia,tanks,abandoned,1
 2023-10-08 18:18:20,Russia,tanks,destroyed,-2
 2023-10-08 21:12:14,Russia,infantry fighting vehicles,destroyed,-1
+2023-10-11 18:20:31,Russia,armoured fighting vehicles,abandoned,2
+2023-10-11 18:20:31,Russia,armoured fighting vehicles,destroyed,1
+2023-10-11 18:20:31,Russia,command posts and communications stations,destroyed,1
+2023-10-11 18:20:31,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
