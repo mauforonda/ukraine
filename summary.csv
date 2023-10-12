@@ -6,11 +6,11 @@ Russia,Anti-Aircraft Guns ,destroyed,5
 Russia,Armoured Fighting Vehicles ,abandoned,38
 Russia,Armoured Fighting Vehicles ,captured,269
 Russia,Armoured Fighting Vehicles ,damaged,29
-Russia,Armoured Fighting Vehicles ,destroyed,657
-Russia,Armoured Personnel Carriers ,abandoned,16
+Russia,Armoured Fighting Vehicles ,destroyed,658
+Russia,Armoured Personnel Carriers ,abandoned,17
 Russia,Armoured Personnel Carriers ,captured,92
 Russia,Armoured Personnel Carriers ,damaged,9
-Russia,Armoured Personnel Carriers ,destroyed,238
+Russia,Armoured Personnel Carriers ,destroyed,240
 Russia,Artillery Support Vehicles And Equipment ,abandoned,2
 Russia,Artillery Support Vehicles And Equipment ,captured,52
 Russia,Artillery Support Vehicles And Equipment ,destroyed,55
@@ -18,21 +18,21 @@ Russia,Command Posts And Communications Stations ,abandoned,2
 Russia,Command Posts And Communications Stations ,captured,83
 Russia,Command Posts And Communications Stations ,damaged,2
 Russia,Command Posts And Communications Stations ,destroyed,166
-Russia,Engineering Vehicles And Equipment ,abandoned,40
+Russia,Engineering Vehicles And Equipment ,abandoned,41
 Russia,Engineering Vehicles And Equipment ,captured,125
 Russia,Engineering Vehicles And Equipment ,damaged,9
 Russia,Engineering Vehicles And Equipment ,destroyed,175
 Russia,Helicopters ,captured,2
 Russia,Helicopters ,damaged,13
 Russia,Helicopters ,destroyed,91
-Russia,Infantry Fighting Vehicles ,abandoned,152
-Russia,Infantry Fighting Vehicles ,captured,614
+Russia,Infantry Fighting Vehicles ,abandoned,154
+Russia,Infantry Fighting Vehicles ,captured,615
 Russia,Infantry Fighting Vehicles ,damaged,110
-Russia,Infantry Fighting Vehicles ,destroyed,1962
+Russia,Infantry Fighting Vehicles ,destroyed,1978
 Russia,Infantry Mobility Vehicles ,abandoned,2
 Russia,Infantry Mobility Vehicles ,captured,51
 Russia,Infantry Mobility Vehicles ,damaged,7
-Russia,Infantry Mobility Vehicles ,destroyed,151
+Russia,Infantry Mobility Vehicles ,destroyed,152
 Russia,Jammers And Deception Systems ,captured,7
 Russia,Jammers And Deception Systems ,damaged,6
 Russia,Jammers And Deception Systems ,destroyed,42
@@ -43,7 +43,7 @@ Russia,Mine-Resistant Ambush Protected ,destroyed,34
 Russia,Multiple Rocket Launchers ,abandoned,2
 Russia,Multiple Rocket Launchers ,captured,52
 Russia,Multiple Rocket Launchers ,damaged,19
-Russia,Multiple Rocket Launchers ,destroyed,211
+Russia,Multiple Rocket Launchers ,destroyed,212
 Russia,Naval Ships and Submarines ,damaged,5
 Russia,Naval Ships and Submarines ,destroyed,11
 Russia,Radars ,captured,9
@@ -61,23 +61,23 @@ Russia,Self-Propelled Anti-Tank Missile Systems ,damaged,1
 Russia,Self-Propelled Anti-Tank Missile Systems ,destroyed,18
 Russia,Self-Propelled Artillery ,abandoned,7
 Russia,Self-Propelled Artillery ,captured,107
-Russia,Self-Propelled Artillery ,damaged,31
-Russia,Self-Propelled Artillery ,destroyed,403
+Russia,Self-Propelled Artillery ,damaged,32
+Russia,Self-Propelled Artillery ,destroyed,408
 Russia,Surface-To-Air Missile Systems ,abandoned,4
 Russia,Surface-To-Air Missile Systems ,captured,24
 Russia,Surface-To-Air Missile Systems ,damaged,23
-Russia,Surface-To-Air Missile Systems ,destroyed,118
-Russia,Tanks ,abandoned,138
+Russia,Surface-To-Air Missile Systems ,destroyed,119
+Russia,Tanks ,abandoned,141
 Russia,Tanks ,captured,550
-Russia,Tanks ,damaged,132
-Russia,Tanks ,destroyed,1542
+Russia,Tanks ,damaged,134
+Russia,Tanks ,destroyed,1553
 Russia,Towed Artillery ,abandoned,5
 Russia,Towed Artillery ,captured,98
 Russia,Towed Artillery ,damaged,31
-Russia,Towed Artillery ,destroyed,183
+Russia,Towed Artillery ,destroyed,186
 Russia,"Trucks, Vehicles, and Jeeps ",abandoned,51
-Russia,"Trucks, Vehicles, and Jeeps ",captured,570
+Russia,"Trucks, Vehicles, and Jeeps ",captured,573
 Russia,"Trucks, Vehicles, and Jeeps ",damaged,62
-Russia,"Trucks, Vehicles, and Jeeps ",destroyed,2225
+Russia,"Trucks, Vehicles, and Jeeps ",destroyed,2228
 Russia,Unmanned Combat Aerial Vehicles ,captured,3
 Russia,Unmanned Combat Aerial Vehicles ,destroyed,11
