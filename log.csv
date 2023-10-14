@@ -8205,3 +8205,9 @@ timestamp,country,category,state,value
 2023-10-12 01:05:04,Russia,towed artillery,destroyed,3
 2023-10-12 01:05:04,Russia,"trucks, vehicles, and jeeps",captured,3
 2023-10-12 01:05:04,Russia,"trucks, vehicles, and jeeps",destroyed,3
+2023-10-14 12:27:11,Russia,armoured fighting vehicles,destroyed,3
+2023-10-14 12:27:11,Russia,infantry fighting vehicles,destroyed,2
+2023-10-14 12:27:11,Russia,multiple rocket launchers,destroyed,1
+2023-10-14 12:27:11,Russia,self-propelled artillery,destroyed,1
+2023-10-14 12:27:11,Russia,tanks,abandoned,1
+2023-10-14 12:27:11,Russia,towed artillery,destroyed,1
