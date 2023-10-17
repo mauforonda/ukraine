@@ -8231,3 +8231,5 @@ timestamp,country,category,state,value
 2023-10-14 18:18:23,Russia,"trucks, vehicles, and jeeps",destroyed,5
 2023-10-14 21:12:03,Russia,armoured personnel carriers,destroyed,-1
 2023-10-14 21:12:03,Russia,infantry fighting vehicles,abandoned,-2
+2023-10-17 21:13:16,Russia,multiple rocket launchers,destroyed,1
+2023-10-17 21:13:16,Russia,self-propelled artillery,destroyed,2
