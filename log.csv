@@ -8238,3 +8238,16 @@ timestamp,country,category,state,value
 2023-10-18 01:07:21,Russia,tanks,abandoned,2
 2023-10-18 01:07:21,Russia,tanks,damaged,1
 2023-10-18 01:07:21,Russia,tanks,destroyed,12
+2023-10-19 01:07:09,Russia,armoured fighting vehicles,abandoned,1
+2023-10-19 01:07:09,Russia,armoured fighting vehicles,destroyed,2
+2023-10-19 01:07:09,Russia,armoured personnel carriers,damaged,1
+2023-10-19 01:07:09,Russia,armoured personnel carriers,destroyed,3
+2023-10-19 01:07:09,Russia,engineering vehicles and equipment,damaged,1
+2023-10-19 01:07:09,Russia,engineering vehicles and equipment,destroyed,1
+2023-10-19 01:07:09,Russia,helicopters,destroyed,9
+2023-10-19 01:07:09,Russia,jammers and deception systems,destroyed,2
+2023-10-19 01:07:09,Russia,multiple rocket launchers,destroyed,4
+2023-10-19 01:07:09,Russia,self-propelled artillery,destroyed,8
+2023-10-19 01:07:09,Russia,surface-to-air missile systems,destroyed,1
+2023-10-19 01:07:09,Russia,towed artillery,captured,3
+2023-10-19 01:07:09,Russia,"trucks, vehicles, and jeeps",destroyed,10
