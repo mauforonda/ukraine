@@ -8252,3 +8252,32 @@ timestamp,country,category,state,value
 2023-10-19 01:07:09,Russia,towed artillery,captured,3
 2023-10-19 01:07:09,Russia,"trucks, vehicles, and jeeps",destroyed,10
 2023-10-21 09:13:11,Russia,armoured personnel carriers,destroyed,-1
+2023-10-21 21:12:25,Russia,armoured fighting vehicles,destroyed,5
+2023-10-21 21:12:25,Russia,armoured personnel carriers,abandoned,1
+2023-10-21 21:12:25,Russia,armoured personnel carriers,destroyed,1
+2023-10-21 21:12:25,Russia,command posts and communications stations,captured,1
+2023-10-21 21:12:25,Russia,engineering vehicles and equipment,damaged,1
+2023-10-21 21:12:25,Russia,engineering vehicles and equipment,destroyed,1
+2023-10-21 21:12:25,Russia,helicopters,damaged,15
+2023-10-21 21:12:25,Russia,helicopters,destroyed,1
+2023-10-21 21:12:25,Russia,infantry fighting vehicles,abandoned,6
+2023-10-21 21:12:25,Russia,infantry fighting vehicles,damaged,1
+2023-10-21 21:12:25,Russia,infantry fighting vehicles,destroyed,33
+2023-10-21 21:12:25,Russia,infantry mobility vehicles,abandoned,2
+2023-10-21 21:12:25,Russia,infantry mobility vehicles,damaged,1
+2023-10-21 21:12:25,Russia,infantry mobility vehicles,destroyed,2
+2023-10-21 21:12:25,Russia,mine-resistant ambush protected,destroyed,1
+2023-10-21 21:12:25,Russia,multiple rocket launchers,captured,1
+2023-10-21 21:12:25,Russia,multiple rocket launchers,destroyed,1
+2023-10-21 21:12:25,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2023-10-21 21:12:25,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-10-21 21:12:25,Russia,self-propelled artillery,destroyed,9
+2023-10-21 21:12:25,Russia,surface-to-air missile systems,damaged,1
+2023-10-21 21:12:25,Russia,surface-to-air missile systems,destroyed,1
+2023-10-21 21:12:25,Russia,tanks,abandoned,6
+2023-10-21 21:12:25,Russia,tanks,destroyed,9
+2023-10-21 21:12:25,Russia,towed artillery,damaged,2
+2023-10-21 21:12:25,Russia,towed artillery,destroyed,1
+2023-10-21 21:12:25,Russia,"trucks, vehicles, and jeeps",captured,1
+2023-10-21 21:12:25,Russia,"trucks, vehicles, and jeeps",damaged,2
+2023-10-21 21:12:25,Russia,"trucks, vehicles, and jeeps",destroyed,11
