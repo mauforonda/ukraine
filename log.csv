@@ -8285,3 +8285,13 @@ timestamp,country,category,state,value
 2023-10-23 12:30:34,Russia,self-propelled artillery,destroyed,-1
 2023-10-23 12:30:34,Russia,"trucks, vehicles, and jeeps",captured,-1
 2023-10-23 12:30:34,Russia,"trucks, vehicles, and jeeps",destroyed,-2
+2023-10-24 15:17:19,Russia,armoured fighting vehicles,damaged,-1
+2023-10-24 15:17:19,Russia,armoured fighting vehicles,destroyed,-1
+2023-10-24 15:17:19,Russia,engineering vehicles and equipment,damaged,-1
+2023-10-24 15:17:19,Russia,engineering vehicles and equipment,destroyed,-1
+2023-10-24 15:17:19,Russia,infantry fighting vehicles,abandoned,-1
+2023-10-24 15:17:19,Russia,infantry fighting vehicles,destroyed,-4
+2023-10-24 15:17:19,Russia,jammers and deception systems,damaged,1
+2023-10-24 15:17:19,Russia,self-propelled artillery,destroyed,-1
+2023-10-24 15:17:19,Russia,tanks,abandoned,1
+2023-10-24 15:17:19,Russia,"trucks, vehicles, and jeeps",destroyed,-1
