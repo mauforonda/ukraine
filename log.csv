@@ -8332,3 +8332,5 @@ timestamp,country,category,state,value
 2023-10-28 15:14:49,Russia,tanks,abandoned,-3
 2023-10-28 15:14:49,Russia,tanks,damaged,2
 2023-10-28 15:14:49,Russia,tanks,destroyed,-5
+2023-10-31 18:19:41,Russia,multiple rocket launchers,destroyed,1
+2023-10-31 18:19:41,Russia,tanks,destroyed,1
