@@ -8390,3 +8390,21 @@ timestamp,country,category,state,value
 2023-11-05 21:12:49,Russia,towed artillery,destroyed,3
 2023-11-05 21:12:49,Russia,"trucks, vehicles, and jeeps",destroyed,3
 2023-11-06 01:10:12,Russia,tanks,abandoned,-1
+2023-11-10 01:07:59,Russia,aircraft,destroyed,1
+2023-11-10 01:07:59,Russia,armoured fighting vehicles,abandoned,1
+2023-11-10 01:07:59,Russia,armoured fighting vehicles,destroyed,10
+2023-11-10 01:07:59,Russia,armoured personnel carriers,abandoned,1
+2023-11-10 01:07:59,Russia,armoured personnel carriers,destroyed,-224
+2023-11-10 01:07:59,Russia,command posts and communications stations,destroyed,1
+2023-11-10 01:07:59,Russia,engineering vehicles and equipment,abandoned,2
+2023-11-10 01:07:59,Russia,infantry fighting vehicles,abandoned,4
+2023-11-10 01:07:59,Russia,infantry fighting vehicles,destroyed,16
+2023-11-10 01:07:59,Russia,jammers and deception systems,damaged,1
+2023-11-10 01:07:59,Russia,jammers and deception systems,destroyed,1
+2023-11-10 01:07:59,Russia,naval ships and submarines,destroyed,1
+2023-11-10 01:07:59,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2023-11-10 01:07:59,Russia,surface-to-air missile systems,destroyed,2
+2023-11-10 01:07:59,Russia,tanks,abandoned,5
+2023-11-10 01:07:59,Russia,tanks,destroyed,3
+2023-11-10 01:07:59,Russia,towed artillery,destroyed,1
+2023-11-10 01:07:59,Russia,"trucks, vehicles, and jeeps",destroyed,6
