@@ -8437,3 +8437,10 @@ timestamp,country,category,state,value
 2023-11-14 01:08:14,Russia,tanks,destroyed,10
 2023-11-14 01:08:14,Russia,"trucks, vehicles, and jeeps",damaged,2
 2023-11-14 01:08:14,Russia,"trucks, vehicles, and jeeps",destroyed,7
+2023-11-14 15:16:22,Russia,armoured personnel carriers,destroyed,-1
+2023-11-14 15:16:22,Russia,artillery support vehicles and equipment,captured,1
+2023-11-14 15:16:22,Russia,engineering vehicles and equipment,abandoned,-1
+2023-11-14 15:16:22,Russia,tanks,abandoned,-3
+2023-11-14 15:16:22,Russia,tanks,captured,-2
+2023-11-14 15:16:22,Russia,tanks,damaged,-2
+2023-11-14 15:16:22,Russia,tanks,destroyed,-13
