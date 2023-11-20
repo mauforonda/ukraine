@@ -8485,3 +8485,14 @@ timestamp,country,category,state,value
 2023-11-20 06:21:23,Russia,self-propelled artillery,destroyed,-1
 2023-11-20 06:21:23,Russia,tanks,abandoned,-1
 2023-11-20 06:21:23,Russia,tanks,destroyed,1
+2023-11-20 09:16:53,Russia,armoured fighting vehicles,destroyed,5
+2023-11-20 09:16:53,Russia,infantry fighting vehicles,damaged,1
+2023-11-20 09:16:53,Russia,infantry fighting vehicles,destroyed,1
+2023-11-20 09:16:53,Russia,multiple rocket launchers,damaged,1
+2023-11-20 09:16:53,Russia,multiple rocket launchers,destroyed,1
+2023-11-20 09:16:53,Russia,self-propelled artillery,destroyed,3
+2023-11-20 09:16:53,Russia,surface-to-air missile systems,destroyed,1
+2023-11-20 09:16:53,Russia,tanks,abandoned,1
+2023-11-20 09:16:53,Russia,tanks,destroyed,1
+2023-11-20 09:16:53,Russia,"trucks, vehicles, and jeeps",damaged,1
+2023-11-20 09:16:53,Russia,"trucks, vehicles, and jeeps",destroyed,5
