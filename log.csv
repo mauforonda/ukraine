@@ -8537,3 +8537,12 @@ timestamp,country,category,state,value
 2023-11-30 09:15:28,Russia,surface-to-air missile systems,damaged,1
 2023-11-30 09:15:28,Russia,surface-to-air missile systems,destroyed,1
 2023-11-30 09:15:28,Russia,tanks,destroyed,1
+2023-11-30 15:15:20,Russia,armoured fighting vehicles,destroyed,-4
+2023-11-30 15:15:20,Russia,armoured personnel carriers,abandoned,-1
+2023-11-30 15:15:20,Russia,engineering vehicles and equipment,damaged,1
+2023-11-30 15:15:20,Russia,infantry fighting vehicles,damaged,1
+2023-11-30 15:15:20,Russia,infantry fighting vehicles,destroyed,-4
+2023-11-30 15:15:20,Russia,self-propelled artillery,destroyed,-1
+2023-11-30 15:15:20,Russia,surface-to-air missile systems,destroyed,1
+2023-11-30 15:15:20,Russia,tanks,destroyed,-1
+2023-11-30 15:15:20,Russia,"trucks, vehicles, and jeeps",destroyed,-6
