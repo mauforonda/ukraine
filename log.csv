@@ -8585,3 +8585,16 @@ timestamp,country,category,state,value
 2023-12-07 15:16:57,Russia,surface-to-air missile systems,damaged,1
 2023-12-07 15:16:57,Russia,tanks,damaged,1
 2023-12-07 15:16:57,Russia,tanks,destroyed,2
+2023-12-07 18:20:17,Russia,aircraft,destroyed,1
+2023-12-07 18:20:17,Russia,armoured fighting vehicles,abandoned,1
+2023-12-07 18:20:17,Russia,armoured fighting vehicles,destroyed,5
+2023-12-07 18:20:17,Russia,armoured personnel carriers,damaged,-14
+2023-12-07 18:20:17,Russia,armoured personnel carriers,destroyed,-254
+2023-12-07 18:20:17,Russia,engineering vehicles and equipment,destroyed,1
+2023-12-07 18:20:17,Russia,infantry fighting vehicles,abandoned,4
+2023-12-07 18:20:17,Russia,infantry fighting vehicles,destroyed,14
+2023-12-07 18:20:17,Russia,multiple rocket launchers,destroyed,1
+2023-12-07 18:20:17,Russia,self-propelled artillery,destroyed,4
+2023-12-07 18:20:17,Russia,tanks,abandoned,6
+2023-12-07 18:20:17,Russia,tanks,destroyed,5
+2023-12-07 18:20:17,Russia,"trucks, vehicles, and jeeps",destroyed,5
