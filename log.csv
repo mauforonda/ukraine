@@ -8631,3 +8631,15 @@ timestamp,country,category,state,value
 2023-12-12 15:16:42,Russia,tanks,abandoned,9
 2023-12-12 15:16:42,Russia,tanks,destroyed,10
 2023-12-12 15:16:42,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2023-12-13 15:16:58,Russia,anti-aircraft guns,captured,3
+2023-12-13 15:16:58,Russia,anti-aircraft guns,destroyed,18
+2023-12-13 15:16:58,Russia,armoured fighting vehicles,abandoned,1
+2023-12-13 15:16:58,Russia,engineering vehicles and equipment,destroyed,1
+2023-12-13 15:16:58,Russia,infantry fighting vehicles,abandoned,-2
+2023-12-13 15:16:58,Russia,infantry fighting vehicles,destroyed,1
+2023-12-13 15:16:58,Russia,tanks,abandoned,-4
+2023-12-13 15:16:58,Russia,tanks,captured,-1
+2023-12-13 15:16:58,Russia,tanks,destroyed,-2
+2023-12-13 15:16:58,Russia,towed artillery,destroyed,1
+2023-12-13 15:16:58,Russia,"trucks, vehicles, and jeeps",captured,-3
+2023-12-13 15:16:58,Russia,"trucks, vehicles, and jeeps",destroyed,-18
