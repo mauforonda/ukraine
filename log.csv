@@ -8643,3 +8643,6 @@ timestamp,country,category,state,value
 2023-12-13 15:16:58,Russia,towed artillery,destroyed,1
 2023-12-13 15:16:58,Russia,"trucks, vehicles, and jeeps",captured,-3
 2023-12-13 15:16:58,Russia,"trucks, vehicles, and jeeps",destroyed,-18
+2023-12-13 21:13:46,Russia,infantry fighting vehicles,destroyed,-4
+2023-12-13 21:13:46,Russia,tanks,abandoned,-3
+2023-12-13 21:13:46,Russia,tanks,destroyed,3
