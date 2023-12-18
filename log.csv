@@ -8671,3 +8671,9 @@ timestamp,country,category,state,value
 2023-12-18 15:16:42,Russia,infantry fighting vehicles,abandoned,-1
 2023-12-18 15:16:42,Russia,infantry fighting vehicles,destroyed,3
 2023-12-18 15:16:42,Russia,tanks,destroyed,1
+2023-12-18 18:20:01,Russia,armoured fighting vehicles,destroyed,-2
+2023-12-18 18:20:01,Russia,infantry fighting vehicles,abandoned,-2
+2023-12-18 18:20:01,Russia,infantry fighting vehicles,destroyed,1
+2023-12-18 18:20:01,Russia,tanks,abandoned,5
+2023-12-18 18:20:01,Russia,tanks,damaged,2
+2023-12-18 18:20:01,Russia,tanks,destroyed,8
