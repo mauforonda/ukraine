@@ -8667,3 +8667,7 @@ timestamp,country,category,state,value
 2023-12-17 21:13:00,Russia,armoured personnel carriers,abandoned,-1
 2023-12-17 21:13:00,Russia,infantry fighting vehicles,destroyed,-2
 2023-12-17 21:13:00,Russia,"trucks, vehicles, and jeeps",destroyed,-1
+2023-12-18 15:16:42,Russia,engineering vehicles and equipment,abandoned,1
+2023-12-18 15:16:42,Russia,infantry fighting vehicles,abandoned,-1
+2023-12-18 15:16:42,Russia,infantry fighting vehicles,destroyed,3
+2023-12-18 15:16:42,Russia,tanks,destroyed,1
