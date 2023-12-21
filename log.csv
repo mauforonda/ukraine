@@ -8700,3 +8700,12 @@ timestamp,country,category,state,value
 2023-12-21 12:29:43,Russia,tanks,captured,-1
 2023-12-21 12:29:43,Russia,tanks,destroyed,-5
 2023-12-21 12:29:43,Russia,"trucks, vehicles, and jeeps",destroyed,-3
+2023-12-21 15:15:54,Russia,armoured fighting vehicles,abandoned,1
+2023-12-21 15:15:54,Russia,armoured fighting vehicles,destroyed,1
+2023-12-21 15:15:54,Russia,infantry fighting vehicles,abandoned,2
+2023-12-21 15:15:54,Russia,jammers and deception systems,destroyed,1
+2023-12-21 15:15:54,Russia,multiple rocket launchers,destroyed,1
+2023-12-21 15:15:54,Russia,radars,destroyed,1
+2023-12-21 15:15:54,Russia,self-propelled artillery,destroyed,1
+2023-12-21 15:15:54,Russia,surface-to-air missile systems,destroyed,2
+2023-12-21 15:15:54,Russia,"trucks, vehicles, and jeeps",destroyed,2
