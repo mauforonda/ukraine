@@ -8761,3 +8761,5 @@ timestamp,country,category,state,value
 2023-12-26 01:07:53,Russia,tanks,damaged,1
 2023-12-26 01:07:53,Russia,tanks,destroyed,5
 2023-12-26 01:07:53,Russia,"trucks, vehicles, and jeeps",destroyed,2
+2023-12-26 03:16:06,Russia,infantry fighting vehicles,destroyed,-1
+2023-12-26 03:16:06,Russia,multiple rocket launchers,destroyed,1
