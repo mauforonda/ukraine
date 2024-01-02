@@ -8811,3 +8811,4 @@ timestamp,country,category,state,value
 2023-12-31 21:12:45,Russia,tanks,destroyed,3
 2023-12-31 21:12:45,Russia,"trucks, vehicles, and jeeps",captured,2
 2023-12-31 21:12:45,Russia,"trucks, vehicles, and jeeps",destroyed,15
+2024-01-02 01:08:24,Russia,tanks,damaged,-1
