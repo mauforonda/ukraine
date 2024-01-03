@@ -8812,3 +8812,9 @@ timestamp,country,category,state,value
 2023-12-31 21:12:45,Russia,"trucks, vehicles, and jeeps",captured,2
 2023-12-31 21:12:45,Russia,"trucks, vehicles, and jeeps",destroyed,15
 2024-01-02 01:08:24,Russia,tanks,damaged,-1
+2024-01-03 15:15:53,Russia,infantry fighting vehicles,damaged,3
+2024-01-03 15:15:53,Russia,infantry fighting vehicles,destroyed,1
+2024-01-03 15:15:53,Russia,multiple rocket launchers,damaged,2
+2024-01-03 15:15:53,Russia,radars,destroyed,1
+2024-01-03 15:15:53,Russia,self-propelled artillery,destroyed,2
+2024-01-03 15:15:53,Russia,surface-to-air missile systems,destroyed,1

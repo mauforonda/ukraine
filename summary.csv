@@ -25,8 +25,8 @@ Russia,Helicopters ,damaged,28
 Russia,Helicopters ,destroyed,104
 Russia,Infantry Fighting Vehicles ,abandoned,211
 Russia,Infantry Fighting Vehicles ,captured,617
-Russia,Infantry Fighting Vehicles ,damaged,129
-Russia,Infantry Fighting Vehicles ,destroyed,2254
+Russia,Infantry Fighting Vehicles ,damaged,132
+Russia,Infantry Fighting Vehicles ,destroyed,2255
 Russia,Infantry Mobility Vehicles ,abandoned,5
 Russia,Infantry Mobility Vehicles ,captured,51
 Russia,Infantry Mobility Vehicles ,damaged,11
@@ -40,13 +40,13 @@ Russia,Mine-Resistant Ambush Protected ,damaged,4
 Russia,Mine-Resistant Ambush Protected ,destroyed,36
 Russia,Multiple Rocket Launchers ,abandoned,2
 Russia,Multiple Rocket Launchers ,captured,53
-Russia,Multiple Rocket Launchers ,damaged,26
+Russia,Multiple Rocket Launchers ,damaged,28
 Russia,Multiple Rocket Launchers ,destroyed,247
 Russia,Naval Ships and Submarines ,damaged,7
 Russia,Naval Ships and Submarines ,destroyed,13
 Russia,Radars ,captured,10
 Russia,Radars ,damaged,5
-Russia,Radars ,destroyed,33
+Russia,Radars ,destroyed,34
 Russia,Reconnaissance Unmanned Aerial Vehicles ,captured,132
 Russia,Reconnaissance Unmanned Aerial Vehicles ,destroyed,180
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,2
@@ -60,11 +60,11 @@ Russia,Self-Propelled Anti-Tank Missile Systems ,destroyed,18
 Russia,Self-Propelled Artillery ,abandoned,7
 Russia,Self-Propelled Artillery ,captured,107
 Russia,Self-Propelled Artillery ,damaged,37
-Russia,Self-Propelled Artillery ,destroyed,490
+Russia,Self-Propelled Artillery ,destroyed,492
 Russia,Surface-To-Air Missile Systems ,abandoned,4
 Russia,Surface-To-Air Missile Systems ,captured,24
 Russia,Surface-To-Air Missile Systems ,damaged,30
-Russia,Surface-To-Air Missile Systems ,destroyed,135
+Russia,Surface-To-Air Missile Systems ,destroyed,136
 Russia,Tanks ,abandoned,205
 Russia,Tanks ,captured,544
 Russia,Tanks ,damaged,145
