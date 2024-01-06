@@ -8836,3 +8836,12 @@ timestamp,country,category,state,value
 2024-01-06 15:14:40,Russia,towed artillery,captured,-1
 2024-01-06 15:14:40,Russia,"trucks, vehicles, and jeeps",abandoned,-3
 2024-01-06 15:14:40,Russia,"trucks, vehicles, and jeeps",destroyed,-1
+2024-01-06 21:12:59,Russia,armoured fighting vehicles,captured,1
+2024-01-06 21:12:59,Russia,armoured fighting vehicles,destroyed,1
+2024-01-06 21:12:59,Russia,infantry fighting vehicles,abandoned,3
+2024-01-06 21:12:59,Russia,infantry fighting vehicles,captured,1
+2024-01-06 21:12:59,Russia,infantry fighting vehicles,damaged,1
+2024-01-06 21:12:59,Russia,infantry fighting vehicles,destroyed,17
+2024-01-06 21:12:59,Russia,self-propelled artillery,destroyed,1
+2024-01-06 21:12:59,Russia,tanks,abandoned,2
+2024-01-06 21:12:59,Russia,tanks,destroyed,5
