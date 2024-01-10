@@ -8865,3 +8865,10 @@ timestamp,country,category,state,value
 2024-01-09 21:13:55,Russia,tanks,abandoned,2
 2024-01-09 21:13:55,Russia,tanks,destroyed,4
 2024-01-09 21:13:55,Russia,"trucks, vehicles, and jeeps",destroyed,2
+2024-01-10 21:12:55,Russia,armoured fighting vehicles,destroyed,-1
+2024-01-10 21:12:55,Russia,command posts and communications stations,captured,-1
+2024-01-10 21:12:55,Russia,command posts and communications stations,destroyed,1
+2024-01-10 21:12:55,Russia,infantry mobility vehicles,damaged,1
+2024-01-10 21:12:55,Russia,infantry mobility vehicles,destroyed,-1
+2024-01-10 21:12:55,Russia,surface-to-air missile systems,destroyed,1
+2024-01-10 21:12:55,Russia,"trucks, vehicles, and jeeps",destroyed,-1
