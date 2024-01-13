@@ -8899,3 +8899,17 @@ timestamp,country,category,state,value
 2024-01-11 01:11:57,Russia,"trucks, vehicles, and jeeps",damaged,1
 2024-01-11 01:11:57,Russia,"trucks, vehicles, and jeeps",destroyed,-1
 2024-01-13 18:18:41,Russia,jammers and deception systems,destroyed,1
+2024-01-13 21:13:12,Russia,armoured fighting vehicles,abandoned,2
+2024-01-13 21:13:12,Russia,armoured fighting vehicles,destroyed,10
+2024-01-13 21:13:12,Russia,engineering vehicles and equipment,captured,1
+2024-01-13 21:13:12,Russia,engineering vehicles and equipment,destroyed,2
+2024-01-13 21:13:12,Russia,infantry fighting vehicles,abandoned,4
+2024-01-13 21:13:12,Russia,infantry fighting vehicles,captured,2
+2024-01-13 21:13:12,Russia,infantry fighting vehicles,damaged,1
+2024-01-13 21:13:12,Russia,infantry fighting vehicles,destroyed,10
+2024-01-13 21:13:12,Russia,multiple rocket launchers,destroyed,1
+2024-01-13 21:13:12,Russia,self-propelled artillery,destroyed,3
+2024-01-13 21:13:12,Russia,tanks,abandoned,1
+2024-01-13 21:13:12,Russia,tanks,damaged,2
+2024-01-13 21:13:12,Russia,tanks,destroyed,3
+2024-01-13 21:13:12,Russia,"trucks, vehicles, and jeeps",destroyed,14
