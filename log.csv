@@ -8928,3 +8928,5 @@ timestamp,country,category,state,value
 2024-01-16 12:31:00,Russia,tanks,destroyed,3
 2024-01-16 12:31:00,Russia,"trucks, vehicles, and jeeps",damaged,1
 2024-01-16 12:31:00,Russia,"trucks, vehicles, and jeeps",destroyed,2
+2024-01-16 21:14:20,Russia,aircraft,damaged,1
+2024-01-16 21:14:20,Russia,aircraft,destroyed,1
