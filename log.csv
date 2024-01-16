@@ -8916,3 +8916,15 @@ timestamp,country,category,state,value
 2024-01-16 09:15:58,Russia,armoured fighting vehicles,damaged,1
 2024-01-16 09:15:58,Russia,multiple rocket launchers,destroyed,1
 2024-01-16 09:15:58,Russia,self-propelled artillery,destroyed,1
+2024-01-16 12:31:00,Russia,armoured fighting vehicles,abandoned,4
+2024-01-16 12:31:00,Russia,armoured fighting vehicles,destroyed,3
+2024-01-16 12:31:00,Russia,armoured personnel carriers,abandoned,2
+2024-01-16 12:31:00,Russia,infantry fighting vehicles,abandoned,4
+2024-01-16 12:31:00,Russia,infantry fighting vehicles,destroyed,3
+2024-01-16 12:31:00,Russia,multiple rocket launchers,destroyed,1
+2024-01-16 12:31:00,Russia,self-propelled artillery,destroyed,1
+2024-01-16 12:31:00,Russia,tanks,abandoned,6
+2024-01-16 12:31:00,Russia,tanks,damaged,2
+2024-01-16 12:31:00,Russia,tanks,destroyed,3
+2024-01-16 12:31:00,Russia,"trucks, vehicles, and jeeps",damaged,1
+2024-01-16 12:31:00,Russia,"trucks, vehicles, and jeeps",destroyed,2
