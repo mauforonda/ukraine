@@ -8913,3 +8913,6 @@ timestamp,country,category,state,value
 2024-01-13 21:13:12,Russia,tanks,damaged,2
 2024-01-13 21:13:12,Russia,tanks,destroyed,3
 2024-01-13 21:13:12,Russia,"trucks, vehicles, and jeeps",destroyed,14
+2024-01-16 09:15:58,Russia,armoured fighting vehicles,damaged,1
+2024-01-16 09:15:58,Russia,multiple rocket launchers,destroyed,1
+2024-01-16 09:15:58,Russia,self-propelled artillery,destroyed,1
