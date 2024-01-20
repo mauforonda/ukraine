@@ -8936,3 +8936,6 @@ timestamp,country,category,state,value
 2024-01-20 18:18:50,Russia,tanks,abandoned,-2
 2024-01-20 18:18:50,Russia,tanks,captured,-1
 2024-01-20 18:18:50,Russia,"trucks, vehicles, and jeeps",destroyed,-1
+2024-01-20 21:13:16,Russia,multiple rocket launchers,destroyed,1
+2024-01-20 21:13:16,Russia,radars,destroyed,1
+2024-01-20 21:13:16,Russia,surface-to-air missile systems,damaged,1
