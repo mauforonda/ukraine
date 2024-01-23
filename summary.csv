@@ -1,6 +1,6 @@
 country,category,state,value
-Russia,Aircraft ,damaged,9
-Russia,Aircraft ,destroyed,92
+Russia,Aircraft ,damaged,8
+Russia,Aircraft ,destroyed,93
 Russia,Anti-Aircraft Guns ,captured,17
 Russia,Anti-Aircraft Guns ,destroyed,27
 Russia,Armoured Fighting Vehicles ,abandoned,71
@@ -33,7 +33,7 @@ Russia,Infantry Mobility Vehicles ,damaged,12
 Russia,Infantry Mobility Vehicles ,destroyed,166
 Russia,Jammers And Deception Systems ,captured,7
 Russia,Jammers And Deception Systems ,damaged,10
-Russia,Jammers And Deception Systems ,destroyed,51
+Russia,Jammers And Deception Systems ,destroyed,52
 Russia,Mine-Resistant Ambush Protected ,abandoned,1
 Russia,Mine-Resistant Ambush Protected ,captured,10
 Russia,Mine-Resistant Ambush Protected ,damaged,4

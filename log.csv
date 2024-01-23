@@ -8963,3 +8963,6 @@ timestamp,country,category,state,value
 2024-01-22 21:14:11,Russia,engineering vehicles and equipment,captured,29
 2024-01-22 21:14:11,Russia,engineering vehicles and equipment,damaged,1
 2024-01-22 21:14:11,Russia,engineering vehicles and equipment,destroyed,46
+2024-01-23 15:17:07,Russia,aircraft,damaged,-1
+2024-01-23 15:17:07,Russia,aircraft,destroyed,1
+2024-01-23 15:17:07,Russia,jammers and deception systems,destroyed,1
