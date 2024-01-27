@@ -8994,3 +8994,7 @@ timestamp,country,category,state,value
 2024-01-27 01:05:51,Russia,engineering vehicles and equipment,abandoned,-1
 2024-01-27 01:05:51,Russia,infantry fighting vehicles,destroyed,-4
 2024-01-27 01:05:51,Russia,multiple rocket launchers,destroyed,-1
+2024-01-27 03:15:00,Russia,armoured fighting vehicles,destroyed,-1
+2024-01-27 03:15:00,Russia,infantry fighting vehicles,abandoned,-1
+2024-01-27 03:15:00,Russia,infantry fighting vehicles,destroyed,-1
+2024-01-27 03:15:00,Russia,self-propelled anti-aircraft guns,destroyed,-1
