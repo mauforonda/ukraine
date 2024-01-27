@@ -8991,3 +8991,6 @@ timestamp,country,category,state,value
 2024-01-23 21:14:11,Russia,tanks,damaged,1
 2024-01-23 21:14:11,Russia,tanks,destroyed,15
 2024-01-23 21:14:11,Russia,"trucks, vehicles, and jeeps",destroyed,10
+2024-01-27 01:05:51,Russia,engineering vehicles and equipment,abandoned,-1
+2024-01-27 01:05:51,Russia,infantry fighting vehicles,destroyed,-4
+2024-01-27 01:05:51,Russia,multiple rocket launchers,destroyed,-1
