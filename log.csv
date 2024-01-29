@@ -9018,3 +9018,8 @@ timestamp,country,category,state,value
 2024-01-27 06:17:41,Russia,"trucks, vehicles, and jeeps",destroyed,2
 2024-01-29 01:07:04,Russia,infantry fighting vehicles,abandoned,-1
 2024-01-29 01:07:04,Russia,infantry fighting vehicles,destroyed,1
+2024-01-29 18:18:22,Russia,armoured fighting vehicles,destroyed,1
+2024-01-29 18:18:22,Russia,armoured personnel carriers,abandoned,1
+2024-01-29 18:18:22,Russia,infantry fighting vehicles,abandoned,-1
+2024-01-29 18:18:22,Russia,tanks,destroyed,-1
+2024-01-29 18:18:22,Russia,"trucks, vehicles, and jeeps",destroyed,-5
