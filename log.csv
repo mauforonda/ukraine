@@ -9035,3 +9035,17 @@ timestamp,country,category,state,value
 2024-01-30 01:06:25,Russia,surface-to-air missile systems,destroyed,2
 2024-01-30 01:06:25,Russia,"trucks, vehicles, and jeeps",destroyed,7
 2024-02-01 18:18:20,Russia,naval ships and submarines,destroyed,1
+2024-02-01 21:13:47,Russia,armoured fighting vehicles,abandoned,1
+2024-02-01 21:13:47,Russia,armoured fighting vehicles,destroyed,15
+2024-02-01 21:13:47,Russia,command posts and communications stations,destroyed,1
+2024-02-01 21:13:47,Russia,infantry fighting vehicles,abandoned,5
+2024-02-01 21:13:47,Russia,infantry fighting vehicles,damaged,1
+2024-02-01 21:13:47,Russia,infantry fighting vehicles,destroyed,10
+2024-02-01 21:13:47,Russia,infantry mobility vehicles,destroyed,1
+2024-02-01 21:13:47,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2024-02-01 21:13:47,Russia,self-propelled artillery,destroyed,2
+2024-02-01 21:13:47,Russia,tanks,abandoned,8
+2024-02-01 21:13:47,Russia,tanks,destroyed,16
+2024-02-01 21:13:47,Russia,"trucks, vehicles, and jeeps",captured,1
+2024-02-01 21:13:47,Russia,"trucks, vehicles, and jeeps",damaged,1
+2024-02-01 21:13:47,Russia,"trucks, vehicles, and jeeps",destroyed,8
