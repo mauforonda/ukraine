@@ -9049,3 +9049,6 @@ timestamp,country,category,state,value
 2024-02-01 21:13:47,Russia,"trucks, vehicles, and jeeps",captured,1
 2024-02-01 21:13:47,Russia,"trucks, vehicles, and jeeps",damaged,1
 2024-02-01 21:13:47,Russia,"trucks, vehicles, and jeeps",destroyed,8
+2024-02-02 06:19:14,Russia,armoured fighting vehicles,destroyed,-1
+2024-02-02 06:19:14,Russia,tanks,destroyed,-1
+2024-02-02 06:19:14,Russia,"trucks, vehicles, and jeeps",destroyed,-3
