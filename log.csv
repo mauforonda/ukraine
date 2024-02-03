@@ -9057,3 +9057,16 @@ timestamp,country,category,state,value
 2024-02-02 09:16:00,Russia,infantry fighting vehicles,abandoned,-1
 2024-02-02 09:16:00,Russia,tanks,abandoned,-2
 2024-02-02 09:16:00,Russia,tanks,destroyed,1
+2024-02-03 09:14:58,Russia,armoured fighting vehicles,abandoned,2
+2024-02-03 09:14:58,Russia,armoured fighting vehicles,destroyed,8
+2024-02-03 09:14:58,Russia,armoured personnel carriers,abandoned,1
+2024-02-03 09:14:58,Russia,infantry fighting vehicles,abandoned,-1
+2024-02-03 09:14:58,Russia,infantry fighting vehicles,damaged,-1
+2024-02-03 09:14:58,Russia,infantry fighting vehicles,destroyed,6
+2024-02-03 09:14:58,Russia,infantry mobility vehicles,destroyed,-1
+2024-02-03 09:14:58,Russia,mine-resistant ambush protected,destroyed,1
+2024-02-03 09:14:58,Russia,multiple rocket launchers,destroyed,1
+2024-02-03 09:14:58,Russia,tanks,abandoned,5
+2024-02-03 09:14:58,Russia,tanks,captured,1
+2024-02-03 09:14:58,Russia,tanks,destroyed,4
+2024-02-03 09:14:58,Russia,"trucks, vehicles, and jeeps",destroyed,1
