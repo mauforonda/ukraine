@@ -9074,3 +9074,13 @@ timestamp,country,category,state,value
 2024-02-04 15:13:35,Russia,tanks,abandoned,-1
 2024-02-05 06:19:38,Russia,armoured fighting vehicles,destroyed,-5
 2024-02-05 06:19:38,Russia,infantry fighting vehicles,destroyed,-1
+2024-02-05 09:15:26,Russia,armoured fighting vehicles,destroyed,5
+2024-02-05 09:15:26,Russia,engineering vehicles and equipment,abandoned,2
+2024-02-05 09:15:26,Russia,infantry fighting vehicles,abandoned,3
+2024-02-05 09:15:26,Russia,infantry fighting vehicles,damaged,-1
+2024-02-05 09:15:26,Russia,infantry fighting vehicles,destroyed,1
+2024-02-05 09:15:26,Russia,infantry mobility vehicles,destroyed,-1
+2024-02-05 09:15:26,Russia,self-propelled artillery,destroyed,1
+2024-02-05 09:15:26,Russia,tanks,abandoned,2
+2024-02-05 09:15:26,Russia,tanks,destroyed,3
+2024-02-05 09:15:26,Russia,"trucks, vehicles, and jeeps",destroyed,1
