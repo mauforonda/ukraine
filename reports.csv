@@ -1268,11 +1268,11 @@ Russia,Armoured Personnel Carriers ,BTR-50,ussr,"1, damaged and abandoned",https
 Russia,Armoured Personnel Carriers ,BTR-50,ussr,"1, destroyed",https://twitter.com/UAWeapons/status/1713192932906320385
 Russia,Armoured Personnel Carriers ,BTR-50 with BPU-1 turret,ussr,"1, damaged and abandoned",https://i.postimg.cc/1XFNKS6T/1041-btr50-with-bpu1-turret-dam-aband-25-12-23.jpg
 Russia,Armoured Personnel Carriers ,BTR-60PB,ussr,"1, damaged",https://i.postimg.cc/28S1XDpx/1009-btr60.jpg
-Russia,Armoured Personnel Carriers ,BTR-70,ussr,"4, destroyed",https://i.postimg.cc/3R7bM9Bt/1030-btr70-destr-10-02-24.jpg
 Russia,Armoured Personnel Carriers ,BTR-70,ussr,"2, destroyed",https://i.postimg.cc/NMWkzrGS/v6.png
 Russia,Armoured Personnel Carriers ,BTR-70,ussr,"1, captured",https://i.postimg.cc/ZRSyFsmQ/2022-09-13-BTR.png
 Russia,Armoured Personnel Carriers ,BTR-70,ussr,"1, destroyed",https://i.postimg.cc/t42tHcCh/v5.png
 Russia,Armoured Personnel Carriers ,BTR-70,ussr,"3, destroyed",https://twitter.com/UAWeapons/status/1591539898456186880
+Russia,Armoured Personnel Carriers ,BTR-70M,russian federation,"3, destroyed",https://i.postimg.cc/3R7bM9Bt/1030-btr70-destr-10-02-24.jpg
 Russia,Armoured Personnel Carriers ,BTR-70M,russian federation,"2, destroyed",https://i.postimg.cc/85xLYVny/887.png
 Russia,Armoured Personnel Carriers ,BTR-70M,russian federation,"1, destroyed",https://i.postimg.cc/C1Cr277d/4c.png
 Russia,Armoured Personnel Carriers ,BTR-70M,russian federation,"1, captured",https://i.postimg.cc/MKXLg0xH/1000-btr80-capt.jpg
@@ -6385,16 +6385,16 @@ Russia,Naval Ships and Submarines ,Project 1171 Tapir-class landing ship,ussr,"1
 Russia,Naval Ships and Submarines ,Project 1176 Ondatra-class landing craft,ussr,"1, damaged",https://i.postimg.cc/bJrq67pm/1036-Ondatra-serna-class-dam-10-11-23.jpg
 Russia,Naval Ships and Submarines ,Project 11770 Serna-class landing craft,russian federation,"1, damaged",https://i.postimg.cc/bJrq67pm/1036-Ondatra-serna-class-dam-10-11-23.jpg
 Russia,Naval Ships and Submarines ,Project 11770 Serna-class landing craft,russian federation,"1, destroyed",https://i.postimg.cc/cJWjtN8s/437.png
-Russia,Naval Ships and Submarines ,Project 12411 Tarantul-III-class corvette,ussr,"1, destroyed",https://twitter.com/bayraktar_1love/status/1753010853324947582
+Russia,Naval Ships and Submarines ,Project 12411 Tarantul-III-class corvette,ussr,"1, Ivanovets, destroyed",https://twitter.com/bayraktar_1love/status/1753010853324947582
 Russia,Naval Ships and Submarines ,Project 22800 Karakurt-class corvette,russian federation,"1, B-802 'Askold', destroyed",https://i.postimg.cc/yWq9mLBs/1000-Askold-Project-22800-Karakurt-class-corvette-destr.jpg
 Russia,Naval Ships and Submarines ,Project 22870 rescue tug,russian federation,"1, SB-739 V'asily Bekh', destroyed",https://twitter.com/UAWeapons/status/1538455159914876928
 Russia,Naval Ships and Submarines ,Project 266M Natya-class minesweeper,ussr,"1, damaged",https://twitter.com/UAWeapons/status/1586363908071489536
 Russia,Naval Ships and Submarines ,Project 636.3 Improved Kilo-class submarine,russian federation,"1, B-237 'Rostov-na-Donu', damaged beyond economical repair",https://twitter.com/UAWeapons/status/1703731799128498239
 Russia,Naval Ships and Submarines ,Project 640 small patrol boat,russian federation,"1, destroyed",https://twitter.com/UAWeapons/status/1698331819282718772
-Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"1, damaged",https://i.postimg.cc/k4zbP5Ff/13.png
-Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"2, 'Novocherkassk', destroyed",https://i.postimg.cc/vH2qQmJb/1005-Project-775-Ropucha-class-landing-ship-Novocherkavsk-destr-26-12-23.jpg
-Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"2, 'Olenegorsky Gornyak', damaged",https://twitter.com/UAWeapons/status/1687356280069820416
+Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"2, BDK-46 'Novocherkassk', destroyed",https://i.postimg.cc/vH2qQmJb/1005-Project-775-Ropucha-class-landing-ship-Novocherkavsk-destr-26-12-23.jpg
+Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"1, 'Olenegorsky Gornyak', damaged",https://twitter.com/UAWeapons/status/1687356280069820416
 Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"1, 'Minsk', damaged beyond economical repair",https://twitter.com/UAWeapons/status/1701917293633028509
+Russia,Naval Ships and Submarines ,Project 775 Ropucha-class landing ship,poland,"3, BDK-64 'Caesar Kunikov', destroyed",https://twitter.com/wartranslated/status/1757676612588314719
 Russia,Radars ,"1K148 ""Yastreb-AV"" artillery reconnaissance complex",russian federation,"2, destroyed",https://i.postimg.cc/0ysP3zgn/1032-1-K148-Yastreb-AV-destr-23-01-24.jpg
 Russia,Radars ,"1K148 ""Yastreb-AV"" artillery reconnaissance complex",russian federation,"1, destroyed",https://twitter.com/bayraktar_1love/status/1742217579303772338
 Russia,Radars ,1L119 Nebo-SVU VHF multi-functional radar,russian federation,"1, destroyed",https://twitter.com/naalsio26/status/1644890845311582209
@@ -7118,6 +7118,7 @@ Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"52, destroyed",https://
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"129, destroyed",https://i.postimg.cc/zfNcZTqh/1035-msta-s-destr-31-08-23.jpg
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"24, captured",https://postimg.cc/HJFBNZXC
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"16, captured",https://postimg.cc/Mvk7GZHm
+Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"134 and 135, destroyed",https://twitter.com/NOELreports/status/1757685817651212360
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"50, destroyed",https://twitter.com/Poutsup/status/1594400619309432832
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"24, destroyed",https://twitter.com/UAWeapons/status/1549035451150790656
 Russia,Self-Propelled Artillery ,152mm 2S19 Msta-S,ussr,"22 and 23, destroyed",https://twitter.com/UAWeapons/status/1549432659239206915
