@@ -9197,3 +9197,5 @@ timestamp,country,category,state,value
 2024-02-22 12:27:26,Russia,tanks,destroyed,1
 2024-02-22 12:27:26,Russia,"trucks, vehicles, and jeeps",captured,-2
 2024-02-22 12:27:26,Russia,"trucks, vehicles, and jeeps",destroyed,-7
+2024-02-22 18:19:14,Russia,surface-to-air missile systems,destroyed,2
+2024-02-22 18:19:14,Russia,tanks,destroyed,2
