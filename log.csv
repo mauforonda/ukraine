@@ -9233,3 +9233,7 @@ timestamp,country,category,state,value
 2024-02-23 03:15:36,Russia,tanks,damaged,-3
 2024-02-23 03:15:36,Russia,tanks,destroyed,-5
 2024-02-23 03:15:36,Russia,"trucks, vehicles, and jeeps",destroyed,-3
+2024-02-23 09:14:41,Russia,infantry fighting vehicles,abandoned,2
+2024-02-23 09:14:41,Russia,infantry fighting vehicles,destroyed,3
+2024-02-23 09:14:41,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2024-02-23 09:14:41,Russia,tanks,abandoned,2
