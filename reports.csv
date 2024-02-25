@@ -1,5 +1,6 @@
 country,category,equipment,equipment_origin,text,source
 Russia,Aircraft ,An-26 transport aircraft,ussr,"1, destroyed in a non-combat related incident",https://i.postimg.cc/R0ppMFNQ/448.png
+Russia,Aircraft ,Beriev A-50,ussr,"2, destroyed",https://i.postimg.cc/9fNdwJLL/1000-a50-destr-23-02-23.jpg
 Russia,Aircraft ,Beriev A-50,ussr,"1, destroyed",https://i.postimg.cc/g2Xg4dgw/1032-a50-awacs-destr-14-01-24.jpg
 Russia,Aircraft ,Il-22 airborne command post,ussr,"2, damaged beyond economical repair",https://i.postimg.cc/GhSMk9xw/1024-Il-22-airborne-command-post-dam-14-01-24.jpg
 Russia,Aircraft ,Il-22 airborne command post,ussr,"1, damaged",https://i.postimg.cc/wxtPmTsw/1051-Il-22-dam-03-04-22.jpg
@@ -9417,7 +9418,7 @@ Russia,Tanks ,T-80BV,ussr,"93, destroyed",https://i.postimg.cc/c46yRRsY/1002-t80
 Russia,Tanks ,T-80BV,ussr,"9, destroyed",https://i.postimg.cc/c4Cb9Krn/1047-t80bv-destr-08-06-23.jpg
 Russia,Tanks ,T-80BV,ussr,"334, destroyed",https://i.postimg.cc/cJBKTD7q/1032-t80bv-destr-12-02-23.jpg
 Russia,Tanks ,T-80BV,ussr,"298, destroyed",https://i.postimg.cc/cJGS2PWW/1002-t80bv-destr-25-01-23.jpg
-Russia,Tanks ,T-80BV,ussr,"342, destroyed",https://i.postimg.cc/cLWmMsbT/1300-t80u-destr-31-12-23.jpg
+Russia,Tanks ,T-80BV,ussr,"341, destroyed",https://i.postimg.cc/cLWmMsbT/1300-t80u-destr-31-12-23.jpg
 Russia,Tanks ,T-80BV,ussr,"167, destroyed",https://i.postimg.cc/d1Dg5dTw/1006-t80bv-destr-14-06-23.jpg
 Russia,Tanks ,T-80BV,ussr,"238, destroyed",https://i.postimg.cc/d1LkmMzW/1011-t80bv-destr-11-08-23.jpg
 Russia,Tanks ,T-80BV,ussr,"51, abandoned",https://i.postimg.cc/d1rZrcYG/1044-t80bv-aband-25-12-23.jpg
@@ -9456,7 +9457,6 @@ Russia,Tanks ,T-80BV,ussr,"279, destroyed",https://i.postimg.cc/htkyRgX5/1052-t8
 Russia,Tanks ,T-80BV,ussr,"1 and 2, damaged and abandoned",https://i.postimg.cc/hv8ShJDX/97.png
 Russia,Tanks ,T-80BV,ussr,"95, destroyed",https://i.postimg.cc/j2RgnKgg/1003-t80bv-destr.jpg
 Russia,Tanks ,T-80BV,ussr,"70, destroyed",https://i.postimg.cc/j2dHxXd0/2022-06-29-t-80bv.jpg
-Russia,Tanks ,T-80BV,ussr,"340, destroyed",https://i.postimg.cc/j2jK7Lbk/1003-T-80-BV-destr-14-02-24.jpg
 Russia,Tanks ,T-80BV,ussr,"126, destroyed",https://i.postimg.cc/j5QsYGGD/1036-t80bv-destr-03-03-23.jpg
 Russia,Tanks ,T-80BV,ussr,"152, destroyed",https://i.postimg.cc/j5r4SZP9/1010-t72bobr2022-destr-02-11-23.jpg
 Russia,Tanks ,T-80BV,ussr,"120, destroyed",https://i.postimg.cc/jSJSSMR2/1007-t80bv-destr-16-02-23.jpg
@@ -9558,7 +9558,7 @@ Russia,Tanks ,T-80BV,ussr,"39, destroyed",https://i.postimg.cc/yxxfWpjK/6hp.png
 Russia,Tanks ,T-80BV,ussr,"234, destroyed",https://i.postimg.cc/zBm62c3z/1026-t80bv-destr-05-08-23.jpg
 Russia,Tanks ,T-80BV,ussr,"68, captured",https://i.postimg.cc/zBtjG5fZ/1016-t80bv-capt.jpg
 Russia,Tanks ,T-80BV,ussr,"219, destroyed",https://i.postimg.cc/zG0TM92J/1037-t80bv-destr-21-07-23.jpg
-Russia,Tanks ,T-80BV,ussr,"341, destroyed",https://i.postimg.cc/zX65yzP0/1016-t80bv-destr-18-02-24.jpg
+Russia,Tanks ,T-80BV,ussr,"340, destroyed",https://i.postimg.cc/zX65yzP0/1016-t80bv-destr-18-02-24.jpg
 Russia,Tanks ,T-80BV,ussr,"48, damaged and abandoned",https://i.postimg.cc/zX7B63fk/1028-t80bv-dam-aband-21-12-23.jpg
 Russia,Tanks ,T-80BV,ussr,"30, destroyed",https://i.postimg.cc/zf9CX1vj/1001.jpg
 Russia,Tanks ,T-80BV,ussr,"190, destroyed",https://i.postimg.cc/zvDNLfY8/1013-t80bv-destr-25-08-23.jpg
@@ -10256,7 +10256,7 @@ Russia,Tanks ,Unknown tank,russian federation,"82, destroyed",https://i.postimg.
 Russia,Tanks ,Unknown tank,russian federation,"94, destroyed",https://i.postimg.cc/Z5TKWTMW/1047-unkn-tank-destr-20-05-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"197, destroyed",https://i.postimg.cc/Z5ppCfLn/1037-unkn-tank-destr-05-05-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"1, destroyed",https://i.postimg.cc/ZYXm1v90/d1k.png
-Russia,Tanks ,Unknown tank,russian federation,"249, destroyed",https://i.postimg.cc/Zn7kCKyR/1069-unkn-tank-destr-30-01-24.jpg
+Russia,Tanks ,Unknown tank,russian federation,"241, destroyed",https://i.postimg.cc/Zn7kCKyR/1069-unkn-tank-destr-30-01-24.jpg
 Russia,Tanks ,Unknown tank,russian federation,"20, damaged",https://i.postimg.cc/bNwK7CFd/1029-unkn-tank-dam-04-06-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"26, abandoned",https://i.postimg.cc/bv01V72L/1005-unkn-tank-aband-04-01-24.jpg
 Russia,Tanks ,Unknown tank,russian federation,"12, 13 and 14, destroyed",https://i.postimg.cc/c1RSYb7Q/1005-16-10-23.jpg
@@ -10325,7 +10325,6 @@ Russia,Tanks ,Unknown tank,russian federation,"121, destroyed",https://i.postimg
 Russia,Tanks ,Unknown tank,russian federation,"172, destroyed",https://i.postimg.cc/x84rCrKJ/1128-unkn-tank-destr-28-02-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"129, destroyed",https://i.postimg.cc/y65KptpX/1009-unkn-tank-destr-20-10-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"19, damaged and abandoned",https://i.postimg.cc/y6gRR1P2/1050-Unknown-tank-dam-aband-07-02-24.jpg
-Russia,Tanks ,Unknown tank,russian federation,"241, destroyed",https://i.postimg.cc/yNCFP1Wk/1007-unkn-tank-destr-18-01-24.jpg
 Russia,Tanks ,Unknown tank,russian federation,"200, destroyed",https://i.postimg.cc/yNgbnDRd/1042-unkn-tank-destr-10-05-23.jpg
 Russia,Tanks ,Unknown tank,russian federation,"57, destroyed",https://i.postimg.cc/yW4t59rG/1005-tank-fuel-truck.jpg
 Russia,Tanks ,Unknown tank,russian federation,"246, destroyed",https://i.postimg.cc/yd0Yg9VN/1019-unkn-tank-destr-29-01-24.jpg
