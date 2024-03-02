@@ -9290,3 +9290,14 @@ timestamp,country,category,state,value
 2024-03-02 12:25:55,Russia,tanks,destroyed,8
 2024-03-02 12:25:55,Russia,towed artillery,destroyed,2
 2024-03-02 12:25:55,Russia,"trucks, vehicles, and jeeps",destroyed,6
+2024-03-02 15:13:56,Russia,armoured fighting vehicles,abandoned,-1
+2024-03-02 15:13:56,Russia,armoured fighting vehicles,destroyed,1
+2024-03-02 15:13:56,Russia,armoured personnel carriers,destroyed,-1
+2024-03-02 15:13:56,Russia,infantry fighting vehicles,abandoned,-2
+2024-03-02 15:13:56,Russia,infantry fighting vehicles,destroyed,5
+2024-03-02 15:13:56,Russia,jammers and deception systems,captured,1
+2024-03-02 15:13:56,Russia,tanks,abandoned,-4
+2024-03-02 15:13:56,Russia,tanks,captured,-2
+2024-03-02 15:13:56,Russia,tanks,destroyed,3
+2024-03-02 15:13:56,Russia,"trucks, vehicles, and jeeps",captured,-3
+2024-03-02 15:13:56,Russia,"trucks, vehicles, and jeeps",destroyed,-16
