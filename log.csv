@@ -9313,3 +9313,5 @@ timestamp,country,category,state,value
 2024-03-05 01:05:38,Russia,"trucks, vehicles, and jeeps",destroyed,6
 2024-03-06 18:19:51,Russia,naval ships and submarines,destroyed,1
 2024-03-07 12:27:43,Russia,"trucks, vehicles, and jeeps",destroyed,-1
+2024-03-07 15:15:20,Russia,tanks,abandoned,3
+2024-03-07 15:15:20,Russia,tanks,destroyed,5
