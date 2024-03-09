@@ -9326,3 +9326,17 @@ timestamp,country,category,state,value
 2024-03-09 12:25:01,Russia,armoured personnel carriers,abandoned,1
 2024-03-09 12:25:01,Russia,infantry fighting vehicles,destroyed,-1
 2024-03-09 12:25:01,Russia,jammers and deception systems,destroyed,1
+2024-03-09 15:13:45,Russia,anti-aircraft guns,destroyed,2
+2024-03-09 15:13:45,Russia,armoured fighting vehicles,abandoned,1
+2024-03-09 15:13:45,Russia,armoured fighting vehicles,destroyed,7
+2024-03-09 15:13:45,Russia,infantry fighting vehicles,abandoned,8
+2024-03-09 15:13:45,Russia,infantry fighting vehicles,damaged,1
+2024-03-09 15:13:45,Russia,infantry fighting vehicles,destroyed,17
+2024-03-09 15:13:45,Russia,infantry mobility vehicles,destroyed,1
+2024-03-09 15:13:45,Russia,multiple rocket launchers,destroyed,3
+2024-03-09 15:13:45,Russia,self-propelled anti-tank missile systems,captured,1
+2024-03-09 15:13:45,Russia,tanks,abandoned,2
+2024-03-09 15:13:45,Russia,tanks,damaged,1
+2024-03-09 15:13:45,Russia,tanks,destroyed,7
+2024-03-09 15:13:45,Russia,"trucks, vehicles, and jeeps",abandoned,1
+2024-03-09 15:13:45,Russia,"trucks, vehicles, and jeeps",destroyed,9
