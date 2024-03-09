@@ -9323,3 +9323,6 @@ timestamp,country,category,state,value
 2024-03-07 18:19:00,Russia,self-propelled artillery,captured,1
 2024-03-07 18:19:00,Russia,self-propelled artillery,destroyed,3
 2024-03-07 18:19:00,Russia,tanks,destroyed,4
+2024-03-09 12:25:01,Russia,armoured personnel carriers,abandoned,1
+2024-03-09 12:25:01,Russia,infantry fighting vehicles,destroyed,-1
+2024-03-09 12:25:01,Russia,jammers and deception systems,destroyed,1
