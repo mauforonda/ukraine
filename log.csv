@@ -9427,3 +9427,19 @@ timestamp,country,category,state,value
 2024-03-29 12:29:04,Russia,multiple rocket launchers,damaged,1
 2024-03-29 12:29:04,Russia,radars,destroyed,1
 2024-03-29 15:15:55,Russia,multiple rocket launchers,destroyed,-1
+2024-03-29 18:18:49,Russia,armoured fighting vehicles,destroyed,3
+2024-03-29 18:18:49,Russia,armoured personnel carriers,captured,-1
+2024-03-29 18:18:49,Russia,engineering vehicles and equipment,destroyed,2
+2024-03-29 18:18:49,Russia,infantry fighting vehicles,abandoned,1
+2024-03-29 18:18:49,Russia,infantry fighting vehicles,captured,-2
+2024-03-29 18:18:49,Russia,infantry fighting vehicles,destroyed,5
+2024-03-29 18:18:49,Russia,jammers and deception systems,destroyed,1
+2024-03-29 18:18:49,Russia,naval ships and submarines,damaged,1
+2024-03-29 18:18:49,Russia,self-propelled artillery,destroyed,2
+2024-03-29 18:18:49,Russia,surface-to-air missile systems,destroyed,1
+2024-03-29 18:18:49,Russia,tanks,abandoned,1
+2024-03-29 18:18:49,Russia,tanks,captured,-1
+2024-03-29 18:18:49,Russia,tanks,destroyed,9
+2024-03-29 18:18:49,Russia,towed artillery,destroyed,1
+2024-03-29 18:18:49,Russia,"trucks, vehicles, and jeeps",captured,-1
+2024-03-29 18:18:49,Russia,"trucks, vehicles, and jeeps",destroyed,3
