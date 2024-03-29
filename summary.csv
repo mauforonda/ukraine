@@ -1,6 +1,6 @@
 country,category,state,value
 Russia,Aircraft ,damaged,8
-Russia,Aircraft ,destroyed,98
+Russia,Aircraft ,destroyed,99
 Russia,Anti-Aircraft Guns ,captured,18
 Russia,Anti-Aircraft Guns ,damaged,1
 Russia,Anti-Aircraft Guns ,destroyed,32
@@ -43,13 +43,13 @@ Russia,Mine-Resistant Ambush Protected ,damaged,5
 Russia,Mine-Resistant Ambush Protected ,destroyed,37
 Russia,Multiple Rocket Launchers ,abandoned,2
 Russia,Multiple Rocket Launchers ,captured,54
-Russia,Multiple Rocket Launchers ,damaged,33
+Russia,Multiple Rocket Launchers ,damaged,34
 Russia,Multiple Rocket Launchers ,destroyed,274
 Russia,Naval Ships and Submarines ,damaged,5
 Russia,Naval Ships and Submarines ,destroyed,16
 Russia,Radars ,captured,10
 Russia,Radars ,damaged,12
-Russia,Radars ,destroyed,40
+Russia,Radars ,destroyed,41
 Russia,Reconnaissance Unmanned Aerial Vehicles ,captured,141
 Russia,Reconnaissance Unmanned Aerial Vehicles ,destroyed,196
 Russia,Self-Propelled Anti-Aircraft Guns ,abandoned,2

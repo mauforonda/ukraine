@@ -9423,3 +9423,6 @@ timestamp,country,category,state,value
 2024-03-27 01:06:23,Russia,tanks,damaged,1
 2024-03-27 01:06:23,Russia,tanks,destroyed,6
 2024-03-27 01:06:23,Russia,towed artillery,damaged,2
+2024-03-29 12:29:04,Russia,aircraft,destroyed,1
+2024-03-29 12:29:04,Russia,multiple rocket launchers,damaged,1
+2024-03-29 12:29:04,Russia,radars,destroyed,1
