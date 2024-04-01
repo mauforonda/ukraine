@@ -9445,3 +9445,10 @@ timestamp,country,category,state,value
 2024-03-29 18:18:49,Russia,"trucks, vehicles, and jeeps",destroyed,3
 2024-03-30 18:19:41,Russia,infantry fighting vehicles,damaged,1
 2024-03-30 18:19:41,Russia,infantry fighting vehicles,destroyed,2
+2024-04-01 09:17:24,Russia,armoured fighting vehicles,destroyed,-3
+2024-04-01 09:17:24,Russia,armoured personnel carriers,destroyed,-1
+2024-04-01 09:17:24,Russia,artillery support vehicles and equipment,abandoned,-1
+2024-04-01 09:17:24,Russia,artillery support vehicles and equipment,destroyed,1
+2024-04-01 09:17:24,Russia,engineering vehicles and equipment,abandoned,1
+2024-04-01 09:17:24,Russia,engineering vehicles and equipment,destroyed,1
+2024-04-01 09:17:24,Russia,towed artillery,destroyed,-1
