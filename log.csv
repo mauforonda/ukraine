@@ -9485,3 +9485,6 @@ timestamp,country,category,state,value
 2024-04-04 21:13:29,Russia,tanks,destroyed,7
 2024-04-04 21:13:29,Russia,towed artillery,destroyed,1
 2024-04-04 21:13:29,Russia,"trucks, vehicles, and jeeps",destroyed,10
+2024-04-07 18:18:22,Russia,multiple rocket launchers,destroyed,1
+2024-04-07 18:18:22,Russia,self-propelled artillery,destroyed,-1
+2024-04-07 18:18:22,Russia,towed artillery,destroyed,-2
