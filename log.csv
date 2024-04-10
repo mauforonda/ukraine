@@ -9504,3 +9504,20 @@ timestamp,country,category,state,value
 2024-04-08 01:09:07,Russia,"trucks, vehicles, and jeeps",destroyed,8
 2024-04-10 15:16:46,Russia,armoured personnel carriers,abandoned,-1
 2024-04-10 15:16:46,Russia,self-propelled artillery,destroyed,-1
+2024-04-10 18:21:31,Russia,aircraft,damaged,1
+2024-04-10 18:21:31,Russia,armoured fighting vehicles,abandoned,1
+2024-04-10 18:21:31,Russia,armoured fighting vehicles,destroyed,4
+2024-04-10 18:21:31,Russia,armoured personnel carriers,destroyed,1
+2024-04-10 18:21:31,Russia,engineering vehicles and equipment,destroyed,1
+2024-04-10 18:21:31,Russia,helicopters,destroyed,1
+2024-04-10 18:21:31,Russia,infantry fighting vehicles,abandoned,-2
+2024-04-10 18:21:31,Russia,infantry fighting vehicles,destroyed,41
+2024-04-10 18:21:31,Russia,jammers and deception systems,destroyed,1
+2024-04-10 18:21:31,Russia,multiple rocket launchers,destroyed,1
+2024-04-10 18:21:31,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2024-04-10 18:21:31,Russia,tanks,abandoned,2
+2024-04-10 18:21:31,Russia,tanks,damaged,-1
+2024-04-10 18:21:31,Russia,tanks,destroyed,13
+2024-04-10 18:21:31,Russia,towed artillery,damaged,1
+2024-04-10 18:21:31,Russia,towed artillery,destroyed,2
+2024-04-10 18:21:31,Russia,"trucks, vehicles, and jeeps",destroyed,5
