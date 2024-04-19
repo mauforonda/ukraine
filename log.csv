@@ -9554,3 +9554,7 @@ timestamp,country,category,state,value
 2024-04-17 01:08:21,Russia,"trucks, vehicles, and jeeps",damaged,1
 2024-04-17 01:08:21,Russia,"trucks, vehicles, and jeeps",destroyed,17
 2024-04-17 21:15:13,Russia,armoured fighting vehicles,destroyed,-3
+2024-04-19 18:19:01,Russia,anti-aircraft guns,destroyed,-1
+2024-04-19 18:19:01,Russia,infantry fighting vehicles,destroyed,-1
+2024-04-19 18:19:01,Russia,self-propelled anti-tank missile systems,captured,-1
+2024-04-19 18:19:01,Russia,towed artillery,captured,-4
