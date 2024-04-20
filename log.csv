@@ -9562,3 +9562,30 @@ timestamp,country,category,state,value
 2024-04-20 12:27:02,Russia,command posts and communications stations,destroyed,-1
 2024-04-20 15:15:06,Russia,aircraft,destroyed,1
 2024-04-20 15:15:06,Russia,naval ships and submarines,destroyed,1
+2024-04-20 18:19:40,Russia,armoured fighting vehicles,abandoned,-3
+2024-04-20 18:19:40,Russia,armoured fighting vehicles,captured,-2
+2024-04-20 18:19:40,Russia,armoured fighting vehicles,damaged,-1
+2024-04-20 18:19:40,Russia,armoured fighting vehicles,destroyed,6
+2024-04-20 18:19:40,Russia,armoured personnel carriers,destroyed,-1
+2024-04-20 18:19:40,Russia,artillery support vehicles and equipment,destroyed,1
+2024-04-20 18:19:40,Russia,command posts and communications stations,destroyed,1
+2024-04-20 18:19:40,Russia,engineering vehicles and equipment,captured,-1
+2024-04-20 18:19:40,Russia,engineering vehicles and equipment,destroyed,3
+2024-04-20 18:19:40,Russia,infantry fighting vehicles,abandoned,-5
+2024-04-20 18:19:40,Russia,infantry fighting vehicles,captured,-3
+2024-04-20 18:19:40,Russia,infantry fighting vehicles,damaged,1
+2024-04-20 18:19:40,Russia,infantry fighting vehicles,destroyed,6
+2024-04-20 18:19:40,Russia,infantry mobility vehicles,captured,1
+2024-04-20 18:19:40,Russia,multiple rocket launchers,destroyed,-1
+2024-04-20 18:19:40,Russia,reconnaissance unmanned aerial vehicles,destroyed,3
+2024-04-20 18:19:40,Russia,self-propelled artillery,destroyed,-2
+2024-04-20 18:19:40,Russia,surface-to-air missile systems,destroyed,4
+2024-04-20 18:19:40,Russia,tanks,abandoned,-1
+2024-04-20 18:19:40,Russia,tanks,captured,-12
+2024-04-20 18:19:40,Russia,tanks,damaged,1
+2024-04-20 18:19:40,Russia,tanks,destroyed,-10
+2024-04-20 18:19:40,Russia,towed artillery,captured,-1
+2024-04-20 18:19:40,Russia,towed artillery,destroyed,1
+2024-04-20 18:19:40,Russia,"trucks, vehicles, and jeeps",captured,-2
+2024-04-20 18:19:40,Russia,"trucks, vehicles, and jeeps",damaged,-1
+2024-04-20 18:19:40,Russia,"trucks, vehicles, and jeeps",destroyed,-13
