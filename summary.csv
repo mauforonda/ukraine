@@ -1,6 +1,6 @@
 country,category,state,value
 Russia,Aircraft ,damaged,9
-Russia,Aircraft ,destroyed,99
+Russia,Aircraft ,destroyed,100
 Russia,Anti-Aircraft Guns ,captured,18
 Russia,Anti-Aircraft Guns ,damaged,1
 Russia,Anti-Aircraft Guns ,destroyed,30
@@ -46,7 +46,7 @@ Russia,Multiple Rocket Launchers ,captured,54
 Russia,Multiple Rocket Launchers ,damaged,33
 Russia,Multiple Rocket Launchers ,destroyed,280
 Russia,Naval Ships and Submarines ,damaged,6
-Russia,Naval Ships and Submarines ,destroyed,16
+Russia,Naval Ships and Submarines ,destroyed,17
 Russia,Radars ,captured,10
 Russia,Radars ,damaged,13
 Russia,Radars ,destroyed,41

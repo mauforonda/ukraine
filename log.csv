@@ -9560,3 +9560,5 @@ timestamp,country,category,state,value
 2024-04-19 18:19:01,Russia,towed artillery,captured,-4
 2024-04-20 12:27:02,Russia,anti-aircraft guns,destroyed,-1
 2024-04-20 12:27:02,Russia,command posts and communications stations,destroyed,-1
+2024-04-20 15:15:06,Russia,aircraft,destroyed,1
+2024-04-20 15:15:06,Russia,naval ships and submarines,destroyed,1
