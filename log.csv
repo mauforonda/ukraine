@@ -9618,3 +9618,9 @@ timestamp,country,category,state,value
 2024-04-25 21:16:47,Russia,"trucks, vehicles, and jeeps",captured,-2
 2024-04-25 21:16:47,Russia,"trucks, vehicles, and jeeps",destroyed,-1
 2024-04-27 09:14:34,Russia,tanks,destroyed,3
+2024-04-27 12:26:44,Russia,multiple rocket launchers,destroyed,1
+2024-04-27 12:26:44,Russia,naval ships and submarines,damaged,1
+2024-04-27 12:26:44,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2024-04-27 12:26:44,Russia,self-propelled artillery,destroyed,4
+2024-04-27 12:26:44,Russia,towed artillery,destroyed,1
+2024-04-27 12:26:44,Russia,"trucks, vehicles, and jeeps",destroyed,5
