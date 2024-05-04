@@ -9651,3 +9651,14 @@ timestamp,country,category,state,value
 2024-05-01 21:14:07,Russia,tanks,abandoned,2
 2024-05-01 21:14:07,Russia,tanks,destroyed,10
 2024-05-01 21:14:07,Russia,"trucks, vehicles, and jeeps",destroyed,8
+2024-05-04 12:27:16,Russia,armoured fighting vehicles,abandoned,1
+2024-05-04 12:27:16,Russia,armoured fighting vehicles,destroyed,4
+2024-05-04 12:27:16,Russia,armoured personnel carriers,destroyed,3
+2024-05-04 12:27:16,Russia,infantry fighting vehicles,abandoned,-2
+2024-05-04 12:27:16,Russia,infantry fighting vehicles,destroyed,18
+2024-05-04 12:27:16,Russia,multiple rocket launchers,destroyed,1
+2024-05-04 12:27:16,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2024-05-04 12:27:16,Russia,self-propelled artillery,destroyed,2
+2024-05-04 12:27:16,Russia,tanks,abandoned,9
+2024-05-04 12:27:16,Russia,tanks,destroyed,12
+2024-05-04 12:27:16,Russia,"trucks, vehicles, and jeeps",destroyed,1
