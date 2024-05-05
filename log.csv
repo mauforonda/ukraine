@@ -9662,3 +9662,5 @@ timestamp,country,category,state,value
 2024-05-04 12:27:16,Russia,tanks,abandoned,9
 2024-05-04 12:27:16,Russia,tanks,destroyed,12
 2024-05-04 12:27:16,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2024-05-05 01:14:19,Russia,tanks,abandoned,-1
+2024-05-05 01:14:19,Russia,tanks,damaged,1
