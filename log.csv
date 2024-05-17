@@ -9717,3 +9717,14 @@ timestamp,country,category,state,value
 2024-05-14 21:14:28,Russia,tanks,abandoned,2
 2024-05-14 21:14:28,Russia,tanks,destroyed,14
 2024-05-14 21:14:28,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2024-05-17 21:14:23,Russia,aircraft,destroyed,3
+2024-05-17 21:14:23,Russia,armoured fighting vehicles,abandoned,1
+2024-05-17 21:14:23,Russia,armoured fighting vehicles,destroyed,2
+2024-05-17 21:14:23,Russia,engineering vehicles and equipment,damaged,1
+2024-05-17 21:14:23,Russia,engineering vehicles and equipment,destroyed,1
+2024-05-17 21:14:23,Russia,multiple rocket launchers,destroyed,2
+2024-05-17 21:14:23,Russia,radars,destroyed,1
+2024-05-17 21:14:23,Russia,reconnaissance unmanned aerial vehicles,destroyed,3
+2024-05-17 21:14:23,Russia,self-propelled artillery,destroyed,7
+2024-05-17 21:14:23,Russia,towed artillery,destroyed,1
+2024-05-17 21:14:23,Russia,"trucks, vehicles, and jeeps",destroyed,-1
