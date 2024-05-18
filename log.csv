@@ -9728,3 +9728,9 @@ timestamp,country,category,state,value
 2024-05-17 21:14:23,Russia,self-propelled artillery,destroyed,7
 2024-05-17 21:14:23,Russia,towed artillery,destroyed,1
 2024-05-17 21:14:23,Russia,"trucks, vehicles, and jeeps",destroyed,-1
+2024-05-18 01:10:53,Russia,armoured fighting vehicles,abandoned,-1
+2024-05-18 01:10:53,Russia,armoured fighting vehicles,destroyed,1
+2024-05-18 01:10:53,Russia,infantry fighting vehicles,destroyed,8
+2024-05-18 01:10:53,Russia,tanks,abandoned,2
+2024-05-18 01:10:53,Russia,tanks,destroyed,13
+2024-05-18 01:10:53,Russia,"trucks, vehicles, and jeeps",destroyed,4
