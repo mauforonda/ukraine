@@ -9822,3 +9822,13 @@ timestamp,country,category,state,value
 2024-06-02 09:17:09,Russia,tanks,abandoned,2
 2024-06-02 09:17:09,Russia,tanks,destroyed,2
 2024-06-02 09:17:09,Russia,towed artillery,destroyed,1
+2024-06-02 12:29:20,Russia,armoured fighting vehicles,abandoned,-1
+2024-06-02 12:29:20,Russia,armoured fighting vehicles,destroyed,1
+2024-06-02 12:29:20,Russia,infantry fighting vehicles,abandoned,1
+2024-06-02 12:29:20,Russia,infantry fighting vehicles,destroyed,8
+2024-06-02 12:29:20,Russia,naval ships and submarines,destroyed,1
+2024-06-02 12:29:20,Russia,reconnaissance unmanned aerial vehicles,captured,1
+2024-06-02 12:29:20,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2024-06-02 12:29:20,Russia,tanks,abandoned,-1
+2024-06-02 12:29:20,Russia,tanks,captured,-1
+2024-06-02 12:29:20,Russia,"trucks, vehicles, and jeeps",destroyed,6
