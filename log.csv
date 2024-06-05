@@ -9839,3 +9839,15 @@ timestamp,country,category,state,value
 2024-06-05 15:17:42,Russia,infantry mobility vehicles,destroyed,1
 2024-06-05 15:17:42,Russia,multiple rocket launchers,destroyed,1
 2024-06-05 15:17:42,Russia,self-propelled artillery,destroyed,6
+2024-06-05 18:21:58,Russia,armoured fighting vehicles,destroyed,-1
+2024-06-05 18:21:58,Russia,engineering vehicles and equipment,destroyed,1
+2024-06-05 18:21:58,Russia,infantry fighting vehicles,abandoned,4
+2024-06-05 18:21:58,Russia,infantry fighting vehicles,destroyed,15
+2024-06-05 18:21:58,Russia,radars,damaged,1
+2024-06-05 18:21:58,Russia,reconnaissance unmanned aerial vehicles,destroyed,4
+2024-06-05 18:21:58,Russia,surface-to-air missile systems,damaged,1
+2024-06-05 18:21:58,Russia,surface-to-air missile systems,destroyed,2
+2024-06-05 18:21:58,Russia,tanks,abandoned,4
+2024-06-05 18:21:58,Russia,tanks,destroyed,10
+2024-06-05 18:21:58,Russia,"trucks, vehicles, and jeeps",damaged,1
+2024-06-05 18:21:58,Russia,"trucks, vehicles, and jeeps",destroyed,3
