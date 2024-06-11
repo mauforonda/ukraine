@@ -9900,3 +9900,10 @@ timestamp,country,category,state,value
 2024-06-11 15:18:34,Russia,tanks,destroyed,2
 2024-06-11 15:18:34,Russia,towed artillery,destroyed,1
 2024-06-11 15:18:34,Russia,"trucks, vehicles, and jeeps",destroyed,-1
+2024-06-11 18:23:34,Russia,armoured fighting vehicles,destroyed,1
+2024-06-11 18:23:34,Russia,engineering vehicles and equipment,destroyed,2
+2024-06-11 18:23:34,Russia,infantry fighting vehicles,abandoned,1
+2024-06-11 18:23:34,Russia,infantry fighting vehicles,destroyed,3
+2024-06-11 18:23:34,Russia,tanks,abandoned,-1
+2024-06-11 18:23:34,Russia,tanks,destroyed,3
+2024-06-11 18:23:34,Russia,"trucks, vehicles, and jeeps",destroyed,3
