@@ -9922,3 +9922,14 @@ timestamp,country,category,state,value
 2024-06-14 15:19:15,Russia,surface-to-air missile systems,damaged,1
 2024-06-14 15:19:15,Russia,surface-to-air missile systems,destroyed,2
 2024-06-14 15:19:15,Russia,"trucks, vehicles, and jeeps",destroyed,20
+2024-06-14 18:23:28,Russia,aircraft,damaged,2
+2024-06-14 18:23:28,Russia,armoured fighting vehicles,destroyed,1
+2024-06-14 18:23:28,Russia,armoured personnel carriers,destroyed,1
+2024-06-14 18:23:28,Russia,infantry fighting vehicles,destroyed,4
+2024-06-14 18:23:28,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2024-06-14 18:23:28,Russia,self-propelled artillery,destroyed,2
+2024-06-14 18:23:28,Russia,surface-to-air missile systems,damaged,1
+2024-06-14 18:23:28,Russia,tanks,abandoned,-1
+2024-06-14 18:23:28,Russia,tanks,captured,-1
+2024-06-14 18:23:28,Russia,tanks,destroyed,7
+2024-06-14 18:23:28,Russia,"trucks, vehicles, and jeeps",destroyed,1
