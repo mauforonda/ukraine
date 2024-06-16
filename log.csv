@@ -9933,3 +9933,6 @@ timestamp,country,category,state,value
 2024-06-14 18:23:28,Russia,tanks,captured,-1
 2024-06-14 18:23:28,Russia,tanks,destroyed,7
 2024-06-14 18:23:28,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2024-06-16 09:18:29,Russia,armoured personnel carriers,destroyed,-1
+2024-06-16 09:18:29,Russia,engineering vehicles and equipment,destroyed,2
+2024-06-16 09:18:29,Russia,"trucks, vehicles, and jeeps",destroyed,-2
