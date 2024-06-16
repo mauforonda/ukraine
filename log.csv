@@ -9936,3 +9936,12 @@ timestamp,country,category,state,value
 2024-06-16 09:18:29,Russia,armoured personnel carriers,destroyed,-1
 2024-06-16 09:18:29,Russia,engineering vehicles and equipment,destroyed,2
 2024-06-16 09:18:29,Russia,"trucks, vehicles, and jeeps",destroyed,-2
+2024-06-16 12:30:49,Russia,armoured fighting vehicles,destroyed,1
+2024-06-16 12:30:49,Russia,artillery support vehicles and equipment,destroyed,1
+2024-06-16 12:30:49,Russia,command posts and communications stations,damaged,1
+2024-06-16 12:30:49,Russia,engineering vehicles and equipment,destroyed,5
+2024-06-16 12:30:49,Russia,infantry fighting vehicles,destroyed,6
+2024-06-16 12:30:49,Russia,tanks,destroyed,3
+2024-06-16 12:30:49,Russia,towed artillery,damaged,1
+2024-06-16 12:30:49,Russia,towed artillery,destroyed,1
+2024-06-16 12:30:49,Russia,"trucks, vehicles, and jeeps",destroyed,11
