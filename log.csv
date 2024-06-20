@@ -9959,3 +9959,15 @@ timestamp,country,category,state,value
 2024-06-17 21:16:21,Russia,tanks,abandoned,1
 2024-06-17 21:16:21,Russia,tanks,destroyed,1
 2024-06-17 21:16:21,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2024-06-20 12:32:12,Russia,armoured fighting vehicles,abandoned,1
+2024-06-20 12:32:12,Russia,armoured fighting vehicles,destroyed,10
+2024-06-20 12:32:12,Russia,armoured personnel carriers,destroyed,2
+2024-06-20 12:32:12,Russia,engineering vehicles and equipment,damaged,1
+2024-06-20 12:32:12,Russia,engineering vehicles and equipment,destroyed,2
+2024-06-20 12:32:12,Russia,infantry fighting vehicles,destroyed,8
+2024-06-20 12:32:12,Russia,reconnaissance unmanned aerial vehicles,captured,3
+2024-06-20 12:32:12,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2024-06-20 12:32:12,Russia,tanks,abandoned,3
+2024-06-20 12:32:12,Russia,tanks,captured,1
+2024-06-20 12:32:12,Russia,tanks,destroyed,9
+2024-06-20 12:32:12,Russia,"trucks, vehicles, and jeeps",destroyed,2
