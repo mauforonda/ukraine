@@ -9990,3 +9990,8 @@ timestamp,country,category,state,value
 2024-06-23 15:16:46,Russia,tanks,damaged,1
 2024-06-23 15:16:46,Russia,tanks,destroyed,4
 2024-06-23 15:16:46,Russia,"trucks, vehicles, and jeeps",destroyed,4
+2024-06-26 12:34:18,Russia,armoured fighting vehicles,captured,1
+2024-06-26 12:34:18,Russia,armoured fighting vehicles,destroyed,5
+2024-06-26 12:34:18,Russia,tanks,captured,1
+2024-06-26 12:34:18,Russia,tanks,damaged,1
+2024-06-26 12:34:18,Russia,tanks,destroyed,11
