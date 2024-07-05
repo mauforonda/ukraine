@@ -10032,3 +10032,5 @@ timestamp,country,category,state,value
 2024-07-02 15:17:25,Russia,self-propelled artillery,destroyed,2
 2024-07-02 15:17:25,Russia,"trucks, vehicles, and jeeps",damaged,1
 2024-07-02 15:17:25,Russia,"trucks, vehicles, and jeeps",destroyed,7
+2024-07-05 15:18:39,Russia,armoured fighting vehicles,destroyed,-1
+2024-07-05 15:18:39,Russia,infantry fighting vehicles,destroyed,1
