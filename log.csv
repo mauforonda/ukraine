@@ -10084,3 +10084,17 @@ timestamp,country,category,state,value
 2024-07-11 15:18:11,Russia,tanks,destroyed,8
 2024-07-11 15:18:11,Russia,towed artillery,destroyed,2
 2024-07-11 15:18:11,Russia,"trucks, vehicles, and jeeps",destroyed,2
+2024-07-13 21:16:07,Russia,anti-aircraft guns,destroyed,1
+2024-07-13 21:16:07,Russia,armoured fighting vehicles,damaged,1
+2024-07-13 21:16:07,Russia,armoured fighting vehicles,destroyed,-1
+2024-07-13 21:16:07,Russia,infantry fighting vehicles,destroyed,6
+2024-07-13 21:16:07,Russia,infantry mobility vehicles,abandoned,1
+2024-07-13 21:16:07,Russia,infantry mobility vehicles,destroyed,1
+2024-07-13 21:16:07,Russia,multiple rocket launchers,destroyed,1
+2024-07-13 21:16:07,Russia,self-propelled artillery,destroyed,1
+2024-07-13 21:16:07,Russia,surface-to-air missile systems,damaged,1
+2024-07-13 21:16:07,Russia,tanks,abandoned,1
+2024-07-13 21:16:07,Russia,tanks,damaged,-1
+2024-07-13 21:16:07,Russia,tanks,destroyed,2
+2024-07-13 21:16:07,Russia,"trucks, vehicles, and jeeps",captured,2
+2024-07-13 21:16:07,Russia,"trucks, vehicles, and jeeps",destroyed,15
