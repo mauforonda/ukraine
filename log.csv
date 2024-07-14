@@ -10098,3 +10098,6 @@ timestamp,country,category,state,value
 2024-07-13 21:16:07,Russia,tanks,destroyed,2
 2024-07-13 21:16:07,Russia,"trucks, vehicles, and jeeps",captured,2
 2024-07-13 21:16:07,Russia,"trucks, vehicles, and jeeps",destroyed,15
+2024-07-14 21:15:28,Russia,armoured fighting vehicles,destroyed,3
+2024-07-14 21:15:28,Russia,infantry mobility vehicles,abandoned,-1
+2024-07-14 21:15:28,Russia,infantry mobility vehicles,destroyed,1
