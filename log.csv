@@ -10111,3 +10111,17 @@ timestamp,country,category,state,value
 2024-07-17 18:23:26,Russia,armoured fighting vehicles,destroyed,5
 2024-07-17 18:23:26,Russia,tanks,abandoned,1
 2024-07-17 18:23:26,Russia,tanks,destroyed,7
+2024-07-17 21:16:48,Russia,armoured personnel carriers,abandoned,1
+2024-07-17 21:16:48,Russia,artillery support vehicles and equipment,destroyed,1
+2024-07-17 21:16:48,Russia,engineering vehicles and equipment,destroyed,1
+2024-07-17 21:16:48,Russia,infantry fighting vehicles,abandoned,2
+2024-07-17 21:16:48,Russia,infantry fighting vehicles,destroyed,20
+2024-07-17 21:16:48,Russia,infantry mobility vehicles,destroyed,4
+2024-07-17 21:16:48,Russia,multiple rocket launchers,destroyed,2
+2024-07-17 21:16:48,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2024-07-17 21:16:48,Russia,self-propelled artillery,destroyed,6
+2024-07-17 21:16:48,Russia,surface-to-air missile systems,destroyed,1
+2024-07-17 21:16:48,Russia,tanks,abandoned,-1
+2024-07-17 21:16:48,Russia,tanks,destroyed,1
+2024-07-17 21:16:48,Russia,towed artillery,destroyed,3
+2024-07-17 21:16:48,Russia,"trucks, vehicles, and jeeps",destroyed,7
