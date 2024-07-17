@@ -10108,3 +10108,6 @@ timestamp,country,category,state,value
 2024-07-15 01:19:11,Russia,tanks,destroyed,11
 2024-07-16 15:15:17,Russia,armoured fighting vehicles,destroyed,1
 2024-07-16 15:15:17,Russia,infantry mobility vehicles,destroyed,-1
+2024-07-17 18:23:26,Russia,armoured fighting vehicles,destroyed,5
+2024-07-17 18:23:26,Russia,tanks,abandoned,1
+2024-07-17 18:23:26,Russia,tanks,destroyed,7
