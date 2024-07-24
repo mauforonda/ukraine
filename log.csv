@@ -10165,3 +10165,11 @@ timestamp,country,category,state,value
 2024-07-23 18:23:20,Russia,tanks,abandoned,-1
 2024-07-23 18:23:20,Russia,tanks,captured,1
 2024-07-23 18:23:20,Russia,tanks,destroyed,1
+2024-07-24 21:17:05,Russia,armoured fighting vehicles,destroyed,2
+2024-07-24 21:17:05,Russia,armoured personnel carriers,destroyed,2
+2024-07-24 21:17:05,Russia,engineering vehicles and equipment,destroyed,1
+2024-07-24 21:17:05,Russia,infantry fighting vehicles,destroyed,10
+2024-07-24 21:17:05,Russia,radars,destroyed,1
+2024-07-24 21:17:05,Russia,reconnaissance unmanned aerial vehicles,abandoned,1
+2024-07-24 21:17:05,Russia,tanks,destroyed,8
+2024-07-24 21:17:05,Russia,"trucks, vehicles, and jeeps",destroyed,7
