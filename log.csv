@@ -10173,3 +10173,14 @@ timestamp,country,category,state,value
 2024-07-24 21:17:05,Russia,reconnaissance unmanned aerial vehicles,abandoned,1
 2024-07-24 21:17:05,Russia,tanks,destroyed,8
 2024-07-24 21:17:05,Russia,"trucks, vehicles, and jeeps",destroyed,7
+2024-07-26 15:18:32,Russia,armoured fighting vehicles,destroyed,3
+2024-07-26 15:18:32,Russia,armoured personnel carriers,destroyed,1
+2024-07-26 15:18:32,Russia,engineering vehicles and equipment,destroyed,1
+2024-07-26 15:18:32,Russia,infantry fighting vehicles,abandoned,-1
+2024-07-26 15:18:32,Russia,infantry fighting vehicles,destroyed,7
+2024-07-26 15:18:32,Russia,infantry mobility vehicles,destroyed,1
+2024-07-26 15:18:32,Russia,multiple rocket launchers,destroyed,1
+2024-07-26 15:18:32,Russia,surface-to-air missile systems,destroyed,2
+2024-07-26 15:18:32,Russia,tanks,destroyed,4
+2024-07-26 15:18:32,Russia,towed artillery,destroyed,1
+2024-07-26 15:18:32,Russia,"trucks, vehicles, and jeeps",destroyed,3
