@@ -10184,3 +10184,5 @@ timestamp,country,category,state,value
 2024-07-26 15:18:32,Russia,tanks,destroyed,4
 2024-07-26 15:18:32,Russia,towed artillery,destroyed,1
 2024-07-26 15:18:32,Russia,"trucks, vehicles, and jeeps",destroyed,3
+2024-07-30 09:18:38,Russia,armoured fighting vehicles,destroyed,1
+2024-07-30 09:18:38,Russia,armoured personnel carriers,damaged,-1
