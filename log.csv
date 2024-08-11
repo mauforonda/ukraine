@@ -10258,3 +10258,14 @@ timestamp,country,category,state,value
 2024-08-08 15:19:16,Russia,tanks,abandoned,-1
 2024-08-08 15:19:16,Russia,tanks,destroyed,6
 2024-08-08 15:19:16,Russia,"trucks, vehicles, and jeeps",destroyed,9
+2024-08-11 15:18:34,Russia,armoured fighting vehicles,abandoned,1
+2024-08-11 15:18:34,Russia,armoured fighting vehicles,destroyed,5
+2024-08-11 15:18:34,Russia,helicopters,destroyed,1
+2024-08-11 15:18:34,Russia,infantry fighting vehicles,abandoned,1
+2024-08-11 15:18:34,Russia,infantry fighting vehicles,destroyed,13
+2024-08-11 15:18:34,Russia,multiple rocket launchers,destroyed,1
+2024-08-11 15:18:34,Russia,naval ships and submarines,destroyed,2
+2024-08-11 15:18:34,Russia,reconnaissance unmanned aerial vehicles,destroyed,1
+2024-08-11 15:18:34,Russia,self-propelled artillery,destroyed,2
+2024-08-11 15:18:34,Russia,tanks,destroyed,4
+2024-08-11 15:18:34,Russia,"trucks, vehicles, and jeeps",destroyed,16
