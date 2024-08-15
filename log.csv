@@ -10281,3 +10281,10 @@ timestamp,country,category,state,value
 2024-08-15 01:15:15,Russia,towed artillery,destroyed,1
 2024-08-15 01:15:15,Russia,"trucks, vehicles, and jeeps",damaged,1
 2024-08-15 01:15:15,Russia,"trucks, vehicles, and jeeps",destroyed,15
+2024-08-15 15:18:03,Russia,armoured fighting vehicles,destroyed,1
+2024-08-15 15:18:03,Russia,engineering vehicles and equipment,destroyed,1
+2024-08-15 15:18:03,Russia,infantry fighting vehicles,damaged,1
+2024-08-15 15:18:03,Russia,infantry fighting vehicles,destroyed,4
+2024-08-15 15:18:03,Russia,tanks,captured,1
+2024-08-15 15:18:03,Russia,tanks,destroyed,3
+2024-08-15 15:18:03,Russia,"trucks, vehicles, and jeeps",destroyed,4
