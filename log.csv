@@ -10303,3 +10303,10 @@ timestamp,country,category,state,value
 2024-08-18 01:23:41,Russia,tanks,captured,1
 2024-08-18 01:23:41,Russia,tanks,destroyed,4
 2024-08-18 01:23:41,Russia,"trucks, vehicles, and jeeps",destroyed,2
+2024-08-18 15:16:41,Russia,armoured fighting vehicles,destroyed,1
+2024-08-18 15:16:41,Russia,multiple rocket launchers,destroyed,1
+2024-08-18 15:16:41,Russia,self-propelled artillery,abandoned,1
+2024-08-18 15:16:41,Russia,surface-to-air missile systems,destroyed,1
+2024-08-18 15:16:41,Russia,tanks,abandoned,3
+2024-08-18 15:16:41,Russia,tanks,destroyed,3
+2024-08-18 15:16:41,Russia,"trucks, vehicles, and jeeps",destroyed,1
