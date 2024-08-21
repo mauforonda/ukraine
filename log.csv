@@ -10310,3 +10310,6 @@ timestamp,country,category,state,value
 2024-08-18 15:16:41,Russia,tanks,abandoned,3
 2024-08-18 15:16:41,Russia,tanks,destroyed,3
 2024-08-18 15:16:41,Russia,"trucks, vehicles, and jeeps",destroyed,1
+2024-08-21 18:23:50,Russia,armoured fighting vehicles,destroyed,1
+2024-08-21 18:23:50,Russia,tanks,captured,1
+2024-08-21 18:23:50,Russia,tanks,destroyed,2
