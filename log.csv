@@ -10346,3 +10346,5 @@ timestamp,country,category,state,value
 2024-08-24 15:17:38,Russia,tanks,abandoned,-1
 2024-08-24 15:17:38,Russia,"trucks, vehicles, and jeeps",captured,1
 2024-08-24 15:17:38,Russia,"trucks, vehicles, and jeeps",destroyed,3
+2024-08-27 12:34:56,Russia,command posts and communications stations,destroyed,1
+2024-08-27 12:34:56,Russia,helicopters,destroyed,2
