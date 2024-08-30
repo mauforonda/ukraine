@@ -10366,3 +10366,8 @@ timestamp,country,category,state,value
 2024-08-27 18:24:24,Russia,"trucks, vehicles, and jeeps",destroyed,4
 2024-08-27 21:16:21,Russia,engineering vehicles and equipment,captured,1
 2024-08-27 21:16:21,Russia,engineering vehicles and equipment,destroyed,-1
+2024-08-30 03:19:52,Russia,armoured fighting vehicles,destroyed,3
+2024-08-30 03:19:52,Russia,infantry fighting vehicles,abandoned,1
+2024-08-30 03:19:52,Russia,infantry fighting vehicles,destroyed,2
+2024-08-30 03:19:52,Russia,reconnaissance unmanned aerial vehicles,destroyed,2
+2024-08-30 03:19:52,Russia,tanks,destroyed,3
