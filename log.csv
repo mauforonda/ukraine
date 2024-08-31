@@ -10380,3 +10380,175 @@ timestamp,country,category,state,value
 2024-08-30 15:19:10,Russia,infantry fighting vehicles,destroyed,4
 2024-08-30 15:19:10,Russia,self-propelled artillery,destroyed,3
 2024-08-30 15:19:10,Russia,towed artillery,destroyed,2
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",aircraft,damaged,15
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",aircraft,destroyed,112
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",anti-aircraft guns,captured,18
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",anti-aircraft guns,damaged,1
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",anti-aircraft guns,destroyed,33
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,abandoned,97
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,captured,271
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,damaged,36
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,destroyed,1127
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,abandoned,36
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,captured,92
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,damaged,18
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,destroyed,337
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",artillery support vehicles and equipment,abandoned,1
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",artillery support vehicles and equipment,captured,55
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",artillery support vehicles and equipment,destroyed,71
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",command posts and communications stations,abandoned,2
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",command posts and communications stations,captured,86
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",command posts and communications stations,damaged,5
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",command posts and communications stations,destroyed,193
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",engineering vehicles and equipment,abandoned,46
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",engineering vehicles and equipment,captured,153
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",engineering vehicles and equipment,damaged,28
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",engineering vehicles and equipment,destroyed,321
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",helicopters,captured,2
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",helicopters,damaged,30
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",helicopters,destroyed,112
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,abandoned,374
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,captured,619
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,damaged,149
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,destroyed,3341
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,abandoned,3
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,captured,53
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,damaged,15
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,destroyed,203
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",jammers and deception systems,captured,9
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",jammers and deception systems,damaged,12
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",jammers and deception systems,destroyed,63
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",mine-resistant ambush protected,abandoned,1
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",mine-resistant ambush protected,captured,11
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",mine-resistant ambush protected,damaged,5
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",mine-resistant ambush protected,destroyed,39
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",multiple rocket launchers,abandoned,2
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",multiple rocket launchers,captured,54
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",multiple rocket launchers,damaged,35
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",multiple rocket launchers,destroyed,319
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",naval ships and submarines,damaged,7
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",naval ships and submarines,destroyed,21
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",radars,captured,10
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",radars,damaged,21
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",radars,destroyed,47
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,abandoned,1
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,captured,158
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,destroyed,257
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-aircraft guns,abandoned,2
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-aircraft guns,captured,7
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-aircraft guns,damaged,2
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-aircraft guns,destroyed,15
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-tank missile systems,abandoned,4
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-tank missile systems,captured,20
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-tank missile systems,damaged,1
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled anti-tank missile systems,destroyed,19
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,abandoned,6
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,captured,109
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,damaged,47
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,destroyed,662
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,abandoned,4
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,captured,24
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,damaged,45
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,destroyed,197
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,abandoned,368
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,captured,529
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,damaged,156
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,2292
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",towed artillery,abandoned,5
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",towed artillery,captured,96
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",towed artillery,damaged,54
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",towed artillery,destroyed,247
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",abandoned,48
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",captured,573
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",damaged,94
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,2831
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",unmanned combat aerial vehicles,captured,3
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",unmanned combat aerial vehicles,damaged,1
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",unmanned combat aerial vehicles,destroyed,11
+2024-08-31 01:22:09,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",unmanned ground vehicles,destroyed,3
+2024-08-31 01:22:09,Russia,aircraft,damaged,-15
+2024-08-31 01:22:09,Russia,aircraft,destroyed,-112
+2024-08-31 01:22:09,Russia,anti-aircraft guns,captured,-18
+2024-08-31 01:22:09,Russia,anti-aircraft guns,damaged,-1
+2024-08-31 01:22:09,Russia,anti-aircraft guns,destroyed,-33
+2024-08-31 01:22:09,Russia,armoured fighting vehicles,abandoned,-97
+2024-08-31 01:22:09,Russia,armoured fighting vehicles,captured,-271
+2024-08-31 01:22:09,Russia,armoured fighting vehicles,damaged,-36
+2024-08-31 01:22:09,Russia,armoured fighting vehicles,destroyed,-1127
+2024-08-31 01:22:09,Russia,armoured personnel carriers,abandoned,-36
+2024-08-31 01:22:09,Russia,armoured personnel carriers,captured,-92
+2024-08-31 01:22:09,Russia,armoured personnel carriers,damaged,-18
+2024-08-31 01:22:09,Russia,armoured personnel carriers,destroyed,-337
+2024-08-31 01:22:09,Russia,artillery support vehicles and equipment,abandoned,-1
+2024-08-31 01:22:09,Russia,artillery support vehicles and equipment,captured,-55
+2024-08-31 01:22:09,Russia,artillery support vehicles and equipment,destroyed,-71
+2024-08-31 01:22:09,Russia,command posts and communications stations,abandoned,-2
+2024-08-31 01:22:09,Russia,command posts and communications stations,captured,-86
+2024-08-31 01:22:09,Russia,command posts and communications stations,damaged,-5
+2024-08-31 01:22:09,Russia,command posts and communications stations,destroyed,-193
+2024-08-31 01:22:09,Russia,engineering vehicles and equipment,abandoned,-46
+2024-08-31 01:22:09,Russia,engineering vehicles and equipment,captured,-153
+2024-08-31 01:22:09,Russia,engineering vehicles and equipment,damaged,-28
+2024-08-31 01:22:09,Russia,engineering vehicles and equipment,destroyed,-321
+2024-08-31 01:22:09,Russia,helicopters,captured,-2
+2024-08-31 01:22:09,Russia,helicopters,damaged,-30
+2024-08-31 01:22:09,Russia,helicopters,destroyed,-112
+2024-08-31 01:22:09,Russia,infantry fighting vehicles,abandoned,-374
+2024-08-31 01:22:09,Russia,infantry fighting vehicles,captured,-619
+2024-08-31 01:22:09,Russia,infantry fighting vehicles,damaged,-149
+2024-08-31 01:22:09,Russia,infantry fighting vehicles,destroyed,-3341
+2024-08-31 01:22:09,Russia,infantry mobility vehicles,abandoned,-3
+2024-08-31 01:22:09,Russia,infantry mobility vehicles,captured,-53
+2024-08-31 01:22:09,Russia,infantry mobility vehicles,damaged,-15
+2024-08-31 01:22:09,Russia,infantry mobility vehicles,destroyed,-203
+2024-08-31 01:22:09,Russia,jammers and deception systems,captured,-9
+2024-08-31 01:22:09,Russia,jammers and deception systems,damaged,-12
+2024-08-31 01:22:09,Russia,jammers and deception systems,destroyed,-63
+2024-08-31 01:22:09,Russia,mine-resistant ambush protected,abandoned,-1
+2024-08-31 01:22:09,Russia,mine-resistant ambush protected,captured,-11
+2024-08-31 01:22:09,Russia,mine-resistant ambush protected,damaged,-5
+2024-08-31 01:22:09,Russia,mine-resistant ambush protected,destroyed,-39
+2024-08-31 01:22:09,Russia,multiple rocket launchers,abandoned,-2
+2024-08-31 01:22:09,Russia,multiple rocket launchers,captured,-54
+2024-08-31 01:22:09,Russia,multiple rocket launchers,damaged,-35
+2024-08-31 01:22:09,Russia,multiple rocket launchers,destroyed,-319
+2024-08-31 01:22:09,Russia,naval ships and submarines,damaged,-7
+2024-08-31 01:22:09,Russia,naval ships and submarines,destroyed,-21
+2024-08-31 01:22:09,Russia,radars,captured,-10
+2024-08-31 01:22:09,Russia,radars,damaged,-21
+2024-08-31 01:22:09,Russia,radars,destroyed,-47
+2024-08-31 01:22:09,Russia,reconnaissance unmanned aerial vehicles,abandoned,-1
+2024-08-31 01:22:09,Russia,reconnaissance unmanned aerial vehicles,captured,-158
+2024-08-31 01:22:09,Russia,reconnaissance unmanned aerial vehicles,destroyed,-257
+2024-08-31 01:22:09,Russia,self-propelled anti-aircraft guns,abandoned,-2
+2024-08-31 01:22:09,Russia,self-propelled anti-aircraft guns,captured,-7
+2024-08-31 01:22:09,Russia,self-propelled anti-aircraft guns,damaged,-2
+2024-08-31 01:22:09,Russia,self-propelled anti-aircraft guns,destroyed,-15
+2024-08-31 01:22:09,Russia,self-propelled anti-tank missile systems,abandoned,-4
+2024-08-31 01:22:09,Russia,self-propelled anti-tank missile systems,captured,-20
+2024-08-31 01:22:09,Russia,self-propelled anti-tank missile systems,damaged,-1
+2024-08-31 01:22:09,Russia,self-propelled anti-tank missile systems,destroyed,-19
+2024-08-31 01:22:09,Russia,self-propelled artillery,abandoned,-6
+2024-08-31 01:22:09,Russia,self-propelled artillery,captured,-109
+2024-08-31 01:22:09,Russia,self-propelled artillery,damaged,-47
+2024-08-31 01:22:09,Russia,self-propelled artillery,destroyed,-662
+2024-08-31 01:22:09,Russia,surface-to-air missile systems,abandoned,-4
+2024-08-31 01:22:09,Russia,surface-to-air missile systems,captured,-24
+2024-08-31 01:22:09,Russia,surface-to-air missile systems,damaged,-45
+2024-08-31 01:22:09,Russia,surface-to-air missile systems,destroyed,-197
+2024-08-31 01:22:09,Russia,tanks,abandoned,-368
+2024-08-31 01:22:09,Russia,tanks,captured,-529
+2024-08-31 01:22:09,Russia,tanks,damaged,-156
+2024-08-31 01:22:09,Russia,tanks,destroyed,-2292
+2024-08-31 01:22:09,Russia,towed artillery,abandoned,-5
+2024-08-31 01:22:09,Russia,towed artillery,captured,-96
+2024-08-31 01:22:09,Russia,towed artillery,damaged,-54
+2024-08-31 01:22:09,Russia,towed artillery,destroyed,-247
+2024-08-31 01:22:09,Russia,"trucks, vehicles, and jeeps",abandoned,-48
+2024-08-31 01:22:09,Russia,"trucks, vehicles, and jeeps",captured,-573
+2024-08-31 01:22:09,Russia,"trucks, vehicles, and jeeps",damaged,-94
+2024-08-31 01:22:09,Russia,"trucks, vehicles, and jeeps",destroyed,-2831
+2024-08-31 01:22:09,Russia,unmanned combat aerial vehicles,captured,-3
+2024-08-31 01:22:09,Russia,unmanned combat aerial vehicles,damaged,-1
+2024-08-31 01:22:09,Russia,unmanned combat aerial vehicles,destroyed,-11
+2024-08-31 01:22:09,Russia,unmanned ground vehicles,destroyed,-3
