@@ -10552,3 +10552,6 @@ timestamp,country,category,state,value
 2024-08-31 01:22:09,Russia,unmanned combat aerial vehicles,damaged,-1
 2024-08-31 01:22:09,Russia,unmanned combat aerial vehicles,destroyed,-11
 2024-08-31 01:22:09,Russia,unmanned ground vehicles,destroyed,-3
+2024-09-02 18:24:36,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,destroyed,7
+2024-09-02 18:24:36,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,captured,1
+2024-09-02 18:24:36,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,8
