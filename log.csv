@@ -10694,3 +10694,17 @@ timestamp,country,category,state,value
 2024-09-22 12:34:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,1
 2024-09-24 15:20:56,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,abandoned,1
 2024-09-24 15:20:56,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,11
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,abandoned,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,destroyed,4
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,destroyed,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",engineering vehicles and equipment,destroyed,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,abandoned,3
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,destroyed,16
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,captured,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,destroyed,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,captured,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,destroyed,5
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,destroyed,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,destroyed,3
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",damaged,1
+2024-09-24 18:26:34,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,8
