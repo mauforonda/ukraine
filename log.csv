@@ -10873,3 +10873,13 @@ timestamp,country,category,state,value
 2024-11-01 18:26:39,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,destroyed,8
 2024-11-01 18:26:39,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,destroyed,2
 2024-11-01 18:26:39,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,14
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",aircraft,destroyed,2
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,destroyed,1
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",engineering vehicles and equipment,destroyed,2
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,abandoned,-2
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,damaged,-1
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,destroyed,25
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,destroyed,3
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,destroyed,2
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,destroyed,1
+2024-11-01 21:18:01,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,3
