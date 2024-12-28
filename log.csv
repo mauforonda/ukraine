@@ -11105,3 +11105,15 @@ timestamp,country,category,state,value
 2024-12-25 18:25:33,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,4
 2024-12-25 21:17:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,abandoned,2
 2024-12-25 21:17:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,destroyed,16
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,damaged,-1
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured fighting vehicles,destroyed,-3
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",armoured personnel carriers,destroyed,3
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,abandoned,2
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,destroyed,4
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry mobility vehicles,destroyed,-1
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",multiple rocket launchers,destroyed,1
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,captured,1
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,destroyed,-2
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,abandoned,-2
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,3
+2024-12-28 18:24:32,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,2
