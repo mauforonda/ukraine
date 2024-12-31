@@ -11126,3 +11126,8 @@ timestamp,country,category,state,value
 2024-12-31 09:19:26,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,6
 2024-12-31 09:19:26,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",towed artillery,damaged,1
 2024-12-31 09:19:26,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",unmanned ground vehicles,destroyed,1
+2024-12-31 12:37:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",helicopters,destroyed,1
+2024-12-31 12:37:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",infantry fighting vehicles,destroyed,-1
+2024-12-31 12:37:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,abandoned,-2
+2024-12-31 12:37:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,2
+2024-12-31 12:37:17,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,4
