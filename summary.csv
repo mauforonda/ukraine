@@ -4,10 +4,10 @@ country,category,state,value
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Anti-Aircraft Guns ,captured,18
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Anti-Aircraft Guns ,damaged,1
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Anti-Aircraft Guns ,destroyed,40
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Fighting Vehicles ,abandoned,109
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Fighting Vehicles ,abandoned,112
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Fighting Vehicles ,captured,271
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Fighting Vehicles ,damaged,35
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Fighting Vehicles ,destroyed,1523
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Fighting Vehicles ,destroyed,1552
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Personnel Carriers ,abandoned,42
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Personnel Carriers ,captured,92
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Armoured Personnel Carriers ,damaged,18
@@ -69,10 +69,10 @@ country,category,state,value
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Surface-To-Air Missile Systems ,captured,24
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Surface-To-Air Missile Systems ,damaged,51
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Surface-To-Air Missile Systems ,destroyed,223
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,abandoned,381
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,abandoned,383
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,captured,533
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,damaged,157
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,destroyed,2711
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,damaged,158
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Tanks ,destroyed,2737
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Towed Artillery ,abandoned,5
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Towed Artillery ,captured,98
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Towed Artillery ,damaged,90
