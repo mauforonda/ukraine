@@ -11472,3 +11472,8 @@ timestamp,country,category,state,value
 2025-03-23 18:26:29,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",surface-to-air missile systems,destroyed,1
 2025-03-23 18:26:29,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,8
 2025-03-23 18:26:29,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,5
+2025-03-23 21:17:35,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",mine-resistant ambush protected,destroyed,1
+2025-03-23 21:17:35,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",reconnaissance unmanned aerial vehicles,destroyed,-1
+2025-03-23 21:17:35,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",self-propelled artillery,destroyed,-1
+2025-03-23 21:17:35,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",tanks,destroyed,1
+2025-03-23 21:17:35,"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","trucks, vehicles, and jeeps",destroyed,-1
