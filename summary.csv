@@ -51,7 +51,7 @@ country,category,state,value
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Radars ,damaged,26
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Radars ,destroyed,62
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Reconnaissance Unmanned Aerial Vehicles ,abandoned,1
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Reconnaissance Unmanned Aerial Vehicles ,captured,215
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Reconnaissance Unmanned Aerial Vehicles ,captured,217
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Reconnaissance Unmanned Aerial Vehicles ,destroyed,387
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Self-Propelled Anti-Aircraft Guns ,abandoned,2
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Self-Propelled Anti-Aircraft Guns ,captured,7
@@ -80,7 +80,7 @@ country,category,state,value
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","Trucks, Vehicles, and Jeeps ",abandoned,52
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","Trucks, Vehicles, and Jeeps ",captured,582
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","Trucks, Vehicles, and Jeeps ",damaged,102
-"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","Trucks, Vehicles, and Jeeps ",destroyed,3171
+"Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]","Trucks, Vehicles, and Jeeps ",destroyed,3175
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Unmanned Combat Aerial Vehicles ,captured,3
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Unmanned Combat Aerial Vehicles ,damaged,1
 "Losses of Armoured Combat Vehicles [Tanks, AFVs, IFVs, APCs, and MRAPs]",Unmanned Combat Aerial Vehicles ,destroyed,14
